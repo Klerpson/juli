@@ -10,8 +10,6 @@ autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
-![Cascada los Tres Chorros][img1]
-
 Aquí explicaremos **los 5 mejores restaurantes en San Agustín Huila** y los detalles podrán disfrutar todos sus visitantes.
 
 <!-- excerpt -->

@@ -5,14 +5,10 @@
   --azul: #020887;
   --accion: #F46246;
   --amarillo: #FCD739;
-  --gris: #243B3B;
+  --gris: #202727;
   --blanco: #f5f5fa;
-  --shadow: -webkit-box-shadow: 5px 5px 11px -2px rgba(0,0,0,0.7);
-  box-shadow: 5px 5px 11px -2px rgba(0,0,0,0.7);
-  --neumorphism: border-radius: 37px;
-  background: #f5f5fa;
-  box-shadow:  12px 12px 35px #dadadf,
-               -12px -12px 35px #ffffff;
+  --colorTexto: rgb(30, 33, 43);
+  --shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
 
   /*** FUENTES ***/
   --fuenteTitulo: 'Oswald', sans-serif;
@@ -36,6 +32,7 @@ body {
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
+  color: var(--colorTexto);
 }
 
 b,
@@ -54,9 +51,24 @@ h2,
 h3,
 h4 {
   font-family: var(--fuenteTitulo);
+  line-height: 1.2;
 }
 
-h1{line-height: 1.2;}
+h1,
+h2 {
+  text-align: center;
+  text-shadow: var(--shadow);
+}
+
+h1 {
+  font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3rem);
+}
+
+h2 {
+  font-size: clamp(20px, (1.2rem + 1vw) * 1.2, 2.5rem);
+  margin: 0;
+
+}
 
 q {
   font-family: var(--fuenteQ);
@@ -200,7 +212,7 @@ img {
 .line {
   width: 100%;
   height: 3px;
-  background-color: var(--negro);
+  background-color: var(--gris);
   transition: all 0.5s;
   box-shadow: var(--shadow);
 }
@@ -220,27 +232,33 @@ header img{
 header h1 {
   align-self: flex-end;
   text-align: center;
-  font-size: 3rem;
 }
 
-.introduccion{
+.introduccion {
   padding: 1.5rem;
 }
 
-.entradas{
+.entradas {
   padding: 1.5rem;
   display: grid;
-  grid-gap: 2rem 1rem;
+  grid-gap: 3rem 1rem;
 }
 
-.entradas article{
-  box-shadow: var(--shadow);
-  border-radius: 7px;
+.entradas article {
+  border-radius: 37px;
+  background: #f5f5fa;
+  box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
   padding: 1rem;
 }
 
-.entradas article img{
+.entradas article img {
   max-width: 100%;
+}
+
+.entradas article a{
+  font-family: var(--fuenteTitulo);
+  color: var(--azul);
+  text-transform: uppercase;
 }
 
 footer {

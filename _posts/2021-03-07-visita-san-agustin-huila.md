@@ -10,8 +10,6 @@ autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
-![Señal de tránsito que anuncia la entrada a San Agustín][img1]
-
 Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o **[un delicioso helado suave en GurCoff.]({{site.baseurl}}/contacto)**
 
 <!-- excerpt -->

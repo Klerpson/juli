@@ -10,8 +10,6 @@ autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
-![{{page.alt}}][img1]
-
 Si ya conoces la hermosa ciudad de **San Agustín**, ubicada en el Departamento de Huila al oeste de Colombia, siempre tendrás cosas nuevas por descubrir.
 <!-- excerpt -->
 

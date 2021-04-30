@@ -5,14 +5,10 @@
   --azul: #020887;
   --accion: #F46246;
   --amarillo: #FCD739;
-  --gris: #243B3B;
+  --gris: #202727;
   --blanco: #f5f5fa;
-  --shadow: -webkit-box-shadow: 5px 5px 11px -2px rgba(0,0,0,0.7);
-  box-shadow: 5px 5px 11px -2px rgba(0,0,0,0.7);
-  --neumorphism: border-radius: 37px;
-  background: #f5f5fa;
-  box-shadow:  12px 12px 35px #dadadf,
-               -12px -12px 35px #ffffff;
+  --colorTexto: rgb(30, 33, 43);
+  --shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
 
   /*** FUENTES ***/
   --fuenteTitulo: 'Oswald', sans-serif;

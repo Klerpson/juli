@@ -4,7 +4,7 @@
      <link href="https://juli.com.cofeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://juli.com.co" rel="alternate" type="text/html"/>
      <id>https://juli.com.co</id>
-     <updated>2021-04-30T15:29:11-05:00</updated>
+     <updated>2021-04-30T17:04:18-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,11 +13,19 @@
 
  
  <entry>
+   <title>Páginas web, ¿cuándo es buena idea y cuándo no?</title>
+   <link href="https://juli.com.co/paginas-web-cuando-si-cuando-no"/>
+   <id>https://juli.com.co/paginas-web-cuando-si-cuando-no</id>
+   <updated>2021-04-01T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;loremRazones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café...</content>
+ </entry>
+ 
+ <entry>
    <title>Los 5 restaurantes mejor calificados de San Agustín Huila</title>
    <link href="https://juli.com.co/mejores-restaurantes-san-agustin"/>
    <id>https://juli.com.co/mejores-restaurantes-san-agustin</id>
    <updated>2021-03-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Asado del restaurante Gata Parrilla de San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Aquí explicaremos &lt;strong&gt;los 5 mejores restaurantes en San Agustín Huila&lt;/strong&gt; y los detalles podrán disfrutar todos sus visitantes.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila-la-gata-parrilla&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila-la-gata-parrilla&quot;&gt;Restaurantes en San Agustín Huila: La Gata Parrilla&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
+   <content type="html">&lt;p&gt;Aquí explicaremos &lt;strong&gt;los 5 mejores restaurantes en San Agustín Huila&lt;/strong&gt; y los detalles podrán disfrutar todos sus visitantes.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila-la-gata-parrilla&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila-la-gata-parrilla&quot;&gt;Restaurantes en San Agustín Huila: La Gata Parrilla&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-pepenero&quot; id=&quot;markdown-toc-restaurante-pepenero&quot;&gt;Restaurante Pepenero&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-el-tomate&quot; id=&quot;markdown-toc-restaurante-el-tomate&quot;&gt;Restaurante El Tomate&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-tingo-tango-pub&quot; id=&quot;markdown-toc-restaurante-tingo-tango-pub&quot;&gt;Restaurante Tingo Tango Pub&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-ambrosía-el-faro&quot;...</content>
  </entry>
  
  <entry>
@@ -25,7 +33,7 @@
    <link href="https://juli.com.co/parque-arqueologico-san-agustin-huila"/>
    <id>https://juli.com.co/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-03-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; alt=&quot;Parque arqueológico de San Agustín Huila sección mesita A&quot; title=&quot;Zona mesita A del parque arqueológico de San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Si ya conoces la hermosa ciudad de &lt;strong&gt;San Agustín&lt;/strong&gt;, ubicada en el Departamento de Huila al oeste de Colombia, siempre tendrás cosas nuevas por descubrir. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
+   <content type="html">&lt;p&gt;Si ya conoces la hermosa ciudad de &lt;strong&gt;San Agustín&lt;/strong&gt;, ubicada en el Departamento de Huila al oeste de Colombia, siempre tendrás cosas nuevas por descubrir. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#información-sobre-el-parque-arqueológico&quot; id=&quot;markdown-toc-información-sobre-el-parque-arqueológico&quot;&gt;Información sobre el Parque Arqueológico&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#características-del-parque&quot; id=&quot;markdown-toc-características-del-parque&quot;&gt;Características del parque&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-puedo-llegar-al-parque-arqueológico-de-san-agustín&quot; id=&quot;markdown-toc-cómo-puedo-llegar-al-parque-arqueológico-de-san-agustín&quot;&gt;¿Cómo puedo llegar...</content>
  </entry>
  
  <entry>
@@ -33,16 +41,7 @@
    <link href="https://juli.com.co/visita-san-agustin-huila"/>
    <id>https://juli.com.co/visita-san-agustin-huila</id>
    <updated>2021-03-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp&quot; alt=&quot;Señal de tránsito que anuncia la entrada a San Agustín&quot; title=&quot;Entrada a San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o &lt;strong&gt;&lt;a href=&quot;/contacto&quot;&gt;un delicioso helado...</content>
- </entry>
- 
- <entry>
-   <title>Tu negocio en San Agustín puede sobrevivir</title>
-   <link href="https://juli.com.co/tu-negocio-puede-sobrevivir"/>
-   <id>https://juli.com.co/tu-negocio-puede-sobrevivir</id>
-   <updated>2020-05-09T00:00:00-05:00</updated>
-   <content type="html">
-</content>
+   <content type="html">&lt;p&gt;Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o &lt;strong&gt;&lt;a href=&quot;/contacto&quot;&gt;un delicioso helado suave en GurCoff.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#atrévete-a-conocer-san-agustín-huila&quot; id=&quot;markdown-toc-atrévete-a-conocer-san-agustín-huila&quot;&gt;Atrévete a conocer San Agustín Huila&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#bellezas-naturales-de-esta-región&quot;...</content>
  </entry>
  
 

@@ -1,6 +1,12 @@
 [
   
    {
+  "title": "Páginas web, ¿cuándo es buena idea y cuándo no?",
+  "url": "/paginas-web-cuando-si-cuando-no",
+  "category": "Páginas Web",
+  "tags": "magazine, Negocios, San Agustín, Crisis"
+  } ,  
+   {
   "title": "Los 5 restaurantes mejor calificados de San Agustín Huila",
   "url": "/mejores-restaurantes-san-agustin",
   "category": "magazine",
@@ -17,11 +23,5 @@
   "url": "/visita-san-agustin-huila",
   "category": "magazine",
   "tags": "San Agustín, turismo, río magdalena"
-  } ,  
-   {
-  "title": "Tu negocio en San Agustín puede sobrevivir",
-  "url": "/tu-negocio-puede-sobrevivir",
-  "category": "magazine",
-  "tags": "magazine, Negocios, San Agustín, Crisis"
   }  
 ]
