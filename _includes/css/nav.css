@@ -1,7 +1,7 @@
 .nav {
   width: 300px;
   height: 100%;
-  background-color: var(--naranja);
+  background-color: var(--gris);
   background-image: url("https://www.transparenttextures.com/patterns/lined-paper-2.png");
   position: fixed;
   top: 0;
