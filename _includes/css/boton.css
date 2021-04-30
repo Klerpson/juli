@@ -1,0 +1,14 @@
+.botones{
+  transition: 0.3s ease-in;
+}
+
+.botones:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--complemento2);
+}
+
+@media screen and (min-width: 1200px){
+  .botones::before{
+    font-size: 4rem;
+  }
+}

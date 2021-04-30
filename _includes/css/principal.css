@@ -1,0 +1,19 @@
+.introduccion{
+  padding: 1.5rem;
+}
+
+.entradas{
+  padding: 1.5rem;
+  display: grid;
+  grid-gap: 2rem 1rem;
+}
+
+.entradas article{
+  box-shadow: var(--shadow);
+  border-radius: 7px;
+  padding: 1rem;
+}
+
+.entradas article img{
+  max-width: 100%;
+}

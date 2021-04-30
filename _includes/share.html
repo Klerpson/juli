@@ -1,0 +1,6 @@
+<section class="share-box">
+  {% for compartir in site.data.share %}
+  <a class="{{ compartir.class }}" href="{{ compartir.href }}" rel="nofollow" onclick="window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span>{{ compartir.span }}</span></a>
+  {% endfor %}
+</section>

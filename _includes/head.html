@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
+  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}"
+    href="{{ "/feed.xml" | relative_url}}">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <title>{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}</title>
+  <meta name='description'
+    content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+  <meta name="language" content="es-CO" />
+  <meta name="country" content="COL" />
+  <meta name="theme-color" content="#1e212b" />
+  <meta name="generator" content="Jekyll 4.2.0" />
+  <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}" />
+  <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}" />
+  <meta name="owner" content="Julian Andres Franco Bedoya" />
+  {% if page.noindex %}
+  <meta name="robots" content="noindex, nofollow">
+  {% endif %}
+
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl}}/img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl}}/img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl}}/img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl}}/img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl}}/img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl}}/img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl}}/img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl}}/img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl}}/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl}}/img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl}}/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl}}/js/manifest.json">
+  <meta name="msapplication-TileColor" content="#1e212b">
+  <meta name="msapplication-TileImage" content="{{ site.baseurl}}/img/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#1e212b">
+  <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css">
+  <link rel="stylesheet" href="{{ site.baseurl}}/css/fonts/styles.css">
+</head>

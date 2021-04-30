@@ -1,0 +1,23 @@
+:root {
+
+  /*** COLORES ***/
+  /* rgb */
+  --azul: #020887;
+  --naranja: #010052;
+  --amarillo: #fff134;
+  --negro: #1e212b;
+  --shadow: 2px 2px 5px rgba(28, 29, 33, 0.2);
+
+  /* hexadecimal */
+  --blanco: #f5f5fa;
+
+  /*** FUENTES ***/
+  --fuenteTitulo: 'Oswald', sans-serif;
+  --fuenteTexto: 'Nunito Sans', sans-serif;
+  --fuenteQ: 'Megrim', cursive;
+
+  --sizeH1: 2em;
+  --sizeH2: 1.7em;
+  --sizeH3: 1.5em;
+  --sizeTexto: 18px;
+}

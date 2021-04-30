@@ -1,0 +1,63 @@
+/*** Formatos Universales ***/
+html {
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--blanco);
+  font-family: var(--fuenteTexto);
+  font-size: var(--sizeTextos);
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+span {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--fuenteTitulo);
+}
+
+h1{line-height: 1.2;}
+
+q {
+  font-family: var(--fuenteQ);
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  margin: 2rem 0;
+}
+
+img {
+  border-style: none;
+}
+
+.fade {
+  height: 1px;
+  color: var(--complemento2);
+  background-image: linear-gradient(90deg, rgba(255, 0, 0, 0), var(--complemento2) 50%, rgba(255, 0, 0, 0) 100%);
+}
+
+[hidden] {
+  display: none;
+}

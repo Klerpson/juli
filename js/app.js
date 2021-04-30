@@ -1,0 +1,1 @@
+const menuIcon=document.querySelector(".hamburguer-menu"),navbar=document.querySelector(".nav");menuIcon.addEventListener("click",(()=>{navbar.classList.toggle("change")}));

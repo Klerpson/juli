@@ -1,0 +1,37 @@
+---
+layout: default
+title: Digitalizar tu negocio es fácil
+description: ¿Quieres digitalizar tu negocio y no sabes cómo? Espero que mi blog te sirva para lograrlo. Solo lee y aplica todo lo que me has servido a mi
+hero: juli.svg
+---
+<section class="introduccion">
+<p>¿Has leído sobre <strong>páginas web, marketing, redes sociales, blogs, publicidad digital, chat-bots, segmentaciones,</strong> etc?</p>
+
+<p>¿Te ha pasado, como a mí, que sientes que te va a explotar la cabeza? Llegamos a un punto que no sabemos qué hacer. En este blog te enseño <b>cómo aterrizar toda esa información de forma sencilla</b>.</p>
+
+</section>
+
+<section class="blog-intro">
+  <h2>Conoce más de San Agustín Huila</h2>
+  <article>
+    {% assign nuevo = site.posts[0] %}
+    <h3>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
+  </article>
+  <article>
+    {% assign nuevo = site.posts[1] %}
+    <h3>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
+  </article>
+  <article>
+    {% assign nuevo = site.posts[2] %}
+    <h3>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
+  </article>
+</section>
