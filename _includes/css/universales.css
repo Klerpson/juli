@@ -10,6 +10,7 @@ body {
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
+  display: grid;
 }
 
 b,

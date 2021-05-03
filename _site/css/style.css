@@ -33,6 +33,7 @@ body {
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
+  display: grid;
 }
 
 b,
@@ -259,6 +260,47 @@ header h1 {
   font-family: var(--fuenteTitulo);
   color: var(--azul);
   text-transform: uppercase;
+  text-decoration: underline;
+  line-height: 2px;
+}
+
+@media screen and (min-width: 600px){
+  header {
+    height: 30vh;
+  }
+
+  .introduccion,
+  .entradas{
+    width: 500px;
+    justify-self: center;
+  }
+}
+
+@media screen and (min-width: 992px){
+  .entradas article  {
+    display: grid;
+    grid-template-columns: 250px auto;
+  }
+
+  .entradas article img{
+    grid-row: span 2;
+    align-self: center;
+  }
+
+  .entradas article a{
+    align-self: flex-end;
+  }
+}
+
+@media screen and (min-width: 1200px){
+  header {
+    height: 40vh;
+  }
+
+  .introduccion,
+  .entradas{
+    width: 700px;
+  }
 }
 
 footer {

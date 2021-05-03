@@ -23,4 +23,6 @@
   font-family: var(--fuenteTitulo);
   color: var(--azul);
   text-transform: uppercase;
+  text-decoration: underline;
+  line-height: 2px;
 }

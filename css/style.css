@@ -10,6 +10,8 @@
 
 {% include css/principal.css %}
 
+{% include css/queries.css %}
+
 {% include css/footer.css %}
 
 {% include css/articulo.css %}

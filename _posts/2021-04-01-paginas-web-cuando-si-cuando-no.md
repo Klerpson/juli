@@ -13,9 +13,9 @@ excerpt_separator: <!-- excerpt -->
 ---
 {{page.description}}
 
-Para esto quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.
-
 <!-- excerpt -->
+
+Para esto quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.
 
 ## La pregunta al digitalizar un negocio tradicional
 
@@ -65,6 +65,7 @@ Ahora el caso es que hay muchas clases de páginas web. Ahora debes pensar en lo
 Quiero mencionarte algunos ejemplos que te sirvan de inspiración.
 
 1. Analicemos la página [gurcoff.com](https://gurcoff.com). Esta página es de una heladería en un pueblo pequeño. Su estrategia es **posicionar su página en las búsquedas de los turistas que visitan el lugar**. Normalmente, cuando los turistas van a visitar un lugar, buscan en Google hoteles, lugares para comer, etc. Además, utilizan los llamados a la acción para generar una base de datos de sus clientes **directamente en su whatsapp. Esto permite una atención más personalizada y puntual.**
+
 2. El segundo ejemplo de [interconexiones.co](https://interconexiones.co). Esta empresa ya tenía un tiempo establecida, trabajando para grandes empresas particulares y oficiales. Ahora querían tener una presencia profesional para cuando los buscaran en internet. Por eso, utilizaron una página propia, y no solamente un perfil de redes sociales.
 
 Así que cuando tu página web tiene un propósito, ese es el momento correcto de invertir en ella.

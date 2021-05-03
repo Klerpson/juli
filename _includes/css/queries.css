@@ -1,0 +1,38 @@
+@media screen and (min-width: 600px){
+  header {
+    height: 30vh;
+  }
+
+  .introduccion,
+  .entradas{
+    width: 500px;
+    justify-self: center;
+  }
+}
+
+@media screen and (min-width: 992px){
+  .entradas article  {
+    display: grid;
+    grid-template-columns: 250px auto;
+  }
+
+  .entradas article img{
+    grid-row: span 2;
+    align-self: center;
+  }
+
+  .entradas article a{
+    align-self: flex-end;
+  }
+}
+
+@media screen and (min-width: 1200px){
+  header {
+    height: 40vh;
+  }
+
+  .introduccion,
+  .entradas{
+    width: 700px;
+  }
+}
