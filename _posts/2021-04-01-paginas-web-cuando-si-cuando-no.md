@@ -77,4 +77,48 @@ Recuerda: según el objetivo hay diferentes tipos de páginas. Vamos a explicarl
 
 Cuando estás pensando en vender un producto o un servicio, la mayoría de las personas te van a decir que pagues publicidad en redes sociales y que eso es suficiente. En realidad no funciona sólo así.
 
-Sería mucho mejor que acompañes la estrategia con una página de ventas. Esta no tiene sección de contacto, sección sobre el negocio, ni carrito de compras, etc. Nada de eso. Es solo una página no más y esa página toda completica solamente habla del producto porque lo vendes cuáles son sus beneficios cuáles son sus ventajas como se usan el testimonio de la gente que ya lo compró Así que con esa Landy hay gente que paga la publicidad para que cuando le den al botón de la publicidad click los mandalas latín dónde termina de explicar todo el producto y como adquirirlo ahora ya el cliente tiene la información completa y puede decidir darle click al botón donde lo va a mandar a las compras a la siguiente página de compras y pagos y todo lo demás allí ya tenemos otra página con otro propósito otra página con otro propósito puede ser en otra estrategia voy a conseguir correo las personas a las que más adelante voy a contactar por correos electrónicos intentando ofrecerles construservicios Así que para capturar la información de sus posibles clientes hay otra página web Y mira que ya es otra estrategia muy diferente ya no vamos a vender simplemente vamos a captar información otro tipo de estrategia es cuando yo tengo un proyecto donde nuestro propósito principal es brindar información por ejemplo un periódico uno agaci yo en este momento estoy apoyando un proyecto cultural que se llama San Agustín y ando punto com San Agustín ando.com Y eso es todo un conjunto de artistas periodistas que están compartiendo información cultural y artística sobre un lugar en particular Así que mandaron hacer una página web esa página web se llama un blog Así que con este blog se puede compartir toda esa cantidad de información sin necesidad de estar mandando imprimir ahora que tenemos esta era digital y detrás de la estrategia está algo que se llaman grande sea dar a conocer una marca dará a conocer ante el mundo en este caso la marca de Mi nombre es al Agustín desde el punto de vista cultural del punto de vista artístico Así que la mejor página para este proyecto sería ya no una Landy ni tampoco un simple sitio web de cinco secciones nosotros Quiénes somos privacidad contacto No aquí ya necesitan un blog cómo puedes notar después de estos ejemplos dependiendo tu estrategia Asimismo haces una página web por lo tanto la pregunta no es debo o no debo hacer una página La pregunta es cuál es tu estrategia digital según la estrategia Asimismo planeas ella Desde ese momento de hacer una página web por último un caso práctico con los con los amigos de una ciudad cercana que tienen un emprendimiento de publicidad impresa y ellos que ya la gente los está buscando ya la gente los está llamando les está escribiendo y en ocasiones le dicen Ey tienes página web nota ya el cliente le dice tienes página web allí hay una estrategia comercial donde se pueden sentar y hacer un plan de su estrategia digital de cómo pueden aprovechar la página web por ejemplo para responder las preguntas que más les hacen sus clientes si siempre te llama no te escribe ni te están haciendo las mismas preguntas Cómo que paquetes ofrece a cómo son tus servicios y qué condiciones hay que cumplir entre otros entonces Sencillamente haces una página web la compartes con esos clientes y la compartes con los que posiblemente puedan interesarte en tu producto y ya van a tener toda la información a la mano en conclusión es que tu página web de ayuda a crecer no solamente para que tu negocio tenga una cara bonita si la página web va hacer que tu negociaban se invierte en ella porque vale la pena te lo digo por experiencia Oye Gracias por acompañar a Julián este audio espero seguirte compartiendo más y por favor sígueme para que sigas recibiendo todo esa información dónde vas a aprender que digitalizar tu negocio es fácil
+#### ¿Cómo es una página de ventas?
+
+Sería mucho mejor que acompañes la estrategia con una página de ventas. Esta no tiene sección de contacto, sección sobre el negocio, ni carrito de compras, etc. Nada de eso. Es solo una página, no más. Y esa página solamente habla del producto que estás vendiendo, de cuáles son sus beneficios, cuáles son sus ventajas, como se usa, el testimonio de la gente que ya lo compró, entre otros.
+
+En esta página no se desvía la atención a nada más que no sea la compra de tu producto. No tiene ni redes sociales. Y siempre tiene un botón que invita a tus visitantes a hacer clic para comprar o contactarse con un vendedor.
+
+#### La estrategia de una página de ventas
+
+Entonces esta clase de páginas se utilizan en la siguiente estrategia:
+
+1. Pautas tu publicidad con un botón que envíe a la página de ventas.
+2. Preparas una excelente página de ventas donde terminas de explicar todo el producto y cómo adquirirlo.
+3. Ya el cliente tiene la información completa y puede decidir darle click al botón donde lo va a mandar a la siguiente página de compras o pagos.
+
+Otra manera de utilizar estas páginas son conseguir personas interesadas en lo que ofreces. Ofreces un producto o servicio a cambio de sus datos, como correos electrónicos, teléfonos, etc. Normalmente, esta estrategia se utiliza en el email marketing.
+
+Como notarás, es una estrategia muy diferente. Ya no vamos a vender. Simplemente vamos a captar información para mejorar el trabajo de la venta.
+
+### Páginas web informativas o blogs
+
+Otro tipo de estrategia es cuando queremos compartir información a una comunidad. **El propósito principal de estas páginas web es brindar información y posiblemente hacer pauta pagada.** Tenemos como ejemplos de este caso a un periódico, un magazine, un movimiento cultural, etc.
+
+#### Estretagia digital con blogs
+
+Puedo mencionar un ejemplo que me gustó mucho: [sanagustiniando.co](https://sanagustiniando.co) Es un proyecto cultural con un conjunto de artistas y periodistas, que están compartiendo información cultural y artística sobre San Agustín Huila. Hicieron un blog para compartir toda esa cantidad de información para dar a conocer al mundo su cultura y conocimiento.
+
+### Páginas web para emprendimientos
+
+Un tercer caso es cuando tenemos un emprendimiento en funcionamiento con buenos resultados. Es posible que tus clientes te estén escribiendo, llamando o visitando para hacer las mismas consultas: "¿cómo son tus servicios?", "¿qué paquetes ofreces?", "¿cuánto cuesta?". Y hasta te han dicho: "¿tienes página web?".
+
+#### Estrategia digital de los sitios web
+
+Allí ya tienes una estrategia comercial. Puedes aprovechar la página web para tener tu emprendimiento en internet. Como si montaras una sucursal en otro local. Sencillamente haces una página web, la compartes con esos clientes o con las personas interesadas en tu producto, y ya tendrán toda la información a la mano.
+
+Puedes también aprovecharla para dar noticias sobre tu negocio, para anunciar promociones o para mantener una comunicación constante del avance de tus servicios o nuevos proyectos.
+
+## Haz una página web con propósito
+
+En conclusión, **tu página web debe ayuda al crecimiento de tus proyectos** y no solamente para tener una cara bonita en internet. Y te tengo un dato importantísimo: ni siquiera tiene que ser la más bonita mientras tengas una estrategia sólida.
+
+Invertir en una página web es una decisión muy intenligente. No dudes en hacerlo cuando sea el momento
+
+## ¿Ya tienes tu página web?
+
+¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios
