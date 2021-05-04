@@ -1,17 +1,51 @@
-<!DOCTYPE html>
-<html lang="es-CO">
-
+<!doctype  html>
+<html ⚡ lang="es">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
-  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}"
-    href="{{ "/feed.xml" | relative_url}}">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}" href="{{ "/feed.xml" | relative_url}}">
+  <!-- SCHEMA WEB -->
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://google.com/article"
+      },
+      "headline": "{{page.title}}",
+      "image": [
+        "{{site.baseurl}}/img/{{page.hero}}",
+      ],
+      "datePublished": "{{page.date}}",
+      "dateModified": "{{page.date}}",
+      "author": {
+        "@type": "Person",
+        "name": "{{page.autor}}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{site.name}}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{site.baseurl}}/img/juli.svg"
+        }
+      },
+      "description": "{{page.description}}"
+    }
+    </script>
+    <!-- DATOS SERP -->
   <title>{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}</title>
-  <meta name='description'
-    content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+    <link rel="preload" href="{{site.baseurl}}/img/{{page.hero}}" as="image">
+
+    <!-- Import other AMP Extensions here -->
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <style amp-boilerplate></style>
+
+    <!-- META DATA -->
   <meta name="language" content="es-CO" />
   <meta name="country" content="COL" />
   <meta name="theme-color" content="#1e212b" />

@@ -1,7 +1,0 @@
-- class: f
-  href: https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{site.baseurl}}{{ page.url }}
-  span: Facebook
-
-- class: i
-  href: whatsapp://send?text=Holaaaa.%20Mira%20esta%20pagina%20web.%20Me%20gusto%20mucho%20{{page.url}}
-  span: WhatsApp

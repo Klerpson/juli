@@ -17,6 +17,9 @@ comments: true
 
 <!-- excerpt -->
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 Para esto quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.
 
 ## La pregunta al digitalizar un negocio tradicional

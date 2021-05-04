@@ -7,13 +7,22 @@ layout: compress
   {% include nav.html %}
   {% include header.html %}
   {{ content }}
-  {% if page.comments %}
-{% include comentarios.html %}
-{% endif %}
   {% include footer.html %}
-
+<amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+    {
+      "vars" : {
+        "gtag_id": "UA-XXXXX-Y",
+        "config" : {
+          "UA-XXXXX-Y": {
+            "groups": "default"
+          }
+        }
+      }
+    }
+    </script>
+</amp-analytics>
 </body>
 <!-- nav -->
 <script src="{{ site.baseurl }}/js/app.js"></script>
-<script id="dsq-count-scr" src="//julidigital.disqus.com/count.js" async></script>
 </html>
