@@ -1,5 +1,6 @@
 ---
 layout: articulo
+id: 001
 title: Páginas web, ¿cuándo es buena idea y cuándo no?
 description: Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.
 category: Páginas Web

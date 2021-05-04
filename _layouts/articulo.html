@@ -53,7 +53,8 @@ layout: default
   {% endfor %}
 </section>
 {% if page.comments %}
-<h3>¡Déjame tus comentarios!</h3>
+{% include comentarios.html %}
+<!-- <h3>¡Déjame tus comentarios!</h3>
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
@@ -67,14 +68,5 @@ var d = document, s = d.createElement('script');
   (d.head || d.body).appendChild(s);
   })();
   </script>
-<noscript>Habilita tu Javascript pra ver <a href="https://disqus.com/?ref_noscript">los comentarios en Disqut.</a></noscript>
-
-<script src="https://apis.google.com/js/plusone.js">
-</script>
-<div class="g-comments"
-  data-href="{{ site.url }}{{ page.url }}"
-  data-width="600"
-  data-first_party_property="BLOGGER"
-  data-view_type="FILTERED_POSTMOD">
-</div>
+<noscript>Habilita tu Javascript pra ver <a href="https://disqus.com/?ref_noscript">los comentarios en Disqut.</a></noscript> -->
 {% endif %}
