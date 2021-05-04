@@ -1,0 +1,9 @@
+.articulo,
+.sugerencias,
+#disqus_thread {
+  padding: 0 1.5rem;
+}
+.articulo li{
+  list-style: square;
+}
+

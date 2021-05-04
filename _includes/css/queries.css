@@ -4,7 +4,9 @@
   }
 
   .introduccion,
-  .entradas{
+  .entradas,
+  .articulo,
+  .sugerencias{
     width: 500px;
     justify-self: center;
   }
@@ -32,7 +34,9 @@
   }
 
   .introduccion,
-  .entradas{
+  .entradas,
+  .articulo,
+  .sugerencias{
     width: 700px;
   }
 }

@@ -197,7 +197,7 @@ img {
   width: 35px;
   height: 30px;
   position: fixed;
-  bottom: 0.7rem;
+  bottom: 2rem;
   right: 0.7rem;
   background: var(--amarillo);
   padding: 0.2rem 0.4rem;
@@ -270,7 +270,9 @@ header h1 {
   }
 
   .introduccion,
-  .entradas{
+  .entradas,
+  .articulo,
+  .sugerencias{
     width: 500px;
     justify-self: center;
   }
@@ -298,7 +300,9 @@ header h1 {
   }
 
   .introduccion,
-  .entradas{
+  .entradas,
+  .articulo,
+  .sugerencias{
     width: 700px;
   }
 }
@@ -323,6 +327,15 @@ footer a {
   color: var(--principal);
   margin: 1rem 0.5rem;
   font-weight: 700;
+}
+
+.articulo,
+.sugerencias,
+#disqus_thread {
+  padding: 0 1.5rem;
+}
+.articulo li{
+  list-style: square;
 }
 
 
