@@ -26,6 +26,12 @@
   .entradas article a{
     align-self: flex-end;
   }
+
+  .share-box{
+    width: 50vw;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
 }
 
 @media screen and (min-width: 1200px){

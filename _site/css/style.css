@@ -292,6 +292,12 @@ header h1 {
   .entradas article a{
     align-self: flex-end;
   }
+
+  .share-box{
+    width: 50vw;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
 }
 
 @media screen and (min-width: 1200px){
@@ -363,6 +369,11 @@ footer a {
   text-decoration: sulid;
 }
 
+.articulo amp-img{
+  border-radius: 37px;
+  box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
+}
+
 .share-box{
   display: flex;
   flex-wrap: wrap;
@@ -403,15 +414,6 @@ footer a {
 .i:hover {
   color: #fff;
   background-color: #43d336;
-}
-
-
-@media screen and (min-width: 992px){
-  .share-box{
-    width: 50vw;
-    margin: 0 auto;
-    flex-wrap: wrap;
-  }
 }
 
 

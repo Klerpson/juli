@@ -32,6 +32,11 @@
   text-decoration: sulid;
 }
 
+.articulo amp-img{
+  border-radius: 37px;
+  box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
+}
+
 .share-box{
   display: flex;
   flex-wrap: wrap;
@@ -72,13 +77,4 @@
 .i:hover {
   color: #fff;
   background-color: #43d336;
-}
-
-
-@media screen and (min-width: 992px){
-  .share-box{
-    width: 50vw;
-    margin: 0 auto;
-    flex-wrap: wrap;
-  }
 }
