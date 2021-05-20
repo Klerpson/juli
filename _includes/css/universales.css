@@ -79,6 +79,7 @@ img {
 section,
 main{
   place-content: center;
+  width: 90vw;
 }
 
 .fade {

@@ -76,7 +76,7 @@
 
 .nav-redes{
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .nav-redes a{

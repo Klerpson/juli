@@ -102,6 +102,7 @@ img {
 section,
 main{
   place-content: center;
+  width: 90vw;
 }
 
 .fade {
@@ -192,7 +193,7 @@ main{
 
 .nav-redes{
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .nav-redes a{
@@ -388,7 +389,6 @@ footer a {
 }
 
 .share-box{
-  width: 90vw;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
