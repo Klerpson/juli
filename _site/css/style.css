@@ -34,6 +34,7 @@ body {
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
   display: grid;
+  justify-content: center;
 }
 
 b,
