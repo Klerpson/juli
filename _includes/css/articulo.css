@@ -1,6 +1,7 @@
 .articulo,
 .sugerencias,
 #disqus_thread {
+  position: relative;
   padding: 0 1.5rem;
 }
 
@@ -38,9 +39,10 @@
 }
 
 .share-box{
+  width: 90vw;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
   margin: 3rem 0;
 }
 

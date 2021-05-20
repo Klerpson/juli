@@ -1,11 +1,15 @@
 /*** Formatos Universales ***/
+*{
+  margin: 0;
+  padding: 0;
+}
+
 html {
   line-height: 1.5;
   scroll-behavior: smooth;
 }
 
 body {
-  margin: 0;
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
@@ -49,6 +53,8 @@ h2 {
 
 }
 
+p{margin: 1.5rem 0;}
+
 q {
   font-family: var(--fuenteQ);
   font-weight: 700;
@@ -68,6 +74,11 @@ button {
 
 img {
   border-style: none;
+}
+
+section,
+main{
+  place-content: center;
 }
 
 .fade {

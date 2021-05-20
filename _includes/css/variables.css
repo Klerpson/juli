@@ -15,8 +15,8 @@
   --fuenteTexto: 'Nunito Sans', sans-serif;
   --fuenteQ: 'Megrim', cursive;
 
-  --sizeH1: 2em;
-  --sizeH2: 1.7em;
-  --sizeH3: 1.5em;
+  --sizeH1: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
+  --sizeH2: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
+  --sizeH3: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
   --sizeTexto: 18px;
 }

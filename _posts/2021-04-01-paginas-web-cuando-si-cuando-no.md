@@ -46,13 +46,13 @@ Quizá en este punto los inversionistas de propiedades o bienes raíces dirán q
 
 ## De todos modos, sí hay que hacer una página web
 
-Así que cuando yo te diga no hagas una página web, me estoy refiriendo a que si estás comenzando un negocio e ibas a pagarle a alguien para que te haga un sitio web, ¡no lo hagas!.
+Así que cuando yo te diga no hagas una página web, me estoy refiriendo a que **si estás comenzando un negocio e ibas a pagarle a alguien para que te haga un sitio web, ¡no lo hagas!.**
 
-Mandar hacer un sitio web no es económico. Y si te van a cobrar barato... ya sabes, sale caro. *A propósito. En otros capítulos te enseñaré a hacer páginas de validación por tí mismo, sin pagar*
+Mandar hacer un sitio web no es económico. Y si te van a cobrar barato... ya sabes, sale caro. A propósito. En otros capítulos te enseñaré a hacer páginas de validación por tí mismo, sin pagar.
 
 ### Ahora sí... cuándo recomiendo hacer una página web?
 
-Vamos a suponer que ya tienes tu negocio. Está funcionando. Te va muy bien. La gente te busca, tienes tus clientes y ahora ya ves la necesidad de tener un sitio web. En ese caso, principalmente en ese caso es cuando ya tu negocio te está pidiendo un activo más.
+**Vamos a suponer que ya tienes tu negocio. Está funcionando. Te va muy bien. La gente te busca, tienes tus clientes y ahora ya ves la necesidad de tener un sitio web. En ese caso, principalmente en ese caso es cuando ya tu negocio te está pidiendo un activo más.**
 
 En este caso hablo de un activo digital. **La página web será una herramienta que te ayude en el crecimiento y fortalecimiento de tu negocio**. Ahora sí, debes hacer tu página web.
 
@@ -64,9 +64,9 @@ Recuerda, esta **es la imagen que vas a proyectar en internet.**
 
 ## ¿Qué clase de página escogerás?
 
-Ahora el caso es que hay muchas clases de páginas web. Por esto, piensa primero en esta pregunta: **¿para qué quiero una página web?**.
+Ahora el caso es que hay muchas clases de páginas web. Por esto, piensa primero en esta pregunta: **¿para qué quiero una página web?. En ese caso, debes tener una estrategia digital para tu página web**.
 
-**Debes tener una estrategia digital para tu página web**. Esa página es sólo un elemento de una estrategia completa. Y esta no tiene que ser complicada. Puede ser muy sencilla. El objetivo es que aporte a tu crecimiento o fortalecimiento comercial.
+Esa página es sólo un elemento de una estrategia completa. Y esta no tiene que ser complicada. Puede ser muy sencilla. El objetivo es que aporte a tu crecimiento o fortalecimiento comercial.
 
 ### Ejemplo de páginas web con estrategia digital
 
@@ -124,11 +124,17 @@ Allí ya tienes una estrategia comercial. Puedes aprovechar la página web para 
 
 Puedes también aprovecharla para dar noticias sobre tu negocio, para anunciar promociones o para mantener una comunicación constante del avance de tus servicios o nuevos proyectos.
 
+## Te dejo un video con toda la explicación
+
+Si te gustaría escuchar la información resumida, en este video te la explico en detalle.
+
+<iframe width="100%" height="360" src="https://www.youtube-nocookie.com/embed/PTA1gnR-C7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Haz una página web con propósito
 
 En conclusión, **tu página web debe ayuda al crecimiento de tus proyectos** y no solamente para tener una cara bonita en internet. Y te tengo un dato importantísimo: ni siquiera tiene que ser la más bonita mientras tengas una estrategia sólida.
 
-Invertir en una página web es una decisión muy intenligente. No dudes en hacerlo cuando sea el momento
+Invertir en una página web es una decisión muy intenligente. No dudes en hacerlo cuando sea el momento.
 
 ## ¿Ya tienes tu página web?
 

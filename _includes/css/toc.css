@@ -5,6 +5,7 @@
   border-radius: 37px;
   box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
   padding: 1.5em;
+  margin: 1.5rem 0;
   list-style: decimal;
   display: inline-block;
 }

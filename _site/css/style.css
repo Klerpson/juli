@@ -15,20 +15,24 @@
   --fuenteTexto: 'Nunito Sans', sans-serif;
   --fuenteQ: 'Megrim', cursive;
 
-  --sizeH1: 2em;
-  --sizeH2: 1.7em;
-  --sizeH3: 1.5em;
+  --sizeH1: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
+  --sizeH2: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
+  --sizeH3: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
   --sizeTexto: 18px;
 }
 
 /*** Formatos Universales ***/
+*{
+  margin: 0;
+  padding: 0;
+}
+
 html {
   line-height: 1.5;
   scroll-behavior: smooth;
 }
 
 body {
-  margin: 0;
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
@@ -72,6 +76,8 @@ h2 {
 
 }
 
+p{margin: 1.5rem 0;}
+
 q {
   font-family: var(--fuenteQ);
   font-weight: 700;
@@ -91,6 +97,11 @@ button {
 
 img {
   border-style: none;
+}
+
+section,
+main{
+  place-content: center;
 }
 
 .fade {
@@ -339,6 +350,7 @@ footer a {
 .articulo,
 .sugerencias,
 #disqus_thread {
+  position: relative;
   padding: 0 1.5rem;
 }
 
@@ -376,9 +388,10 @@ footer a {
 }
 
 .share-box{
+  width: 90vw;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
   margin: 3rem 0;
 }
 
@@ -425,6 +438,7 @@ footer a {
   border-radius: 37px;
   box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
   padding: 1.5em;
+  margin: 1.5rem 0;
   list-style: decimal;
   display: inline-block;
 }
