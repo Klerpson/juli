@@ -1,4 +1,4 @@
-@media screen and (min-width: 600px){
+@media screen and (min-width: 600px) {
   header {
     height: 30vh;
   }
@@ -6,35 +6,43 @@
   .introduccion,
   .entradas,
   .articulo,
-  .sugerencias{
+  .sugerencias {
     width: 500px;
     justify-self: center;
   }
 }
 
-@media screen and (min-width: 992px){
-  .entradas article  {
+@media screen and (min-width: 992px) {
+  .logo{
+    transform: rotate(-25deg) scale(1.5);
+    top: 2rem;
+    left: 2rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .entradas article {
     display: grid;
     grid-template-columns: 250px auto;
   }
 
-  .entradas article img{
+  .entradas article img {
     grid-row: span 2;
     align-self: center;
   }
 
-  .entradas article a{
+  .entradas article a {
     align-self: flex-end;
   }
 
-  .share-box{
+  .share-box {
     width: 50vw;
     margin: 0 auto;
     flex-wrap: wrap;
   }
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1200px) {
   header {
     height: 40vh;
   }
@@ -42,7 +50,7 @@
   .introduccion,
   .entradas,
   .articulo,
-  .sugerencias{
+  .sugerencias {
     width: 700px;
   }
 }

@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include logo.html %}
+
 <main class="articulo">
   {{ content }}
 </main>
@@ -33,17 +35,14 @@ layout: default
 
   {% if sameTagCount >= minCommonTags %}
 
-  <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}" >
-    <div class="relacionados">
-      <picture>
-        {% if post.img %}
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.img }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}">
+  <div class="relacionados">
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}" >
+        {% if post.hero %}
+        <img src="{{ site.baseurl }}/img/{{ post.hero }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}">
         {% endif %}
-      </picture>
       <h4> {{ post.title }}</h4>
-    </div>
-  </a>
+    </a>
+  </div>
 
   {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
   {% if maxRelatedCounter >= maxRelated %}

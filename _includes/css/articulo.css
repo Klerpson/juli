@@ -1,3 +1,7 @@
+.logo{
+  position: absolute;
+}
+
 .articulo,
 .sugerencias,
 #disqus_thread {
@@ -43,6 +47,7 @@
   flex-wrap: wrap;
   justify-content: center;
   margin: 3rem 0;
+  justify-self: center;
 }
 
 .share-box h3{
@@ -78,4 +83,27 @@
 .i:hover {
   color: #fff;
   background-color: #43d336;
+}
+
+.sugerencias h3{
+  margin: 2rem 0;
+}
+
+.relacionados a{
+  display: grid;
+}
+
+.relacionados img{
+  max-width: 50%;
+  justify-self: center;
+}
+
+.relacionados h4{
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--accion);
+}
+
+.relacionados a{
+  margin: 1.5rem 0;
 }

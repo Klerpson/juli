@@ -277,7 +277,7 @@ header h1 {
   line-height: 2px;
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 600px) {
   header {
     height: 30vh;
   }
@@ -285,35 +285,43 @@ header h1 {
   .introduccion,
   .entradas,
   .articulo,
-  .sugerencias{
+  .sugerencias {
     width: 500px;
     justify-self: center;
   }
 }
 
-@media screen and (min-width: 992px){
-  .entradas article  {
+@media screen and (min-width: 992px) {
+  .logo{
+    transform: rotate(-25deg) scale(1.5);
+    top: 2rem;
+    left: 2rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .entradas article {
     display: grid;
     grid-template-columns: 250px auto;
   }
 
-  .entradas article img{
+  .entradas article img {
     grid-row: span 2;
     align-self: center;
   }
 
-  .entradas article a{
+  .entradas article a {
     align-self: flex-end;
   }
 
-  .share-box{
+  .share-box {
     width: 50vw;
     margin: 0 auto;
     flex-wrap: wrap;
   }
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (min-width: 1200px) {
   header {
     height: 40vh;
   }
@@ -321,7 +329,7 @@ header h1 {
   .introduccion,
   .entradas,
   .articulo,
-  .sugerencias{
+  .sugerencias {
     width: 700px;
   }
 }
@@ -346,6 +354,10 @@ footer a {
   color: var(--principal);
   margin: 1rem 0.5rem;
   font-weight: 700;
+}
+
+.logo{
+  position: absolute;
 }
 
 .articulo,
@@ -393,6 +405,7 @@ footer a {
   flex-wrap: wrap;
   justify-content: center;
   margin: 3rem 0;
+  justify-self: center;
 }
 
 .share-box h3{
@@ -430,6 +443,28 @@ footer a {
   background-color: #43d336;
 }
 
+.sugerencias h3{
+  margin: 2rem 0;
+}
+
+.relacionados a{
+  display: grid;
+}
+
+.relacionados img{
+  max-width: 50%;
+  justify-self: center;
+}
+
+.relacionados h4{
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--accion);
+}
+
+.relacionados a{
+  margin: 1.5rem 0;
+}
 
 /* // Adding 'Contents' headline to the TOC */
 
