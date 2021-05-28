@@ -1,11 +1,6 @@
-.introduccion {
-  padding: 1.5rem;
-}
-
 .entradas {
-  padding: 1.5rem;
   display: grid;
-  grid-gap: 3rem 1rem;
+  grid-gap: 3rem 0;
 }
 
 .entradas article {

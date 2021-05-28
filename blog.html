@@ -1,20 +1,22 @@
 ---
 layout: buscador
-title: En San Agustín tienes mucho por hacer
+title: Aprende a digitalizar tu emprendimiento
 description: Entérate de los lugares, las novedades y las experiencias que vivimos en San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
-img: img/magazine/magazine.webp
+hero: articulos/blog.svg
+altheader: Logo de juli.com.co paginas web
+imgtitle-header: Logo de juli.com.co, desarrollo web
 ---
-{% include header.html %}
 <section class="magazine">
   <p>{{ page.description }}</p>
   {% include search.html %}
   {% for post in site.posts %}
   <article>
-    <h2>
-      {{ post.title }}
-    </h2>
+    <a class="botones" href="{{ site.baseurl }}{{ post.url }}">
+      <h2>
+        {{ post.title }}
+      </h2>
+    </a>
     {{ post.excerpt }}
-    <a class="botones" href="{{ site.baseurl }}{{ post.url }}"> Leer más</a>
   </article>
   {% endfor %}
 </section>

@@ -1,7 +1,33 @@
+:root {
+
+  /*** COLORES ***/
+  /* rgb */
+  --azul: #020887;
+  --accion: #F46246;
+  --amarillo: #FCD739;
+  --gris: #202727;
+  --blanco: #f5f5fa;
+  --colorTexto: rgb(30, 33, 43);
+  --shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
+
+  /*** FUENTES ***/
+  --fuenteTitulo: 'Oswald', sans-serif;
+  --fuenteTexto: 'Nunito Sans', sans-serif;
+  --fuenteQ: 'Megrim', cursive;
+
+  --sizeH1: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
+  --sizeH2: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
+  --sizeH3: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
+  --sizeTexto: 18px;
+}
+
 /*** Formatos Universales ***/
-*{
+*,
+*::after,
+*::before{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -15,7 +41,7 @@ body {
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
   display: grid;
-  justify-content: center;
+  justify-items: center;
 }
 
 b,
@@ -45,6 +71,7 @@ h2 {
 
 h1 {
   font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3rem);
+  margin: 1.5rem;
 }
 
 h2 {
@@ -53,8 +80,6 @@ h2 {
 
 }
 
-p{margin: 1.5rem 0;}
-
 q {
   font-family: var(--fuenteQ);
   font-weight: 700;
@@ -62,6 +87,7 @@ q {
 
 a {
   text-decoration: none;
+  color: var(--accion);
 }
 
 li {
@@ -78,8 +104,9 @@ img {
 
 section,
 main{
-  place-content: center;
   width: 90vw;
+  display: grid;
+  grid-gap: 2rem;
 }
 
 .fade {

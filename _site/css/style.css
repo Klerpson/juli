@@ -22,9 +22,12 @@
 }
 
 /*** Formatos Universales ***/
-*{
+*,
+*::after,
+*::before{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -38,7 +41,7 @@ body {
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
   display: grid;
-  justify-content: center;
+  justify-items: center;
 }
 
 b,
@@ -68,6 +71,7 @@ h2 {
 
 h1 {
   font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3rem);
+  margin: 1.5rem;
 }
 
 h2 {
@@ -76,8 +80,6 @@ h2 {
 
 }
 
-p{margin: 1.5rem 0;}
-
 q {
   font-family: var(--fuenteQ);
   font-weight: 700;
@@ -85,6 +87,7 @@ q {
 
 a {
   text-decoration: none;
+  color: var(--accion);
 }
 
 li {
@@ -101,8 +104,9 @@ img {
 
 section,
 main{
-  place-content: center;
   width: 90vw;
+  display: grid;
+  grid-gap: 2rem;
 }
 
 .fade {
@@ -232,10 +236,10 @@ main{
 }
 
 header {
+  width: 80vw;
   height: 50vh;
   display: grid;
   place-content: center;
-  padding: 1.5rem;
 }
 
 header img{
@@ -248,14 +252,9 @@ header h1 {
   text-align: center;
 }
 
-.introduccion {
-  padding: 1.5rem;
-}
-
 .entradas {
-  padding: 1.5rem;
   display: grid;
-  grid-gap: 3rem 1rem;
+  grid-gap: 3rem 0;
 }
 
 .entradas article {
@@ -275,63 +274,6 @@ header h1 {
   text-transform: uppercase;
   text-decoration: underline;
   line-height: 2px;
-}
-
-@media screen and (min-width: 600px) {
-  header {
-    height: 30vh;
-  }
-
-  .introduccion,
-  .entradas,
-  .articulo,
-  .sugerencias {
-    width: 500px;
-    justify-self: center;
-  }
-}
-
-@media screen and (min-width: 992px) {
-  .logo{
-    transform: rotate(-25deg) scale(1.5);
-    top: 2rem;
-    left: 2rem;
-  }
-}
-
-@media screen and (min-width: 992px) {
-  .entradas article {
-    display: grid;
-    grid-template-columns: 250px auto;
-  }
-
-  .entradas article img {
-    grid-row: span 2;
-    align-self: center;
-  }
-
-  .entradas article a {
-    align-self: flex-end;
-  }
-
-  .share-box {
-    width: 50vw;
-    margin: 0 auto;
-    flex-wrap: wrap;
-  }
-}
-
-@media screen and (min-width: 1200px) {
-  header {
-    height: 40vh;
-  }
-
-  .introduccion,
-  .entradas,
-  .articulo,
-  .sugerencias {
-    width: 700px;
-  }
 }
 
 footer {
@@ -517,9 +459,8 @@ footer a {
 
 #search-container {
   position: relative;
-  padding: 0.5rem 1rem;
   margin: 0 auto;
-  width: 80vw;
+  width: 100%;
   display: flex;
   flex-direction: column;
   color: var(--complemento2);
@@ -545,18 +486,9 @@ footer a {
   color: var(--accion);
 }
 
-@media screen and (min-width: 600px) {
-  #search-container {
-  grid-column: span 3;
-  }
-}
-  @media screen and (min-width: 767px) {
 
-  #search-container {
-    width: 60vw;
-    padding: 0;
-  }
-}
+
+
 
  .publicidad {
    width: 100%;
@@ -634,3 +566,54 @@ footer a {
    }
  }
 
+
+@media screen and (min-width: 600px) {
+
+  section,
+  main {
+    width: 500px;
+  }
+}
+
+@media screen and (min-width: 767px) {
+}
+
+@media screen and (min-width: 992px) {
+  .logo {
+    transform: rotate(-25deg) scale(1.5);
+    top: 2rem;
+    left: 2rem;
+  }
+
+  section,
+  main {
+    width: 720px;
+  }
+
+  .entradas article {
+    display: grid;
+    grid-template-columns: 250px auto;
+  }
+
+  .entradas article img {
+    grid-row: span 2;
+    align-self: center;
+  }
+
+  .entradas article a {
+    align-self: flex-end;
+  }
+
+  .share-box {
+    width: 50vw;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  header {
+    height: 40vh;
+  }
+
+}
