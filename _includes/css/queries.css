@@ -31,7 +31,7 @@
     align-self: center;
   }
 
-  .entradas article a {
+  .entradas article h3 {
     align-self: flex-end;
   }
 
