@@ -6,12 +6,11 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  color: var(--complemento2);
+  color: var(--amarillo);
 }
 
-#search-container h1{
-  font-family: var(--fuenteTexto);
-  margin-top: 1.2rem;
+#search-container h3{
+  color: var(--azul);
 }
 
 #search-container input {
@@ -21,7 +20,7 @@
 
 #results-container div a {
   font-family: var(--fuenteTexto);
-  color: var(--principal);
+  color: var(--);
 }
 
 #results-container div a span {

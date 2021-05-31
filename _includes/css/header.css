@@ -1,6 +1,7 @@
 header {
   width: 80vw;
-  height: calc(auto + 5vh);
+  height: calc(200px + 12vh);
+  padding: 3rem 0 0;
   display: grid;
   place-content: center;
 }
