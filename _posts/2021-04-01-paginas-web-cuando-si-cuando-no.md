@@ -138,8 +138,4 @@ Invertir en una página web es una decisión muy intenligente. No dudes en hacer
 
 ## ¿Ya tienes tu página web?
 
-¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios
-
-### Referencias
-
-<a href='https://www.freepik.es/vectores/mujer'>Vector de Mujer creado por freepik - www.freepik.es</a>
+¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios.

@@ -13,10 +13,6 @@
   list-style: square;
 }
 
-.articulo h2 {
-  margin: 3rem 0;
-}
-
 .articulo p a {
   text-decoration: none;
   background-image: linear-gradient(var(--accion), var(--amarillo));

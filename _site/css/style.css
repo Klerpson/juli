@@ -6,7 +6,7 @@
   --accion: #F46246;
   --amarillo: #FCD739;
   --gris: #202727;
-  --blanco: #f5f5fa;
+  --blanco: #f0f0f0;
   --colorTexto: rgb(30, 33, 43);
   --shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
 
@@ -41,6 +41,7 @@ body {
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
   display: grid;
+  grid-gap: 3rem 0;
   justify-items: center;
 }
 
@@ -71,13 +72,10 @@ h2 {
 
 h1 {
   font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3rem);
-  margin: 1.5rem;
 }
 
 h2 {
   font-size: clamp(20px, (1.2rem + 1vw) * 1.2, 2.5rem);
-  margin: 0;
-
 }
 
 q {
@@ -237,14 +235,15 @@ main{
 
 header {
   width: 80vw;
-  height: 50vh;
+  height: calc(auto + 5vh);
   display: grid;
   place-content: center;
 }
 
-header img{
+header amp-img{
   display: block;
   justify-self: center;
+  width: 280px;
 }
 
 header h1 {
@@ -259,7 +258,7 @@ header h1 {
 
 .entradas article {
   border-radius: 37px;
-  background: #f5f5fa;
+  background: #f0f0f0;
   box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
   padding: 1rem;
 }
@@ -315,10 +314,6 @@ footer a {
 
 .articulo li {
   list-style: square;
-}
-
-.articulo h2 {
-  margin: 3rem 0;
 }
 
 .articulo p a {
@@ -577,6 +572,11 @@ footer a {
   main {
     width: 500px;
   }
+
+  .entradas article {
+    display: grid;
+    place-items: center;
+  }
 }
 
 @media screen and (min-width: 767px) {
@@ -584,8 +584,8 @@ footer a {
 
 @media screen and (min-width: 992px) {
   .logo {
-    transform: rotate(-25deg) scale(1.5);
-    top: 2rem;
+    transform: rotate(-20deg) scale(1.5);
+    top: 2.7rem;
     left: 2rem;
   }
 
@@ -601,7 +601,6 @@ footer a {
 
   .entradas article img {
     grid-row: span 2;
-    align-self: center;
   }
 
   .entradas article h3 {
@@ -616,8 +615,5 @@ footer a {
 }
 
 @media screen and (min-width: 1200px) {
-  header {
-    height: 40vh;
-  }
 
 }

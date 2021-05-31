@@ -1,13 +1,14 @@
 header {
   width: 80vw;
-  height: 50vh;
+  height: calc(auto + 5vh);
   display: grid;
   place-content: center;
 }
 
-header img{
+header amp-img{
   display: block;
   justify-self: center;
+  width: 280px;
 }
 
 header h1 {

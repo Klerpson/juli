@@ -1,9 +1,8 @@
 <header>
-<amp-img src="{{site.baseurl}}/img/{{page.hero}}"
-width="300"
-height="200"
-layout="responsive"
-alt="{{page.altheader}}">
-</amp-img>
+  {% if page.hero %}
+  <amp-img src="{{site.baseurl}}/img/{{page.hero}}" width="300" height="200" layout="responsive"
+    alt="{{page.altheader}}">
+  </amp-img>
+  {% endif %}
   <h1>{{page.title}}</h1>
 </header>

@@ -4,6 +4,11 @@
   main {
     width: 500px;
   }
+
+  .entradas article {
+    display: grid;
+    place-items: center;
+  }
 }
 
 @media screen and (min-width: 767px) {
@@ -11,8 +16,8 @@
 
 @media screen and (min-width: 992px) {
   .logo {
-    transform: rotate(-25deg) scale(1.5);
-    top: 2rem;
+    transform: rotate(-20deg) scale(1.5);
+    top: 2.7rem;
     left: 2rem;
   }
 
@@ -28,7 +33,6 @@
 
   .entradas article img {
     grid-row: span 2;
-    align-self: center;
   }
 
   .entradas article h3 {
@@ -43,8 +47,5 @@
 }
 
 @media screen and (min-width: 1200px) {
-  header {
-    height: 40vh;
-  }
 
 }
