@@ -12,6 +12,9 @@
 }
 
 @media screen and (min-width: 767px) {
+  #markdown-toc {
+    padding: 1.5rem;
+  }
 }
 
 @media screen and (min-width: 992px) {
