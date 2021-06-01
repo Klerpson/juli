@@ -1,4 +1,4 @@
-I"z:<p>Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.</p>
+I"|9<p>Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.</p>
 
 <!-- excerpt -->
 
@@ -34,10 +34,7 @@
   </li>
   <li><a href="#te-dejo-un-video-con-toda-la-explicación" id="markdown-toc-te-dejo-un-video-con-toda-la-explicación">Te dejo un video con toda la explicación</a></li>
   <li><a href="#haz-una-página-web-con-propósito" id="markdown-toc-haz-una-página-web-con-propósito">Haz una página web con propósito</a></li>
-  <li><a href="#ya-tienes-tu-página-web" id="markdown-toc-ya-tienes-tu-página-web">¿Ya tienes tu página web?</a>    <ul>
-      <li><a href="#referencias" id="markdown-toc-referencias">Referencias</a></li>
-    </ul>
-  </li>
+  <li><a href="#ya-tienes-tu-página-web" id="markdown-toc-ya-tienes-tu-página-web">¿Ya tienes tu página web?</a></li>
 </ul>
 
 <p>Para esto, quiero que analicemos primero cuál es <strong>la pregunta que te debes hacer antes de hacer una página web</strong>.</p>
@@ -52,7 +49,7 @@
 
 <!-- <amp-img src="/img/articulos/001/no-web.svg"
              width="500"
-             height="500"
+             height="auto"
              layout="responsive"
              alt="No hagas TODAVÍA tu página web">
 </amp-img> -->
@@ -170,9 +167,5 @@
 
 <h2 id="ya-tienes-tu-página-web">¿Ya tienes tu página web?</h2>
 
-<p>¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios</p>
-
-<h3 id="referencias">Referencias</h3>
-
-<p><a href="https://www.freepik.es/vectores/mujer">Vector de Mujer creado por freepik - www.freepik.es</a></p>
+<p>¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios.</p>
 :ET

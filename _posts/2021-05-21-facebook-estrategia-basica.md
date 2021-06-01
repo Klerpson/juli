@@ -1,17 +1,16 @@
 ---
 layout: articulo
 id: 001
-title: Estrategia básica de facebook para tu negocio
+title: Hosting gratis para tu página web
 description: El servicio de hosting te carga con una mensualidad, que comenzando tu emprendimiento, no es recomendable. Aquí te enseño la solución perfecta.
 category: Páginas Web
 tags: [páginas web, hosting]
 hero: articulos/002/hosting.svg
 altheader: ícono de sitios web
-imgtitle-header: ¿Debes tener página web?
+imgtitle-header: Hosting para páginas web
 autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
-comments: true
 published: no
 ---
 {{page.description}}
