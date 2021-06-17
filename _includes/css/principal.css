@@ -21,7 +21,6 @@
 .entradas article a{
   font-family: var(--fuenteTitulo);
   color: var(--azul);
-  text-transform: uppercase;
+  text-transform: capitalize;
   text-decoration: underline;
-  line-height: 2px;
 }

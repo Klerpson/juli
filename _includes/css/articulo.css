@@ -14,7 +14,8 @@
   margin-left: 1.5rem;
 }
 
-.articulo p a {
+.articulo a,
+.canal-telegram {
   font-weight: 700;
   color: var(--accion);
   text-decoration: none;
@@ -25,8 +26,10 @@
   transition: background-size .3s;
 }
 
-.articulo p a:hover,
-.articulo p a:focus {
+.canal-telegram:hover,
+.canal-telegram:focus,
+.articulo a:hover,
+.articulo a:focus {
   background-size: 100% 2px;
 }
 
@@ -40,6 +43,11 @@
   text-align: center;
   font-family: var(--fuenteQ);
   font-weight: 700;
+}
+
+.canal-telegram{
+  text-transform: uppercase;
+  font-family: var(--fuenteTitulo);
 }
 
 .share-box{
