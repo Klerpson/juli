@@ -4,13 +4,21 @@
      <link href="https://juli.com.cofeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://juli.com.co" rel="alternate" type="text/html"/>
      <id>https://juli.com.co</id>
-     <updated>2021-05-31T16:50:42-05:00</updated>
+     <updated>2021-06-17T14:17:43-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Yo no te aconsejo utilizar WordPress</title>
+   <link href="https://juli.com.co/por-que-no-usar-wordpress"/>
+   <id>https://juli.com.co/por-que-no-usar-wordpress</id>
+   <updated>2021-05-21T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#primero-qué-es-wordpress-y-cómo-funciona&quot; id=&quot;markdown-toc-primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#wordpress-es-fácil-y-gratis-pero&quot; id=&quot;markdown-toc-wordpress-es-fácil-y-gratis-pero&quot;&gt;WordPress es fácil y gratis, pero…&lt;/a&gt; &lt;ul&gt;...</content>
+ </entry>
  
  <entry>
    <title>Páginas web, ¿cuándo es buena idea y cuándo no?</title>

@@ -5,7 +5,10 @@ layout: default
 <main class="articulo">
   {{ content }}
 </main>
-{% include share.html %}
+
+<div class="canal-telegram">
+  <a href="https://t.me/joinchat/OjEVskLAMuw5OTZh">Juli Digital en Telegram</a>
+</div>
 
 <section class="sugerencias">
 
@@ -50,3 +53,15 @@ layout: default
   {% endif %}
   {% endfor %}
 </section>
+
+<div class="referencias">
+  {% for link_hash in page.referencias %}
+  {% for link in link_hash %}
+  <ul>
+    <li>
+      <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+    </li>
+  </ul>
+  {% endfor %}
+  {% endfor %}
+</div>

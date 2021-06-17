@@ -45,3 +45,19 @@
   background: var(--amarillo);
   margin-left: 0.5rem;
 }
+
+#markdown-toc a {
+  font-weight: 700;
+  color: var(--accion);
+  text-decoration: none;
+  background-image: linear-gradient(var(--accion), var(--amarillo));
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+}
+
+#markdown-toc a:hover,
+#markdown-toc a:focus {
+  background-size: 100% 2px;
+}

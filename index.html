@@ -17,23 +17,23 @@ imgtitle-header: Bienvenido al Blog de juli.com.co
   <h2>Aprende sobre páginas web con el blog de Juli</h2>
   <p>Aquí encuentras toda mi experiencia sobre <strong>digitalizar negocios o empresas</strong>. También, podrás aprender sobre el uso, mantenimiento y diseño de páginas web. Escoge qué deseas aprender hoy.</p>
   <article>
-    {% assign nuevo = site.posts[0] %}
-    <img src="{{site.baseurl}}/img/{{nuevo.hero}}" alt="{{nuevo.altheader}}" title="{{nuevo.imgtitle-header}}"
+    {% assign primer-articulo = site.posts[0] %}
+    <img src="{{site.baseurl}}/img/{{primer-articulo.hero}}" alt="{{primer-articulo.altheader}}" title="{{primer-articulo.imgtitle-header}}"
       width="300px" height="200px">
     <h3>
-      <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+      <a class="botones" href="{{ primer-articulo.url }}" title="{{ primer-articulo.title }}">{{ primer-articulo.title }}</a>
     </h3>
-    {{nuevo.excerpt }}
+    {{primer-articulo.excerpt }}
   </article>
-  <!-- <article>
-    {% assign nuevo = site.posts[1] %}
-    <img src="{{site.baseurl}}/img/{{nuevo.hero}}" alt="{{nuevo.altheader}}" title="{{nuevo.imgtitle-header}}"
+  <article>
+    {% assign segundo-articulo = site.posts[1] %}
+    <img src="{{site.baseurl}}/img/{{segundo-articulo.hero}}" alt="{{segundo-articulo.altheader}}" title="{{segundo-articulo.imgtitle-header}}"
       width="300px" height="200px">
     <h3>
-      <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+      <a class="botones" href="{{ segundo-articulo.url }}" title="{{ segundo-articulo.title }}">{{ segundo-articulo.title }}</a>
     </h3>
-    {{nuevo.excerpt}}
-  </article> -->
+    {{segundo-articulo.excerpt}}
+  </article>
   <!-- <article>
     {% assign nuevo = site.posts[2] %}
     <img src="{{site.baseurl}}/img/{{nuevo.hero}}" alt="{{nuevo.altheader}}" title="{{nuevo.imgtitle-header}}"

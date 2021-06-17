@@ -2,8 +2,8 @@
 
   /*** COLORES ***/
   /* rgb */
-  --azul: #020887;
-  --accion: #F46246;
+  --azul: #0811b4;
+  --accion: #f14421;
   --amarillo: #FCD739;
   --gris: #202727;
   --blanco: #f0f0f0;
@@ -15,9 +15,9 @@
   --fuenteTexto: 'Nunito Sans', sans-serif;
   --fuenteQ: 'Megrim', cursive;
 
-  --sizeH1: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
-  --sizeH2: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
-  --sizeH3: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
+  --sizeH1: clamp(22px, (1.5rem + 1vw) * 1.5, 2.2rem);
+  --sizeH2: clamp(20px, (1.3rem + 1vw) * 1.3, 2rem);
+  --sizeH3: clamp(18px, (1.2rem + 1vw) * 1.2, 1.8rem);
   --sizeTexto: 18px;
 }
 
@@ -71,11 +71,16 @@ h2 {
 }
 
 h1 {
-  font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3rem);
+  font-size: var(--sizeH1);
+  text-transform: uppercase;
 }
 
 h2 {
-  font-size: clamp(20px, (1.2rem + 1vw) * 1.2, 2.5rem);
+  font-size: var(--sizeH2);
+}
+
+h3 {
+  font-size: var(--sizeH3);
 }
 
 q {
@@ -318,6 +323,8 @@ footer a {
 }
 
 .articulo p a {
+  font-weight: 700;
+  color: var(--accion);
   text-decoration: none;
   background-image: linear-gradient(var(--accion), var(--amarillo));
   background-position: 0% 100%;
@@ -331,15 +338,16 @@ footer a {
   background-size: 100% 2px;
 }
 
-.articulo p a {
-  font-weight: 700;
-  color: var(--accion);
-  text-decoration: sulid;
+.articulo amp-img{
+  width: 320px;
+  justify-self: center;
 }
 
-.articulo amp-img{
-  border-radius: 37px;
-  box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
+#epigrafe{
+  display: block;
+  text-align: center;
+  font-family: var(--fuenteQ);
+  font-weight: 700;
 }
 
 .share-box{
@@ -454,6 +462,22 @@ footer a {
 #markdown-toc ul li::before {
   background: var(--amarillo);
   margin-left: 0.5rem;
+}
+
+#markdown-toc a {
+  font-weight: 700;
+  color: var(--accion);
+  text-decoration: none;
+  background-image: linear-gradient(var(--accion), var(--amarillo));
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+}
+
+#markdown-toc a:hover,
+#markdown-toc a:focus {
+  background-size: 100% 2px;
 }
 
 /* Buscador */
