@@ -320,6 +320,7 @@ footer a {
 
 .articulo li {
   list-style: square;
+  margin-left: 1.5rem;
 }
 
 .articulo p a {
