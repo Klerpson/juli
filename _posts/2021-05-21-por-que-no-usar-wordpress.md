@@ -13,6 +13,7 @@ copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Íconos descargados de www.flaticon.com: https://www.flaticon.com/authors/eucalyp
+date: 21-05-2021
 ---
 {{page.description}}
 

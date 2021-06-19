@@ -11,6 +11,7 @@ imgtitle-header: ¿Debes tener página web?
 autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
+date: 01-04-2021
 ---
 {{page.description}}
 
