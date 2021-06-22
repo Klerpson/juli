@@ -5,6 +5,7 @@ title: Páginas web, ¿cuándo es buena idea y cuándo no?
 description: Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.
 category: Páginas Web
 tags: [páginas web, emprendimiento]
+h1: ¿Cuándo es el momento de hacer una página web para tu emprendimiento?
 hero: articulos/001/website.svg
 altheader: ícono de sitios web
 imgtitle-header: ¿Debes tener página web?
