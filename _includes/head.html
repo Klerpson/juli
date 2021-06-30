@@ -1,11 +1,13 @@
-<!doctype  html>
+<!doctype html>
 <html ⚡ lang="es">
+
 <head>
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <title>{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %} | Juli Digital</title>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
-  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}" href="{{ "/feed.xml" | relative_url}}">
+  <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}" href="{{"/feed.xml" | relative_url}}">
   <!-- SCHEMA WEB -->
   <script type="application/ld+json">
     {
@@ -35,21 +37,20 @@
       },
       "description": "{{page.description}}"
     }
-    </script>
-    <!-- DATOS SERP -->
-  <title>{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %} | Juli Digital</title>
+  </script>
+  <!-- DATOS SERP -->
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
-    <link rel="preload" href="{{site.baseurl}}/img/{{page.hero}}" as="image">
+  <link rel="preload" href="{{site.baseurl}}/img/{{page.hero}}" as="image">
 
-    <!-- Import other AMP Extensions here -->
-    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-    <style amp-boilerplate>
-      .logo{
-        left: 1rem;
-      }
-    </style>
+  <!-- Import other AMP Extensions here -->
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <style amp-boilerplate>
+    .logo {
+      left: 1rem;
+    }
+  </style>
 
-    <!-- META DATA -->
+  <!-- META DATA -->
   <meta name="language" content="es-CO" />
   <meta name="country" content="COL" />
   <meta name="theme-color" content="#1e212b" />
@@ -83,12 +84,15 @@
 
   <!-- Google -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LXH4RTJ9N1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LXH4RTJ9N1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-LXH4RTJ9N1');
-</script>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-LXH4RTJ9N1');
+  </script>
 </head>
