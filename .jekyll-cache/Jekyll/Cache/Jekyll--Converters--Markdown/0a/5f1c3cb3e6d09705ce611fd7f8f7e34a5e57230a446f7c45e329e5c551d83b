@@ -1,0 +1,211 @@
+I"iT<p>Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.</p>
+
+<!-- excerpt -->
+
+<p>Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.</p>
+
+<p>Pero si tu negocio es pequeño, ya verás que una página estática puede ser más que suficiente. ¡Veamos!</p>
+
+<ul id="markdown-toc">
+  <li><a href="#qué-es-una-página-web-estática" id="markdown-toc-qué-es-una-página-web-estática">Qué es una página web estática</a></li>
+  <li><a href="#diferencia-de-una-página-web-estática-y-una-página-web-dinámica" id="markdown-toc-diferencia-de-una-página-web-estática-y-una-página-web-dinámica">Diferencia de una página web estática y una página web dinámica</a>    <ul>
+      <li><a href="#ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas" id="markdown-toc-ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas">Ejemplos de páginas web estáticas y páginas web dinámicas</a></li>
+    </ul>
+  </li>
+  <li><a href="#cómo-es-el-desarrollo-de-una-aplicación-web-estática" id="markdown-toc-cómo-es-el-desarrollo-de-una-aplicación-web-estática">¿Cómo es el desarrollo de una aplicación web estática?</a></li>
+  <li><a href="#características-de-las-páginas-web-estáticas" id="markdown-toc-características-de-las-páginas-web-estáticas">Características de las páginas web estáticas</a></li>
+  <li><a href="#ventajas-de-una-página-web-estática" id="markdown-toc-ventajas-de-una-página-web-estática">Ventajas de una página web estática</a></li>
+  <li><a href="#desventajas-de-una-página-web-estática" id="markdown-toc-desventajas-de-una-página-web-estática">Desventajas de una página web estática</a></li>
+  <li><a href="#algunos-ejemplos-de-sitios-web-estáticos" id="markdown-toc-algunos-ejemplos-de-sitios-web-estáticos">Algunos ejemplos de sitios web estáticos</a></li>
+  <li><a href="#qué-es-una-página-web-dinámica" id="markdown-toc-qué-es-una-página-web-dinámica">Qué es una página web dinámica</a></li>
+  <li><a href="#desventajas-de-una-página-web-dinámica" id="markdown-toc-desventajas-de-una-página-web-dinámica">Desventajas de una página web dinámica</a></li>
+  <li><a href="#página-web-dinámica-vs-estática-conclusión" id="markdown-toc-página-web-dinámica-vs-estática-conclusión">Página web dinámica vs estática: Conclusión</a></li>
+  <li><a href="#diferencia-entre-páginas-web-estáticas-y-páginas-web-dinámicas-con-php" id="markdown-toc-diferencia-entre-páginas-web-estáticas-y-páginas-web-dinámicas-con-php">DIFERENCIA ENTRE PÁGINAS WEB ESTÁTICAS Y PÁGINAS WEB DINÁMICAS CON PHP</a></li>
+  <li><a href="#resultados-en-buscadores-usando-páginas-web-dinámicas" id="markdown-toc-resultados-en-buscadores-usando-páginas-web-dinámicas">RESULTADOS EN BUSCADORES USANDO PÁGINAS WEB DINÁMICAS</a></li>
+  <li><a href="#problemas-seo" id="markdown-toc-problemas-seo">PROBLEMAS SEO</a></li>
+</ul>
+
+<h2 id="qué-es-una-página-web-estática">Qué es una página web estática</h2>
+
+<p>Mi forma de definir una página web estática es compararla a la publicidad impresa. Cuando mandas a imprimir bolantes o flyers, o tarjetas de presentación, el contenido de ese impreso es estático.</p>
+
+<p>Pensando en lo anterior, <strong>podemos deifinir una página web estática como una web que presenta la misma información siempre</strong>. Pero resolvamos unas preguntas:</p>
+
+<ul>
+  <li><strong>¿Se puede agregar información nueva en una página web estática?</strong> Por supuesto que sí. Solo es agregar el nuevo artículo o la nueva sección en la página.</li>
+  <li><strong>¿Entonces no se puede actualizar la información de una página web estática?</strong> Claro que sí. Te contactas con el desarrollador de la página o utilizas tu administrador de contenidos de páginas web estáticas, y se actualiza la información que necesitas actualizar.</li>
+</ul>
+
+<p>Entonces, si la información se puede actualizar, ¿por qué se dice que una página web estática siempre presenta la misma información?</p>
+
+<h2 id="diferencia-de-una-página-web-estática-y-una-página-web-dinámica">Diferencia de una página web estática y una página web dinámica</h2>
+
+<p>Para comprender bien este punto importante, quiero explicarte lo que hace una página web dinámica. Y supongo que el nombre ya te debe dar una pista.</p>
+
+<p><strong>Las páginas web dinámicas cambian la información de acuerdo a lo que le pides o de acuerdo a las funciones que ejecutan</strong>.</p>
+
+<p>Podemos hacer un cuadro para representar sus principales diferencias:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Páginas Web Estáticas</th>
+      <th>Páginas Web Dinámicas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas">Ejemplos de páginas web estáticas y páginas web dinámicas</h3>
+
+<p>Tomemos como ejemplo una página de <a href="https://www.facebook.com">Facebook</a>. Cuando tú abres esta página, estas haciendo una petición especial a Facebook. ¿Cuál? Que te muestre tú pagina o tu perfil en la red social.</p>
+
+<p>Según este ejemplo, si Facebook abriera la página web con la misma información para todo el mundo, entonces sería una página web estática. Pero al abrir siempre una página distinta para cada usuario, con información y “chismes” diferentes, entonces se convierte en una página web dinámica.</p>
+
+<p>Por el contrario, si miras páginas web como <a href="https://gurcoff.com">gurcoff.com</a> o <a href="https://terminaldetransporte.com">terminaldetransporte.com</a>, notarás que sin importa quién abra la página, verás la misma información siempre. Puede que se actualice o le agreguen más, pero no cambia según el usuario.</p>
+
+<h2 id="cómo-es-el-desarrollo-de-una-aplicación-web-estática">¿Cómo es el desarrollo de una aplicación web estática?</h2>
+
+<p>El desarrollo de una página web estática es mucho más sencillo y más rápido que el de una página web dinámica. Para crearlas, se requieren conocimientos básicos de un lenguaje de programación como HTML. Sin embargo, a la hora de actualizarlas y modificarlas es cuando se complica la cosa.</p>
+
+<p>Las dinámicas están pensadas para ser actualizadas constantemente de forma fácil, pero las estáticas requieren de más tiempo y conocimientos sobre programación para hacer cambios en ellas.</p>
+
+<h2 id="características-de-las-páginas-web-estáticas">Características de las páginas web estáticas</h2>
+
+<p>La principal función de una página web estática es presentar una información estable que no es necesario modificar con frecuencia. Por poner un ejemplo claro, se pueden crear páginas web estáticas para informar sobre la dirección de un negocio, para detallar los servicios fijos que ofrece, para contar la historia y la trayectoria de la empresa, etc.</p>
+
+<p>Si quisieras crear una página web estática solo necesitas un editor de texto como el Bloc de notas y saber de HTML y CSS, no es necesario utilizar entornos de desarrollo complejos.</p>
+
+<h2 id="ventajas-de-una-página-web-estática">Ventajas de una página web estática</h2>
+
+<p>Entre las ventajas de una página web estática podemos mencionar:</p>
+
+<ul>
+  <li>El coste inicial de una página web estática puede ser mucho menor que al de una dinámica.</li>
+  <li>Por su naturaleza estática, la complejidad y tiempo de desarrollo es menor porque no requiere del uso de lenguajes de programación o bases de datos, y por ende su coste monetario es más bajo.</li>
+  <li>Son muy flexibles cuando se trata del diseño.</li>
+  <li>Dado a su naturaleza independiente, cada página puede tener un diseño diferente. No es necesario un solo diseño para múltiples tipos de contenido, lo que en los sitios web dinámicos se le conoce como plantillas (templates).</li>
+  <li>Los tiempos de carga son muy rápidos.</li>
+  <li>Ya que los sitios web estáticos son construidos previamente. No implica ejecución de scripts o secuencias de comandos complejas, bases de datos ni análisis de contenido a través de lenguajes de plantillas, etc.</li>
+  <li>Funcionan en cualquier servidor.</li>
+  <li>Tardan poco en cargar.</li>
+  <li>Gran funcionalidad.</li>
+  <li>No requieren instalación.</li>
+  <li>Mejoran el posicionamiento.</li>
+  <li>Se gasta menos en alojamiento.</li>
+  <li>No requieren mucho mantenimiento.</li>
+</ul>
+
+<p>Sin embargo, con la revolución del Jamstack, los generadores de sitios web estáticos como Jekyll, GatsbyJS o Eleventy, y los Headless CMS como Netlify CMS, Siteleaf o Forestry, y además la incorporación de CDN (Content Delivery Network en inglés) para gestionar los recursos multimedia, se puede generar un aumento en el coste de carga de una página web estática dependiendo de sus características.</p>
+
+<h2 id="desventajas-de-una-página-web-estática">Desventajas de una página web estática</h2>
+
+<p>Si bien es cierto que las páginas web dinámicas ofrecen más posibilidades, pueden ser mucho más complejas de construir y mantener para los usuarios que no tengan conocimientos técnicos y deseen incorporar integraciones que no ofrezcan los CMS; mientras que las páginas web estáticas son algo más limitadas, pero en principio son mucho más simples de crear y mantener si posees conocimientos en HTML y CSS.</p>
+
+<p>Algunas desventajas de elegir una página web estática son:</p>
+
+<ul>
+  <li>Una página web estática puede ser más difícil de actualizar.</li>
+  <li>Para usuarios no técnicos, una vez la página es creada, hacer pequeños ajustes en el contenido puede representar un desafío a menos que estén familiarizados con HTML, CSS y el código del sitio web en general. Si no es así, es posible que deban pedirle al desarrollador que la creó originalmente, que realice los cambios que necesitan.</li>
+  <li>Agregar contenido a la página web o realizar actualizaciones puede incurrir en costos adicionales.</li>
+  <li>Esto puede verse como una consecuencia de la desventaja anterior. Es decir que, con el tiempo, el mantenimiento de un sitio estático puede generar costos de mantenimiento continuo que podrían evitarse si tuvieras una página web dinámica.</li>
+  <li>Agregar nuevas páginas o funcionalidades a una web estática puede ser más difícil que hacerlo para una web dinámica.</li>
+  <li>No tienen muchas funcionalidades.</li>
+  <li>El proceso de actualización es complejo.</li>
+  <li>El usuario no puede seleccionar o modificar el contenido o el diseño.</li>
+  <li>El programador tiene que acceder al servidos donde se aloja la página para realizar cambios.</li>
+</ul>
+
+<p>Por ejemplo, si creas una página web para promocionar productos de tecnología, cada vez que quieras agregar un producto, como un nuevo televisor o un nuevo portátil, tendrías que crear una nueva página específicamente para ese producto, lo que puede llevar mucho tiempo además del costo que puede llevar este proceso.</p>
+
+<p>Aquí, la fecha está escrita directamente en el código de la página (estática) y cada vez que se recargue la página, dirá lo mismo, Enero 1, 2020 … la única forma de que cambie es si alguien actualiza el código y escribe otra fecha o aplica alguna instrucción que la haga dinámica para que la fecha sea diferente cada vez que carga.</p>
+
+<h2 id="algunos-ejemplos-de-sitios-web-estáticos">Algunos ejemplos de sitios web estáticos</h2>
+
+<p>PONER EJEMPLOS</p>
+
+<h2 id="qué-es-una-página-web-dinámica">Qué es una página web dinámica</h2>
+
+<p>La mayoría de las personas que no poseen conocimientos técnicos de diseño y desarrollo de páginas web, prefieren los sitios web dinámicos porque a través de plataformas CMS como WordPress, Joomla, Drupal o Ghost pueden crear sitios web dinámicos de una forma muy fácil y rápida, a la vez que son más fáciles de mantener a largo plazo.</p>
+
+<p>La palabra dinámica se refiere a elementos que cambian continuamente, son interactivos y funcionales, en lugar de ser simplemente informativos. Por supuesto, eso requiere utilizar más que solo código HTML y CSS.</p>
+
+<p>En comparación con las páginas web estáticas, que son mayoritariamente informativas, una página web dinámica incluye aspectos que se caracterizan por la interactividad y la funcionalidad, por ejemplo, los usuarios pueden interactuar con la información que se presenta en la página gracias a las instrucciones creadas a través de los lenguajes de programación y la base de datos sobre la que está construida.</p>
+
+<p>Los sitios web dinámicos basan su comportamiento y funcionalidad en dos tipos de programación, front-end (del lado del cliente) y back-end (del lado del servidor). Las instrucciones del lado del cliente es código JavaScript que se ejecuta en el navegador. Mientras que las instrucciones que se ejecutan del lado del servidor son instrucciones escritas en lenguajes de scripting o programación, como ASP.Net, PHP, Python, etc. y que son ejecutadas para crear lo que el usuario ha solicitado en su interacción con la página.</p>
+
+<p>Una vez ejecutadas las instrucciones en el servidor, un nuevo HTTP response se envía al navegador del usuario para mostrarle lo que ha solicitado. El resultado final es el mismo que en un sitio web estático: una página HTML que el usuario ve desde el navegador.</p>
+
+<p>Por resumir, una página web dinámica puede ser más compleja cuando hablamos de su diseño y desarrollo, pero también es más versátil cuando se trata de la funcionalidad que ofrece.</p>
+
+<h2 id="desventajas-de-una-página-web-dinámica">Desventajas de una página web dinámica</h2>
+
+<p>VER ARTICULO ANTERIOR</p>
+
+<h2 id="página-web-dinámica-vs-estática-conclusión">Página web dinámica vs estática: Conclusión</h2>
+
+<p>En conclusión, si tienes que crear una página web y debes tomar la decisión entre crear una página web estática o una dinámica, debe basar tu decisión principalmente en los objetivos que quieres cumplir con tu página web y los recursos de tiempo y conocimientos que tengas disponibles.</p>
+
+<h2 id="diferencia-entre-páginas-web-estáticas-y-páginas-web-dinámicas-con-php">DIFERENCIA ENTRE PÁGINAS WEB ESTÁTICAS Y PÁGINAS WEB DINÁMICAS CON PHP</h2>
+
+<p>Las páginas web estáticas o “planas” son aquellas en las que la información se presenta en forma predefinida y sin cambios. No hay manera de que pueda cambiar el contenido de la página.</p>
+
+<p>A la información contenida en una página estática se le puede dar un determinado formato de presentación, así como incluirle imágenes, enlaces a otras páginas, animaciones, videos, sonidos, etc. En general, todo se hace a través de etiquetas HTML y esto es lo único que puede ofrecerse a través de este tipo de páginas.</p>
+
+<p>En los inicios de Internet predominaban las páginas estáticas, pero con el paso del tiempo y ante la necesidad de agilizar el manejo de la información, surge un nuevo concepto de páginas web que hoy sobresale y es el más utilizado. Estas son denominadas páginas dinámicas: dentro de la programación dinámica para páginas web hay distintos lenguajes (entre los que cabe destacar PHP, ASP y JSP), siendo php uno de los más usados.</p>
+
+<p>Normalmente, las páginas estáticas están compuestas por código HTML. Cuando la página (archivo) es solicitada por el navegador, el servidor la envía y no realiza ninguna operación más. Todos los visitantes verán el mismo contenido.</p>
+
+<p>Las páginas web dinámicas son aquellas en que la información que presentan se genera a partir de alguna acción o petición del usuario en la página o mediante consultas al contenido de bases de datos que normalmente cambian con frecuencia. Contrariamente a las páginas estáticas, en las que su contenido se encuentra predeterminado, en las dinámicas la información aparece inmediatamente después de una solicitud hecha por el usuario o de una consulta a bases de datos.</p>
+
+<p>Una página dinámica permite visualizar la información contenida en una base de datos, así como almacenar y hacer actualizaciones de cierta información en bases de datos a través de formularios donde el usuario introduce contenidos</p>
+
+<p>Piensa por ejemplo en una red social como FaceBook: cuando se escribe en una casilla de texto y se pulsa enter, la información introducida se almacena en una base de datos. Ahora cuando otro usuario entra en FaceBook, esa información introducida por un usuario se le muestra a otro usuario gracias a que se está rescatando de una base de datos.</p>
+
+<p>La programación dinámica tiene múltiples aplicaciones, entre las que podemos citar los sistemas de foros (los mensajes, imágenes, etc. se almacenan en bases de datos).</p>
+
+<p>Otra aplicación consiste en que el usuario tiene la posibilidad de cambiar a su gusto el diseño y el contenido de una página, por ejemplo la página de inicio personalizada de Google, gracias a que sus opciones se almacenan en una base de datos.</p>
+
+<p>Queda claro entonces que para la creación de este tipo de páginas dinámicas, además de etiquetas HTML es necesaria la utilización de algún lenguaje de programación que se ejecute del lado del servidor (es decir, que el servidor realice un proceso antes de enviar la información al usuario de modo que a cada usuario le puede enviar distintas informaciones como resultado de ese proceso), así como la existencia de una o varias bases de datos.</p>
+
+<p>Si creamos un sitio web que usa páginas webs dinámicas, estas páginas son procesadas por el servidor antes de ser enviadas al navegador.</p>
+
+<p>Una página .php contiene código PHP que al ser ejecutado generará código HTML. En ese proceso de ejecución de código, pueden hacerse consultas a bases de datos u otros archivos. Además, pueden realizarse cálculos o tomarse decisiones gracias a la potencia de la programación.</p>
+
+<p>El resultado final es que se envía al navegador código HTML, que es generado para cada visitante en particular dependiendo por ejemplo del contenido de la base de datos en ese momento o de las opciones de configuración o solicitudes específicas del usuario.</p>
+
+<p>Otras personas podrán obtener diferentes resultados si acceden en un momento en que la base de datos haya cambiado, o si tienen opciones de configuración o realizan una solicitud distinta. Ten en cuenta que aunque la URL nos muestre una extensión .php, lo que recibe el usuario es código HTML.</p>
+
+<p>¿Cómo reconocer si una web que visitamos es dinámica o estática? En general, es dinámica aquella que puede interactuar con el visitante y/o administrador web, pudiéndose modificar el contenido de la página según el momento u opciones escogidas.</p>
+
+<p>Ejemplos de esto son: cuando el usuario puede escribir un comentario, escoger los productos y ponerlos en un carrito de compras, subir archivos o fotografías, etc. En este caso SI se utilizan bases de datos y se requiere programación web dinámica.</p>
+
+<p>Las páginas web dinámicas ofrecen muchas ventajas en comparación con las páginas web estáticas, como una mayor interactividad con el usuario y facilidad para el cambio y actualización de contenidos.</p>
+
+<p>A las personas que administran las páginas web (webmasters, programadores, gestores de contenidos), la programación dinámica les permite una reducción en tiempo y costos, así como una mayor facilidad en el mantenimiento de un sitio web.</p>
+
+<h2 id="resultados-en-buscadores-usando-páginas-web-dinámicas">RESULTADOS EN BUSCADORES USANDO PÁGINAS WEB DINÁMICAS</h2>
+
+<p>Ante todas las ventajas de este tipo de páginas cabe citar una desventaja “histórica” en cuanto a los resultados obtenidos en buscadores como Bing, Google o Yahoo.</p>
+
+<p>Hasta hace unos años, los buscadores consideraban que una web dinámica era no indexable (no registrables sus contenidos de cara a búsquedas) debido a que no se podía ofrecer como resultado de un buscador algo que cambiaba con frecuencia.</p>
+
+<h2 id="problemas-seo">PROBLEMAS SEO</h2>
+
+<p>Es frecuente oir el término “URL amigable” en referencia a una dirección web que es sencilla y recuerda un texto simple, por ejemplo:</p>
+
+<p>http://www.aprenderaprogramar.com/cursos/cursophp/paginas-dinamicas-y-estaticas.html</p>
+
+<p>Por el contrario, muchas veces se dice que cuando las páginas contienen .php y numerosos parámetros con caracteres como “?”, “&amp;” y “=” la URL no es amigable. Por ejemplo:</p>
+
+<p>http://www.aprenderaprogramar.com/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=8</p>
+
+<p>Esta situación en la actualidad puede considerarse superada: los buscadores se han sofisticado y son capaces de indexar URL´s dinámicas sin problemas. Algunas aplicaciones de software libre como Joomla, Drupal, WordPress, etc. siguen manteniendo sistemas que permiten convertir las URL´s dinámicas en URL´s amigables, pero en general podemos decir que esto es cada vez menos necesario.</p>
+
+<p>Desde nuestro punto de vista, es más importante tener una página web con un buen diseño, bien estructurada en cuanto a menús y contenidos, que se actualice con frecuencia y que ofrezca contenidos de calidad, más que tener o no tener URL´s amigables.</p>
+:ET

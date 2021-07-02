@@ -2,7 +2,6 @@
 layout: compress
 ---
 {% include head.html %}
-
 <body>
   {% include nav.html %}
   {% include header.html %}
@@ -23,7 +22,19 @@ layout: compress
     </script>
 </amp-analytics> -->
 </body>
+ <!-- Google -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LXH4RTJ9N1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-LXH4RTJ9N1');
+  </script>
 <!-- nav -->
 <script src="{{ site.baseurl }}/js/app.js"></script>
 </html>

@@ -9,35 +9,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
   <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title}}{% else %}{{ site.title}}{% endif %}" href="{{"/feed.xml" | relative_url}}">
   <!-- SCHEMA WEB -->
+  {% if page.json %}
   <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "NewsArticle",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{page.url}}"
-      },
-      "headline": "{{page.h1}}",
-      "image": [
-        "{{site.baseurl}}/img/{{page.hero}}",
-      ],
-      "datePublished": "{{page.date}}",
-      "dateModified": "{{page.date}}",
-      "author": {
-        "@type": "Person",
-        "name": "{{page.autor}}"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "{{site.name}}",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "{{site.baseurl}}/img/juli.svg"
-        }
-      },
-      "description": "{{page.description}}"
-    }
+    {{page.json}}
   </script>
+  {% endif %}
   <!-- DATOS SERP -->
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
   <link rel="preload" href="{{site.baseurl}}/img/{{page.hero}}" as="image">

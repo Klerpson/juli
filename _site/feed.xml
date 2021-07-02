@@ -4,13 +4,21 @@
      <link href="https://juli.com.cofeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://juli.com.co" rel="alternate" type="text/html"/>
      <id>https://juli.com.co</id>
-     <updated>2021-06-18T21:27:29-05:00</updated>
+     <updated>2021-07-01T16:30:13-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Páginas web estáticas, ¿cuándo es mejor usarlas?</title>
+   <link href="https://juli.com.co/paginas-web-estaticas-para-empredimientos"/>
+   <id>https://juli.com.co/paginas-web-estaticas-para-empredimientos</id>
+   <updated>2021-06-21T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos,...</content>
+ </entry>
  
  <entry>
    <title>Yo no te aconsejo utilizar WordPress</title>
