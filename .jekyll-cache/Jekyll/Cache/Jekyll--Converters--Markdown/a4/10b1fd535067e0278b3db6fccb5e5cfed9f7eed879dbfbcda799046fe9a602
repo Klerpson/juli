@@ -1,0 +1,101 @@
+I"�&<p>Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.</p>
+
+<!-- excerpt -->
+
+<p>Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.</p>
+
+<p>Pero si tu negocio es pequeño, ya verás que una página estática puede ser más que suficiente. ¡Veamos!</p>
+
+<ul id="markdown-toc">
+  <li><a href="#qué-es-una-página-web-estática" id="markdown-toc-qué-es-una-página-web-estática">Qué es una página web estática</a></li>
+  <li><a href="#diferencia-de-una-página-web-estática-y-una-página-web-dinámica" id="markdown-toc-diferencia-de-una-página-web-estática-y-una-página-web-dinámica">Diferencia de una página web estática y una página web dinámica</a>    <ul>
+      <li><a href="#ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas" id="markdown-toc-ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas">Ejemplos de páginas web estáticas y páginas web dinámicas</a></li>
+    </ul>
+  </li>
+  <li><a href="#características-de-las-páginas-web-estáticas" id="markdown-toc-características-de-las-páginas-web-estáticas">Características de las páginas web estáticas</a></li>
+  <li><a href="#ventajas-de-las-páginas-web-estáticas" id="markdown-toc-ventajas-de-las-páginas-web-estáticas">Ventajas de las páginas web estáticas</a></li>
+  <li><a href="#debería-hacer-una-página-web-estática" id="markdown-toc-debería-hacer-una-página-web-estática">¿Debería hacer una página web estática?</a></li>
+</ul>
+
+<h2 id="qué-es-una-página-web-estática">Qué es una página web estática</h2>
+
+<p>Mi forma de definir una página web estática es compararla a la publicidad impresa. Cuando mandas a imprimir bolantes o flyers, o tarjetas de presentación, el contenido de ese impreso es estático.</p>
+
+<p>Pensando en lo anterior, <strong>podemos deifinir una página web estática como una web que presenta la misma información siempre</strong>. Ahora bien, resolvamos unas preguntas que nos ayuden a entender este punto:</p>
+
+<ul>
+  <li><strong>¿Se puede agregar información nueva en una página web estática?</strong> Por supuesto que sí. Solo es agregar el nuevo artículo o la nueva sección en la página.</li>
+  <li><strong>¿Entonces no se puede actualizar la información de una página web estática?</strong> Claro que sí. Te contactas con el desarrollador de la página o utilizas tu administrador de contenidos de páginas web estáticas, y se actualiza la información que necesitas actualizar.</li>
+</ul>
+
+<p>Entonces, si la información se puede actualizar, ¿por qué se dice que una página web estática siempre presenta la misma información?</p>
+
+<h2 id="diferencia-de-una-página-web-estática-y-una-página-web-dinámica">Diferencia de una página web estática y una página web dinámica</h2>
+
+<p>Para comprender bien este punto importante, quiero explicarte lo que hace una página web dinámica. Y supongo que el nombre ya te debe dar una pista.</p>
+
+<p><strong>Las páginas web dinámicas cambian la información de acuerdo a lo que le pides o de acuerdo a las funciones que ejecutan</strong>. Si las páginas web estáticas parecen publicidad impresa, las web dinámicas son como una pantalla con información que va cambiando de acuerdo a lo que pides.</p>
+
+<p>Por lo anterior, podemos decir que las diferencias básicas son:</p>
+
+<ol>
+  <li>En las páginas estáticas se presenta la información tal como se diseñó, mientras en las web dinámicas la información cambia según la persona y sus necesidades.</li>
+  <li>Las páginas web dinámicas necesitan de más conocimiento sobre herramientas de programación y bases de datos.</li>
+  <li>Las páginas web estáticas son mucho más rápidas que las dinámicas, porque solo presentan información.</li>
+  <li>Las páginas web dinámicas son para proyectos más grandes y complejos.</li>
+  <li>Las páginas web estáticas ocupan mucho menos espacio en tu servidor o hosting.</li>
+</ol>
+
+<h3 id="ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas">Ejemplos de páginas web estáticas y páginas web dinámicas</h3>
+
+<p>Tomemos como ejemplo una página de <a href="https://www.facebook.com">Facebook</a>. Cuando tú abres esta página, estas haciendo una petición especial a Facebook. ¿Cuál? Que te muestre tú pagina o tu perfil en la red social, y no el que le está mostrando a tu familiar, vecino o a un desconocido de otra parte del mundo.</p>
+
+<p>Según este ejemplo, si Facebook abriera la página web con la misma información para todo el mundo, entonces sería una página web estática. Pero al abrir siempre una página distinta para cada usuario, con información y “chismes” diferentes, entonces se convierte en una página web dinámica.</p>
+
+<p>Por el contrario, si miras páginas web estáticas como <a href="https://gurcoff.com/blog">gurcoff.com/blog</a> o <a href="https://terminaldetransporte.com">terminaldetransporte.com</a>, notarás que sin importa quién abra la página, verás la misma información siempre. Puede que se actualice o le agreguen más información, pero no se modifica la información según el usuario.</p>
+
+<p>Entonces, ¿cuál me puede servir en mi proyecto? Veamos.</p>
+
+<h2 id="características-de-las-páginas-web-estáticas">Características de las páginas web estáticas</h2>
+
+<p><strong>Las páginas web estáticas son perfectas para presentar un negocio</strong>. Y cuando la mayoría de mis clientes me preguntan por páginas web, me solicitan páginas con este objetivo. Veamos algunos ejemplos que te pueden guiar:</p>
+
+<ul>
+  <li>Páginas web institucionales</li>
+  <li>Páginas web empresariales</li>
+  <li>Páginas web para dar a conocer un producto</li>
+  <li>Páginas web para capturar datos de lectores o suscriptores</li>
+  <li>Páginas web para un evento, etc</li>
+</ul>
+
+<p>Así que, con estas páginas web estáticas puedes dar a conocer la dirección de un negocio, los servicios que ofreces, contar historias, mostrar tu portafolio de diseños o fotografías, dar a conocer tu emprendimiento, etc.</p>
+
+<p><strong>Las páginas web estáticas son muy buenas para posicionarnos en las búsquedas de Google</strong>. Recuerda que las páginas web dinámicas toman un poco más de tiempo para cargar. En ocasiones demasiado. Y esto <a href="#fuentes">lo penaliza Google</a>. Las páginas web estáticas cargan mucho más rápido.</p>
+
+<p>Pensando en estas características básicas, podemos analizar las ventajas de esta clase de páginas.</p>
+
+<h2 id="ventajas-de-las-páginas-web-estáticas">Ventajas de las páginas web estáticas</h2>
+
+<p>Personalmente, siempre te voy a recomendar páginas web estáticas. Y para que entiendas por qué, quiero contarte las ventajas principales de estas páginas web.</p>
+
+<ul>
+  <li><strong>Las páginas web estáticas son mucho más baratas</strong>. Recuerda que las páginas dinámicas necesitan mucha más programación y bases de datos, y esto, por supuesto, implica más costos. Ahora, si la naturaleza de tu emprendimiento requiere de eso, pues tu única opción son las páginas dinámicas.</li>
+  <li><strong>Hacer una página estática es mucho más rápido</strong>. Entonces, podrás mostrar con más prontitud la información que necesitas difundir.</li>
+  <li><strong>El diseño de una página web estática es más flexible</strong>. Este punto es más aplicable en la comparativa de páginas dinámicas basadas en plantillas administrables. Un ejemplo es wordpress, y puedes leer aquí <a href="/por-que-no-usar-wordpress">por qué no recomiendo usar wordpress</a>.</li>
+  <li><strong>Los tiempos de carga  de una página web estática son muy rápidos</strong>. Esto es muy importante cuando lo que estás intentando es pocisionar un emprendimiento nuevo o no tan conocido.</li>
+  <li><strong>Las página web estáticas tienen url’s amigables</strong>. Por eso, no vas a ver símbolos y números en las direcciones. Y esto también se premia en el posicionamiento web.</li>
+  <li><strong>Las páginas web estáticas son muy seguras</strong>. Por no tener bases de datos, o scripts de consulta por programación, no son vulnerables a los ataques de internet más conocidos.</li>
+  <li><strong>Las páginas web estáticas funcionan en cualquier servidor</strong>, pues son ligeras y solo presentan información. Cualquier servicio de hosting te puede servir para comenzar, hasta los gratuitos.</li>
+  <li><strong>Las página estáticas no requieren mucho mantenimiento</strong>. Solamente actualizas la información que cambias y no más.</li>
+  <li><strong>Las páginas web estáticas pueden incluir muchas herramientas</strong>. Así que ya puedes agregar animaciones, opciones de captura de información, entre otras. Si solo por esto preferías las páginas dinámicas, ya no es una razón para inclinarte por estas.</li>
+  <li><strong>Ya existen generadores de páginas web estáticas</strong>. Así que con poco conocimiento técnico puedes aprender a administrar el contenido de tu sitio web.</li>
+</ul>
+
+<p>Para resumir el punto: <strong>yo te recomiendo una página web estática porque disminuye tus costos, mejora tu pocisionamiento y puedes efectuar las funciones más importantes para tu negocio.</strong></p>
+
+<h2 id="debería-hacer-una-página-web-estática">¿Debería hacer una página web estática?</h2>
+
+<p>Insisto. Es mi punto de vista personal. Sí, absolutamente sí. Si tu emprendimiento no necesita de una página web que parezca casi una aplicación por la cantidad de funciones, es mejor una página web estática.</p>
+
+<p>Y por supuesto, si quieres contar conmigo, no dudes en <a href="/contacto">contactarme</a>.</p>
+:ET
