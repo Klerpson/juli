@@ -3,72 +3,75 @@ layout: default
 ---
 {% include logo.html %}
 <main class="articulo">
-  {{ content }}
-  <section class="share-box">
-    <h3>Comparte este artículo en tu red favorita:</h3>
-    <a class="f" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span>Facebook</span></a>
-  <a class="i" href="whatsapp://send?text=Holaaaa.%20Mira%20esta%20pagina%20web.%20{{ site.url }}{{page.url}}" rel="nofollow" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"> <span>WhatsApp</span></a>
-  <a href="https://twitter.com/intent/tweet?button_hashtag=juli_digital&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet para #juli_digital</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </section>
-</main>
+  <article>
+    {{ content }}
+    <div class="referencias">
+      <h4>Créditos de las gráficas, referencias y fuentes:</h4>
+      {% for link_hash in page.referencias %}
+      {% for link in link_hash %}
+      <ul>
+        <li>
+          <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+        </li>
+      </ul>
+      {% endfor %}
+      {% endfor %}
+    </div>
+    <h3>Hagamos lo que aprendiste de {{page.h1}}</h3>
+    <a class="botones" href="https://wa.me/573202492786" style="color: white;">Escríbeme por WhatsApp</a>
+  </article>
+  <aside>
 
-<div class="canal-telegram">
-  <a href="https://t.me/joinchat/OjEVskLAMuw5OTZh">Entra a mi canal de Telegram</a>
-</div>
+    <h3>Aprende más...</h3>
 
-<section class="sugerencias">
-
-  <h3>Aprende más...</h3>
-
-  {% assign maxRelated = 4 %}
-  {% assign minCommonTags =  1 %}
-  {% assign maxRelatedCounter = 0 %}
+    {% assign maxRelated = 4 %}
+    {% assign minCommonTags =  1 %}
+    {% assign maxRelatedCounter = 0 %}
 
 
-  {% for post in site.posts %}
+    {% for post in site.posts %}
 
 
-  {% assign sameTagCount = 0 %}
-  {% assign commonTags = '' %}
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
 
-  {% for tag in post.tags %}
-  {% if post.url != page.url %}
-  {% if page.tags contains tag %}
-  {% assign sameTagCount = sameTagCount | plus: 1 %}
-  {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-  {% assign commonTags = commonTags | append: tagmarkup %}
-  {% endif %}
-  {% endif %}
-  {% endfor %}
+    {% for tag in post.tags %}
+    {% if post.url != page.url %}
+    {% if page.tags contains tag %}
+    {% assign sameTagCount = sameTagCount | plus: 1 %}
+    {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+    {% assign commonTags = commonTags | append: tagmarkup %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 
-  {% if sameTagCount >= minCommonTags %}
+    {% if sameTagCount >= minCommonTags %}
 
-  <div class="relacionados">
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}" >
+    <div class="relacionados">
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">
         {% if post.hero %}
         <img src="{{ site.baseurl }}/img/{{ post.hero }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}">
         {% endif %}
-      <h4> {{ post.title }}</h4>
-    </a>
-  </div>
+        <h4> {{ post.title }}</h4>
+      </a>
+    </div>
 
-  {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-  {% if maxRelatedCounter >= maxRelated %}
-  {% break %}
-  {% endif %}
-  {% endif %}
-  {% endfor %}
-</section>
+    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+    {% if maxRelatedCounter >= maxRelated %}
+    {% break %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+  </aside>
+</main>
 
-<div class="referencias">
-  <p>Créditos de las gráficas, referencias y fuentes:</p>
-  {% for link_hash in page.referencias %}
-  {% for link in link_hash %}
-  <ul>
-    <li>
-      <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
-    </li>
-  </ul>
-  {% endfor %}
-  {% endfor %}
+<div class="share-box">
+  <h3>Comparte este artículo en tu red favorita:</h3>
+  <a class="f" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow"
+    onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">
+    <span>Facebook</span></a>
+  <a class="i" href="whatsapp://send?text=Holaaaa.%20Mira%20esta%20pagina%20web.%20{{ site.url }}{{page.url}}"
+    rel="nofollow"
+    onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">
+    <span>WhatsApp</span></a>
 </div>

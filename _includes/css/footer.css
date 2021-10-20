@@ -12,6 +12,8 @@ footer p {
   display: inline-block;
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
+  margin: 0;
+  padding: 0;
 }
 
 footer a {

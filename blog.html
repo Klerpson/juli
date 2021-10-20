@@ -1,24 +1,29 @@
 ---
 layout: buscador
 title: Aprende a digitalizar tu emprendimiento
-description: Entérate de los lugares, las novedades y las experiencias que vivimos en San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
+description: Me encanta estudiar sobre páginas web, marketing, emprendimiento, estrategias digitales, etc. Pero también me encanta enseñar. Por eso, hago este blog.
+h1: Toda mi experiencia a tu disponibilidad
 hero: articulos/blog.svg
 altheader: Logo de juli.com.co paginas web
 imgtitle-header: Logo de juli.com.co, desarrollo web
 ---
 {% include logo.html %}
 
-<section class="magazine">
+<section class="blog">
   <p>{{ page.description }}</p>
+  <p>Aquí te quiero regalar todo mi conocimiento y experiencia adquirida a través de los años. <b>Busca el tema que más
+      necesitas en el momento y aplícalo</b>. Y si tienes más dudas, al final de cada artículo te dejo un botón para que
+    me puedas escribir.</p>
   {% include search.html %}
+</section>
+
+<h2>Temas para tu estrategia digital</h2>
+<main class="contenido">
   {% for post in site.posts %}
   <article>
-    <a class="botones" href="{{ site.baseurl }}{{ post.url }}">
-      <h2>
-        {{ post.title }}
-      </h2>
-    </a>
+    <h3>{{ post.title }}</h3>
     {{ post.excerpt }}
+    <a class="botones" href="{{ site.baseurl }}{{ post.url }}">Leer el artículo</a>
   </article>
   {% endfor %}
-</section>
+</main>

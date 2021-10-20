@@ -1,0 +1,247 @@
+/* CONJUNTOS */
+.intro,
+.parallax,
+.clientes,
+.entradas,
+.conclusion,
+.articulo{
+  padding: clamp(5rem, 15vw, 10rem) 0;
+}
+
+.servicios div h3,
+.clientes div h3 {
+  font-size: calc(100% * 2);
+}
+
+.intro div,
+.parallax p{
+  max-width: min(500px, 90%);
+}
+
+/* HOME */
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro div {
+  padding: 1.5rem;
+}
+
+.intro img {
+  max-width: 90%;
+}
+
+.servicios {
+  display: grid;
+  gap: 5rem;
+  padding: 0 2rem clamp(5rem, 15vw, 10rem);
+  color: white;
+}
+
+.servicios div,
+.entradas article {
+  padding: 7vh 2rem;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  border: 10px solid var(--blanco);
+}
+
+.servicios div:nth-child(1){
+  background-color: var(--accion);
+  background-image: url({{site.baseurl}}/img/fondo-1.png);
+}
+
+.servicios div:nth-child(2),
+.entradas article:nth-child(4) {
+  background-color: var(--gris);
+  background-image: url({{site.baseurl}}/img/fondo-1.png);
+}
+
+.servicios div:nth-child(3),
+.entradas article:nth-child(5) {
+  background-color: var(--azul);
+  background-image: url({{site.baseurl}}/img/fondo-1.png);
+}
+
+.servicios div li {
+  margin-right: 1rem;
+}
+
+.servicios div li:before {
+  content: '✓ ';
+}
+
+.servicios div li a{
+  color: var(--amarillo);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 2.5px;
+}
+
+.parallax{
+  position: relative;
+  background-image: url({{site.baseurl}}/img/juli-winner.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  color: white;
+  font-weight: 700;
+  font-size: var(--sizeH3);
+  display: flex;
+  justify-content: right;
+}
+
+.parallax p{
+  max-width: min(500px, 90%);
+  padding: 1rem;
+  text-decoration: underline;
+  text-decoration-thickness: 5px;
+}
+
+.clientes{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+  justify-content: center;
+}
+
+.clientes h2{
+  width: 100%;
+}
+
+.clientes div{
+  display: grid;
+  width: min(500px, 90%);
+  padding: 5vh 3vw;
+  border-radius: 25px;
+  border: 10px solid var(--gris);
+  box-shadow: var(--shadow);
+}
+
+.clientes div a{
+justify-self: right;
+}
+
+.experiencia {
+  width: 80vw;
+  margin: 50px auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.experiencia:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -1px;
+  width: 2px;
+  height: 100%;
+  background: var(--gris);
+  opacity: .7;
+  z-index: 1
+}
+
+.timeline-block {
+  width: -webkit-calc(50% + 8px);
+  width: -moz-calc(50% + 8px);
+  width: calc(50% + 8px);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-box-pack: justify;
+  justify-content: space-between;
+  clear: both;
+}
+
+.timeline-block-right {
+  float: right;
+}
+
+.timeline-block-left {
+  float: left;
+  direction: rtl
+}
+
+.marker {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid #F5F7FA;
+  background: #4FC1E9;
+  margin-top: 10px;
+  z-index: 9999
+}
+
+.timeline-content {
+  width: 95%;
+  padding: 0 15px;
+  color: #666
+}
+
+.timeline-content h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  font-weight: 500
+}
+
+.timeline-content span {
+  font-size: 15px;
+  color: #a4a4a4;
+}
+
+.timeline-content p {
+  font-size: 14px;
+  line-height: 1.5em;
+  word-spacing: 1px;
+  color: #888;
+}
+
+.entradas{
+  display: flex;
+  flex-wrap: wrap;
+  width: min(720px, 90%);
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.entradas article{
+  display: grid;
+  place-content: center;
+  margin: 2rem 0;
+  color: white;
+}
+
+.entradas article img{
+  justify-self: center;
+}
+
+.entradas article a{
+  color: white;
+}
+
+.entradas article:nth-child(3) {
+  background-color: var(--azul);
+  background-image: url({{site.baseurl}}/img/fondo-1.png);
+}
+
+.conclusion{
+  background-color: var(--gris);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.conclusion p{
+  width: min(500px, 90%);
+  text-align: center;
+}

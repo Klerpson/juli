@@ -1,61 +1,62 @@
-.logo{
-  position: absolute;
-}
-
-.articulo,
-.sugerencias,
-#disqus_thread {
-  position: relative;
-  padding: 0 1.5rem;
-}
-
-.articulo li {
-  list-style: square;
-  margin-left: 1.5rem;
-}
-
-.articulo a,
-.canal-telegram {
-  font-weight: 700;
-  color: var(--accion);
-  text-decoration: none;
-  background-image: linear-gradient(var(--accion), var(--amarillo));
-  background-position: 0% 100%;
-  background-repeat: no-repeat;
-  background-size: 0% 2px;
-  transition: background-size .3s;
-}
-
-.canal-telegram:hover,
-.canal-telegram:focus,
-.articulo a:hover,
-.articulo a:focus {
-  background-size: 100% 2px;
-}
-
-.articulo amp-img{
-  width: 320px;
-  justify-self: center;
-}
-
-#epigrafe{
-  display: block;
-  text-align: center;
-  font-family: var(--fuenteQ);
-  font-weight: 700;
-}
-
-.canal-telegram{
-  text-transform: uppercase;
-  font-family: var(--fuenteTitulo);
-}
-
-.share-box{
+.articulo{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 3rem 0;
+  gap: 2rem;
+  }
+
+.articulo li:before {
+  content: '✓ ';
+}
+
+.articulo article{
+  width: min(630px, 90%);
+}
+
+.articulo article h2,
+.articulo article h3{
+  margin: 2rem 0;
+}
+
+.articulo article li{
+  margin-bottom: 1.5rem;
+}
+
+.articulo article a{
+  color: var(--rojo);
+  text-decoration: underline 3px;
+  transition: ease-in-out 0.5s;
+}
+
+.articulo article a:hover{
+color: var(--accion);
+}
+.articulo aside{
+  width: min(320px, 90%);
+  padding: 5vh 3vw;
+  text-align: center;
+  border-radius: var(--radius);
+  border: 10px solid var(--gris);
+  height: min-content;
+}
+
+.articulo aside img{
+  width: 200px;
+}
+
+.articulo aside a{
+  color: var(--azul);
+  text-transform: uppercase;
+}
+.share-box{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 2rem;
+  justify-content: center;
   justify-self: center;
+  padding: 5rem 0;
+  background-color: var(--gris);
+  color: white;
 }
 
 .share-box h3{
@@ -70,6 +71,7 @@
   box-shadow: 0 2px 5px var(--gris1);
   padding: 5px 12px;
   text-decoration: none;
+  background-color: var(--blanco);
 }
 
 .share-box a:hover {
@@ -91,27 +93,4 @@
 .i:hover {
   color: #fff;
   background-color: #43d336;
-}
-
-.sugerencias h3{
-  margin: 2rem 0;
-}
-
-.relacionados a{
-  display: grid;
-}
-
-.relacionados img{
-  max-width: 50%;
-  justify-self: center;
-}
-
-.relacionados h4{
-  text-transform: uppercase;
-  text-align: center;
-  color: var(--accion);
-}
-
-.relacionados a{
-  margin: 1.5rem 0;
 }

@@ -1,8 +1,13 @@
 <header>
-  {% if page.hero %}
-  <amp-img src="{{site.baseurl}}/img/{{page.hero}}" width="320" height="240" layout="responsive"
-    alt="{{page.altheader}}">
-  </amp-img>
-  {% endif %}
-  <h1>{{page.h1}}</h1>
+  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.altheader}}">
+  <div>
+    {% include logo.html %}
+    {% include nav.html %}
+  </div>
+  <div class="encabezado">
+    <h1>{{page.h1}}</h1>
+    {% if page.cta %}
+    <a href="{{page.href}}" class="botones">{{page.cta}}</a>
+    {% endif %}
+  </div>
 </header>

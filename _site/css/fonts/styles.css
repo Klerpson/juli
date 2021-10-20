@@ -1,46 +1,46 @@
 @charset "UTF-8";
-/* oswald-regular - latin */
+/* josefin-sans-700 - latin */
 @font-face {
-  font-family: 'Oswald';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('../fonts/oswald-v36-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/oswald-v36-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-/* oswald-700 - latin */
-@font-face {
-  font-family: 'Oswald';
+  font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 700;
   src: local(''),
-       url('../fonts/oswald-v36-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/oswald-v36-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('josefin-sans-v17-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('josefin-sans-v17-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-/* megrim-regular - latin */
+/* josefin-sans-700italic - latin */
 @font-face {
-  font-family: 'Megrim';
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''),
+       url('josefin-sans-v17-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('josefin-sans-v17-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('../fonts/megrim-v11-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/megrim-v11-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('lato-v20-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('lato-v20-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
-/* nunito-sans-regular - latin */
+/* lato-700 - latin */
 @font-face {
-  font-family: 'Nunito Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('../fonts/nunito-sans-v6-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/nunito-sans-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-/* nunito-sans-700 - latin */
-@font-face {
-  font-family: 'Nunito Sans';
+  font-family: 'Lato';
   font-style: normal;
   font-weight: 700;
   src: local(''),
-       url('../fonts/nunito-sans-v6-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/nunito-sans-v6-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('lato-v20-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('lato-v20-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* grechen-fuemen-regular - latin */
+@font-face {
+  font-family: 'Grechen Fuemen';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('grechen-fuemen-v1-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('grechen-fuemen-v1-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
