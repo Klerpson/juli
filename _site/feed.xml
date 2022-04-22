@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
      <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-     <link href="https://juli.com.cofeed.xml" rel="self" type="application/atom+xml"/>
-     <link href="https://juli.com.co" rel="alternate" type="text/html"/>
-     <id>https://juli.com.co</id>
-     <updated>2021-12-29T10:13:42-05:00</updated>
+     <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
+     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
+     <id>http://localhost:4000</id>
+     <updated>2022-04-22T15:02:23-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -14,24 +14,24 @@
  
  <entry>
    <title>Páginas web estáticas, ¿cuándo es mejor usarlas?</title>
-   <link href="https://juli.com.co/paginas-web-estaticas-para-empredimientos"/>
-   <id>https://juli.com.co/paginas-web-estaticas-para-empredimientos</id>
+   <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos"/>
+   <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
    <updated>2021-06-21T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos,...</content>
  </entry>
  
  <entry>
    <title>Yo no te aconsejo utilizar WordPress</title>
-   <link href="https://juli.com.co/por-que-no-usar-wordpress"/>
-   <id>https://juli.com.co/por-que-no-usar-wordpress</id>
+   <link href="http://localhost:4000/por-que-no-usar-wordpress"/>
+   <id>http://localhost:4000/por-que-no-usar-wordpress</id>
    <updated>2021-05-21T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#primero-qué-es-wordpress-y-cómo-funciona&quot; id=&quot;markdown-toc-primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#wordpress-es-fácil-y-gratis-pero&quot; id=&quot;markdown-toc-wordpress-es-fácil-y-gratis-pero&quot;&gt;WordPress es fácil y gratis, pero…&lt;/a&gt; &lt;ul&gt;...</content>
  </entry>
  
  <entry>
    <title>Páginas web, ¿cuándo es buena idea y cuándo no?</title>
-   <link href="https://juli.com.co/paginas-web-cuando-si-cuando-no"/>
-   <id>https://juli.com.co/paginas-web-cuando-si-cuando-no</id>
+   <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no"/>
+   <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
    <updated>2021-04-21T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#la-pregunta-al-digitalizar-un-negocio-tradicional&quot; id=&quot;markdown-toc-la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#no-siempre-busques-una-página-web-cuando-estás-comenzando&quot; id=&quot;markdown-toc-no-siempre-busques-una-página-web-cuando-estás-comenzando&quot;&gt;No siempre busques una página web… cuando estás comenzando&lt;/a&gt;...</content>
  </entry>

@@ -19,7 +19,8 @@
 
 @media screen and (min-width:992px) {
   .servicios,
-  .clientes {
+  .clientes,
+  .entradas div {
     grid-template-columns: repeat(auto-fill, minmax(25vw, auto));
     place-content: center;
     gap: 2rem;

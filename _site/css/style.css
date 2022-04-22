@@ -703,14 +703,12 @@ header>img {
   background-image: url(/img/fondo-1.png);
 }
 
-.servicios div:nth-child(2),
-.entradas article:nth-child(4) {
+.servicios div:nth-child(2) {
   background-color: var(--gris);
   background-image: url(/img/fondo-1.png);
 }
 
-.servicios div:nth-child(3),
-.entradas article:nth-child(5) {
+.servicios div:nth-child(3) {
   background-color: var(--azul);
   background-image: url(/img/fondo-1.png);
 }
@@ -750,18 +748,20 @@ header>img {
   text-decoration-thickness: 5px;
 }
 
-.clientes{
+.clientes, .entradas{
   display: flex;
   flex-wrap: wrap;
   gap: 5rem;
   justify-content: center;
+  align-items: stretch;
 }
 
 .clientes h2{
   width: 100%;
 }
 
-.clientes div{
+.clientes div,
+.entradas article{
   display: grid;
   width: min(500px, 90%);
   padding: 5vh 3vw;
@@ -853,34 +853,30 @@ justify-self: right;
   color: #888;
 }
 
-.entradas{
-  display: flex;
-  flex-wrap: wrap;
-  width: min(720px, 90%);
-  justify-content: center;
-  margin: 0 auto;
+.entradas h2{
+  width: min(90vw, 720px);
+}
+.entradas > p{
+  width: min(90vw, 50vw);
+  margin: 0 10vmax
 }
 
 .entradas article{
-  display: grid;
-  place-content: center;
-  margin: 2rem 0;
-  color: white;
+  background-color: var(--azul);
 }
 
 .entradas article img{
   justify-self: center;
 }
 
-.entradas article a{
+.entradas article > a{
   color: white;
+  justify-self: flex-end;
 }
 
-.entradas article:nth-child(3) {
-  background-color: var(--azul);
-  background-image: url(/img/fondo-1.png);
+.entradas > a{
+  align-self: center;
 }
-
 .conclusion{
   background-color: var(--gris);
   color: white;
@@ -1164,7 +1160,8 @@ color: var(--accion);
 
 @media screen and (min-width:992px) {
   .servicios,
-  .clientes {
+  .clientes,
+  .entradas div {
     grid-template-columns: repeat(auto-fill, minmax(25vw, auto));
     place-content: center;
     gap: 2rem;
