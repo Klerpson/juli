@@ -4,7 +4,7 @@
   border: 1px solid var(--azul);
   border-radius: 37px;
   box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
-  padding: 0.7rem;
+  padding: 2rem clamp(1rem, 10vw, 1.5rem);
   margin: 1rem 0;
   list-style: decimal;
   display: inline-block;

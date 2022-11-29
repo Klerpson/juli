@@ -19,7 +19,7 @@
   --sizeH1: clamp(32px, 5vw, 2.5rem);
   --sizeH2: clamp(24px, 5vw, 2rem);
   --sizeH3: clamp(20px, 5vw, 1.8rem);
-  --sizeTexto: clamp(16px, 1vw + .5rem, 1rem);
+  --sizeTexto: clamp(18px, 1vw + 1rem, 1.4rem);
 }
 
 /*** Formatos Universales ***/
@@ -180,9 +180,11 @@ img {
 .parallax,
 .clientes,
 .entradas,
-.conclusion,
+.contenido,
 .articulo{
   padding: clamp(5rem, 15vh, 10rem) 0;
+  width: min(90%, 1400px);
+  margin: 0 auto;
 }
 
 .servicios div h3,
@@ -759,7 +761,7 @@ justify-self: right;
 }
 
 .experiencia {
-  width: 80vw;
+  width: min(90%, 1400px);
   margin: 50px auto;
   position: relative;
   overflow: hidden;
@@ -853,15 +855,17 @@ justify-self: right;
   justify-self: center;
 }
 
-.entradas article > a{
+.entradas article a{
   color: white;
   justify-self: flex-end;
 }
 
 .entradas > a{
-  align-self: center;
+  width: min-content;
 }
+
 .conclusion{
+  padding: clamp(5rem, 15vh, 10rem) 0;
   background-color: var(--gris);
   color: white;
   display: flex;
@@ -933,7 +937,7 @@ color: var(--accion);
 }
 .articulo aside{
   width: min(320px, 90%);
-  padding: 5vh 3vw;
+  padding: 5vh 16px;
   text-align: center;
   border-radius: var(--radius);
   border: 10px solid var(--gris);
@@ -1002,7 +1006,7 @@ color: var(--accion);
   border: 1px solid var(--azul);
   border-radius: 37px;
   box-shadow: 12px 9px 28px #dadadf, -12px -12px 35px #ffffff;
-  padding: 0.7rem;
+  padding: 2rem clamp(1rem, 10vw, 1.5rem);
   margin: 1rem 0;
   list-style: decimal;
   display: inline-block;

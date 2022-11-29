@@ -96,7 +96,7 @@ justify-self: right;
 }
 
 .experiencia {
-  width: 80vw;
+  width: min(90%, 1400px);
   margin: 50px auto;
   position: relative;
   overflow: hidden;
@@ -190,15 +190,17 @@ justify-self: right;
   justify-self: center;
 }
 
-.entradas article > a{
+.entradas article a{
   color: white;
   justify-self: flex-end;
 }
 
 .entradas > a{
-  align-self: center;
+  width: min-content;
 }
+
 .conclusion{
+  padding: clamp(5rem, 15vh, 10rem) 0;
   background-color: var(--gris);
   color: white;
   display: flex;

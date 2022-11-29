@@ -19,7 +19,7 @@
   --sizeH1: clamp(32px, 5vw, 2.5rem);
   --sizeH2: clamp(24px, 5vw, 2rem);
   --sizeH3: clamp(20px, 5vw, 1.8rem);
-  --sizeTexto: clamp(16px, 1vw + .5rem, 1rem);
+  --sizeTexto: clamp(18px, 1vw + 1rem, 1.4rem);
 }
 
 /*** Formatos Universales ***/
@@ -180,9 +180,11 @@ img {
 .parallax,
 .clientes,
 .entradas,
-.conclusion,
+.contenido,
 .articulo{
   padding: clamp(5rem, 15vh, 10rem) 0;
+  width: min(90%, 1400px);
+  margin: 0 auto;
 }
 
 .servicios div h3,
