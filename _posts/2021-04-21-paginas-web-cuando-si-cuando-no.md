@@ -113,7 +113,7 @@ Otro tipo de estrategia es cuando queremos compartir información a una comunida
 
 #### Estretagia digital con blogs
 
-Puedo mencionar un ejemplo que me gustó mucho: {% include nofollow.html href="https://sanagustiniando.co" title="enlace de sanagustiniando.co" texto="sanagustiniando.co" %} Es un proyecto cultural con un conjunto de artistas y periodistas, que están compartiendo información cultural y artística sobre San Agustín Huila. Hicieron un blog para compartir toda esa cantidad de información para dar a conocer al mundo su cultura y conocimiento.
+Puedo mencionar un ejemplo que me gustó mucho: {% include nofollow.html href="https://klerpson.github.io/sanagustiniando/" title="enlace de sanagustiniando.co" texto="sanagustiniando.co" %} Es un proyecto cultural con un conjunto de artistas y periodistas, que están compartiendo información cultural y artística sobre San Agustín Huila. Hicieron un blog para compartir toda esa cantidad de información para dar a conocer al mundo su cultura y conocimiento.
 
 ### Páginas web para emprendimientos
 
