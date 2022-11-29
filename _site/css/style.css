@@ -16,7 +16,6 @@
   --fuenteTitulo: 'Josefin Sans', sans-serif;
   --fuenteTexto: 'Lato', sans-serif;
   --fuenteQ: 'Grechen Fuemen', cursive;
-
   --sizeH1: clamp(32px, 5vw, 2.5rem);
   --sizeH2: clamp(24px, 5vw, 2rem);
   --sizeH3: clamp(20px, 5vw, 1.8rem);
@@ -133,11 +132,11 @@ img {
   white-space: nowrap;
   border-radius: 100px;
   margin: 10px 0;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in;
   background: var(--accion);
-  box-shadow: 0px 5px 0px 0px var(--shadow);
-  -webkit-animation: blink-1 0.7s ease-in-out 0.7s 2 alternate-reverse both;
-  animation: blink-1 0.7s ease-in-out 0.7s 2 alternate-reverse both;
+  box-shadow: 0px 5px 5px 0px var(--shadow);
+  -webkit-animation: blink-1 0.3s ease-in 0.3s 2 alternate-reverse both;
+  animation: blink-1 0.3s ease-in 0.3s 2 alternate-reverse both;
 }
 
 @-webkit-keyframes blink-1 {
@@ -174,6 +173,21 @@ img {
 
 .botones:active {
   box-shadow: 0px 2px 0px 0px var(--rojo);
+}
+
+/* CONJUNTOS */
+.intro,
+.parallax,
+.clientes,
+.entradas,
+.conclusion,
+.articulo{
+  padding: clamp(5rem, 15vh, 10rem) 0;
+}
+
+.servicios div h3,
+.clientes div h3 {
+  font-size: calc(100% * 2);
 }
 
 #floating-button {
@@ -576,6 +590,7 @@ header {
   background: rgb(32, 39, 39);
   background: linear-gradient(12deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
   box-shadow: var(--shadow);
+  padding: 4rem calc((100% - 1200px) / 2);
 }
 
 header>img {
@@ -621,8 +636,8 @@ header>img {
 
 .logo {
   position: absolute;
-  top: clamp(7px, 1vw, 1rem);
-  left: clamp(7px, 1vw, 1rem);
+  top: clamp(12px, 1vw, 1rem);
+  left: clamp(12px, 1vw, 1rem);
   z-index: 10;
 }
 
@@ -646,26 +661,6 @@ header>img {
   text-align: left;
 }
 
-/* CONJUNTOS */
-.intro,
-.parallax,
-.clientes,
-.entradas,
-.conclusion,
-.articulo{
-  padding: clamp(5rem, 15vw, 10rem) 0;
-}
-
-.servicios div h3,
-.clientes div h3 {
-  font-size: calc(100% * 2);
-}
-
-.intro div,
-.parallax p{
-  max-width: min(500px, 90%);
-}
-
 /* HOME */
 .intro {
   display: flex;
@@ -676,7 +671,7 @@ header>img {
 }
 
 .intro div {
-  padding: 1.5rem;
+  width: min(90%, 520px);
 }
 
 .intro img {
@@ -684,9 +679,14 @@ header>img {
 }
 
 .servicios {
-  display: grid;
+  width: min(90%, 1400px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   gap: 5rem;
-  padding: 0 2rem clamp(5rem, 15vw, 10rem);
+  padding: 0 16px clamp(5rem, 15vh, 10rem);
+  margin: 0 auto;
   color: white;
 }
 
@@ -728,24 +728,8 @@ header>img {
   text-decoration-thickness: 2.5px;
 }
 
-.parallax{
-  position: relative;
-  background-image: url(/img/juli-winner.webp);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-  color: white;
-  font-weight: 700;
-  font-size: var(--sizeH3);
-  display: flex;
-  justify-content: right;
-}
-
-.parallax p{
-  max-width: min(500px, 90%);
-  padding: 1rem;
-  text-decoration: underline;
-  text-decoration-thickness: 5px;
+.clientes{
+  padding: 0;
 }
 
 .clientes, .entradas{
@@ -1159,7 +1143,6 @@ color: var(--accion);
 }
 
 @media screen and (min-width:992px) {
-  .servicios,
   .clientes,
   .entradas div {
     grid-template-columns: repeat(auto-fill, minmax(25vw, auto));

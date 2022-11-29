@@ -6,6 +6,7 @@ header {
   background: rgb(32, 39, 39);
   background: linear-gradient(12deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
   box-shadow: var(--shadow);
+  padding: 4rem calc((100% - 1200px) / 2);
 }
 
 header>img {
@@ -51,8 +52,8 @@ header>img {
 
 .logo {
   position: absolute;
-  top: clamp(7px, 1vw, 1rem);
-  left: clamp(7px, 1vw, 1rem);
+  top: clamp(12px, 1vw, 1rem);
+  left: clamp(12px, 1vw, 1rem);
   z-index: 10;
 }
 
