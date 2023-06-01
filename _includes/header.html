@@ -1,13 +1,21 @@
 <header>
-  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.altheader}}">
+  {% include nav.html %}
   <div>
-    {% include logo.html %}
-    {% include nav.html %}
-  </div>
-  <div class="encabezado">
     <h1>{{page.h1}}</h1>
     {% if page.cta %}
     <a href="{{page.href}}" class="botones">{{page.cta}}</a>
     {% endif %}
   </div>
+  {% if page.url == "/" %}
+  <lord-icon
+    src="https://cdn.lordicon.com/gqzfzudq.json"
+    trigger="loop"
+    delay="2000"
+    colors="primary:#08a88a,secondary:#121331"
+    style="width: 250px; height: 250px"
+  >
+  </lord-icon>
+  {% else %}
+  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}">
+  {% endif %}
 </header>

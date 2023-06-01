@@ -3,10 +3,16 @@
   gap: 1.5rem;
   justify-items: center;
   padding: 3rem 0;
+  width: min(95%, 1128px);
+  margin-inline: auto;
 }
 
 .blog p{
-  width: min(540px, 90%);
+  max-width: 720px;
+}
+
+.blog h2{
+  max-width: 600px;
 }
 
 .contenido {

@@ -1,4 +1,8 @@
 @media screen and (max-width: 768px) {
+  header{
+    flex-direction: column-reverse;
+    align-items: center;
+  }
   .experiencia:before {
      left: 8px;
      width: 2px;

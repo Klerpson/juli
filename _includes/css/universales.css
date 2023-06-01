@@ -2,14 +2,14 @@
 
   /*** COLORES ***/
   /* rgb */
-  --azul: #1b9aaa;
-  --accion: rgb(6, 214, 160);
+  --accion: #1b9aaa;
+  --azul: rgb(6, 214, 160);
   --amarillo: rgb(255, 196, 61);
   --rojo: rgb(239, 71, 111);
   --gris: #202727;
-  --blanco: rgb(241, 241, 241);
+  --blanco: #fefefe;
   --colorTexto: rgb(30, 33, 43);
-  --shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 2px rgba(0, 0, 0, 0.1), 0 4px 4px rgba(0, 0, 0, 0.1), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.1);
+  --shadow: 2px 1px 1px rgba(0, 0, 0, 0.1), 2px 2px 2px rgba(0, 0, 0, 0.1), 2px 4px 4px rgba(0, 0, 0, 0.1), 2px 8px 8px rgba(0, 0, 0, 0.1), 2px 16px 16px rgba(0, 0, 0, 0.1);
   --radius: 24px;
 
   /*** FUENTES ***/
@@ -66,27 +66,31 @@ h4 {
   margin-bottom: 1.5rem;
 }
 
-h1,
-h2 {
-  text-align: center;
-  text-shadow: var(--shadow);
-}
-
 h1 {
-  font-size: var(--sizeH1);
-  text-transform: uppercase;
+  font-size: clamp(2.5rem, 3.5vw + 1rem, 3.25rem);
 }
 
 h2 {
-  text-transform: uppercase;
-  font-size: var(--sizeH2);
+  font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
+  margin: 3rem auto;
 }
 
 h3 {
-  font-size: var(--sizeH3);
+  font-size: clamp(1.75rem, 2vw + 1rem, 2.25rem);
+  margin: 2rem 0;
 }
 
-p{margin: 0 0 1.5rem 0}
+h4 {
+  font-size: clamp(1.25rem, 0.8vw + 1rem, 1.5rem);
+  margin-top: 1.5rem;
+}
+
+p,
+.post-content li {
+  word-wrap: break-word;
+  font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
+  margin-bottom: 1rem;
+}
 
 q {
   font-family: var(--fuenteQ);
@@ -123,18 +127,15 @@ img {
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  height: 40px;
-  text-shadow: 0px 1px rgba(150, 129, 129, 0.2);
   text-align: center;
   text-decoration: none;
-  color: #FFF;
-  padding: 7px 20px;
+  color: var(--accion);
+  padding: 12px 20px;
   white-space: nowrap;
-  border-radius: 100px;
-  margin: 10px 0;
+  border-radius: 20px;
   transition: all 0.2s ease-in;
-  background: var(--accion);
-  box-shadow: 0px 5px 5px 0px var(--shadow);
+  background: var(--blanco);
+  box-shadow: var(--shadow);
   -webkit-animation: blink-1 0.3s ease-in 0.3s 2 alternate-reverse both;
   animation: blink-1 0.3s ease-in 0.3s 2 alternate-reverse both;
 }
@@ -168,11 +169,12 @@ img {
 }
 
 .botones:hover {
-  background: var(--rojo);
+  background: var(--accion);
+  color: var(--blanco);
 }
 
 .botones:active {
-  box-shadow: 0px 2px 0px 0px var(--rojo);
+  box-shadow: none;
 }
 
 /* CONJUNTOS */
@@ -183,7 +185,7 @@ img {
 .contenido,
 .articulo{
   padding: clamp(5rem, 15vh, 10rem) 0;
-  width: min(90%, 1400px);
+  width: min(95%, 1128px);
   margin: 0 auto;
 }
 

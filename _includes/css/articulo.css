@@ -23,13 +23,19 @@
 }
 
 .articulo article a{
-  color: var(--rojo);
+  color: var(--accion);
   text-decoration: underline 3px;
   transition: ease-in-out 0.5s;
+  font-weight: 700;
 }
 
-.articulo article a:hover{
-color: var(--accion);
+.articulo article .botones{
+  text-decoration: none;
+  
+}
+
+.articulo article .botones:hover{
+color: var(--blanco);
 }
 .articulo aside{
   width: min(320px, 90%);

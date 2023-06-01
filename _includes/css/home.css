@@ -2,37 +2,36 @@
 .intro {
   display: flex;
   flex-wrap: wrap;
-  gap: 3rem;
-  justify-content: center;
+  gap: 2rem;
   align-items: center;
 }
 
 .intro div {
-  width: min(90%, 520px);
+  max-width: 720px;
 }
 
-.intro img {
+.intro lord-icon {
   max-width: 90%;
 }
 
 .servicios {
-  width: min(90%, 1400px);
+  width: min(95%, 1128px);
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   align-items: center;
   gap: 5rem;
-  padding: 0 16px clamp(5rem, 15vh, 10rem);
-  margin: 0 auto;
+  margin-inline: auto;
   color: white;
 }
 
 .servicios div,
 .entradas article {
-  padding: 7vh 2rem;
+  padding: 2rem;
   box-shadow: var(--shadow);
   border-radius: var(--radius);
   border: 10px solid var(--blanco);
+  flex: 1 0 400px;
+  max-width: 100%;
 }
 
 .servicios div:nth-child(1){
@@ -51,18 +50,20 @@
 }
 
 .servicios div li {
-  margin-right: 1rem;
+  margin-bottom: 12px;
 }
 
 .servicios div li:before {
   content: '✓ ';
 }
 
-.servicios div li a{
-  color: var(--amarillo);
+.servicios div a{
+  justify-self: flex-end;
   font-weight: 700;
   text-decoration: underline;
   text-decoration-thickness: 2.5px;
+  text-decoration-color: var(--blanco);
+  color: var(--blanco);
 }
 
 .clientes{
@@ -81,14 +82,18 @@
   width: 100%;
 }
 
+.clientes div{
+  max-width: 100%;
+}
+
 .clientes div,
 .entradas article{
   display: grid;
-  width: min(500px, 90%);
   padding: 5vh 3vw;
   border-radius: 25px;
   border: 10px solid var(--gris);
   box-shadow: var(--shadow);
+  align-items: center;
 }
 
 .clientes div a{
@@ -96,7 +101,7 @@ justify-self: right;
 }
 
 .experiencia {
-  width: min(90%, 1400px);
+  width: min(95%, 1128px);
   margin: 50px auto;
   position: relative;
   overflow: hidden;
@@ -163,27 +168,33 @@ justify-self: right;
 }
 
 .timeline-content span {
-  font-size: 15px;
+  font-size: 1rem;
   color: #a4a4a4;
 }
 
 .timeline-content p {
-  font-size: 14px;
+  font-size: 1rem;
   line-height: 1.5em;
   word-spacing: 1px;
   color: #888;
 }
 
-.entradas h2{
-  width: min(90vw, 720px);
-}
-.entradas > p{
-  width: min(90vw, 50vw);
-  margin: 0 10vmax
+.timeline-content a {
+  font-size: 1rem;
+  line-height: 1.5em;
+  word-spacing: 1px;
+  color: #888;
 }
 
-.entradas article{
-  background-color: var(--azul);
+.entradas div{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.entradas div p{
+  flex: 1 0 560px;
+  max-width: 100%;
 }
 
 .entradas article img{
@@ -191,7 +202,7 @@ justify-self: right;
 }
 
 .entradas article a{
-  color: white;
+  color: var(--accion);
   justify-self: flex-end;
 }
 
