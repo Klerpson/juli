@@ -1,6 +1,5 @@
 .blog{
   display: grid;
-  gap: 1.5rem;
   justify-items: center;
   padding: 3rem 0;
   width: min(95%, 1128px);
@@ -16,22 +15,21 @@
 }
 
 .contenido {
-  display: grid;
-  gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 400px));
-  padding: 3rem;
-  place-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.contenido h3{
+  width: 100%;
+  display: inline-block;
 }
 
 .contenido article{
-  display: flex;
-  flex-direction: column;
-  padding: 5vh 3vw;
-  border-radius: 25px;
-  border: 10px solid var(--gris);
-  box-shadow: var(--shadow);
+  max-width: 100%;
+  border-bottom: 1px dotted #aeaeae;
 }
 
-.contenido article p{
-  width: 100%;
+.contenido article a{
+  color: var(--accion);
+  font-weight: 900;
 }

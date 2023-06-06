@@ -44,6 +44,7 @@ body {
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
   color: var(--colorTexto);
+  padding: 0 15px;
 }
 
 b,
@@ -63,7 +64,7 @@ h3,
 h4 {
   font-family: var(--fuenteTitulo);
   line-height: 1.2;
-  margin-bottom: 1.5rem;
+  margin: 1.5em 0;
 }
 
 h1 {
@@ -72,17 +73,14 @@ h1 {
 
 h2 {
   font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
-  margin: 3rem auto;
 }
 
 h3 {
   font-size: clamp(1.75rem, 2vw + 1rem, 2.25rem);
-  margin: 2rem 0;
 }
 
 h4 {
   font-size: clamp(1.25rem, 0.8vw + 1rem, 1.5rem);
-  margin-top: 1.5rem;
 }
 
 p,
@@ -182,9 +180,8 @@ img {
 .parallax,
 .clientes,
 .entradas,
-.contenido,
 .articulo{
-  padding: clamp(5rem, 15vh, 10rem) 0;
+  padding: 5rem 0;
   width: min(95%, 1128px);
   margin: 0 auto;
 }
@@ -1067,7 +1064,6 @@ color: var(--blanco);
 
 .blog{
   display: grid;
-  gap: 1.5rem;
   justify-items: center;
   padding: 3rem 0;
   width: min(95%, 1128px);
@@ -1083,24 +1079,23 @@ color: var(--blanco);
 }
 
 .contenido {
-  display: grid;
-  gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 400px));
-  padding: 3rem;
-  place-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.contenido h3{
+  width: 100%;
+  display: inline-block;
 }
 
 .contenido article{
-  display: flex;
-  flex-direction: column;
-  padding: 5vh 3vw;
-  border-radius: 25px;
-  border: 10px solid var(--gris);
-  box-shadow: var(--shadow);
+  max-width: 100%;
+  border-bottom: 1px dotted #aeaeae;
 }
 
-.contenido article p{
-  width: 100%;
+.contenido article a{
+  color: var(--accion);
+  font-weight: 900;
 }
 
 
