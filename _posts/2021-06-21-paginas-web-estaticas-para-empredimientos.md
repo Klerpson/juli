@@ -1,6 +1,6 @@
 ---
 layout: articulo
-id: 002
+id: 003
 title: Páginas web estáticas, ¿cuándo es mejor usarlas?
 description: Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.
 category: Páginas Web

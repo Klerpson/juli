@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-06-06T09:58:40-05:00</updated>
+     <updated>2023-06-20T23:49:21-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Evitar estafas en internet: Medidas de seguridad</title>
+   <link href="http://localhost:4000/evitar-estafas-en-internet"/>
+   <id>http://localhost:4000/evitar-estafas-en-internet</id>
+   <updated>2023-06-20T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;✦ Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#qué-son-las-estafas-en-internet&quot; id=&quot;markdown-toc-qué-son-las-estafas-en-internet&quot;&gt;¿Qué son las estafas en internet?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#por-qué-es-importante-protegerte-contra-las-estafas-en-internet&quot; id=&quot;markdown-toc-por-qué-es-importante-protegerte-contra-las-estafas-en-internet&quot;&gt;¿Por qué es importante protegerte contra las estafas en internet?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
+ </entry>
  
  <entry>
    <title>Páginas web estáticas, ¿cuándo es mejor usarlas?</title>
