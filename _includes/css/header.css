@@ -1,29 +1,44 @@
 header {
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 2rem;
-  padding: 4rem 16px;
-  margin-inline: auto;
-  width: 100%;
-  overflow: hidden;
-  background: rgb(32, 39, 39);
-  background: linear-gradient(12deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
-  box-shadow: var(--shadow);
-}
-
-header div{
-  display: flex;
   gap: 1rem;
-  flex-direction: column;
+  margin-inline: auto;
+  background: rgb(32, 39, 39);
+  background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
+  box-shadow: var(--shadow);
+  padding: 8em 16px;
 }
 
-header div h1{
-  max-width: 720px;
+header section{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  flex: 0 1 640px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+header h1{
+  width: min(100%, 600px);
   color: var(--blanco);
 }
 
-header img{
-  max-width: 400px;
+header .ultimo{
+  background-color: #ffffff68;
+  border-radius: var(--radius);
+  padding: 40px;
+  box-shadow: var(--shadow);
+}
+
+header .ultimo h2,
+header .ultimo h3,
+header .ultimo p{
+  margin: 0;
+}
+
+header .ultimo a{
+  color: var(--secundario);
 }

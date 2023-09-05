@@ -2,7 +2,7 @@
 layout: articulo
 id: 004
 title: "Evitar estafas en internet: Medidas de seguridad"
-description: ✦ Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!
+description: Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!
 category: Seguridad
 tags: [seguridad, internet]
 h1: "Cómo evitar estafas en internet: Consejos y medidas de seguridad para protegerte"

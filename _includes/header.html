@@ -1,21 +1,23 @@
 <header>
-  {% include nav.html %}
-  <div>
-    <h1>{{page.h1}}</h1>
-    {% if page.cta %}
-    <a href="{{page.href}}" class="botones">{{page.cta}}</a>
-    {% endif %}
-  </div>
+  {% if page.url != "/" %}
+  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="320" height="240">
+  <h1>{{page.h1 }}</h1>
+  {% endif %}
   {% if page.url == "/" %}
-  <lord-icon
-    src="https://cdn.lordicon.com/gqzfzudq.json"
-    trigger="loop"
-    delay="2000"
-    colors="primary:#08a88a,secondary:#121331"
-    style="width: 250px; height: 250px"
-  >
-  </lord-icon>
-  {% else %}
-  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}">
+  <section class="flow">
+    <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="320" height="240">
+    <h1>{{page.h1 }}</h1>
+    <a href="{{page.link}}" class="boton" title="{{page.title}}">{{page.cta}}</a>
+  </section>
+  <section class="ultimo">
+    <h2>Lo último sobre Blogs y SEO</h2>
+    {% assign primer-articulo = site.posts[0] %}
+      <img src="{{site.baseurl}}/img/{{primer-articulo.hero}}" alt="{{primer-articulo.altheader}}"
+        title="{{primer-articulo.imgtitle-header}}" width="150px" height="150px" loading="lazy">
+      <a href="{{primer-articulo.url}}">
+        <h3>↪ {{ primer-articulo.title }}</h3>
+      </a>
+      {{primer-articulo.excerpt}}
+  </section>
   {% endif %}
 </header>

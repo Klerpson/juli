@@ -58,10 +58,6 @@ Adicionalmente, las plantillas que sí recomiendan utilizar, casi siempre tienen
 
 ### La optimización y la velocidad en WordPress no es la mejor
 
-{% include imgamp.html img="articulos/002/browser.svg" alt="Dibujo de una página web con código fuente" %}
-*Las páginas de WordPress tienen demasiado código por detrás*
-{: #epigrafe}
-
 **Casi nunca vas a tener una plantilla WordPress veloz, liviana y optimizada para posicionar en Google**. Esto se debe a la cantidad de código utilizado para el gestor. Te lo explico con un ejemplo.
 
 Imagina que alguien vende comidas rápidas. Entonces decide *automatizar el proceso*. Pero para hacerlo, lógicamente necesitará máquinas y dispositivos que hagan los procesos, y al menos una persona que las controle.

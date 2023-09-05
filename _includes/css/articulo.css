@@ -1,8 +1,28 @@
+/* DATOS DEL POST */
+
+.post-data {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.post-data span {
+  font-weight: 700;
+}
+
+/* BREADCRUMBS */
+
+#breadcrumbs {
+  margin-bottom: 1em;
+}
+
+
 .articulo{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2rem;
+  gap: 1em;
   }
 
 .articulo li:before {
@@ -10,7 +30,8 @@
 }
 
 .articulo article{
-  width: min(630px, 90%);
+  max-width: 100%;
+  flex: 1 0 min(100%, 580px);
 }
 
 .articulo article h2,
@@ -29,16 +50,8 @@
   font-weight: 700;
 }
 
-.articulo article .botones{
-  text-decoration: none;
-  
-}
-
-.articulo article .botones:hover{
-color: var(--blanco);
-}
 .articulo aside{
-  width: min(320px, 90%);
+  flex: 1;
   padding: 5vh 16px;
   text-align: center;
   border-radius: var(--radius);
@@ -54,49 +67,7 @@ color: var(--blanco);
   color: var(--azul);
   text-transform: uppercase;
 }
-.share-box{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0 2rem;
-  justify-content: center;
-  justify-self: center;
-  padding: 5rem 0;
-  background-color: var(--gris);
-  color: white;
-}
 
-.share-box h3{
-  width: 100%;
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-.share-box a {
-  display: inline-block;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px var(--gris1);
-  padding: 5px 12px;
-  text-decoration: none;
-  background-color: var(--blanco);
-}
-
-.share-box a:hover {
-  text-decoration: none;
-  transition: background-color 200ms linear;
-}
-
-.f{color: #284d9c;}
-
-.f:hover {
-  color: #fff;
-  background-color: #284d9c;
-}
-
-.i {
-  color: #5bd336;
-}
-
-.i:hover {
-  color: #fff;
-  background-color: #43d336;
+.articulo .referencias ul{
+  padding: 1em 0;
 }

@@ -31,8 +31,6 @@ Cuando mis amigos tienen la intención de digitalizar sus negocios, me dicen: **
 
 ## No siempre busques una página web... cuando estás comenzando
 
-<!-- {% include imgamp.html img="articulos/001/no-web.svg" alt="No hagas TODAVÍA tu página web" %} -->
-
 **No siempre es necesario hacer una página web.** Y no me refiero a hacerlo todo en facebook, como hace la mayoría ahora. Mi argumento se basa en que cuando alguien quiere una página web, casi siempre paga para que otro la haga.
 
 Así que si tienes una idea de negocio, y tú mismo puedes hacer la página web, entonces haz la página tú mismo. Y si puedes hacerla gratis en cualquier aplicativo online, mucho mejor. Pero **no le pagues a alguien una página web cuando estás comenzando con tu emprendimiento.**

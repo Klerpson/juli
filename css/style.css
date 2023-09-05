@@ -1,23 +1,16 @@
 ---
 ---
 {% include css/universales.css %}
-
 {% include css/nav.css %}
-
 {% include css/header.css %}
-
 {% include css/home.css %}
-
 {% include css/footer.css %}
-
 {% include css/articulo.css %}
-
 {% include css/toc.css %}
-
 {% include css/buscador.css %}
-
+{% include css/landing.css %}
+{% include css/up.css %}
 {% include css/blog.css %}
-
+{% include css/share.css %}
 {% include css/publicidad.css %}
-
 {% include css/queries.css %}
