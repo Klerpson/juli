@@ -15,7 +15,7 @@ alt: "Juli - Blogs y SEO"
   {% include search.html %}
 
   <h3>Lee más sobre las claves para hacer un blog exitoso</h3>
-  {% for post in site.posts %}
+  {% for post in site.posts offset: 1 %}
   <article class="flow">
     <div>
       <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}" title="{{post.title}}" width="52px" height="52px" loading="lazy">
