@@ -1,6 +1,10 @@
 ---
-layout: default
-title: Política de comentarios
+layout: buscador
+title: Política de comentarios de la página juli.com.co
+description: Términos y condiciones para hacer comentarios en la página juli.com.co
+h1: Términos y condiciones para los comentarios en el blog
+hero: logo-sin-fondo.svg
+noindex: true
 ---
 Los comentarios son bienvenidos y alentados en este sitio, pero hay algunos casos en los que los comentarios se editarán o eliminarán. Los comentarios están sujetos a los términos de uso del sitio web . Las violaciones de esta política pueden resultar en la eliminación de comentarios y / o el bloqueo del acceso de los comentaristas a los comentarios o al blog por completo.
 
