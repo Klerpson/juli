@@ -3,6 +3,7 @@ layout: buscador
 title: Términos y Codiciones de Uso | juli.com.co
 description: Términos y condiciones de uso de la página juli.com.co
 h1: Términos y condiciones
+hero: logo-sin-fondo.svg
 noindex: true
 ---
 [Inicio]({{site.baseurl}}/) - Términos y Condiciones
