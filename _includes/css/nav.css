@@ -15,6 +15,7 @@ nav {
 nav .logo{
   display: flex;
   align-items: center;
+  gap: 1em;
 }
 
 nav .logo img {
@@ -22,7 +23,7 @@ nav .logo img {
 }
 
 nav .logo span{
-  font-family: var(--fuenteQ);
+  font-family: var(--fuenteTexto);
   font-size: 1.2em;
   font-weight: bolder;
 }
