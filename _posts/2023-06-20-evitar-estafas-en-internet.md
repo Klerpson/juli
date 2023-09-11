@@ -21,9 +21,6 @@ date: 2023-06-20
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.
 
 La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.

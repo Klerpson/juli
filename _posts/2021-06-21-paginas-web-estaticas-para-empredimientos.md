@@ -25,9 +25,6 @@ Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están di
 
 Pero si tu negocio es pequeño, ya verás que una página estática puede ser más que suficiente. ¡Veamos!
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Qué es una página web estática
 
 Mi forma de definir una página web estática es compararla a la publicidad impresa. Cuando mandas a imprimir bolantes o flyers, o tarjetas de presentación, el contenido de ese impreso es estático.

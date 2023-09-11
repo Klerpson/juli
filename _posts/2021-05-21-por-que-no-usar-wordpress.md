@@ -20,9 +20,6 @@ date: 2021-05-21
 
 <!-- excerpt -->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ## Primero, qué es WordPress y cómo funciona
 
 Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. **WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguages de diseño.**
