@@ -300,6 +300,20 @@ hr:after {
   transform: scale(1.05);
 }
 
+.seccion{
+  border: 2px solid var(--secundario);
+  padding: 1.5em;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  gap: 2em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.seccion li{
+  margin: 0;
+}
 nav {
   position: fixed;
   z-index: 100;

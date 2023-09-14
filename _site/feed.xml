@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-09-08T06:31:01-05:00</updated>
+     <updated>2023-09-14T13:43:48-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/evitar-estafas-en-internet"/>
    <id>http://localhost:4000/evitar-estafas-en-internet</id>
    <updated>2023-06-20T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#qué-son-las-estafas-en-internet&quot; id=&quot;markdown-toc-qué-son-las-estafas-en-internet&quot;&gt;¿Qué son las estafas en internet?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#por-qué-es-importante-protegerte-contra-las-estafas-en-internet&quot; id=&quot;markdown-toc-por-qué-es-importante-protegerte-contra-las-estafas-en-internet&quot;&gt;¿Por qué es importante protegerte contra las estafas en internet?&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#consejos-para-evitar-estafas-en-internet&quot;...</content>
+   <content type="html">&lt;p&gt;Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante...</content>
  </entry>
  
  <entry>
@@ -33,7 +33,7 @@
    <link href="http://localhost:4000/por-que-no-usar-wordpress"/>
    <id>http://localhost:4000/por-que-no-usar-wordpress</id>
    <updated>2021-05-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#primero-qué-es-wordpress-y-cómo-funciona&quot; id=&quot;markdown-toc-primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#wordpress-es-fácil-y-gratis-pero&quot; id=&quot;markdown-toc-wordpress-es-fácil-y-gratis-pero&quot;&gt;WordPress es fácil y gratis, pero…&lt;/a&gt; &lt;ul&gt;...</content>
+   <content type="html">&lt;p&gt;No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt; &lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras...</content>
  </entry>
  
  <entry>
@@ -41,7 +41,7 @@
    <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no"/>
    <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
    <updated>2021-04-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#la-pregunta-al-digitalizar-un-negocio-tradicional&quot; id=&quot;markdown-toc-la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#no-siempre-busques-una-página-web-cuando-estás-comenzando&quot; id=&quot;markdown-toc-no-siempre-busques-una-página-web-cuando-estás-comenzando&quot;&gt;No siempre busques una página web… cuando estás comenzando&lt;/a&gt;...</content>
+   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La...</content>
  </entry>
  
 
