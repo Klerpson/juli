@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: tecnologiamayorista.com | Primera Propuesta
-description: Propuesta de trabajo para tecnologiamayorista.com para comenzar nuestra relación de trabajo
+description: Propuesta de trabajo para tecnologiamayorista.com | Comencemos a lograr grandes metas juntos
 h1: Hagamos que tu eCommerce tenga mejores resultados
 hero: logo-sin-fondo.svg
 noindex: true
