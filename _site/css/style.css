@@ -214,14 +214,8 @@ blockquote p{
   font-weight: 700;
 }
 
-blockquote::before {
-  content: '◜◜';
-  font-weight: 900;
-  font-size: 2em;
-}
-
 blockquote a {
-  color: var(--blanco);
+  color: var(--blanco) !important;
 }
 
 table {
@@ -301,12 +295,13 @@ hr:after {
 }
 
 .seccion{
+  width: min(100%, 920px);
+  margin-inline: auto;
   border: 2px solid var(--secundario);
   padding: 1.5em;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   display: flex;
-  gap: 2em;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -1007,6 +1002,15 @@ justify-self: right;
 .contenido article a{
   color: var(--accion);
   font-weight: 900;
+}
+
+.contenido article img{
+  max-width: 100%;
+}
+
+.contenido article ul li{
+  list-style: disc;
+  margin-left: 2em;
 }
 /* SHARE */
 

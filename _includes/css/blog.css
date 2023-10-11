@@ -33,3 +33,12 @@
   color: var(--accion);
   font-weight: 900;
 }
+
+.contenido article img{
+  max-width: 100%;
+}
+
+.contenido article ul li{
+  list-style: disc;
+  margin-left: 2em;
+}
