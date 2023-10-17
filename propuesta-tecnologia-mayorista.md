@@ -5,6 +5,7 @@ description: Propuesta de trabajo para tecnologiamayorista.com | Comencemos a lo
 h1: Hagamos que tu eCommerce tenga mejores resultados
 hero: logo-sin-fondo.svg
 noindex: true
+published: no
 ---
 
 ## Hola don Andrés
