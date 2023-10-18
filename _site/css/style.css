@@ -780,6 +780,10 @@ footer a {
 #results-container div h3{
   margin: 1.5rem 0;
 }
+.landing.imagen{
+  float: right;
+}
+
 /* landing */
 .intro {
   display: flex;

@@ -1,3 +1,7 @@
+.landing.imagen{
+  float: right;
+}
+
 /* landing */
 .intro {
   display: flex;
