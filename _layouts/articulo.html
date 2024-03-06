@@ -3,7 +3,6 @@ layout: default
 ---
 <main class="articulo wrapper">
   <article class="flow">
-    <hr>
     {{ content }}
     <div class="referencias" id="fuentes">
       <h4>Créditos de las gráficas, referencias y fuentes:</h4>
@@ -46,9 +45,9 @@ layout: default
     {% if sameTagCount >= minCommonTags %}
 
     <div class="relacionados">
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">
+      <a href="{{ post.url |relative_url }}" title="{{post.title}}">
         {% if post.hero %}
-        <img src="{{ site.baseurl }}/img/{{ post.hero }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}">
+        <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}">
         {% endif %}
         <h4> {{ post.title }}</h4>
       </a>
@@ -65,6 +64,6 @@ layout: default
     {% include share.html %}
   </div>
 </main>
-
+{% include talkyard-comments.html %}
 {% include cta.html %}
 <a href="#">{% include up.html %}</a>

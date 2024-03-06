@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-10-24T10:32:35-05:00</updated>
+     <updated>2024-03-06T10:36:42-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,15 +17,15 @@
    <link href="http://localhost:4000/evitar-estafas-en-internet"/>
    <id>http://localhost:4000/evitar-estafas-en-internet</id>
    <updated>2023-06-20T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante...</content>
+   <content type="html">&lt;p&gt;Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante...</content>
  </entry>
  
  <entry>
-   <title>Páginas web estáticas, ¿cuándo es mejor usarlas?</title>
+   <title>¿Todavía sirven las páginas web estáticas? A mí me sirven mucho</title>
    <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos"/>
    <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
    <updated>2021-06-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos,...</content>
+   <content type="html">&lt;p&gt;Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos,...</content>
  </entry>
  
  <entry>
@@ -41,7 +41,7 @@
    <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no"/>
    <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
    <updated>2021-04-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La...</content>
+   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La...</content>
  </entry>
  
 

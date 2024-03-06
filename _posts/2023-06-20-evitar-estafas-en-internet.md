@@ -1,24 +1,18 @@
 ---
 layout: articulo
-id: 004
 title: "Evitar estafas en internet: Medidas de seguridad"
 description: Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!
 category: Seguridad
-tags: [seguridad, internet]
-h1: "Cómo evitar estafas en internet: Consejos y medidas de seguridad para protegerte"
-hero: articulos/security.svg
-altheader: ícono de seguridad en internet
-imgtitle-header: Seguridad y privacidad
-autor: Julian Franco
-copyright: Julian Franco
+tags: [Seguridad]
+h1: "Cómo evitar que te estafen en internet: Consejos y medidas de seguridad para protegerte"
+hero: img/seguridad-para-evitar-estafas-en-internet.svg
+alt: Seguridad en internet para evitar estafas
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
   - Ícono del encabezado por Flaticon: https://www.flaticon.com/
-date: 2023-06-20
 ---
 {{page.description}}
-
 <!-- excerpt -->
 
 En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.

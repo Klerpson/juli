@@ -1,44 +1,34 @@
-header {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-inline: auto;
-  background: rgb(32, 39, 39);
-  background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
-  box-shadow: var(--shadow);
-  padding: 8em 16px;
+.home_header{
+  margin-top: 4em;
+  display: grid;
 }
 
-header section{
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-  flex: 0 1 640px;
-  justify-content: center;
+.home_gallery{
+  padding: 4em 0 0;
+  display: grid;
+  gap: 40px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
   align-items: flex-start;
 }
 
-header h1{
-  width: min(100%, 600px);
-  color: var(--blanco);
-}
-
-header .ultimo{
-  background-color: #ffffff68;
+.home_gallery article{
+  display: grid;
+  border: 2.4px solid var(--principal);
+  padding: 1em;
   border-radius: var(--radius);
-  padding: 40px;
-  box-shadow: var(--shadow);
+  
 }
 
-header .ultimo h2,
-header .ultimo h3,
-header .ultimo p{
-  margin: 0;
+.home_gallery article div{
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
-header .ultimo a{
-  color: var(--secundario);
+.home_gallery .boton{
+  grid-column: 1 / -1;
+}
+
+.home_gallery img{
+  z-index: 3;
 }

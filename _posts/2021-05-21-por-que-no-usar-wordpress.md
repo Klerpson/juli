@@ -1,20 +1,16 @@
 ---
 layout: articulo
-id: 002
 title: Yo no te aconsejo utilizar WordPress
 description: No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.
-category: Páginas Web
-tags: [páginas web, WordPress]
-h1: No uses WordPress, no te lo recomiendo
-hero: articulos/002/wordpress.svg
-altheader: ícono de WordPress para páginas web
-imgtitle-header: WordPress para páginas web
-autor: Julian Andres Franco Bedoya
-copyright: Julian Andres Franco Bedoya
+category: Páginas
+tags: [Páginas, WordPress]
+h1: Personalmente no soporte a WordPress. Te cuento por qué
+hero: img/paginas-web-con-wordpress.svg
+alt: Ícono de WordPress para páginas web
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Íconos descargados de www.flaticon.com: https://www.flaticon.com/authors/eucalyp
-date: 2021-05-21
+home: true
 ---
 {{page.description}}
 
@@ -22,7 +18,7 @@ date: 2021-05-21
 
 ## Primero, qué es WordPress y cómo funciona
 
-Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. **WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguages de diseño.**
+Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. **WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.**
 
 Con ese sistema solo utilizas plantillas prediseñadas. Haces clic en algunas secciones, cambias textos, imágenes, enlaces. Luego le agregas otras aplicaciones - llamadas plugins - y listo. Eso es todo.
 

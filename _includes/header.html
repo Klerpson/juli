@@ -1,23 +1,50 @@
-<header>
-  {% if page.url != "/" %}
-  <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="320" height="240">
-  <h1>{{page.h1 }}</h1>
-  {% endif %}
-  {% if page.url == "/" %}
-  <section class="flow">
-    <img src="{{site.baseurl}}/img/{{page.hero}}" alt="{{page.alt}}" width="320" height="240">
-    <h1>{{page.h1 }}</h1>
-    <a href="{{site.telegram}}" class="boton" title="Escríbeme">{{page.cta}}</a>
-  </section>
-  <section class="ultimo">
-    <h2>Lo último sobre Blogs y SEO</h2>
-    {% assign primer-articulo = site.posts[0] %}
-      <img src="{{site.baseurl}}/img/{{primer-articulo.hero}}" alt="{{primer-articulo.altheader}}"
-        title="{{primer-articulo.imgtitle-header}}" width="150px" height="150px" loading="lazy">
-      <a href="{{primer-articulo.url}}">
-        <h3>↪ {{ primer-articulo.title }}</h3>
-      </a>
-      {{primer-articulo.excerpt}}
-  </section>
-  {% endif %}
+<header class="home_header wrapper">
+  {% include nav.html %}
+  <h1>{{page.h1}}</h1>
+  <p>Normalmente estás aquí por 2 razones: <strong>estoy haciendo el mejor SEO colombiano o me compraste una página web.</strong> Como sea, te comparto todo lo que aprendí para sacarle provecho:</p>
+  
+  <div class="home_gallery">
+    {% assign url = page.url %}
+    {% case url %}
+      {% when "/" %}
+        {% for principal in site.posts %}
+        {% if principal.home %}
+        <article class="flow">
+          <div>
+            <img src="{{principal.hero}}" alt="{{principal.alt}}">
+            <a href="{{principal.url|relative_url}}"><h2>{{principal.h1}}</h2></a>
+          </div>
+          {{principal.excerpt}}
+        </article>
+        {% endif %}
+        {% endfor %}
+      {% when "/pasajes" %}
+        {% for pasaje in site.data.pasajes-home %}
+        <article>
+          <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
+          <div>
+            <a href="{{site.baseurl}}{{pasaje.url}}"><h2>{{pasaje.title}}</h2></a>
+            <p>{{pasaje.p}}</p>
+          </div>
+        </article>
+        {% endfor %}
+      {% when "/terminales-de-colombia" %}
+      <img src="{{'/img/terminales.webp'|relative_url}}" alt="{{page.alt}}" width="360" height="360">
+      <div class="blog-tags">
+        <button data-name="all" class="active">Todos</button>
+        {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
+        {% for item in site.terminales %}
+        {% assign filtered_cat = item.category | append: '|' %}
+        {% if filtered_categories_array contains filtered_cat %}
+        <button data-name="{{ item.category}}">{{ item.category | upcase }}</button>
+        {% endif %}
+        {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
+        {% endfor %}
+      </div>
+      {% else %}
+      <h2>{{page.description}}</h2>
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
+    {% endcase %}
+  </div>
+
 </header>

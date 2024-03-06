@@ -1,17 +1,5 @@
-.dos_columnas{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  align-items: flex-start;
-  justify-content: space-between;
-}
-
-.home{
-  flex: 1 0 min(100%, 580px);
-}
-
-.home article{
-  border-top: 1px dotted var(--gris1);
+.home div{
+  border-top: 2.4px solid var(--acento);
   padding: 2em 0 1em;
 }
 
@@ -21,29 +9,17 @@
   gap: 1em;
 }
 
-.dos_columnas aside{
-  box-shadow: var(--shadow);
-  padding: 1.5em;
-  flex: 1;
-  border-radius: var(--radius);
-}
-
-.dos_columnas aside img{
-  max-width: 100%;
-}
-
 .conclusion{
-  padding: clamp(5rem, 15vh, 10rem) 0;
   background: rgb(32, 39, 39);
   background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
   box-shadow: var(--shadow);
   color: white;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
 .conclusion p{
-  width: min(500px, 90%);
+  width: min(732px, 90%);
   text-align: center;
 }

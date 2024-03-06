@@ -1,38 +1,43 @@
 ---
 layout: default
-title: "Soy Juli. Déjame administrar tu blog. Tu solo aprovéchalo"
-description: "¿Necesitas un blog para tu emprendimiento? Te ofrezco 3 cosas vitales: 1) Un resultado hermoso, 2) muy rápido y 3) fácil de usar. ¡Contáctame!"
-h1: "Soy Juli. Déjame administrar tu blog. Tu solo aprovéchalo"
+title: "Soy Juli  Y hago las mejores página web de Colombia. Te enseño"
+description: "Hago páginas web desde Colombia. Y en mi blog personal te digo qué hacer con ellas para que sean una inversión realmente buena. ¡Léelo!"
+h1: "😎 Soy Juli. Y te enseño qué hacer con tu página web... al menos en Colombia"
 hero: "juli-320.webp"
 cta: "Quiero saber más"
 alt: "Juli - Blogs y SEO"
 ---
-<div class="dos_columnas wrapper">
-  <main class="home flow">
-    <h2>Te enseño más sobre blogs y estrategias</h2>
-    <p>Me encanta enseñar sobre todo lo que he aprendido en <strong>estrategias de medios digitales aplicadas a páginas web y blogs</strong>: nichos, contenido, SEO, Google, etc. Mira mis últimos artículos...</p> 
-    <p><strong>Busca cualquier tema sobre Blogs y SEO:</strong></p>
-  {% include search.html %}
-
-  <h3>Lee más sobre las claves para hacer un blog exitoso</h3>
-  {% for post in site.posts offset: 1 %}
+<main class="wrapper home flow">
+  <h2>🤓 Más temas sobre páginas web y estrategias digitales</h2>
+  <p>Me encanta enseñar sobre todo lo que he aprendido en <strong>estrategias de medios digitales aplicadas a páginas web y blogs</strong>: nichos, contenido, SEO, Google, etc. Mira mis últimos artículos...</p> 
+  <div class="flow">
+    <h3>¿Alguna duda puntual sobre páginas web? Busca aquí</h3>
+    {% include search.html %}
+  </div>
+</main>
+<section class="entradas">
+  {% for post in site.posts %}
   <article class="flow">
     <div>
-      <img src="{{site.baseurl}}/img/{{post.hero}}" alt="{{post.alt}}" title="{{post.title}}" width="52px" height="52px" loading="lazy">
-      <a href="{{ post.url }}" title="{{ post.title }}">
-        <h4>{{ post.title }}</h4>
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" title="{{post.title}}" width="52px" height="52px" loading="lazy">
+      <a href="{{post.url|relative_url}}" title="{{ post.title }}">
+        <h4>{{ post.h1 }}</h4>
       </a>
     </div>
     {{post.excerpt}}
   </article>
   {% endfor %}
-</main>
-<aside class="flow">
-  <img src="{{'img/juli-desarrollador-web.webp'|relative_url}}" alt="Juli">
-  <h2>¿Todavía dudas si necesitas un blog?</h2>
-  <p>Para dar un paso tan importante para tu negocio, <strong>necesitas entender cómo funciona un blog</strong>. Agenda una reunión conmigo para explicarte más.</p>
-  <a href="https://calendly.com/juliseo/prueba-o-test" class="boton" title="Agendar" target="_blank">Agendar una reunión</a>
-</aside>
-</div>
+</section>
 
 {% include cta.html %}
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    noResultsText: 'No tenemos este texto aún',
+    fuzzy: false
+  });
+</script>
