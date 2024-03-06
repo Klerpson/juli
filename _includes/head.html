@@ -25,11 +25,11 @@
     <meta property="og:title" content="{%if page.h1 %}{{ page.h1 | strip_html}}{% else %}{{ page.title}}{% endif %}" >
     <meta property="og:url" content="{{ page.url}}" >
     {% if page.jpg %}
-    <meta property="og:image" content="{{ site.url}}{{ page.hero}}" >
+    <meta property="og:image" content="{{ site.url}}{{ page.jpg}}" >
     <meta property="og:image:width" content="300" >
     <meta property="og:image:height" content="200" >
     <meta property="og:image:alt" content="{{page.alt}}" >
-    <meta property="og:image:type" content="image/webp" >
+    <meta property="og:image:type" content="image/jpg" >
     {% endif %}
     <meta property="og:site_name" content="juli.com.co" >
     {% if page.category %}

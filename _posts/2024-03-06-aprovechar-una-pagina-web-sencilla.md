@@ -6,11 +6,9 @@ category: Emprendimiento
 tags: [Emprendimiento, Páginas]
 h1: "Te doy idea de <span class='resaltar'>cómo aprovechar una página web sencilla</span>"
 hero: img/aprovechar-pagina-web-sencilla.svg
+jpg: img/aprovechar-pagina-web-sencilla.jpg
 alt: Pagina web rentable
 excerpt: Todas las páginas web bien utilizadas son rentables. Yo te digo qué hacer con ella.
-referencias:
-  - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
-  - Ícono del encabezado por Flaticon: https://www.flaticon.com/
 ---
 ¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, **cómo aprovechar esa página web que parece muy sencilla**.
 

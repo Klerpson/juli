@@ -6,6 +6,7 @@ category: Páginas
 tags: [Páginas]
 h1: "Páginas web estáticas: la mejor opción en la mayoría de los casos"
 hero: img/pagina-web-estatica.svg
+jpg: img/pagina-web-estatica.jpg
 alt: Página web estática
 excerpt: Yo hago muchas páginas web estáticas. Y mis clientes lo agradecen. Lee más
 referencias:

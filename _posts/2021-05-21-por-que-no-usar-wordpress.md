@@ -6,6 +6,7 @@ category: Páginas
 tags: [Páginas, WordPress]
 h1: Personalmente no soporte a WordPress. Te cuento por qué
 hero: img/paginas-web-con-wordpress.svg
+jpg: img/paginas-web-con-wordpress.jpg
 alt: Ícono de WordPress para páginas web
 excerpt: En serio. WordPres es muy mala idea para un proyecto serio y grande. Y supuestamente es gratis. Pero te mostraré lo que te puede costar. Lee por qué
 referencias:

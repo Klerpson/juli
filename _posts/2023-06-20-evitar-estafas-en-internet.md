@@ -6,6 +6,7 @@ category: Seguridad
 tags: [Seguridad]
 h1: "Cómo evitar que te estafen en internet: Consejos y medidas de seguridad para protegerte"
 hero: img/seguridad-para-evitar-estafas-en-internet.svg
+jpg: img/seguridad-para-evitar-estafas-en-internet.jpg
 alt: Seguridad en internet para evitar estafas
 excerpt: Hasta mi familia la han robado por internet. Lee cómo evitarlo
 referencias:
