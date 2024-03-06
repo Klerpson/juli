@@ -3,6 +3,10 @@
   display: grid;
 }
 
+.home_header div h1{
+  margin: 0;
+}
+
 .home_gallery{
   padding: 4em 0 0;
   display: grid;
@@ -11,24 +15,17 @@
   align-items: flex-start;
 }
 
-.home_gallery article{
+.home_gallery article,
+.entradas_home article{
   display: grid;
   border: 2.4px solid var(--principal);
   padding: 1em;
   border-radius: var(--radius);
-  
 }
 
-.home_gallery article div{
+.home_gallery article div, 
+.header_post{
   display: flex;
   align-items: center;
   gap: 12px;
-}
-
-.home_gallery .boton{
-  grid-column: 1 / -1;
-}
-
-.home_gallery img{
-  z-index: 3;
 }

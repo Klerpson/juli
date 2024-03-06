@@ -1,12 +1,11 @@
 <header class="home_header wrapper">
   {% include nav.html %}
-  <h1>{{page.h1}}</h1>
-  <p>Normalmente estás aquí por 2 razones: <strong>estoy haciendo el mejor SEO colombiano o me compraste una página web.</strong> Como sea, te comparto todo lo que aprendí para sacarle provecho:</p>
-  
-  <div class="home_gallery">
-    {% assign url = page.url %}
-    {% case url %}
-      {% when "/" %}
+  {% assign url = page.url %}
+  {% case url %}
+    {% when "/" %}
+    <h1>{{page.h1}}</h1>
+    <p>Normalmente estás aquí por 2 razones: <strong>estoy haciendo el mejor SEO colombiano o me compraste una página web.</strong> Como sea, te comparto todo lo que aprendí para sacarle provecho:</p>
+    <div class="home_gallery">
         {% for principal in site.posts %}
         {% if principal.home %}
         <article class="flow">
@@ -18,33 +17,15 @@
         </article>
         {% endif %}
         {% endfor %}
-      {% when "/pasajes" %}
-        {% for pasaje in site.data.pasajes-home %}
-        <article>
-          <img src="{{site.baseurl}}/img/{{pasaje.img}}" alt="{{pasaje.alt}}">
-          <div>
-            <a href="{{site.baseurl}}{{pasaje.url}}"><h2>{{pasaje.title}}</h2></a>
-            <p>{{pasaje.p}}</p>
-          </div>
-        </article>
-        {% endfor %}
-      {% when "/terminales-de-colombia" %}
-      <img src="{{'/img/terminales.webp'|relative_url}}" alt="{{page.alt}}" width="360" height="360">
-      <div class="blog-tags">
-        <button data-name="all" class="active">Todos</button>
-        {% capture filtered_categories_array %}{% for item in site.terminales %}{{ item.category }}|{% endfor %}{% endcapture %}
-        {% for item in site.terminales %}
-        {% assign filtered_cat = item.category | append: '|' %}
-        {% if filtered_categories_array contains filtered_cat %}
-        <button data-name="{{ item.category}}">{{ item.category | upcase }}</button>
-        {% endif %}
-        {% assign filtered_categories_array = filtered_categories_array | remove: filtered_cat %}
-        {% endfor %}
+      {% when "/contacto" %}
+      <div>
+        <h2>In construction</h2>
       </div>
-      {% else %}
-      <h2>{{page.description}}</h2>
-      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" loading="lazy">
+    </div>
+    {% else %}
+    <div class="header_post">
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
+      <h1>{{page.h1}}</h1>
+    </div>
     {% endcase %}
-  </div>
-
 </header>

@@ -22,7 +22,7 @@
     <meta name="owner" content="Julian Franco" >
     <meta property="og:locale" content="es_CO" >
     <meta property="og:type" content="article" >
-    <meta property="og:title" content="{%if page.h1 %}{{ page.h1}}{% else %}{{ page.title}}{% endif %}" >
+    <meta property="og:title" content="{%if page.h1 %}{{ page.h1 | strip_html}}{% else %}{{ page.title}}{% endif %}" >
     <meta property="og:url" content="{{ page.url}}" >
     {% if page.jpg %}
     <meta property="og:image" content="{{ site.url}}{{ page.hero}}" >

@@ -3,7 +3,7 @@ layout: landing
 title: tecnologiamayorista.com | Primera Propuesta
 description: Propuesta de trabajo para tecnologiamayorista.com | Comencemos a lograr grandes metas juntos
 h1: Convierte tu Blog en una Máquina de Ingresos con SEO de Alto Nivel
-hero: logo-sin-fondo.svg
+hero: img/logo-sin-fondo.svg
 noindex: true
 ---
 
