@@ -1,7 +1,6 @@
 <div id="breadcrumbs">
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-  <a href="/">Inicio /</a>
-  <a href="{{site.baseurl}}/frases-agradecimiento-{{page.categories}}">Frases de agradecimiento para {{page.categories}} /</a>
+  <a href="/">Blog de Juli /</a>
   {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
      {{ page.h1 }}

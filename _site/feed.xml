@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2024-03-06T11:42:31-05:00</updated>
+     <updated>2024-03-06T12:52:57-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,11 +13,19 @@
 
  
  <entry>
+   <title>Tienes una web muy sencilla. ¿La estás aprovechando?</title>
+   <link href="http://localhost:4000/aprovechar-una-pagina-web-sencilla"/>
+   <id>http://localhost:4000/aprovechar-una-pagina-web-sencilla</id>
+   <updated>2024-03-06T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-clave-de-una-página-web-sencilla-y-rentable&quot;&gt;La clave de una página web sencilla y rentable&lt;/h2&gt; &lt;p&gt;Antes...</content>
+ </entry>
+ 
+ <entry>
    <title>Evitar estafas en internet: Medidas de seguridad</title>
    <link href="http://localhost:4000/evitar-estafas-en-internet"/>
    <id>http://localhost:4000/evitar-estafas-en-internet</id>
    <updated>2023-06-20T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante...</content>
+   <content type="html">&lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.&lt;/p&gt; &lt;p&gt;A lo largo de este artículo,...</content>
  </entry>
  
  <entry>
@@ -25,7 +33,7 @@
    <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos"/>
    <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
    <updated>2021-06-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas. Y no es por animaciones. Aquí te explico más el tema. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos,...</content>
+   <content type="html">&lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.&lt;/p&gt; &lt;p&gt;Pero si tu negocio es pequeño, ya verás...</content>
  </entry>
  
  <entry>
@@ -33,7 +41,7 @@
    <link href="http://localhost:4000/por-que-no-usar-wordpress"/>
    <id>http://localhost:4000/por-que-no-usar-wordpress</id>
    <updated>2021-05-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt; &lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras...</content>
+   <content type="html">&lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt; &lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. &lt;strong&gt;WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Con ese sistema solo...</content>
  </entry>
  
  <entry>
@@ -41,7 +49,7 @@
    <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no"/>
    <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
    <updated>2021-04-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La...</content>
+   <content type="html">&lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/h2&gt; &lt;p&gt;Soy Julián. Y me alegra saludarlos para resolver la pregunta si tu negocio necesita o no una página web.&lt;/p&gt; &lt;p&gt;Cuando mis amigos...</content>
  </entry>
  
 

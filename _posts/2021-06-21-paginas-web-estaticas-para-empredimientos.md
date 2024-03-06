@@ -7,15 +7,12 @@ tags: [Páginas]
 h1: "Páginas web estáticas: la mejor opción en la mayoría de los casos"
 hero: img/pagina-web-estatica.svg
 alt: Página web estática
-excerpt_separator: <!-- excerpt -->
+excerpt: Yo hago muchas páginas web estáticas. Y mis clientes lo agradecen. Lee más
 referencias:
   - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
   - Ícono del encabezado por Flaticon: https://www.flaticon.com/
 home: true
 ---
-{{page.description}}
-<!-- excerpt -->
-
 Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.
 
 Pero si tu negocio es pequeño, ya verás que una página estática puede ser más que suficiente. ¡Veamos!

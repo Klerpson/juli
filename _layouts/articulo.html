@@ -1,28 +1,33 @@
 ---
 layout: default
 ---
+<div class="content">
+  {% include breadcrumbs.html %}
+</div>
 <main class="articulo wrapper">
   <article class="flow">
     <h2>{{page.title}}</h2>
     {{ content }}
+    {% if page.referencias %}
     <div class="referencias" id="fuentes">
       <h4>Créditos de las gráficas, referencias y fuentes:</h4>
       <ul>
-      {% for link_hash in page.referencias %}
-      {% for link in link_hash %}
+        {% for link_hash in page.referencias %}
+        {% for link in link_hash %}
         <li>
-          <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+          <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank" title="{{ link[0] }}">{{ link[0] }}</a>
         </li>
         {% endfor %}
         {% endfor %}
       </ul>
     </div>
+    {% endif %}
   </article>
   <aside>
 
     <h3>Aprende más...</h3>
 
-    {% assign maxRelated = 4 %}
+    {% assign maxRelated = 5 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
 

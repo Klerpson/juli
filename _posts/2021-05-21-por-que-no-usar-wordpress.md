@@ -7,15 +7,11 @@ tags: [Páginas, WordPress]
 h1: Personalmente no soporte a WordPress. Te cuento por qué
 hero: img/paginas-web-con-wordpress.svg
 alt: Ícono de WordPress para páginas web
-excerpt_separator: <!-- excerpt -->
+excerpt: En serio. WordPres es muy mala idea para un proyecto serio y grande. Y supuestamente es gratis. Pero te mostraré lo que te puede costar. Lee por qué
 referencias:
   - Íconos descargados de www.flaticon.com: https://www.flaticon.com/authors/eucalyp
 home: true
 ---
-{{page.description}}
-
-<!-- excerpt -->
-
 ## Primero, qué es WordPress y cómo funciona
 
 Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. **WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.**

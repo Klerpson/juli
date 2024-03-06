@@ -97,6 +97,16 @@ li {
   margin-left: 2em;
 }
 
+ol li{
+  list-style: decimal;
+}
+
+::marker{
+  font-size: 2rem;
+  color: var(--principal);
+  font-family: var(--fuenteTitulos);
+}
+
 blockquote {
   position: relative;
   border: 2.4px solid var(--acento);

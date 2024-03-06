@@ -7,14 +7,11 @@ tags: [Seguridad]
 h1: "Cómo evitar que te estafen en internet: Consejos y medidas de seguridad para protegerte"
 hero: img/seguridad-para-evitar-estafas-en-internet.svg
 alt: Seguridad en internet para evitar estafas
-excerpt_separator: <!-- excerpt -->
+excerpt: Hasta mi familia la han robado por internet. Lee cómo evitarlo
 referencias:
   - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
   - Ícono del encabezado por Flaticon: https://www.flaticon.com/
 ---
-{{page.description}}
-<!-- excerpt -->
-
 En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.
 
 La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.

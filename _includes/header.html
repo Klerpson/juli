@@ -13,7 +13,7 @@
             <img src="{{principal.hero}}" alt="{{principal.alt}}">
             <a href="{{principal.url|relative_url}}"><h2>{{principal.h1}}</h2></a>
           </div>
-          {{principal.excerpt}}
+          <p>{{principal.excerpt}}</p>
         </article>
         {% endif %}
         {% endfor %}
@@ -27,5 +27,6 @@
       <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
       <h1>{{page.h1}}</h1>
     </div>
+    <p>{{page.description}} - Juli 😎</p>
     {% endcase %}
 </header>
