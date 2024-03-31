@@ -18,9 +18,10 @@
 .home_gallery article,
 .entradas_home article{
   display: grid;
-  border: 2.4px solid var(--principal);
+  border: 1.6px solid var(--principal);
   padding: 1em;
   border-radius: var(--radius);
+  background-color: white;
 }
 
 .home_gallery article div, 
