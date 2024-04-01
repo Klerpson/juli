@@ -11,7 +11,6 @@ alt: Ícono de WordPress para páginas web
 excerpt: En serio. WordPres es muy mala idea para un proyecto serio y grande. Y supuestamente es gratis. Pero te mostraré lo que te puede costar. Lee por qué
 referencias:
   - Íconos descargados de www.flaticon.com: https://www.flaticon.com/authors/eucalyp
-home: true
 ---
 ## Primero, qué es WordPress y cómo funciona
 

@@ -8,6 +8,7 @@ h1: "Te doy idea de <span class='resaltar'>cómo aprovechar una página web senc
 hero: img/aprovechar-pagina-web-sencilla.svg
 jpg: img/aprovechar-pagina-web-sencilla.jpg
 alt: Pagina web rentable
+home: true
 excerpt: Todas las páginas web bien utilizadas son rentables. Yo te digo qué hacer con ella.
 ---
 ¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, **cómo aprovechar esa página web que parece muy sencilla**.
