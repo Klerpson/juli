@@ -18,9 +18,11 @@ Pero justo hoy fui a lavar mi moto. Mientras la terminaban, grababa el primer au
 
 La respuesta es NO. Así que te comparto hoy este análisis:
 
-* [Tener redes sociales no es lo mismo que tener página web](#tener-redes-sociales-no-es-lo-mismo-que-tener-página-web)
-* [Qué se están perdiendo](#un-negocio-que-se-está-perdiendo-las-ventajas-de-tener-su-página-web)
-* [Y que podrían ganar si tuvieran una página web... y si la hiciera yo claro](#un-negocio-que-sí-está-aprovechando-las-ventajas-de-tener-una-página-web)
+- [No es cuento. Todos necesitan una página web](#no-es-cuento-todos-necesitan-una-página-web)
+  - [Tener redes sociales no es lo mismo que tener página web](#tener-redes-sociales-no-es-lo-mismo-que-tener-página-web)
+- [Un negocio que se está perdiendo las ventajas de tener su página web](#un-negocio-que-se-está-perdiendo-las-ventajas-de-tener-su-página-web)
+- [Un negocio que sí está aprovechando las ventajas de tener una página web](#un-negocio-que-sí-está-aprovechando-las-ventajas-de-tener-una-página-web)
+- [Ahora piensa en tu negocio y su página web](#ahora-piensa-en-tu-negocio-y-su-página-web)
 
 ## No es cuento. Todos necesitan una página web
 

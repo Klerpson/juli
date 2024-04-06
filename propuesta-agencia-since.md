@@ -3,10 +3,9 @@ layout: landing
 title: since.com.co | Primera Propuesta
 description: Propuesta de trabajo para since.com.co | Comencemos a lograr grandes metas juntos
 h1: Hagamos Que Since Llegue Más Lejos
-hero: logo-sin-fondo.svg
+hero: img/logo-sin-fondo.svg
 noindex: true
 ---
-
 ## Hola Sebas
 
 Estoy muy contento de ofrecerte mi propuesta de trabajo. **Quiero trabajar para ustedes como su SEO Manager y Web Master externo**.
