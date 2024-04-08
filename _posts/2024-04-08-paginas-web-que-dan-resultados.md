@@ -4,7 +4,7 @@ title: "Una página web tiene que ser más que solo bonita. ¡Y menos oscura!"
 description: Casi todos mis clientes piden una página web bonita, con movimientos y efectos. Aquí te muestro por qué no hacerlas así y qué lo hace más efectiva
 category: Páginas
 tags: [Páginas]
-h1: "¿Por qué todos piden páginas deslumbrantes y con movimientos? Porque no saben esto"
+h1: "¿Por qué me piden páginas deslumbrantes y con movimientos? Porque no saben esto"
 hero: img/pagina-web.svg
 jpg: img/pagina-web.jpg
 home: true
