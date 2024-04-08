@@ -42,13 +42,15 @@ Y en el mundo web, los mejores haciendo **páginas web efectivas, simples, vende
 
 Los expertos de Google **NO tienen páginas web llenas de movimientos, efectos, alucinaciones, visiones, 3D, etc**. Tienen una web que muestra la información importante y punto.
 
-Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, [Google no usa WordPress para hacer sus páginas]({% post_url 2021-05-21-por-que-no-usar-wordpress %}). 
+Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, [Google no usa WordPress para hacer sus páginas]({% post_url 2021-05-21-por-que-no-usar-wordpress %}).
 
-¿Osea que tener páginas con todo eso es malo? Sí, si esos diseños tan llamativos no son parte de tu branding o de la personalidad de tu marca. Por otra parte, cuando una web tiene todo eso, pierde algo que se conoce como ACCESIBILIDAD. Créeme, es muy importante hoy en día. **Tú querrás que tu web tenga altas calificaciones en accesibilidad**.
+¿Osea que tener páginas con todo eso es malo? Sí, si esos diseños tan llamativos no son parte de tu branding o de la personalidad de tu marca.
+
+Por otra parte, cuando una web tiene todo eso, pierde algo que se conoce como ACCESIBILIDAD. Créeme, es muy importante hoy en día. **Tú querrás que tu web tenga altas calificaciones en accesibilidad**.
 
 ### Analiza lo que sí hacen
 
-Google se centra en lo que quieren conseguir cuando tú visita sus páginas. Nada más. Abres la web, caes en su diseño simplificado y haces clic donde ellos quieren que hagas clic.
+**Google se centra en lo que quieren conseguir cuando tú visita sus páginas**. Nada más. Abres la web, caes en su diseño simplificado y haces clic donde ellos quieren que hagas clic.
 
 Te pregunto: ¿es eso lo que quieres en tus páginas? ¡Por supuesto!
 
