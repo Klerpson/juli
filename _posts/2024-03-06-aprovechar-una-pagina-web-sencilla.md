@@ -19,7 +19,7 @@ Antes de cualquier idea, primero tengo que decirte: *si tu página no la hiciero
 
 Personalmente, investigo muy bien cómo maquetar esas páginas para que generen resultados. En mi gremio a estos resultados le llamamos *"Conversiones"*. Y es una triste realidad, la mayoría de páginas están tan mal hechas que el único que convierte es el que te cobró la página. Lo siento, pero es así.
 
->Sobre cómo debe ser una página web bien hecha, te contaré después. Así, cuando me encargues tu página, verás porqué es superior
+>[Haz clic aquí para que sepas cómo debe ser una página web bien hecha]({% post_url 2024-04-08-paginas-web-que-dan-resultados %}). Así, cuando me encargues tu página, verás porqué es superior
 
 ## Y qué vas a hacer con una web sencilla para generar dinero
 
