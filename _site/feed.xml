@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2024-04-08T16:11:31-05:00</updated>
+     <updated>2024-04-12T15:54:26-05:00</updated>
      <title type="html">Páginas web y estrategias digitales para emprendimientos y empresas</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>
+   <link href="http://localhost:4000/a"/>
+   <id>http://localhost:4000/a</id>
+   <updated>2024-04-12T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a “llenarla” de mucho sabor. Le agregué:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Orégano&lt;/li&gt; &lt;li&gt;Laurel&lt;/li&gt; &lt;li&gt;Pimienta&lt;/li&gt; &lt;li&gt;Sal&lt;/li&gt; &lt;li&gt;Salsa negra&lt;/li&gt; &lt;li&gt;Salsa inglesa&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Y como 4 cosas más que no recuerdo.&lt;/p&gt; &lt;p&gt;Lo que sí recuerdo es que la probé...</content>
+ </entry>
  
  <entry>
    <title>Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>

@@ -35,13 +35,15 @@ Personalizar una plantilla de WordPress es un proceso que en la mayoría de ocas
 
 Por ejemplo, hace poco tuve esta experiencia. Necesitaba modificar una plantilla que tenía palabras en inglés y cambiarlas al español. Pero solo lo permitía mediante código php. ¿Código PHP? Pues entonces ya no era tan fácil como hacer clic y escribir.
 
+Otro gran reto fue remodelar la web de la [agencia de marketing de Bogotá Since](https://since.com.co). Su plantilla fue muy difícil de adaptar a los gusto del cliente. Sí se pudo lograr, pero fue muy difícil.
+
 **Así que adaptar todos los textos, fuentes, colores y hasta logos puede llegar a ser más difícil de lo que parece.**
 
 ### Muchas plantillas que no siempre son las mejores de
 
-Recuerda que en wordpress utilizas plantillas prediseñadas. Y por temas de calidad, notarás que la mayoría utilizan las mismas plantillas. Esto afectará totalmente tus esfuerzos por diferenciarte de tu competencia, si usan WordPress claro está.
+Recuerda que en WordPress utilizas plantillas prediseñadas. Y por temas de calidad, notarás que la mayoría utilizan las mismas plantillas. Esto afectará totalmente tus esfuerzos por diferenciarte de tu competencia, si usan WordPress claro está.
 
-Por mi trabajo, participo en muchos grupos y foros de personas que saben sobre páginas web. Y son muy poquitas las plantillas que recomiendan utilizar. La excepción es que seas un maquetador web y con conicimientos en php para crear tu propia plantilla. Pero a este nivel estoy seguro que harás las páginas de tus proyectos sin WordPress.
+Por mi trabajo, participo en muchos grupos y foros de personas que saben sobre páginas web. Y son muy poquitas las plantillas que recomiendan utilizar. La excepción es que seas un maquetador web y con conocimientos en php para crear tu propia plantilla. Pero a este nivel estoy seguro que harás las páginas de tus proyectos sin WordPress.
 
 Adicionalmente, las plantillas que sí recomiendan utilizar, casi siempre tienen el problema que te mencioné en el punto anterior. Entonces, **va a ser muy difícil encontrar plantillas optimizadas, ligeras y veloces.** Esto último da paso al siguiente punto.
 
@@ -55,13 +57,13 @@ Con WordPress es lo mismo. Ya no es una persona preparando la comida rápida. Pa
 
 Piénsalo: si quieres poner un botón a tu página, ¿qué necesita WordPress? Un código para mostrarte dónde crear ese botón; código que le diga que eso es un botón; código para modificar el botón; código para crear el botón en la página y mostrarlo; código para darle funciones a ese botón; código para que el botón sea adaptable automáticamente; y así por cada elemento que tenga tu página.
 
-Todo ese código se va acumulando. Y al ser código con bases de datos y lenguages de programación, suelen requerir actualizaciones y seguridad. Y este ejemplo no tiene en cuenta lo que te menciono a continuación.
+Todo ese código se va acumulando. Y al ser código con bases de datos y lenguajes de programación, suelen requerir actualizaciones y seguridad. Y este ejemplo no tiene en cuenta lo que te menciono a continuación.
 
 ### Aplicaciones o plugins de WordPress
 
 Las aplicaciones de WordPress, llamadas plugins, son de uso obligado para que tu página funcione bien. Y agregar estas funciones, es también agregar más código a tu página web. Y esto, al mismo tiempo, puede ser un problema.
 
-WordPress va actualizando su programación. Esto obliga a quienes hacen los plugin a actualizarlos también. Y muchas de estas aplicaciones son abandonadas por sus desarrolladores y terminan siendo imcompatibles con tu versión de WordPress. ¿Te imaginas qué puede suceder con tu páginas si no estás pendiente de esto?
+WordPress va actualizando su programación. Esto obliga a quienes hacen los plugin a actualizarlos también. Y muchas de estas aplicaciones son abandonadas por sus desarrolladores y terminan siendo incompatibles con tu versión de WordPress. ¿Te imaginas qué puede suceder con tu páginas si no estás pendiente de esto?
 
 Otros plugins, aunque son gratis, no quedan bien hechos. Y algunos, cuando se actualizan, cambian su código y deja de hacer algo que nos gustaba. O modifica bases de datos que no debería. Y esto también afecta nuestra página web. Y si no tenía copia de seguridad, pues ya te imaginas.
 

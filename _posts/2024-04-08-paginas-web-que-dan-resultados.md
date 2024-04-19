@@ -5,7 +5,7 @@ description: Casi todos mis clientes piden una página web bonita, con movimient
 category: Páginas
 tags: [Páginas]
 h1: "¿Por qué me piden páginas deslumbrantes y con movimientos? Porque no saben esto"
-hero: img/pagina-web.svg
+hero: img/hou-web.svg
 jpg: img/pagina-web.jpg
 home: true
 alt: Dibujo de página web
