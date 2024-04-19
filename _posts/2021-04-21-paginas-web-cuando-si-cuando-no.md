@@ -63,7 +63,7 @@ Quiero mencionarte algunos ejemplos que te sirvan de inspiración.
 
 1. Analicemos la página [gurcoff.com](https://gurcoff.com/blog). Esta página es de una heladería en un pueblo pequeño. Su estrategia es **posicionar su página en las búsquedas de los turistas que visitan el lugar**. Normalmente, cuando los turistas van a visitar un lugar, buscan en Google hoteles, lugares para comer, etc. También, notarás que utilizan los llamados a la acción para generar una base de datos de sus clientes **directamente en su WhatsApp.**
 
-2. El segundo ejemplo es el de [lebeninmobiliaria.com](https://lebeninmobiliaria.com). Esta empresa ya tenía un tiempo establecida, trabajando en el mercado inmobiliario. Ahora querían tener una presencia profesional para cuando los buscaran en internet. Por eso, utilizaron una página propia, y no solamente un perfil de redes sociales.
+2. El segundo ejemplo es el de [una agencia inmobiliaria de Fusagasugá: lebeninmobiliaria.com](https://lebeninmobiliaria.com). Esta empresa ya tenía un tiempo establecida, trabajando en el mercado inmobiliario. Ahora querían tener una presencia profesional para cuando los buscaran en internet. Por eso, utilizaron una página propia, y no solamente un perfil de redes sociales.
 
 Así que cuando tu página web tiene un propósito, ese es el momento correcto de invertir en ella.
 
