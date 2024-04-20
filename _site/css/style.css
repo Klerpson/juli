@@ -628,9 +628,13 @@ justify-self: right;
   background-color: white;
 }
 
-.articulo aside a{
+.articulo aside a:not(.boton){
   color: var(--accion);
   text-transform: uppercase;
+}
+
+.articulo aside .boton{
+  margin-inline: auto;
 }
 
 .articulo .referencias ul{
