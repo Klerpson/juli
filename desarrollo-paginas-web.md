@@ -39,15 +39,24 @@ Y tengo muy claro que **un negocio sin una estrategia clara de ventas no vende b
 
 Quien te quiere vender una página web solo por venderla y conseguir su dinero, te va a hablar de:
 
-* Un diseño bonito
-* Con WordPress usted mismo la puede manejar (esto es basura. Luego te cuento)
-* Plantillas muy económicas
-* Páginas con animaciones y 3d
+* ❌ Un diseño bonito
+* ❌ Con WordPress usted mismo la puede manejar (esto es basura. Luego te cuento)
+* ❌ Plantillas muy económicas
+* ❌ Páginas con animaciones y 3d
 
 Puras características que no generan verdadero negocio.
 
+>Cada negocio es único. Tus clientes son únicos. Por esos, **hacer una web con una estrategia a la medida, te dará mejores resultados.**
 
+[contacto@juli.com.co]({{site.email}}){:class="boton" style="color: white;"}
 
+### Necesitas más que una página web en tu negocio
+
+1. Necesitas una página que tenga visitas. No haces un local comercial en una zona donde no pasa nadie. Y aunque te parezca ilógico, es lo que hace la mayoría de propietarios de páginas web. **Yo páginas listas para hacer SEO**, osea, el trabajo para que tenga muchas visitas.
+2. Hay mucha variedad o tipo de páginas web. Conmigo vas a tener justo la página que tu emprendimiento necesita, según el momento actual de tu empresa.
+3. Todos queremos que un negocio tenga seguridad. Es nuestro dinero. Con mis desarrollos no tendrás todos los dolores de cabeza que sufren quienes son víctimas de las páginas con WordPress.
+
+## Ahora lo que vale una página web con estrategia de retorno de inversión
 
 Seguramente buscaste esta sección. Pues ya está aquí. Este es mi valor por ayudarte a conseguir todo lo que te he propuesto:
 
@@ -59,11 +68,11 @@ Seguramente buscaste esta sección. Pues ya está aquí. Este es mi valor por ay
 
 Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**.
 
-El avance será un poco menos, pero poco a poco podremos lograr aumentar ese presupuesto al ver los resultados. Ya tu equipo de desarrollo se encargará de ejecutar los cambios sugeridos.
+El avance será un poco menos, pero poco a poco podremos lograr aumentar ese presupuesto al ver los resultados.
 
->Ten la bondad de confirmar tu decisión antes del lunes 30 de octubre. Así cerraré el lugar que tengo disponible para servirte.
+Ya tu equipo de desarrollo se encargará de ejecutar los cambios sugeridos.
 
-Espero que este plan te emocione tanto como a mí. Estoy ansioso por escuchar tus pensamientos y empezar a trabajar juntos.
+### Espero que este plan te emocione tanto como a mí. Estoy ansioso por escuchar tus pensamientos y empezar a trabajar juntos.
 
 Desde el primer lugar de tu búsqueda de opciones,
 
@@ -71,4 +80,4 @@ Desde el primer lugar de tu búsqueda de opciones,
 {:style="font-family: var(--fuenteQ); font-size: 4em;"}
 De juli.com.co
 
-[Escríbeme y Comencemos]({{site.telegram}}){:class="boton" style="color: white;"}
+[contacto@juli.com.co]({{site.email}}){:class="boton" style="color: white;"}
