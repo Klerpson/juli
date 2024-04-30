@@ -266,6 +266,19 @@ nav .logo span{
   gap: 12px;
 }
 
+.header_landing{
+  display: grid;
+  place-items: center;
+  gap: 40px;
+}
+
+.header_landing img{
+  box-shadow: var(--shadow);
+}
+
+.header_landing h1{
+  text-align: center;
+}
 .home div{
   border-top: 2.4px solid var(--acento);
   padding: 2em 0 1em;

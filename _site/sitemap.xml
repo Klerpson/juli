@@ -4,6 +4,14 @@
   
   
   
+      <url>
+        <loc>http://localhost:4000/desarrollo-paginas-web</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
   
   
       <url>
@@ -31,7 +39,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/a</loc>
+        <loc>http://localhost:4000/accesibilidad-web</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

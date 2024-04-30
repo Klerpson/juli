@@ -17,11 +17,17 @@
         </article>
         {% endif %}
         {% endfor %}
+      </div>
       {% when "/contacto" %}
       <div>
         <h2>In construction</h2>
       </div>
-    </div>
+      {% when "/desarrollo-paginas-web" %}
+      <div class="header_landing">
+        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
+        <h1>{{page.h1}}</h1>
+        <a href="mailto:{{site.email}}" class="boton">contacto@juli.com.co</a>
+      </div>
     {% else %}
     <div class="header_post">
       <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">

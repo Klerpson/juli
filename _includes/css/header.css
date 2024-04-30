@@ -30,3 +30,17 @@
   align-items: center;
   gap: 12px;
 }
+
+.header_landing{
+  display: grid;
+  place-items: center;
+  gap: 40px;
+}
+
+.header_landing img{
+  box-shadow: var(--shadow);
+}
+
+.header_landing h1{
+  text-align: center;
+}
