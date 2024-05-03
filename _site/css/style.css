@@ -392,11 +392,13 @@ footer a {
 #results-container div h3{
   margin: 1.5rem 0;
 }
-.landing.imagen{
-  float: right;
+.landing img{
+  display: block;
+  margin: 2em auto;
+  box-shadow: var(--shadow);
 }
 
-/* landing */
+/* 
 .intro {
   display: flex;
   flex-wrap: wrap;
@@ -582,7 +584,7 @@ justify-self: right;
   line-height: 1.5em;
   word-spacing: 1px;
   color: #888;
-}
+} */
 .boton-up{position:fixed;right:15px;bottom:48px;width:50px;height:50px;display:flex;justify-content:center;align-items:center;background-color:var(--accion);border-radius:var(--radius);box-shadow:var(--shadow);transition:all 300ms ease-in;z-index:5;}.boton-up:hover{transform:scale(1.1);}
 /* BREADCRUMBS */
 

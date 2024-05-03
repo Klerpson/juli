@@ -1,8 +1,10 @@
-.landing.imagen{
-  float: right;
+.landing img{
+  display: block;
+  margin: 2em auto;
+  box-shadow: var(--shadow);
 }
 
-/* landing */
+/* 
 .intro {
   display: flex;
   flex-wrap: wrap;
@@ -188,4 +190,4 @@ justify-self: right;
   line-height: 1.5em;
   word-spacing: 1px;
   color: #888;
-}
+} */
