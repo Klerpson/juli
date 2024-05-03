@@ -17,27 +17,41 @@ Para esto, quiero que analicemos primero cuál es **la pregunta que te debes hac
 
 Soy Julián. Y me alegra saludarlos para resolver la pregunta si tu negocio necesita o no una página web.
 
-Cuando mis amigos tienen la intención de digitalizar sus negocios, me dicen: **¿debo hacer una página web o no?** Y es que la opinión del común, es que la página y el logo es lo primero que debes hacer (esto del logo es otra historia 🤦‍♂️).
+Cuando mis amigos tienen la intención de digitalizar sus negocios, me dicen: **¿debo hacer una página web o no?**.
+
+Y es que la opinión del común, es que la página y el logo es lo primero que debes hacer (esto del logo es otra historia 🤦‍♂️).
 
 ## No siempre busques una página web... cuando estás comenzando
 
-**No siempre es necesario hacer una página web.** Y no me refiero a hacerlo todo en Facebook, como hace la mayoría ahora. Mi argumento se basa en que cuando alguien quiere una página web, casi siempre paga para que otro la haga.
+**No siempre es necesario hacer una página web.** Y no me refiero a hacerlo todo en Facebook, como hace la mayoría ahora.
 
-Así que si tienes una idea de negocio, y tú mismo puedes hacer la página web, entonces haz la página tú mismo. Y si puedes hacerla gratis en cualquier aplicativo online, mucho mejor. Pero **no le pagues a alguien una página web cuando estás comenzando con tu emprendimiento.**
+Mi argumento se basa en que cuando alguien quiere una página web, casi siempre paga para que otro la haga.
+
+Así que si tienes una idea de negocio, y tú mismo puedes hacer la página web, entonces haz la página tú mismo.
+
+Y si puedes hacerla gratis en cualquier aplicativo online, mucho mejor. Pero **no le pagues a alguien una página web cuando estás comenzando con tu emprendimiento.**
 
 ### ¿Por qué no vale la pena hacer una página cuando estamos comenzando?
 
-Vamos a poner un ejemplo para entenderlo mejor. Supongamos que alguien quiere empezar un negocio. Entonces decide comprar un terreno y pagarle a alguien que edifique un local comercial. *Y solo entonces inicia con su negocio*.
+Vamos a poner un ejemplo para entenderlo mejor.
 
-¿Entiendes el punto? ¿Harías tú eso? Yo no lo haría. La razón es que aún no tengo la certeza sobre si el negocio va a funcionar. Hay muchas maneras de probar. No hay que intentar sin rumbo.
+Supongamos que alguien quiere empezar un negocio. Entonces decide comprar un terreno y pagarle a alguien que edifique un local comercial. *Y solo entonces inicia con su negocio*.
 
-Quizá en este punto los inversionistas de propiedades o bienes raíces dirán que no se pierde nada. Pero ese es otro tema. Aquí lo que quiero resaltar con el ejemplo es que **haces una inversión en una página web, cuando no sabes si tu idea va a funcionar**. (También se dice validar la idea).
+¿Entiendes el punto? ¿Harías tú eso? Yo no lo haría.
+
+La razón es que **aún no tengo la certeza de que el negocio va a funcionar**. Hay muchas maneras de probar. No hay que intentar sin rumbo.
+
+Quizá en este punto los inversionistas de propiedades o bienes raíces dirán que no se pierde nada. Pero ese es otro tema.
+
+Aquí lo que quiero resaltar con el ejemplo es que **haces una inversión en una página web, cuando no sabes si tu idea va a funcionar**. (También se dice validar la idea).
 
 ## De todos modos, sí hay que hacer una página web
 
 Así que cuando yo te diga no hagas una página web, me estoy refiriendo a que **si estás comenzando un negocio e ibas a pagarle a alguien para que te haga un sitio web, ¡no lo hagas!.**
 
-Mandar hacer un sitio web no es económico. Y si te van a cobrar barato... ya sabes, sale caro. A propósito. En otros capítulos te enseñaré a hacer páginas de validación por tí mismo, sin pagar.
+Mandar hacer un sitio web no es económico. [Claro si lo hace como yo lo hago]({{'desarrollo-paginas-web' | relative_url}}). Si no, son baratas.
+
+>Y si te van a cobrar barato... ya sabes, sale caro.
 
 ### Ahora sí... cuándo recomiendo hacer una página web?
 
