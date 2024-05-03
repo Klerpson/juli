@@ -3,7 +3,7 @@ layout: landing
 title: ¿Tienes un página web sin visitas? No tienes nada. Yo hago SEO
 description: Puede que tengas un página web. Pero si no tienes visitas orgánicas, da igual si la tienes. Pues yo hago SEO. Y me encargo que te visiten. Y mucho!
 h1: 🤔 Quien no está en internet no existe... Y si no haces SEO, tampoco existes. Me explico
-hero: img/seo.webp
+hero: img/banner-juli.webp
 ---
 Conozco un negocio de un servicio muy tradicional en nuestro país, Colombia. Y no hacen SEO.
 
