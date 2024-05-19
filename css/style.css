@@ -1,8 +1,9 @@
 ---
-layout: null
+layout: compress
 noindex: true
 ---
 {% include css/universales.css %}
+{% include css/clave.css %}
 {% include css/nav.css %}
 {% include css/header.css %}
 {% include css/home.css %}
