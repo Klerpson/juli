@@ -1,86 +1,47 @@
 ---
 layout: landing
-title: tecnologiamayorista.com | Primera Propuesta
-description: Propuesta de trabajo para tecnologiamayorista.com | Comencemos a lograr grandes metas juntos
-h1: Convierte tu Blog en una Máquina de Ingresos con SEO de Alto Nivel
+title: Conctáctame y hagamos tu página web | Juli
+description: "Soy Juli, y hago tus páginas web y tus páginas de venta con una calidad superior: Más conversiones, Más ventas, Mejor optimizadas, Hermosas. Entra aquí"
+h1: Aquí puedes ponerte en contacto conmigo | juli.com.co
 hero: img/logo-sin-fondo.svg
-noindex: true
 ---
+## Contáctame hoy mismo y consigue una página web que convierta
 
-Deja que me encargue del SEO y la administración de tu blog, para que tú puedas enfocarte en lo que realmente importa: tu negocio.
+¡Me encantaría saber de ti! Si tienes alguna pregunta, comentario o simplemente quieres saludar, no dudes en ponerte en contacto conmigo. Estoy aquí para ayudarte con todo lo relacionado a **landing page** y **posicionamiento web**.
 
-![SEO Blogs](/img/landing.avif){:class="imagen"}
----
+## ¿Cómo puedes contactarme?
 
-### 🎯 **Beneficios Claros**
+### Por Email
 
-**SEO Optimizado**
-- "Aumenta tu visibilidad en Google y atrae tráfico de calidad a tu blog."
+La forma más rápida y directa de comunicarte conmigo es a través de mi correo electrónico. ¡Escríbeme y te responderé lo más pronto posible!
 
-**Contenido de Calidad**
-- "Publica contenido que no solo atraiga sino que retenga a tu audiencia. Más tiempo en la página, más ingresos."
+[📧 contacto@juli.com.co](mailto:contacto@juli.com.co){:class="boton"}
 
-**Administración Completa**
-- "Desde la publicación de artículos hasta el análisis de métricas, nos encargamos de todo. Tú relájate y observa cómo crece tu blog."
+### A través del Formulario de Contacto
 
----
+También puedes llenar el siguiente formulario y te responderé a la brevedad:
 
-🗣️ **Testimonios**
-
-- "Desde que contraté a Juli, mi blog ha duplicado su tráfico y mis ingresos han aumentado un 150%." - **Cliente Feliz 1**
+<form action="https://formspree.io/f/{your-id}" method="POST">
+  <label for="name">😎 Nombre:</label>
+  <input type="text" id="name" name="name" required>
   
-- "Nunca pensé que el SEO podría ser tan fácil. Juli se encarga de todo, y yo puedo centrarme en mi negocio." - **Cliente Feliz 2**
+  <label for="email">📧 Email:</label>
+  <input type="email" id="email" name="_replyto" required>
+  
+  <label for="message">✏️ Mensaje:</label>
+  <textarea id="message" name="message" rows="4" required></textarea>
+  
+  <button type="submit" class="boton">Enviar tu consulta</button>
+</form>
+
+### Redes Sociales
+
+Sígueme en mis redes sociales para estar al día con las últimas novedades sobre **landing page** y **posicionamiento web**.
+
+- [x.com]({{site.x}})
 
 ---
 
-### 📣 **Llamado a la Acción**
+Me apasiona ayudarte a mejorar tu **posicionamiento web** y a crear la **landing page** perfecta para tu negocio. ¡Espero saber de ti pronto!
 
-"¿Listo para llevar tu blog al siguiente nivel? Haz clic abajo y comienza tu viaje hacia el éxito."
-
-🔵 **[Botón: Comienza Ahora]**
-
----
-
-### 💲 **Precios y Planes**
-
-**Básico**: $50/mes
-- "Ideal para blogs nuevos. Incluye optimización SEO básica y 2 artículos al mes."
-
-**Avanzado**: $100/mes
-- "Para blogs en crecimiento. SEO avanzado, 4 artículos al mes y análisis de métricas."
-
-**Premium**: $200/mes
-- "El paquete completo. SEO experto, 8 artículos al mes, análisis de métricas y estrategia de contenido."
-
----
-
-### 🛡️ **Garantía de 30 Días**
-
-"Si en 30 días no ves resultados, te devolvemos tu dinero. Sin preguntas."
-
----
-
-### 📞 **Contacto**
-
-"¿Tienes preguntas? No dudes en contactarnos."
-
-- **Correo**: julian@juli.com.co
-- **Teléfono**: +57 123 4567
-
----
-
-### 🎁 **Lead Magnet**
-
-"Descarga nuestra guía gratuita 'Los 5 Errores de SEO que Estás Cometiendo' y empieza a mejorar hoy mismo."
-
-🔵 **[Botón: Descarga la Guía Gratuita]**
-
----
-
-### 📊 **Footer**
-
-"Al usar este servicio, aceptas nuestra Política de Privacidad y Términos de Servicio."
-
----
-
-Espero que este contenido te sea útil y te ayude a crear una landing page que convierta como loca. ¡Dale duro, Julian! 🚀
+[📧 contacto@juli.com.co](mailto:contacto@juli.com.co){:class="boton"}
