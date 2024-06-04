@@ -30,6 +30,11 @@ nav .logo span{
   display: none;
 }
 
+nav .boton{
+  display: grid;
+  place-items: center;
+}
+
 nav .boton span{display: none;}
 
 nav .boton img{
