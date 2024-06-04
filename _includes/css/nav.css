@@ -30,7 +30,20 @@ nav .logo span{
   display: none;
 }
 
+nav .boton span{display: none;}
+
+nav .boton img{
+  width: 36px;
+  height: 34px;
+}
+
 @media screen and (min-width: 600px) {
+  nav .boton img{
+    display: none;
+  }
+  
+  nav .boton span{display: inline-block;}
+
   nav .logo span{
     display: block;
     font-family: var(--fuenteTitulos);
