@@ -79,14 +79,13 @@ Seguramente buscaste esta sección. Pues ya está aquí.
 
 Estos son los valores por ayudarte a *conseguir una página web que sí genere resultados y se convierta en un verdadero patrimonio*, no solo en un gasto:
 
-| 👨🏼‍🏭**Servicio Ofrecido** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
-| 👨🏼‍🏭SEO MANAGER (yo me encargo) | 🫡 Administración técnica y estratégica; ejecución de los cambios sobre el sitio web; seguimiento de resultados; optimización y presentación de informes. Mejor dicho, **yo hago todo** | 💵 1'755.000 mensual |
-| 👨🏼‍🏭PÁGINA WEB CON BLOG (sin límites de URL) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 10 URLs (Inicio, todos tus servicios, sobre la empresa, blog con artículos de ejemplo, contacto y legales) | 💵 2'259.000 |
-| 👨🏼‍🏭PÁGINA WEB CORPORATIVA (5 páginas) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con 5 URLs (Inicio, servicios, sobre la empresa, contacto y legales) | 💵 1'285.000 |
-| 👨🏼‍🏭PÁGINA WEB DE SERVICIOS (hasta 10 páginas) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 10 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) | 💵 1'750.000 |
-| 👨🏼‍🏭PÁGINA WEB SENCILLA (1 página) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página *OnePage* o de 1 URL | 💵 485.000 |
-| 👨🏼‍🏭MANTENIMIENTO (para página con WordPress) | 🫡 Administración de plantillas, plugins, seguridad, contenido y servidores | 💵 Desde 495000 hasta 1'550.000 |
-| 👨🏼‍🏭SEO DE CONTENIDOS (en tu blog) | 🫡 Investigación de contenido, análisis de la competencia y creación e implementación de estrategia de contenidos (⚠️ Artículos totalmente redactados con técnicas de copywriting y storytelling, sin IA) | 💵 95000 por artículo |
+| 👨🏼‍🏭 **Servicio Ofrecido** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
+| 👨🏼‍🏭 PÁGINA WEB CON BLOG (sin límites de URL) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 10 URLs (Inicio, todos tus servicios, sobre la empresa, blog con artículos de ejemplo, contacto y legales) | 💵 2'259.000 |
+| 👨🏼‍🏭 PÁGINA WEB CORPORATIVA (**hasta 7 páginas**) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 7 URLs (Inicio, servicios, sobre la empresa, contacto y legales) | 💵 1'425.000 |
+| 👨🏼‍🏭 PÁGINA WEB CON SERVICIOS (hasta 12 páginas) | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 12 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) | 💵 1'950.000 |
+| 👨🏼‍🏭 PÁGINA WEB SENCILLA (ONE-PAGE) CORPORATIVA | 🫡 Administración técnica del código y el diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página *OnePage* o de 1 URL | 💵 685.000 |
+| 👨🏼‍🏭 LANDING PAGE | 🫡 Estudio de la campaña y del producto; diseño y desarrollo de la página de ventas; redacción de contenido con técnicas de copywriting y persuasión; adaptación y optimización de contenido multimedia; despliegue de la landing  | 💵 425.000 |
+| 👨🏼‍🏭 MANTENIMIENTO (para página con WordPress) | 🫡 Administración de plantillas, plugins, seguridad, contenido y servidores | 💵 Desde 495000 hasta 1'550.000 mensuales, según el tamaño de la web |
 
 Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**.
 
