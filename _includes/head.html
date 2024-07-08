@@ -18,7 +18,15 @@
     <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}">
     <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}">
     <meta name="owner" content="Julian Franco">
+
+    {% if page.layout == 'post' %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
+    {% if page.category %}<meta property="article:section" content="{{ page.category | first }}">{% endif %}
+    {% if page.tags %}<meta property="article:tag" content="{{ page.tags | join: ',' }}">{% endif %}
+    {% endif %}
     <meta property="og:locale" content="es_CO">
+    <meta property="og:site_name" content="{{ site.name }} Colombia">
     <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{%if page.h1 %}{{ page.h1 | strip_html}}{% else %}{{ page.title}}{% endif %}">
     <meta property="og:url" content="{{ page.url}}">
@@ -29,7 +37,7 @@
     <meta property="og:image:alt" content="{{page.alt}}">
     <meta property="og:image:type" content="image/jpg">
     {% endif %}
-    <meta property="og:site_name" content="juli.com.co">
+    
     {% if page.category %}
     <meta property="article:section" content="{{page.category}}">
     {% endif %}
@@ -81,5 +89,22 @@
       })(window, document, "clarity", "script", "lchuqa1ged");
     </script>
     <!-- End Microsoft clarity -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "{{ site.url }}"
+        },{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }]
+      }
+      </script>
   </head>
 
