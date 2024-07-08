@@ -19,7 +19,7 @@
     <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.name}}{% endif %}">
     <meta name="owner" content="Julian Franco">
     <meta property="og:locale" content="es_CO">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
     <meta property="og:title" content="{%if page.h1 %}{{ page.h1 | strip_html}}{% else %}{{ page.title}}{% endif %}">
     <meta property="og:url" content="{{ page.url}}">
     {% if page.jpg %}
