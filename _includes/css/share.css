@@ -5,6 +5,7 @@
   padding: 1em;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  color: white;
 }
 
 #share-buttons {
