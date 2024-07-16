@@ -17,6 +17,9 @@ layout: default
     <h2>{{page.title}}</h2>
     {{ content }}
     {% if page.referencias %}
+    <div class="share wrapper">
+      {% include share.html %}
+    </div>
     <div class="referencias" id="fuentes">
       <h4>Créditos de las gráficas, referencias y fuentes:</h4>
       <ul>
@@ -32,10 +35,11 @@ layout: default
     {% endif %}
   </article>
   <aside>
-
-    <h3>Aprende más...</h3>
-
-    {% assign maxRelated = 5 %}
+    <h4>¿Tienes un página web rentable? Si no, escríbeme</h4>
+    <a href="mailto:{{site.email}}" rel="nofollow noopener" title="Solicitar una página web" class="boton" target="_blank">📧 Escribe tu consulta</a>
+    <hr>
+    <h4>Aprende más aquí</h4>
+    {% assign maxRelated = 3 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
 
@@ -61,9 +65,9 @@ layout: default
     <div class="relacionados">
       <a href="{{ post.url |relative_url }}" title="{{post.title}}">
         {% if post.hero %}
-        <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}">
+        <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}" loading="lazy" width="40" height="40">
         {% endif %}
-        <h4> {{ post.title }}</h4>
+        <h5>{{ post.title }}</h5>
       </a>
     </div>
 
@@ -73,13 +77,8 @@ layout: default
     {% endif %}
     {% endif %}
     {% endfor %}
-    <hr>
-    <h4>¿Estás aprovechando las ventajas de una página web bien hecha? Si no, escríbeme</h4>
-    <a href="mailto:{{site.email}}" rel="nofollow" class="boton">Haz tu consulta</a>
   </aside>
-  <div class="share wrapper">
-    {% include share.html %}
-  </div>
+  
 </main>
 {% include talkyard-comments.html %}
 {% include cta.html %}

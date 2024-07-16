@@ -114,19 +114,19 @@ ol li{
 
 blockquote {
   position: relative;
-  border: 2.4px solid var(--acento);
+  border: 2.4px solid var(--secundario);
   border-radius: var(--radius);
   padding: 1em;
   margin: 0;
   display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  box-shadow: var(--shadow);
+  text-align: center;
 }
 
-blockquote::before{
-  content: '"';
-  position: absolute;
-  left: -1em;
-  transform: scale(4);
-  font-style: italic;
+blockquote .boton{
+  margin-top: 1em;
 }
 
 table {

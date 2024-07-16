@@ -1,11 +1,10 @@
 ---
 layout: default
-title: "Soy Juli. Y hago las mejores página web de Colombia. Te enseño"
-description: "Hago páginas web desde Colombia. Y en mi blog personal te digo qué hacer con ellas para que sean una inversión realmente buena. ¡Léelo!"
-h1: "😎 Soy Juli. Y te enseño <span class='resaltar'>qué hacer con tu página web</span>... al menos en Colombia"
+title: "Soy Juli. Y hago páginas web con SEO. Y muchas. Escríbeme"
+description: "Hago páginas web y SEO. Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera de aplicar estrategias con mis clientes. ¿Trabajamos?"
+h1: "😎☕ Soy Juli. Te enseño <span class='resaltar'>qué hacer con tu página web</span> para vender más"
 hero: "juli-320.webp"
-alt: "Juli - Blogs y SEO"
-cta: "Quiero saber más"
+alt: "Logo de Juli - Blogs y SEO"
 ---
 
 ## De NO vender bolsos a conseguir reembolsos... gracias al SEO y las páginas web
@@ -15,6 +14,8 @@ Cuando llevaba 2 años de matrimonio, tuvimos una crisis económica fuerte. Inte
 Te cuento:
 
 Ese mismo año estudié mucho: blogs, YouTube, Platzi, W3Schools, etc. Y [aprendí a desarrollar páginas muy profesionales]({{'desarrollo-paginas-web'|relative_url}} "Páginas web"). De verdad profesionales. Nada de plantillas ni gestores.
+
+[Así hago páginas web]({{'desarrollo-paginas-web'|relative_url}} "Páginas web"){:class="boton"}
 
 Ahora ya podía ofrecer páginas web más rápidas, más seguras, sin costos de mantenimiento, ni nada de eso.
 

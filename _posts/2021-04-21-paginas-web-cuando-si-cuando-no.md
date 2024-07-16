@@ -8,7 +8,6 @@ h1: No hagas páginas web para tu negocio... hasta que este lo necesita
 hero: img/paginas-web-para-negocios.svg
 jpg: img/paginas-web-para-negocios.jpg
 alt: Sitio web para un emprendedor
-home: true
 excerpt: Te doy algunas claves para que decidas cuándo mandar a hacer tu página web
 ---
 Para esto, quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.

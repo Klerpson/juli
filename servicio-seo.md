@@ -1,38 +1,34 @@
 ---
 layout: landing
-title: ¿Tienes un página web sin visitas? No tienes nada. Yo hago SEO
+title: ¿Tienes Página Web Sin Visitas? No tienes nada. Yo hago SEO
 description: Puede que tengas un página web. Pero si no tienes visitas orgánicas, da igual si la tienes. Pues yo hago SEO. Y me encargo que te visiten. Y mucho!
-h1: 🤔 Quien no está en internet no existe... Y si no haces SEO, tampoco existes. Me explico
+h1: 🤔 Quien no está en internet no existe... Y si no hacemos SEO, tampoco existes. Me explico
 hero: img/banner-juli.webp
+alt: Banner sobre el servicio de SEO de Juli
 ---
-Te quiero hablar de un negocio con un servicio muy tradicional en nuestro país, Colombia. *Y no hacen SEO*.
+Te quiero hablar de un negocio con un servicio muy tradicional en nuestro país, Colombia.
 
-Es de estas empresas de trabajos académicos, con muchos años en el mercado.
+Es el negocio de vender páginas web.
 
 Y te cuento algo.
 
 Te interesa, seguro.
 
-Tienen una página web.
+>Sus clientes ahora tienen una página web ¿Bonita? Sí, está bien hecha. **Pero tienen una página web que no vende nada**. Osea, no tienen nada.  
+[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
 
->¿Bonita? Sí, está bien hecha. **Pero no sirve para nada**.
+## Te explico porqué están perdiendo dinero estos negocios por no hacer posicionar su página web en las búsquedas
 
-## Te explico porqué están perdiendo dinero estos negocios al no hacer SEO
-
-Resulta que a todos los empresarios y emprendedores les ofrecen páginas web sin explicarles que **necesitan seguir invirtiendo en ellas**.
+Resulta que a los empresarios y emprendedores les ofrecen páginas web sin explicarles que **necesitan seguir invirtiendo en ellas**.
 
 Para darme a entender mejor.
 
 >Imagina que mandas a hacer una cantidad grande de tarjetas de presentación. Unas 20000. *Pero luego las guardas en un cajón*.  
-Te pregunto: ¿para qué te servirían? **Para lo mismo que la página web de la empresa que te mencioné antes. Para nada.**
+Te pregunto: ¿qué conseguiste con eso? **Conseguirás lo mismo que la página web de las empresas que te mencioné antes: ¡nada!**
 
 Una página web guardada en algún lugar del internet, **pero que nadie visita**, sería igual que esas tarjetas.
 
-Lo mismo. Sería como abrir el negocio en un local por donde nadie pasa.
-
-Los he visto. Es un escenario muy triste.
-
-## Lo que hace que una página web sea visitada se llama SEO
+## Lo que hace que una página web atraiga clientes se llama SEO
 
 Estoy seguro que si tú tienes un negocio, a tí y a mí SÍ nos gusta que ese negocio reciba muchas visitas.
 
@@ -48,11 +44,22 @@ Quien sabe de verdad sobre SEO, **entiende que esto es un poderoso complemento d
 
 ## La gran ventaja del SEO... sobre todo el SEO que hago yo
 
-Cuando inviertes en SEO, y lo haces conmigo por supuesto, no estás generando un gasto sin retorno en el negocio.
+Cuando inviertes en SEO, y lo haces conmigo por supuesto, no estás solamente gastando dinero.
 
-Invertir en un buen servicio de SEO es **generar un patrimonio a largo plazo**.
+Invertir en un buen servicio de SEO es **generar un patrimonio a largo plazo**. Me refiero a un servicio con:
 
-Me explico con una comparación.
+* Posicionamiento obviamente
+* Estrategias de navegación
+* Estrategias de conversión
+* Optimización
+* Experiencia de usuario
+* Medición y mejoras
+
+Hablo de un buen servicio que **haga que tus clientes te encuentren a ti**, y no que tú pagues para traerlos hasta tu web.
+
+[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+
+Me explico mejor haciendo una comparación con la publicidad.
 
 ### Por un lado está la inversión en visitas pagadas con publicidad
 
@@ -60,32 +67,33 @@ Cuando hacemos publicidad pagada, que es otra rama importante del marketing, ves
 
 Entonces, tienes que seguir invirtiendo en más publicidad.
 
-Si dejas de hacerlo, **se acaban los resultados**. Como cerrar la llave de agua.
+Si dejas de hacerlo, **se acaban los resultados**. Como cerrar la llave de clientes.
 
-### Por otro lado, también está la inversión en visitas orgánicas con SEO
+### Por otro lado, está la inversión en visitas orgánicas con SEO
 
 Hay que invertir en publicidad pagada. Sí lo recomiendo.
 
 Lo que no te dicen, es que al mismo tiempo debes invertir en SEO para poder cerrar más adelante la llave de la publicidad pagada.
 
-#### Es verdad, cuando inviertes en SEO no ves resultados inmediatos o rápidos
+Es verdad, cuando inviertes en SEO no ves resultados inmediatos o rápidos
 
-Las visitas van a ir creciendo poco a poco.
+Pero **las visitas van a ir creciendo poco a poco**.
 
-Pero con el tiempo verás como crecen cada vez más. Y cuando toma fuerza, solamente será necesario cuidar esos visitantes.
+Pero con el tiempo verás como crecen cada vez más. Y cuando toma fuerza, ¡explota! Entonces, solamente necesitarás atender muy bien a esos visitantes.
 
->Quienes hemos emprendido negocios, sabemos lo que significa ver un negocio crecer y coger fuerza. Así es el SEO.
+>Quienes tenemos negocios exitosos, sabemos lo que significa **ver un negocio crecer y establecerse en su mercado**. Así es el SEO cuando se hace como yo lo sé hacer.  
+[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
 
-## Y después que te posicionas en el mercado verás los resultados grandes
+## Y después de que posicionemos tu página web en internet verás los resultados grandes
 
-Imagina captar en tu página, que debe estar bien preparada, la mayor cantidad de tráfico posible para tu nicho de mercado.
-
-----
+Imagina captar en tu página la mayor cantidad de tráfico posible para tu nicho de mercado.
 
 Esa es la promesa de mi servicio.
 
-1. Conseguir cada vez más tráfico caliente o dispuesto a la compra.
-2. Optimizar la página para que al recibir ese tráfico funcione rápido y con eficiencia.
+----
+
+1. Conseguir cada vez más tráfico de personas dispuestas a la compra.
+2. Optimizar la página para que al recibir ese tráfico, funcione rápido y funcione bien.
 3. Mejorar la estrategia del diseño y del contenido, para que no solo funcione bien, sino que también convierta esos visitantes en clientes de tu negocio.
 
 ----
@@ -94,14 +102,15 @@ Esa es la promesa de mi servicio.
 
 Para ayudarte a conseguir más resultados con tu página web, te ofrezco los siguientes servicios relacionados con el SEO:
 
-| 👨🏼‍🏭**Servicio Ofrecido** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
-| 👨🏼‍🏭SEO MANAGER Y WEB MASTER(yo me encargo de todo) | 🫡 Administración técnica y estratégica; investigación de la competencia; análisis de keywords; estrategia de estructura web; ejecución de los cambios sobre el sitio web; seguimiento de resultados; gestión del contenido; optimización y presentación de informes. Mejor dicho, **yo hago todo** | 💵 2'750.000 mensual |
-| 👨🏼‍🏭AUDITORÍA SEO | 🫡 Análisis de oportunidades de mejora y optimización en tu página web; estudio del mercado para sugerencias de contenido; estudio de la estrategia de la estructura web y la manera de resolver la intención de búsqueda del usuario | 💵 795.000 |
-| 👨🏼‍🏭SEO DE CONTENIDOS (en tu blog) | 🫡 Investigación de contenido, análisis de la competencia y creación de estrategia de contenidos (⚠️ Artículos totalmente redactados con técnicas de copywriting y storytelling, sin IA) | 💵 95000 por artículo |
-| 👨🏼‍🏭SEO MANAGER (Yo administro y tú ejecutas) | 🫡 Administración técnica y estratégica de tu web; gestión de contenido; investigación de la competencia; análisis de keywords; estrategia de estructura web; gestión del contenido; seguimiento con optimización para mejorar las posiciones y presentación de informes. | 💵 1'225.000 |
-| 👨🏼‍🏭ESTRATEGA DE PALABRAS CLAVE | 🫡 Análisis de la competencia; estudio de palabras clave para atacar en tu contenido; descubrimiento de nuevas oportunidades para posicionarte con menos competencia; análisis de la forma como se resuelven las palabras claves actuales en tu contenido | 💵 1'100.000 |
+| 👨🏼‍🏭 **Servicios de SEO** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
+| 👨🏼‍🏭 SEO MANAGER Y WEB MASTER (**yo me encargo de todo**) | 🫡 Administración técnica y estratégica; investigación de la competencia; análisis de keywords; estrategia de estructura web; ejecución de los cambios sobre el sitio web; seguimiento de resultados; gestión del contenido; optimización y presentación de informes; pago de herramientas para optimizar tu web. Mejor dicho, **yo hago todo en tu página web** | 💵 2'272.000 mensual |
+| 👨🏼‍🏭 CONSULTOR SEO (**te ayudo a revisar**) | 🫡 Análisis de oportunidades de mejora y optimización en tu página web; estudio de tu competencia; mejora de tu contenido; video con pasos claros para mejorar tus posiciones; asesoría por 1 semana 12/7 para aplicar mis sugerencias | 💵 797.000 |
+| 👨🏼‍🏭 CREACIÓN SEO DE CONTENIDOS (**redacción de artículos para tu blog**) | 🫡 Investigación de contenido, análisis de la competencia y creación de estrategia de contenidos (⚠️ Artículos totalmente redactados con técnicas de copywriting y storytelling, sin IA) | 💵 77000 por artículo |
+| 👨🏼‍🏭 SEO MANAGER (Yo administro y tú ejecutas) | 🫡 Administración técnica y estratégica de tu web; gestión de contenido; investigación de la competencia; análisis de keywords; estrategia de estructura web; gestión del contenido; seguimiento con optimización para mejorar las posiciones y presentación de informes; reunión semanal para el seguimiento de tu equipo de IT en la aplicación de la estrategia. | 💵 1'295.000 |
 
-## Quiero desmostrarte que sí funciona hacer SEO para tu negocio en internet
+*Los precios no están sujetos a descuentos de impuestos. Tus impuestos los asumes tú. Yo asumo los míos.*
+
+## ¿Y sí funciona hacer SEO? Te lo demuestro
 
 Como te he comentado, soy emprendedor y experto desarrollador web y SEO.
 
@@ -119,11 +128,11 @@ Para finales del años 2023 hicimos [la página web de LEBEN](https://lebeninmob
 
 #### Los resultados que están obteniendo con el servicio de SEO en Leben
 
-* ✅ Como puedes ver entre enero y abril de 2024 recibieron la visita de más de 1000 personas que antes no tenían.
-* ✅ A pesar de ser una página nueva, ya Google la está enseñando para muchas búsquedas importantes para su negocio.
-* ✅ Ahora están promocionando más servicios y oportunidades de negocio que antes no tenían, gracias a los resultados de búsquedas por las que aparecen para sus nuevos clientes.
+* ✅ Como puedes ver en **3 meses recibieron visitas orgánicas de más de 2000 personas**, personas que antes no sabían de esta inmobiliaria.
+* ✅ A pesar de ser una página nueva, ya **Google la está enseñando para muchas búsquedas importantes** para su negocio.
+* ✅ Ahora **están promocionando más servicios y oportunidades de negocio que antes no tenían**, gracias a que las descubrieron en los resultados de búsquedas por las que aparecen para sus nuevos clientes.
 
-Y la página sigue en crecimiento.
+Y la página sigue en crecimiento (trataré de actualizar sus datos. Así que si aún dudas, vuelve por aquí).
 
 #### Los servicios SEO con los que estoy ayudando a esta inmobiliaria
 
@@ -132,6 +141,8 @@ Y la página sigue en crecimiento.
 3. Analizo la competencia y trato de superar la forma como resuelven la intención de búsqueda de sus visitantes.
 4. Trato de estudiar cómo optimizar el diseño de su página web para mejorar las conversiones de sus visitantes.
 5. Yo mismo ejecuto todas las tareas SEO que requiere la página web. Sus propietarios solo reciben los informes y los beneficios.
+
+----
 
 ### Los resultados del SEO aplicado a un blog
 
@@ -145,7 +156,7 @@ Este profesional sí hace SEO. (Ver la imagen)
 
 #### Los resultados que están obteniendo con el servicio de SEO en el blog de Trabajos Escrito
 
-* ✅ ¡Este blog entre enero y abril de 2024 ya recibe a más de 16000 personas! Sinceramente, llevo más de 1 año trabajando este blog. *¿Ves hasta dónde podemos llegar?*
+* ✅ ¡Este blog en solo 3 meses recibe a más de 16000 personas! Claro, ya llevo más de 1 año trabajando este blog. *¿Pero puedes ver hasta dónde podemos llegar?*
 * ✅ TrabajoEscrito genera más de 600 conversiones al mes. En este caso, consultas al formulario de contacto.
 * ✅ Este blog ya es una autoridad a nivel de Latinoamérica para los temas de trabajos académicos.
 
@@ -153,11 +164,11 @@ Y esta página también sigue en crecimiento.
 
 #### Los servicios SEO que aplico en este blog
 
-Aplico todos los mismos servicio que en la inmobiliaria anterior a favor de este blog.
+Aplico todos los servicios de SEO que viste en el caso anterior.
 
 Por otra parte, tengo total autonomía para hacer lo que desee con su información. **Te confieso, es una gran ventaja para mi trabajo**.
 
-## Espero ser el SEO que llegó a tu empresa y la ayudó a alcanzar el siguiente nivel
+## Quiero ser el SEO que llegó a tu empresa y la ayudó a alcanzar el siguiente nivel
 
 Escríbeme.
 
@@ -165,10 +176,10 @@ Cuéntame qué dudas tienes.
 
 Pregúntame lo que sea necesario para estar seguro de invertir en este servicio.
 
-Te lo prometo, es una inversión segura. De paciencia, SÍ. Y mucha. Pero cuando llegan los resultados, espero estar allí para celebrarlos juntos.
+Te lo prometo, es una inversión segura. De paciencia, SÍ. Y mucha. Pero **cuando lleguen los resultados, espero estar allí para celebrarlos juntos**.
+
+[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
 
 ☕Juli
 {:style="font-family: var(--fuenteQ); font-size: 4em;"}
 De juli.com.co
-
-[contacto@juli.com.co]({{site.email}}){:class="boton" style="color: white;"}

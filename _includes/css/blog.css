@@ -10,10 +10,11 @@
 
 #breadcrumbs small,
 #breadcrumbs small a{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .articulo{
+  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -47,6 +48,8 @@
 }
 
 .articulo aside{
+  position: sticky;
+  top: 80px;
   flex: 1;
   padding: 2em 16px;
   text-align: center;
@@ -56,18 +59,6 @@
   display: grid;
   gap: 32px;
   margin-bottom: 2em;
-  background-color: white;
-}
-
-.articulo aside a:not(.boton){
-  color: var(--accion);
-  text-transform: uppercase;
-}
-
-.articulo aside .boton{
-  margin-inline: auto;
-}
-
-.articulo .referencias ul{
-  padding: 1em 0;
+  background-color: var(--gris1);
+  box-shadow: var(--shadow);
 }
