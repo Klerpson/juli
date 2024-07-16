@@ -8,6 +8,10 @@
   max-width: max-content;
 }
 
+#breadcrumbs small,
+#breadcrumbs small a{
+  font-size: 14px;
+}
 
 .articulo{
   display: flex;

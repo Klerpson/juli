@@ -1,11 +1,10 @@
 baseurl: ''
 url: 'https://juli.com.co'
-name: Juli Digital
+name: Juli.Com.Co
 author: Julian Franco
 email: contacto@juli.com.co
-x: https://x.com/julicomco
-title: Páginas web y estrategias digitales para emprendimientos y empresas
-disqus-identifier: julidigital
+linkedin: https://www.linkedin.com/in/seoconjuli/
+title: Páginas web y SEO que Venden o Convierten
 
 permalink: /:slug
 

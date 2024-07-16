@@ -1,17 +1,6 @@
-.home div{
-  border-top: 2.4px solid var(--acento);
-  padding: 2em 0 1em;
-}
-
-.home article div{
-  display: flex;
-  align-items: center;
-  gap: 1em;
-}
-
 .entradas_home {
   display: flex;
-  gap: 32px;
+  gap: 20px;
   flex-wrap: wrap;
 }
 
@@ -19,6 +8,9 @@
   flex: 1 0 400px;
   max-width: 100%;
   background-color: white;
+  padding: 20px;
+  border: 2px solid var(--secundario);
+  border-radius: var(--radius);
 }
 
 .entradas_home article div{

@@ -5,7 +5,41 @@ layout: compress
 <body>
   {% include nav.html %}
   {% include header.html %}
+  {% if page.url == "/" %}
+  <section class="wrapper flow">
+    {{ content }}
+  </section>
+  {% else %}
   {{ content }}
+  {% endif %}
+  {% if page.url == "/" %}
+  <main class="entradas_home wrapper">
+    {% for post in site.posts %}
+    <article class="flow">
+      <div>
+        <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" title="{{post.title}}" width="52px" height="52px" loading="lazy">
+        <a href="{{post.url|relative_url}}" title="{{ post.title }}">
+          <h4>{{ post.h1 }}</h4>
+        </a>
+      </div>
+      {{post.excerpt}}
+    </article>
+    {% endfor %}
+  </main>
+  
+  {% include cta.html %}
+  <!-- Script pointing to search-script.js -->
+  <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      noResultsText: 'No tenemos este texto aún',
+      fuzzy: false
+    });
+  </script>
+  {% endif %}
   {% include footer.html %}
 </body>
 

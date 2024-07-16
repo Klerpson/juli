@@ -1,19 +1,21 @@
-<header class="home_header wrapper">
+<header class="home_header wrapper flow">
   {% include nav.html %}
   {% assign url = page.url %}
   {% case url %}
     {% when "/" %}
     <h1>{{page.h1}}</h1>
-    <p>Normalmente estás aquí por 2 razones: <strong>estoy haciendo el mejor SEO colombiano o me compraste una página web.</strong> Como sea, te comparto todo lo que aprendí para sacarle provecho:</p>
+    <p>Normalmente estás aquí por una de estas dos razones: <strong>estoy haciendo el mejor SEO colombiano o te enteraste de mi forma de hacer páginas web y aprovecharlas al máximo.</strong></p>
+    <a href="{{site.contacto}}" class="boton" rel="nofollow noopener" title="Escríbeme para hacer SEO colombiano">📧 Escríbeme por email</a>
+    <p>Pero no siempre fue mi historia. Te cuento cómo fue que llegué a convencerte que <b>sí puedes hacer grandes cosas con tu página web</b>.</p>
+    <h2>Pero antes te muestro lo que más me preguntan sobre páginas web y SEO</h2>
     <div class="home_gallery">
         {% for principal in site.posts %}
         {% if principal.home %}
         <article class="flow">
-          <div>
-            <img src="{{principal.hero}}" alt="{{principal.alt}}">
-            <a href="{{principal.url|relative_url}}"><h2>{{principal.h1}}</h2></a>
-          </div>
+          <img src="{{principal.hero}}" alt="{{principal.alt}}">
+          <h3>{{principal.h1}}</h3>
           <p>{{principal.excerpt}}</p>
+          <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
         </article>
         {% endif %}
         {% endfor %}
