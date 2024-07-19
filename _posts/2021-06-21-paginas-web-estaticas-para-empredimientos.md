@@ -12,6 +12,12 @@ excerpt: Yo hago muchas páginas web estáticas. Y mis clientes lo agradecen. Le
 referencias:
   - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
   - Ícono del encabezado por Flaticon: https://www.flaticon.com/
+date: 2021-06-21 10:00:00 -0500
+last_modified_at: 2024-06-20 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 1221
+time_to_read: 7
 ---
 Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.
 

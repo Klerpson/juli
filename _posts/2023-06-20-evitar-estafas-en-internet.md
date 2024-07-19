@@ -11,7 +11,12 @@ alt: Seguridad en internet para evitar estafas
 excerpt: Hasta mi familia la han robado por internet. Lee cómo evitarlo
 referencias:
   - Artículo de Google sobre la velocidad como factor de posicionamiento: https://developers.google.com/search/blog/2020/11/timing-for-page-experience?hl=es
-  - Ícono del encabezado por Flaticon: https://www.flaticon.com/
+date: 2023-06-20 10:00:00 -0500
+last_modified_at: 2024-07-10 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 948
+time_to_read: 5
 ---
 En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.
 

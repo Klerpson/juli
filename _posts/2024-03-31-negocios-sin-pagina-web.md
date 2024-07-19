@@ -10,6 +10,12 @@ jpg: img/atencion.jpg
 alt: Negocios sin página web
 excerpt: Tengo un negocio. Tradicional. Una heladería. Y sí, le tengo página web. ¿Y el tuyo?
 home: true
+date: 2024-03-31 10:00:00 -0500
+last_modified_at: 2024-07-18 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 1011
+time_to_read: 6
 ---
 En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.
 

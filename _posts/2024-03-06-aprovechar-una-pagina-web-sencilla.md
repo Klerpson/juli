@@ -9,6 +9,12 @@ hero: img/aprovechar-pagina-web-sencilla.svg
 jpg: img/aprovechar-pagina-web-sencilla.jpg
 alt: Pagina web rentable
 excerpt: Todas las páginas web bien utilizadas son rentables. Yo te digo qué hacer con ella.
+date: 2024-03-06 10:00:00 -0500
+last_modified_at: 2024-07-15 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 886
+time_to_read: 5
 ---
 ¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, **cómo aprovechar esa página web que parece muy sencilla**.
 

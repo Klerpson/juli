@@ -10,6 +10,12 @@ jpg: img/paginas-web-con-wordpress.jpg
 alt: Ícono de WordPress para páginas web
 excerpt: En serio. WordPres es muy mala idea para un proyecto serio y grande. Y supuestamente es gratis. Pero te mostraré lo que te puede costar. Lee por qué
 home: true
+date: 2021-05-21 10:00:00 -0500
+last_modified_at: 2024-06-10 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 1600
+time_to_read: 10
 ---
 ## Primero, qué es WordPress y cómo funciona
 

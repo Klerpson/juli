@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-07-18T20:03:37-05:00</updated>
+  <updated>2024-07-18T20:12:57-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -27,8 +27,8 @@
     <entry>
       <title type="html">La accesibilidad es muy importante cuando hago páginas web profesionales</title>
       <link href="http://localhost:4000/accesibilidad-web" rel="alternate" type="text/html" title="La accesibilidad es muy importante cuando hago páginas web profesionales" />
-      <published>2024-04-12T00:00:00-05:00</published>
-      <updated>2024-04-12T00:00:00-05:00</updated>
+      <published>2024-04-12T10:00:00-05:00</published>
+      <updated>2024-03-08T10:00:00-05:00</updated>
       <id>http://localhost:4000/accesibilidad-web</id>
       
       
@@ -168,14 +168,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>
       <link href="http://localhost:4000/paginas-web-que-dan-resultados" rel="alternate" type="text/html" title="Una página web tiene que ser más que solo bonita. ¡Y menos oscura!" />
-      <published>2024-04-08T00:00:00-05:00</published>
-      <updated>2024-04-08T00:00:00-05:00</updated>
+      <published>2024-04-08T10:00:00-05:00</published>
+      <updated>2024-05-18T10:00:00-05:00</updated>
       <id>http://localhost:4000/paginas-web-que-dan-resultados</id>
       
       
@@ -282,14 +286,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?</title>
       <link href="http://localhost:4000/negocios-sin-pagina-web" rel="alternate" type="text/html" title="Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?" />
-      <published>2024-03-31T00:00:00-05:00</published>
-      <updated>2024-03-31T00:00:00-05:00</updated>
+      <published>2024-03-31T10:00:00-05:00</published>
+      <updated>2024-07-18T10:00:00-05:00</updated>
       <id>http://localhost:4000/negocios-sin-pagina-web</id>
       
       
@@ -402,14 +410,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">Tienes una web muy sencilla. ¿La estás aprovechando?</title>
       <link href="http://localhost:4000/aprovechar-una-pagina-web-sencilla" rel="alternate" type="text/html" title="Tienes una web muy sencilla. ¿La estás aprovechando?" />
-      <published>2024-03-06T00:00:00-05:00</published>
-      <updated>2024-03-06T00:00:00-05:00</updated>
+      <published>2024-03-06T10:00:00-05:00</published>
+      <updated>2024-07-15T10:00:00-05:00</updated>
       <id>http://localhost:4000/aprovechar-una-pagina-web-sencilla</id>
       
       
@@ -497,14 +509,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">Evitar estafas en internet: Medidas de seguridad</title>
       <link href="http://localhost:4000/evitar-estafas-en-internet" rel="alternate" type="text/html" title="Evitar estafas en internet: Medidas de seguridad" />
-      <published>2023-06-20T00:00:00-05:00</published>
-      <updated>2023-06-20T00:00:00-05:00</updated>
+      <published>2023-06-20T10:00:00-05:00</published>
+      <updated>2024-07-10T10:00:00-05:00</updated>
       <id>http://localhost:4000/evitar-estafas-en-internet</id>
       
       
@@ -598,14 +614,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">¿Todavía sirven las páginas web estáticas? A mí me sirven mucho</title>
       <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos" rel="alternate" type="text/html" title="¿Todavía sirven las páginas web estáticas? A mí me sirven mucho" />
-      <published>2021-06-21T00:00:00-05:00</published>
-      <updated>2021-06-21T00:00:00-05:00</updated>
+      <published>2021-06-21T10:00:00-05:00</published>
+      <updated>2024-06-20T10:00:00-05:00</updated>
       <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
       
       
@@ -712,14 +732,18 @@
       
 
       
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
 
     </entry>
   
     <entry>
       <title type="html">Yo no te aconsejo utilizar WordPress</title>
       <link href="http://localhost:4000/por-que-no-usar-wordpress" rel="alternate" type="text/html" title="Yo no te aconsejo utilizar WordPress" />
-      <published>2021-05-21T00:00:00-05:00</published>
-      <updated>2021-05-21T00:00:00-05:00</updated>
+      <published>2021-05-21T10:00:00-05:00</published>
+      <updated>2024-06-10T10:00:00-05:00</updated>
       <id>http://localhost:4000/por-que-no-usar-wordpress</id>
       
       
@@ -860,6 +884,10 @@
         <category term="WordPress" />
       
 
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
       
 
     </entry>

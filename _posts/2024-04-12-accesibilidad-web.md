@@ -9,6 +9,12 @@ hero: img/accesibilidad-web.svg
 jpg: img/accesibilidad-web.jpg
 alt: Accesibilidad en una página web
 excerpt: 'La accesibilidad web se basa en el principio de igualdad de oportunidades. Exígela'
+date: 2024-04-12 10:00:00 -0500
+last_modified_at: 2024-03-08 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 2492
+time_to_read: 16
 ---
 La accesibilidad web es un concepto fundamental para *garantizar que todas las personas, independientemente de sus capacidades o discapacidades, puedan acceder y navegar por los contenidos en línea*. Es decir, se trata de **hacer que una página web sea accesible para todas las personas**, sin importar su visión, audición, movilidad o cualquier otra discapacidad.
 

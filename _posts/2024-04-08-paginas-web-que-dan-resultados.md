@@ -10,6 +10,12 @@ jpg: img/pagina-web.jpg
 home: true
 alt: Dibujo de página web
 excerpt: '"Más es menos", dicen en los restaurantes. Aquí lo norma no es diferente. Te cuento más.'
+date: 2024-04-08 10:00:00 -0500
+last_modified_at: 2024-05-18 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 hago páginas web y SEO"
+word_count: 764
+time_to_read: 4
 ---
 En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a "llenarla" de mucho sabor. Le agregué:
 
