@@ -1,80 +1,1034 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-     <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
-     <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
-     <link href="http://localhost:4000" rel="alternate" type="text/html"/>
-     <id>http://localhost:4000</id>
-     <updated>2024-07-16T07:40:15-05:00</updated>
-     <title type="html">Páginas web y SEO que Venden o Convierten</title>
-     <author>
-       <name>Julian Andres Franco</name>
-       <email>digitalizaresfacil@gmail.com</email>
-     </author>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
+  <updated>2024-07-18T20:03:37-05:00</updated>
+  <id>http://localhost:4000/feed.xml</id>
+  <title type="html">Páginas web y SEO que Venden o Convierten</title>
+  <subtitle></subtitle>
+  
+  
+    <author>
+      <name>Julian Franco</name>
+      <email>contacto@juli.com.co</email>
+      
+    </author>
+  
 
- 
- <entry>
-   <title>La accesibilidad es muy importante cuando hago páginas web profesionales</title>
-   <link href="http://localhost:4000/accesibilidad-web"/>
-   <id>http://localhost:4000/accesibilidad-web</id>
-   <updated>2024-04-12T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La accesibilidad web es un concepto fundamental para &lt;em&gt;garantizar que todas las personas, independientemente de sus capacidades o discapacidades, puedan acceder y navegar por los contenidos en línea&lt;/em&gt;. Es decir, se trata de &lt;strong&gt;hacer que una página web sea accesible para todas las personas&lt;/strong&gt;, sin importar su visión, audición, movilidad...</content>
- </entry>
- 
- <entry>
-   <title>Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>
-   <link href="http://localhost:4000/paginas-web-que-dan-resultados"/>
-   <id>http://localhost:4000/paginas-web-que-dan-resultados</id>
-   <updated>2024-04-08T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a “llenarla” de mucho sabor. Le agregué:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Orégano&lt;/li&gt; &lt;li&gt;Laurel&lt;/li&gt; &lt;li&gt;Pimienta&lt;/li&gt; &lt;li&gt;Sal&lt;/li&gt; &lt;li&gt;Salsa negra&lt;/li&gt; &lt;li&gt;Salsa inglesa&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Y como 4 cosas más que no recuerdo.&lt;/p&gt; &lt;p&gt;Lo que sí recuerdo es que la probé...</content>
- </entry>
- 
- <entry>
-   <title>Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?</title>
-   <link href="http://localhost:4000/negocios-sin-pagina-web"/>
-   <id>http://localhost:4000/negocios-sin-pagina-web</id>
-   <updated>2024-03-31T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.&lt;/p&gt; &lt;p&gt;Hay que decirlo. Es un lugar muy bien organizado.&lt;/p&gt; &lt;p&gt;Pero justo hoy fui a lavar mi moto. Mientras la...</content>
- </entry>
- 
- <entry>
-   <title>Tienes una web muy sencilla. ¿La estás aprovechando?</title>
-   <link href="http://localhost:4000/aprovechar-una-pagina-web-sencilla"/>
-   <id>http://localhost:4000/aprovechar-una-pagina-web-sencilla</id>
-   <updated>2024-03-06T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-clave-de-una-página-web-sencilla-y-rentable&quot;&gt;La clave de una página web sencilla y rentable&lt;/h2&gt; &lt;p&gt;Antes...</content>
- </entry>
- 
- <entry>
-   <title>Evitar estafas en internet: Medidas de seguridad</title>
-   <link href="http://localhost:4000/evitar-estafas-en-internet"/>
-   <id>http://localhost:4000/evitar-estafas-en-internet</id>
-   <updated>2023-06-20T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt; &lt;p&gt;La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.&lt;/p&gt; &lt;p&gt;A lo largo de este artículo,...</content>
- </entry>
- 
- <entry>
-   <title>¿Todavía sirven las páginas web estáticas? A mí me sirven mucho</title>
-   <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos"/>
-   <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
-   <updated>2021-06-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.&lt;/p&gt; &lt;p&gt;Pero si tu negocio es pequeño, ya verás...</content>
- </entry>
- 
- <entry>
-   <title>Yo no te aconsejo utilizar WordPress</title>
-   <link href="http://localhost:4000/por-que-no-usar-wordpress"/>
-   <id>http://localhost:4000/por-que-no-usar-wordpress</id>
-   <updated>2021-05-21T00:00:00-05:00</updated>
-   <content type="html">&lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt; &lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. &lt;strong&gt;WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Con ese sistema solo...</content>
- </entry>
- 
- <entry>
-   <title>Páginas web, ¿cuándo es buena idea y cuándo no?</title>
-   <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no"/>
-   <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
-   <updated>2021-04-21T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt; &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/h2&gt; &lt;p&gt;Soy Julián. Y me alegra saludarlos para resolver la pregunta si tu negocio necesita o no una página web.&lt;/p&gt; &lt;p&gt;Cuando mis amigos...</content>
- </entry>
- 
+  
+    <logo>http://localhost:4000/img/logo.png</logo>
+  
 
+  
+
+  
+  
+    <entry>
+      <title type="html">La accesibilidad es muy importante cuando hago páginas web profesionales</title>
+      <link href="http://localhost:4000/accesibilidad-web" rel="alternate" type="text/html" title="La accesibilidad es muy importante cuando hago páginas web profesionales" />
+      <published>2024-04-12T00:00:00-05:00</published>
+      <updated>2024-04-12T00:00:00-05:00</updated>
+      <id>http://localhost:4000/accesibilidad-web</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/accesibilidad-web">&lt;p&gt;La accesibilidad web es un concepto fundamental para &lt;em&gt;garantizar que todas las personas, independientemente de sus capacidades o discapacidades, puedan acceder y navegar por los contenidos en línea&lt;/em&gt;. Es decir, se trata de &lt;strong&gt;hacer que una página web sea accesible para todas las personas&lt;/strong&gt;, sin importar su visión, audición, movilidad o cualquier otra discapacidad.&lt;/p&gt;
+
+&lt;p&gt;Esto significa que todos los usuarios deben poder usar y beneficiarse de los sitios web, aplicaciones y otras herramientas digitales de la misma manera.&lt;/p&gt;
+
+&lt;p&gt;La accesibilidad busca eliminar las barreras que puedan impedir a las personas con discapacidad disfrutar plenamente de las ventajas que ofrece el mundo digital.&lt;/p&gt;
+
+&lt;h2 id=&quot;beneficios-de-la-accesibilidad-en-tu-página-web&quot;&gt;Beneficios de la accesibilidad en tu página web&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Inclusión de personas con discapacidad:&lt;/strong&gt;  Uno de los principales beneficios de la accesibilidad web es &lt;em&gt;la inclusión de las personas con discapacidad en el mundo digital&lt;/em&gt;. Al garantizar que los sitios web sean accesibles, se les ofrece a estas personas la oportunidad de participar plenamente en la sociedad y aprovechar al máximo las ventajas que ofrece Internet.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mejora de la experiencia del usuario:&lt;/strong&gt;  Una página web accesible beneficia a todos los usuarios, ya sean o no personas con discapacidad. La usabilidad y la accesibilidad van de la mano y al hacer que un sitio web sea accesible, &lt;em&gt;se mejora la experiencia de todos los usuarios&lt;/em&gt;, independientemente de sus habilidades o discapacidades.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cumplimiento legal:&lt;/strong&gt;  Además de ser lo correcto y justo, la accesibilidad web también es un requisito legal en muchos países. &lt;em&gt;La legislación y las regulaciones exigen que los sitios web sean accesibles para evitar posibles demandas legales&lt;/em&gt;. Esto significa que, aparte de las consideraciones éticas y morales, también existe una responsabilidad legal para garantizar la accesibilidad de los sitios web.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;estándares-y-pautas-de-accesibilidad-web&quot;&gt;Estándares y pautas de accesibilidad web&lt;/h2&gt;
+
+&lt;p&gt;Para asegurarse de que un sitio web sea accesible, existen estándares y pautas establecidos que se deben seguir.&lt;/p&gt;
+
+&lt;p&gt;Uno de los estándares más conocidos y ampliamente aceptados es la que se conoce como &lt;strong&gt;WCAG (Web Content Accessibility Guidelines)&lt;/strong&gt;, que ofrece recomendaciones y técnicas para hacer que los contenidos web sean más accesibles.&lt;/p&gt;
+
+&lt;p&gt;Estas pautas se dividen en varios niveles de conformidad (A, AA, AAA) y son utilizadas por muchos desarrolladores y &lt;a href=&quot;#cta&quot;&gt;diseñadores web como yo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Las pautas de accesibilidad web abordan diferentes aspectos relacionados con la discapacidad y se dividen en categorías que incluyen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Percepción: acceso al contenido para personas con discapacidad visual o auditiva.&lt;/li&gt;
+  &lt;li&gt;Operabilidad: accesibilidad para personas con dificultades para interactuar con una página web, como aquellos con discapacidades motoras.&lt;/li&gt;
+  &lt;li&gt;Comprensión: facilitar la comprensión del contenido para personas con discapacidades cognitivas o de aprendizaje.&lt;/li&gt;
+  &lt;li&gt;Robustez: la capacidad del contenido web para ser interpretado por una amplia variedad de tecnologías, como pantallas de lectura o navegadores de voz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Es importante cumplir con estos estándares y seguir las pautas de accesibilidad web para garantizar que los sitios web sean accesibles para todos los usuarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;herramientas-y-recursos-de-accesibilidad-en-páginas-web&quot;&gt;Herramientas y recursos de accesibilidad en páginas web&lt;/h2&gt;
+
+&lt;h3 id=&quot;herramientas-para-evaluar-la-accesibilidad-web&quot;&gt;Herramientas para evaluar la accesibilidad web&lt;/h3&gt;
+
+&lt;p&gt;Para evaluar la accesibilidad de un sitio web, existen diversas herramientas disponibles que pueden ayudar a identificar posibles problemas y ofrecer soluciones para mejorar la accesibilidad.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lectores de pantalla:&lt;/strong&gt;  Los lectores de pantalla son herramientas que transforman el texto en voz, permitiendo a las personas con discapacidad visual acceder al contenido de un sitio web. Algunos de los lectores de pantalla más populares incluyen JAWS, NVDA y VoiceOver. Estas herramientas pueden usarse como una forma de probar la accesibilidad de un sitio web, ya que permiten identificar problemas de estructura y etiquetado adecuado de los elementos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Plug-ins de navegadores:&lt;/strong&gt;  Existen también herramientas que se instalan como complementos en los navegadores web y permiten verificar y mejorar la accesibilidad directamente desde el navegador. Ejemplos de estos complementos son Wave, Axe y tota11y.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Herramientas de validación y verificación:&lt;/strong&gt;  Además de los lectores de pantalla y los complementos de navegadores, también hay programas y servicios en línea que ofrecen la posibilidad de analizar la accesibilidad de un sitio web y generar informes detallados con las posibles mejoras a implementar. Algunas de estas herramientas populares incluyen Achecker, Pa11y y Lighthouse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;recursos-de-diseño-y-desarrollo-accesibles&quot;&gt;Recursos de diseño y desarrollo accesibles&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Bibliotecas y frameworks accesibles:&lt;/strong&gt;  Para facilitar la creación de sitios web accesibles desde el principio, existen bibliotecas y frameworks que integran funcionalidades y componentes accesibles. Ejemplos de estas herramientas incluyen el Bootstrap Accessibility Plugin, que añade características de accesibilidad a los elementos de Bootstrap, y el uso de ARIA (Accessible Rich Internet Applications), que permite hacer que los elementos web sean más accesibles a través de propiedades y atributos especiales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Guías de diseño accesible:&lt;/strong&gt;  También existen guías de diseño accesible que ofrecen recomendaciones y buenas prácticas para desarrollar interfaces accesibles y atractivas visualmente. Estas guías suelen incluir información sobre la elección de colores, contrastes, tipografías y disposición de elementos. Algunos ejemplos de guías de diseño accesible incluyen la guía de U.S. Web Design System y la guía de diseño inclusivo de BBC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repositorios de código accesible:&lt;/strong&gt;  Por último, hay repositorios de código abierto que se centran específicamente en el desarrollo y la implementación de código que cumple con los estándares de accesibilidad web. Estos repositorios ofrecen un conjunto de componentes y elementos web accesibles que los desarrolladores pueden utilizar y adaptar para sus proyectos. Algunos ejemplos de repositorios de código accesible incluyen el Angular Material Accessibility Project y el Accessibility Developer Tools de Google.&lt;/p&gt;
+
+&lt;h3 id=&quot;herramientas-de-mejora-de-accesibilidad&quot;&gt;Herramientas de mejora de accesibilidad&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Ampliadores de texto y contraste:&lt;/strong&gt;  Los ampliadores de texto y los ajustes de contraste son herramientas que permiten a los usuarios con discapacidad visual ajustar el tamaño del texto y el contraste en una página web. Esto facilita la lectura y mejora la legibilidad del contenido para personas con problemas de visión. Algunos navegadores web y sistemas operativos también ofrecen ajustes nativos de accesibilidad que permiten modificar el tamaño y el contraste del texto en todos los sitios web visitados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Traductores de texto a voz:&lt;/strong&gt;  Los traductores de texto a voz (TTS) son herramientas que convierten el texto en habla, permitiendo a los usuarios escuchar el contenido en lugar de leerlo. Esto es especialmente útil para personas con discapacidad visual o dificultades de lectura. Algunos ejemplos populares de TTS incluyen ReadSpeaker y NaturalReader.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Otros complementos y ajustes:&lt;/strong&gt;  Además de los ampliadores de texto y los TTS, existen otras tecnologías de asistencia y características de usuario que pueden mejorar la accesibilidad. Por ejemplo, los navegadores web y los sistemas operativos ofrecen opciones de zoom para ajustar el tamaño de la página, y también se pueden utilizar teclados virtuales y dispositivos apuntadores alternativos para facilitar la interacción con el contenido.&lt;/p&gt;
+
+&lt;h2 id=&quot;casos-de-éxito-en-accesibilidad-web&quot;&gt;Casos de éxito en accesibilidad web&lt;/h2&gt;
+
+&lt;p&gt;Existen numerosos casos de éxito donde empresas y organizaciones han mejorado la accesibilidad de sus sitios web y han logrado un &lt;strong&gt;aumento en la satisfacción del usuario y la fidelización de clientes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Estas empresas han reconocido la importancia de hacer que sus plataformas digitales sean accesibles para todos y han implementado mejoras significativas en términos de diseño, contenido y funcionalidad.&lt;/p&gt;
+
+&lt;p&gt;Un ejemplo destacado es el de la empresa de comercio electrónico Amazon. Después de enfrentar una demanda en 2009 por la falta de accesibilidad de su sitio web, Amazon centró sus esfuerzos en mejorar la accesibilidad y ahora ha implementado diversas mejoras, como etiquetado adecuado de imágenes, soporte para lectores de pantalla y opciones de navegación alternativas. Esto ha llevado a una experiencia de usuario más inclusiva y ha aumentado la satisfacción de los clientes.&lt;/p&gt;
+
+&lt;p&gt;Otro caso interesante es el de la red social Facebook, que ha trabajado en los últimos años para mejorar la accesibilidad de su plataforma. Han implementado funciones como la descripción de imágenes, subtítulos automáticos en videos y opciones de navegación por teclado. Estas mejoras han permitido que los usuarios con discapacidades visuales o auditivas puedan utilizar la red social de manera más satisfactoria y participar en la comunidad en línea.&lt;/p&gt;
+
+&lt;h2 id=&quot;accesibilidad-web-y-seo&quot;&gt;Accesibilidad web y SEO&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Posicionamiento en los motores de búsqueda:&lt;/strong&gt;  La accesibilidad web también puede tener un impacto en el posicionamiento de un sitio web en los motores de búsqueda. Los motores de búsqueda, como Google, consideran la accesibilidad como un factor importante al clasificar los resultados de búsqueda. Un sitio web accesible es más fácil de interpretar para los motores de búsqueda y puede resultar en una mayor visibilidad y clasificación en los resultados de búsqueda.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mejoras específicas para la accesibilidad web:&lt;/strong&gt;  Si bien muchas de las mejores prácticas de SEO y de accesibilidad web se superponen, existen mejoras específicas que se pueden hacer para optimizar aún más la accesibilidad de un sitio web y, al mismo tiempo, mejorar su SEO. Algunas de estas mejoras incluyen el uso adecuado de etiquetas de encabezado, la descripción adecuada de imágenes y enlaces, la optimización de tiempos de carga y la implementación de URLs amigables para los usuarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Herramientas para optimizar la accesibilidad y el SEO:&lt;/strong&gt;  Por suerte, existen herramientas disponibles que permiten analizar y optimizar tanto la accesibilidad como el SEO de un sitio web. Google Lighthouse es una herramienta que ofrece recomendaciones tanto para la accesibilidad como para el SEO. También hay otras herramientas y servicios en línea que pueden ayudar a analizar la accesibilidad y el SEO de un sitio web, proporcionando informes detallados con mejoras recomendadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;accesibilidad-web-en-dispositivos-móviles&quot;&gt;Accesibilidad web en dispositivos móviles&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Importancia de la accesibilidad web en dispositivos móviles:&lt;/strong&gt;  Con el creciente uso de dispositivos móviles, es esencial asegurarse de que los sitios web sean accesibles en este tipo de plataformas. Los usuarios con discapacidades también utilizan dispositivos móviles y necesitan poder acceder y navegar por los contenidos en línea de manera adecuada. Además, las limitaciones de tamaño de pantalla y las diferentes formas de interacción en los dispositivos móviles pueden presentar desafíos adicionales en términos de accesibilidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diseño responsive y adaptativo:&lt;/strong&gt;  Una manera efectiva de asegurar que un sitio web sea accesible en dispositivos móviles es utilizando diseños responsive y adaptativos. Estos diseños permiten que el contenido se ajuste y se muestre correctamente en diferentes tamaños y orientaciones de pantalla. Esto es importante para garantizar que los usuarios puedan ver y acceder a todo el contenido de manera adecuada, sin importar el dispositivo que estén utilizando.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mejores prácticas para dispositivos móviles:&lt;/strong&gt;  Además del diseño responsive y adaptativo, existen otras mejores prácticas que se deben seguir al desarrollar sitios web accesibles en dispositivos móviles. Algunas de estas prácticas incluyen el uso de tamaños de fuente legibles, colores de contraste adecuados, espacios suficientes entre elementos interactivos y ubicación estratégica de los menús y botones importantes.&lt;/p&gt;
+
+&lt;h2 id=&quot;accesibilidad-web-en-redes-sociales&quot;&gt;Accesibilidad web en redes sociales&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mejoras en redes sociales:&lt;/strong&gt;  Las redes sociales también están trabajando para mejorar la accesibilidad y ofrecer una experiencia inclusiva para todos los usuarios. Estas plataformas están implementando funciones y características accesibles para permitir que las personas con discapacidad puedan participar activamente en la comunidad en línea.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funciones y características accesibles:&lt;/strong&gt;  Algunas de las funciones y características accesibles implementadas en las plataformas de redes sociales incluyen el etiquetado de imágenes para descripciones, la transcripción automática de videos y subtítulos, la navegación por teclado y el soporte para lectores de pantalla. Estas mejoras permiten a las personas con discapacidades visuales o auditivas acceder al contenido y participar de manera equitativa en las conversaciones en las redes sociales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Herramientas y ajustes de accesibilidad:&lt;/strong&gt;  Las redes sociales también ofrecen herramientas y ajustes de accesibilidad que los usuarios pueden utilizar para mejorar su experiencia. Estas herramientas incluyen opciones para ajustar el tamaño del texto, el contraste de color y la velocidad de reproducción de videos. Los ajustes de accesibilidad permiten a los usuarios personalizar la experiencia de acuerdo a sus necesidades y preferencias individuales.&lt;/p&gt;
+
+&lt;h2 id=&quot;accesibilidad-web-en-el-comercio-electrónico&quot;&gt;Accesibilidad web en el comercio electrónico&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Impacto en el éxito del comercio electrónico:&lt;/strong&gt;  La accesibilidad web juega un papel crucial en el éxito de un sitio de comercio electrónico. Al hacer que un sitio web sea accesible, se asegura de que todas las personas puedan acceder y utilizar el sitio para realizar compras.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mejoras específicas para el comercio electrónico:&lt;/strong&gt;  Existen mejoras específicas que se pueden hacer para garantizar una experiencia accesible y satisfactoria para todos los usuarios del comercio electrónico. Algunas de estas mejoras incluyen la descripción adecuada de los productos, la inclusión de etiquetas de precio claras, la navegación sencilla y la opción de realizar pagos y transacciones de manera accesible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casos de éxito:&lt;/strong&gt;  Muchas empresas que han mejorado la accesibilidad web de sus sitios de comercio electrónico han experimentado un aumento en las ventas y las conversiones. Al ofrecer una experiencia de compra accesible, estas empresas han logrado atraer a un público más amplio y han fidelizado a sus clientes.&lt;/p&gt;
+
+&lt;h2 id=&quot;accesibilidad-web-en-educación&quot;&gt;Accesibilidad web en educación&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Equidad en la experiencia de aprendizaje:&lt;/strong&gt;  La accesibilidad web desempeña un papel fundamental en la educación y garantiza una experiencia de aprendizaje equitativa para todos los estudiantes. Al hacer que los recursos educativos en línea sean accesibles, se permite a todos los estudiantes acceder a la información y participar plenamente en el proceso de aprendizaje.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Herramientas y tecnologías para la accesibilidad web en la educación:&lt;/strong&gt;  Existen diversas herramientas y tecnologías que apoyan la accesibilidad web en el ámbito educativo. Estas herramientas incluyen lectores de pantalla, traductores de texto a voz, ampliadores de texto y ajustes de contraste. Además, también se pueden utilizar plataformas y herramientas de gestión del aprendizaje (LMS) accesibles para proporcionar contenido educativo accesible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplos de mejoras en la accesibilidad en la educación:&lt;/strong&gt;  Muchas instituciones educativas han implementado mejoras significativas en la accesibilidad de sus plataformas y recursos educativos. Esto ha permitido a los estudiantes con discapacidades acceder y utilizar estos recursos de manera más efectiva y ha mejorado su experiencia de aprendizaje.&lt;/p&gt;
+
+&lt;h2 id=&quot;así-hago-tus-páginas-web-más-profesionales&quot;&gt;Así hago tus páginas web más profesionales&lt;/h2&gt;
+
+&lt;p&gt;En resumen, la accesibilidad web es un aspecto fundamental a tener en cuenta al desarrollar sitios web, ya que garantiza que todas las personas puedan acceder y navegar por el contenido en línea de manera equitativa. Ofrecer una experiencia accesible no solo es lo correcto y justo, sino que también tiene numerosos beneficios, como &lt;strong&gt;la inclusión de personas con discapacidad, la mejora de la experiencia del usuario y el cumplimiento legal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Además, la accesibilidad web tiene un impacto en varios aspectos, como el SEO, los dispositivos móviles, las redes sociales, el comercio electrónico y la educación. Mejorar la accesibilidad en cada uno de estos ámbitos ofrece beneficios notables, desde &lt;strong&gt;un mejor posicionamiento en los motores de búsqueda hasta una mayor satisfacción y fidelización de los clientes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sí, es fundamental que al comprar tu página web exijas sitios web que sean accesibles para todos y a trabajar constantemente en la mejora de la accesibilidad. Y, por supuesto, conmigo tú no te preocupes, &lt;a href=&quot;#cta&quot;&gt;yo me encargo de todo esto&lt;/a&gt;.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">La accesibilidad web se basa en el principio de igualdad de oportunidades. Exígela</summary>
+      
+
+      
+      
+
+      
+        <category term="SEO" />
+      
+
+      
+        <category term="SEO" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>
+      <link href="http://localhost:4000/paginas-web-que-dan-resultados" rel="alternate" type="text/html" title="Una página web tiene que ser más que solo bonita. ¡Y menos oscura!" />
+      <published>2024-04-08T00:00:00-05:00</published>
+      <updated>2024-04-08T00:00:00-05:00</updated>
+      <id>http://localhost:4000/paginas-web-que-dan-resultados</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/paginas-web-que-dan-resultados">&lt;p&gt;En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a “llenarla” de mucho sabor. Le agregué:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Orégano&lt;/li&gt;
+  &lt;li&gt;Laurel&lt;/li&gt;
+  &lt;li&gt;Pimienta&lt;/li&gt;
+  &lt;li&gt;Sal&lt;/li&gt;
+  &lt;li&gt;Salsa negra&lt;/li&gt;
+  &lt;li&gt;Salsa inglesa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y como 4 cosas más que no recuerdo.&lt;/p&gt;
+
+&lt;p&gt;Lo que sí recuerdo es que la probé y me arrepentí totalmente de lo que hice 😅. La carne con solo sal sabía mucho mejor.&lt;/p&gt;
+
+&lt;p&gt;Entonces, un día viendo un programa conocido como Master Chef, un gran sabio lanzó la frase: &lt;strong&gt;menos es más&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Con el tiempo descubrí el poder de esta frase, sobre todo cuando haces páginas web. Yo sé que &lt;strong&gt;tú no quieres arrepentirte de tu página web&lt;/strong&gt; como yo de mi carne. Por eso, lee con atención lo que sigue.&lt;/p&gt;
+
+&lt;h2 id=&quot;has-visto-las-páginas-web-de-los-que-más-saben&quot;&gt;¿Has visto las páginas web de los que más saben?&lt;/h2&gt;
+
+&lt;p&gt;Al momento de escribir este post de Bruno Munari, estaba pensando en una frase que para mí es una ley cuando hago tus páginas web: “&lt;em&gt;Complicar es fácil, simplificar es difícil&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Y en el mundo web, los mejores haciendo &lt;strong&gt;páginas web efectivas, simples, vendedoras, son los señores de Google&lt;/strong&gt;. ¿Alguna vez has visto cómo diseñan y hacen sus páginas? Mira estos ejemplos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.google.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Página web de noticias de Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopping.google.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Página Ecommerce de Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://artsandculture.google.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Blog cultural de Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/premium&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Landing page de Google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;analiza-lo-que-no-hacen&quot;&gt;Analiza lo que no hacen&lt;/h3&gt;
+
+&lt;p&gt;Los expertos de Google &lt;strong&gt;NO tienen páginas web llenas de movimientos, efectos, alucinaciones, visiones, 3D, etc&lt;/strong&gt;. Tienen una web que muestra la información importante y punto.&lt;/p&gt;
+
+&lt;p&gt;Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, &lt;a href=&quot;/por-que-no-usar-wordpress&quot;&gt;Google no usa WordPress para hacer sus páginas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Osea que tener páginas con todo eso es malo? Sí, si esos diseños tan llamativos no son parte de tu branding o de la personalidad de tu marca.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, cuando una web tiene todo eso, pierde algo que se conoce como ACCESIBILIDAD. Créeme, es muy importante hoy en día. &lt;strong&gt;Tú querrás que tu web tenga altas calificaciones en accesibilidad&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;analiza-lo-que-sí-hacen&quot;&gt;Analiza lo que sí hacen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Google se centra en lo que quieren conseguir cuando tú visita sus páginas&lt;/strong&gt;. Nada más. Abres la web, caes en su diseño simplificado y haces clic donde ellos quieren que hagas clic.&lt;/p&gt;
+
+&lt;p&gt;Te pregunto: ¿es eso lo que quieres en tus páginas? ¡Por supuesto!&lt;/p&gt;
+
+&lt;p&gt;Tu necesitas que hagan clic en el botón de WhatsApp, de comprar, de dejar su email, de compartir, etc. &lt;strong&gt;Según el resultado, así debe ser tu diseño&lt;/strong&gt;. Eso es lo que realmente importa.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonita-pero-mentirosa&quot;&gt;Bonita pero mentirosa&lt;/h2&gt;
+
+&lt;p&gt;Así dice un disco clásico, viejito, como el internet. Pero tan útil para el tema de hoy, como el internet.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Las páginas en las solo lo bonita es el medidor importante, es una página mentirosa.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En este instante puede que te estés preguntando: &lt;em&gt;“¿si queda fea qué va a vender?”&lt;/em&gt; ¡Sorpresa! Tienes que conocer más. Me explico.&lt;/p&gt;
+
+&lt;p&gt;La &lt;a href=&quot;https://www.motivante.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;página web de Isra Bravo&lt;/a&gt;, mi inspiración en Copy, es fea. ¡ISRA TU PÁGINA ES HORRIBLE!&lt;/p&gt;
+
+&lt;p&gt;Pero con esa web, este señor vende más de 200.000 EUR al mes. Sí leíste bien… 200.000 EUR. Es fea, pero su estrategia, su desarrollo, su efectividad, ES PERFECTA!!!&lt;/p&gt;
+
+&lt;p&gt;¿Ahora comprendes lo que te quiero decir?&lt;/p&gt;
+
+&lt;h2 id=&quot;mi-enfoque-páginas-web-con-estrategia&quot;&gt;Mi enfoque: páginas web con estrategia&lt;/h2&gt;
+
+&lt;p&gt;Cuando tengas un proyecto digital en mente y necesitas una página web, contáctame. Quien sí sabe de páginas web te preguntará cosas como:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;¿Cuál es el proyecto global?&lt;/li&gt;
+  &lt;li&gt;¿Qué pasos o recorrido sigue tu cliente?&lt;/li&gt;
+  &lt;li&gt;De todo lo que debe hacer, ¿qué va a hacer exactamente la página?&lt;/li&gt;
+  &lt;li&gt;Si solo hicieran una sola cosa, ¿cuál sería la más importante?&lt;/li&gt;
+  &lt;li&gt;¿Cómo quieres medir y mejorar los resultados?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Y cosas así.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, mis clientes normalmente no tienen esto claro. Por eso me contratan. Pero si tu diseñador o desarrollador web no lo tiene claro tampoco, entonces tendrá una página web &lt;em&gt;“muy bonita, pero mentirosa”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Evítate ese dolor. Haz clic abajo en la sección verde, llamado a la acción, y contáctame. Yo te explico más. Quizá te venda una web. Me lo agradecerás.&lt;/p&gt;
+
+&lt;p&gt;PD. Luego te explico porque no te recomiendo páginas oscuras. Por fa, no me pidas más páginas oscuras… luego te cuento.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">&quot;Más es menos&quot;, dicen en los restaurantes. Aquí lo norma no es diferente. Te cuento más.</summary>
+      
+
+      
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?</title>
+      <link href="http://localhost:4000/negocios-sin-pagina-web" rel="alternate" type="text/html" title="Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?" />
+      <published>2024-03-31T00:00:00-05:00</published>
+      <updated>2024-03-31T00:00:00-05:00</updated>
+      <id>http://localhost:4000/negocios-sin-pagina-web</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/negocios-sin-pagina-web">&lt;p&gt;En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.&lt;/p&gt;
+
+&lt;p&gt;Hay que decirlo. Es un lugar muy bien organizado.&lt;/p&gt;
+
+&lt;p&gt;Pero justo hoy fui a lavar mi moto. Mientras la terminaban, grababa el primer audio de mi canal de WhatsApp. Allí analizaba la pregunta: ¿Tiene este negocio una página web &lt;strong&gt;que sea útil&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;p&gt;La respuesta es NO. Así que te comparto hoy este análisis:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#no-es-cuento-todos-necesitan-una-página-web&quot;&gt;No es cuento. Todos necesitan una página web&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#tener-redes-sociales-no-es-lo-mismo-que-tener-página-web&quot;&gt;Tener redes sociales no es lo mismo que tener página web&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#un-negocio-que-se-está-perdiendo-las-ventajas-de-tener-su-página-web&quot;&gt;Un negocio que se está perdiendo las ventajas de tener su página web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#un-negocio-que-sí-está-aprovechando-las-ventajas-de-tener-una-página-web&quot;&gt;Un negocio que sí está aprovechando las ventajas de tener una página web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ahora-piensa-en-tu-negocio-y-su-página-web&quot;&gt;Ahora piensa en tu negocio y su página web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;no-es-cuento-todos-necesitan-una-página-web&quot;&gt;No es cuento. Todos necesitan una página web&lt;/h2&gt;
+
+&lt;p&gt;Imagina el lavadero que te acabo de mencionar. Es una gran bodega convertida en lavadero, con sus secciones bien distribuidas. Tienen máquinas para lavar y para “polichar”. No está tan bien ubicado, centralmente hablando, pero están en un buen barrio.&lt;/p&gt;
+
+&lt;p&gt;Tal como ese local es el punto físico del negocio, la página web es el punto digital del mismo. Y aquí tienes que tener claro esto: &lt;strong&gt;una mal llamada página de Facebook NO ES una página web&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;tener-redes-sociales-no-es-lo-mismo-que-tener-página-web&quot;&gt;Tener redes sociales no es lo mismo que tener página web&lt;/h3&gt;
+
+&lt;p&gt;Mira.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Las redes sociales no te pertenecen&lt;/em&gt;. Tus perfiles no son tuyos. Esos perfiles le pertenecen a la empresa que te los brinda, como se llame… Instagram, Tiktok, X, Pinterest. Todas les pertenecen a la misma empresa.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ellos son los que realmente hacen dinero con esos perfiles&lt;/strong&gt;. Bien dice un refrán: “&lt;em&gt;En internet nada es gratis. Y si algo te ofrecen gratis, es porque tú eres el producto&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Otro día te explicaré más este punto. Pero es verdad. Tú eres el producto. Tus fotos. Tus videos. &lt;strong&gt;&lt;em&gt;Todo lo que has subido a las redes sociales ya no te pertenece&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si te preguntas: ¿Pero en las redes sociales está todo el mundo?&lt;/p&gt;
+
+&lt;p&gt;Te respondo que &lt;strong&gt;tú no necesitas a todo el mundo&lt;/strong&gt;. Por ejemplo, tú estás aquí en esta página leyendo esta información. Y espero que te convenza a algún día decir: &lt;strong&gt;&lt;em&gt;Voy a hacer una página profesional con Juli&lt;/em&gt;&lt;/strong&gt;. Y no estamos en ninguna red social.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Una página web que se base en una estrategia enfocada en resolver las necesidades de tus usuarios, vende mucho más que un perfil de redes sociales lleno de fotos de tus productos o servicios.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;un-negocio-que-se-está-perdiendo-las-ventajas-de-tener-su-página-web&quot;&gt;Un negocio que se está perdiendo las ventajas de tener su página web&lt;/h2&gt;
+
+&lt;p&gt;Piensa en el lavadero de vehículos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Si ellos tuvieran un sitio web para reservar un turno. Tú no tendrías que esperar a que terminen de lavar otros vehículos. &lt;strong&gt;¿Te sentirías mejor atendido?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Si el lavadero deja tu carro impecable. Y te dicen que en su página web venden el líquido que te ayuda a conservar limpio por más tiempo tu vehículo, &lt;strong&gt;¿lo buscarías?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Que tal si su página web enseñara trucos y secretos para conservar en mejor estado tu vehículo por más tiempo, &lt;strong&gt;¿crecería tu confianza en la calidad de su servicio?&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Si tuvieras dudas, preguntas, pero te das cuenta que Instagram les bloqueó el perfil, &lt;strong&gt;¿dónde los podrías buscar desde tu celular?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estos simples ejemplos te dejan claro que este negocio se está perdiendo de muchas oportunidades de crecimiento y estabilidad comercial. &lt;em&gt;Todo por no tener una página web&lt;/em&gt;. Pero &lt;a href=&quot;/paginas-web-cuando-si-cuando-no&quot;&gt;están en el momento justo para tener una página web&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;un-negocio-que-sí-está-aprovechando-las-ventajas-de-tener-una-página-web&quot;&gt;Un negocio que sí está aprovechando las ventajas de tener una página web&lt;/h2&gt;
+
+&lt;p&gt;Ahora te presento la página web de uno de mis mejores clientes. Es &lt;a href=&quot;https://gurcoff.com&quot;&gt;www.gurcoff.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esta página puede haber cambiado unas 5 veces. Cada cambio trae una estrategia nueva. &lt;strong&gt;Y cada estrategia digital en su página web acompañaba una etapa diferente de crecimiento del negocio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pero cada cambio cumplió su objetivo. Hoy este negocio está muy bien establecido y en crecimiento. Y el lado digital del negocio está siendo aprovechado por el negocio.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Siempre me aseguro que su página web acompañe bien la estrategia con sus redes sociales y perfiles de Google. Pero no dependen de ellos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Si un día las redes sociales les da por quitarles sus perfiles, &lt;strong&gt;esta página mantiene la atención de sus clientes y sigue abriendo un canal de contacto en los computadores y celulares de sus clientes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;las-páginas-web-de-empresas-grandes&quot;&gt;Las páginas web de empresas grandes&lt;/h3&gt;
+
+&lt;p&gt;¿Por qué crees que los grandes negocios tienen redes sociales y página web? ¿Y por qué crees que la mayoría de los grandes negocios hacen su página web a código?&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, la gran empresa Colombiana Holographic lleva años en el mercado. Ahora que sigue expandiendo y creciendo con nuevos socios, ha creado &lt;a href=&quot;https://holographic.ec&quot;&gt;la página web de Holographic en Ecuador&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para mí ha sido un reto muy interesante. Sobre todo por el tipo de estructura web.&lt;/p&gt;
+
+&lt;p&gt;Lo más interesante es &lt;strong&gt;cómo utilizan una web corporativo casi como si fuera un vendedor más en la empresa&lt;/strong&gt;. Y lo aprendí de ellos.&lt;/p&gt;
+
+&lt;p&gt;Página web + Estrategia. Luego te cuento más de este caso….&lt;/p&gt;
+
+&lt;h2 id=&quot;ahora-piensa-en-tu-negocio-y-su-página-web&quot;&gt;Ahora piensa en tu negocio y su página web&lt;/h2&gt;
+
+&lt;p&gt;¿Qué negocio tienes ahora? ¿En qué etapa se encuentra? Y la pregunta del millón: &lt;strong&gt;¿Tiene página web?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot; title=&quot;Pide tu página web&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Escríbeme y analicemos tu caso&lt;/a&gt; en una video llamada. Mi intención será &lt;strong&gt;analizar si es el momento de tener tu web, y qué tipo de estrategia&lt;/strong&gt; le convendría a tu negocio.&lt;/p&gt;
+
+&lt;p&gt;Ya verás cómo en cada momento crucial de tu negocio, este activo será crucial para lograr cada vez más objetivos. Mientras tanto, sigue aprendiendo aquí &lt;a href=&quot;/&quot;&gt;más tips para aprovechar tus páginas web&lt;/a&gt;.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Tengo un negocio. Tradicional. Una heladería. Y sí, le tengo página web. ¿Y el tuyo?</summary>
+      
+
+      
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <category term="Emprendimiento" />
+      
+        <category term="Páginas" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Tienes una web muy sencilla. ¿La estás aprovechando?</title>
+      <link href="http://localhost:4000/aprovechar-una-pagina-web-sencilla" rel="alternate" type="text/html" title="Tienes una web muy sencilla. ¿La estás aprovechando?" />
+      <published>2024-03-06T00:00:00-05:00</published>
+      <updated>2024-03-06T00:00:00-05:00</updated>
+      <id>http://localhost:4000/aprovechar-una-pagina-web-sencilla</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/aprovechar-una-pagina-web-sencilla">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-clave-de-una-página-web-sencilla-y-rentable&quot;&gt;La clave de una página web sencilla y rentable&lt;/h2&gt;
+
+&lt;p&gt;Antes de cualquier idea, primero tengo que decirte: &lt;em&gt;si tu página no la hicieron con una buena estrategia, de verdad, de verdad y en serio, &lt;strong&gt;no te va a servir para nada&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Personalmente, investigo muy bien cómo maquetar esas páginas para que generen resultados. En mi gremio a estos resultados le llamamos &lt;em&gt;“Conversiones”&lt;/em&gt;. Y es una triste realidad, la mayoría de páginas están tan mal hechas que el único que convierte es el que te cobró la página. Lo siento, pero es así.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;/paginas-web-que-dan-resultados&quot;&gt;Haz clic aquí para que sepas cómo debe ser una página web bien hecha&lt;/a&gt;. Así, cuando me encargues tu página, verás porqué es superior&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;y-qué-vas-a-hacer-con-una-web-sencilla-para-generar-dinero&quot;&gt;Y qué vas a hacer con una web sencilla para generar dinero&lt;/h2&gt;
+
+&lt;p&gt;Primero aclaremos esto: llamo &lt;em&gt;“página web sencilla”&lt;/em&gt; a la página web más económica del mercado. Es esa página web que &lt;strong&gt;en una sola página tiene todo&lt;/strong&gt;. No tiene más de 1 URL. No tiene un menú para navegar entre páginas. Por esto es One Page.&lt;/p&gt;
+
+&lt;p&gt;Ahora sí.&lt;/p&gt;
+
+&lt;h3 id=&quot;no-utilices-estas-páginas-como-tarjeta-de-presentación&quot;&gt;No utilices estas páginas como tarjeta de presentación&lt;/h3&gt;
+
+&lt;p&gt;Un día comencé una empresa de publicidad. Y recuerdo que mandé a hacer muchas tarjetas de presentación. &lt;strong&gt;No sirvieron para nada&lt;/strong&gt;. Que triste. Así es. Ni siquiera yo guardé las que me sobraron.&lt;/p&gt;
+
+&lt;p&gt;Supongo que te ha sucedido. Es más, también imagino que has pedido tarjetas de presentación. Yo solamente utilizo la del gas, y eso porque aún no guardo ese contacto.&lt;/p&gt;
+
+&lt;p&gt;Entonces, una página web &lt;em&gt;bien hecha&lt;/em&gt; pero utilizada de esa manera no sirve para nada.&lt;/p&gt;
+
+&lt;h3 id=&quot;al-grano-cómo-sacarle-jugo-a-una-web-sencilla&quot;&gt;Al grano: cómo sacarle jugo a una web sencilla&lt;/h3&gt;
+
+&lt;p&gt;Te cuento lo que yo he hecho. ¿Me ha funcionado? Sí. ¿Necesitas un ejemplo? Esta web. ¿Necesitas más? Haz esto con la tuya. Luego me dices y te pongo aquí de ejemplo.&lt;/p&gt;
+
+&lt;h4 id=&quot;utilizar-una-páginas-web-sencilla-con-facebook&quot;&gt;Utilizar una páginas web sencilla con Facebook&lt;/h4&gt;
+
+&lt;p&gt;Utilizaré esta página que me encantó hacer: &lt;a href=&quot;https://fullentretenimiento.co&quot; title=&quot;Página web Full Entrenimiento&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;fullentretenimiento.co&lt;/a&gt; (Saludos Orlando).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Aprende a crear un grupo de Facebook&lt;/strong&gt;: A mí no me gusta depender de las redes sociales para tener un negocio. Pero es verdad que son una buena palanca. Ve a YouTube y busca así: &lt;em&gt;“Cómo crear un grupo de Facebook”&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comienza a crear contenido&lt;/strong&gt;: En este caso, de películas. No tiene que ser videos, aunque es mejor. Pueden ser fotos y texto. O al menos audios. Pero haz contenido. Si puedes hacerlo a diario verás resultados más rápido.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inspírate en otros para hacerlo más fácil&lt;/strong&gt;: Entra a YouTube o TikTok. No importa. Busca el nombre de una película que estén promocionando en los canales que vendes. Luego copia lo mismo. Pero ojo: &lt;em&gt;es usar la misma información pero dando tu toque especial&lt;/em&gt;. Tu forma de presentar. Tu forma de decir las cosas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;La clave&lt;/strong&gt;: Al terminar el análisis, cortíto o largo, tienes que dicer “Y te la puedes ver completa con las pantallas en oferta de &lt;strong&gt;&lt;em&gt;mi página web fullentretenimiento.co&lt;/em&gt;&lt;/strong&gt;. ¡BUUUUUMMM! Aquí está. Tu página web.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Y finalmente &lt;strong&gt;les pones el enlace de tu página web en el comienzo del texto&lt;/strong&gt; que acompaña a ese video, imagen, audio, etc.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué funciona normalmente este método? Porque les estás regalando. En este caso regalando &lt;strong&gt;información de lo que van conseguir al comprar tu producto&lt;/strong&gt;, y no solamente ofreciendo productos y más productos. Eso aumenta el público que visita tu página. Y lo mejor, ya van con la intención de comprar la pantalla para verse la película.&lt;/p&gt;
+
+&lt;p&gt;Obviamente, si vendes ropa, zapatos, mazamorra, chontaduro, etc, y tienes una pequeña web para hacerlo, adapta la idea a tu producto.&lt;/p&gt;
+
+&lt;h3 id=&quot;otros-métodos-para-aprovechar-una-página-web-sencilla&quot;&gt;Otros métodos para aprovechar una página web sencilla&lt;/h3&gt;
+
+&lt;p&gt;Como te dije, no soy fan de las redes sociales. Luego te explico por qué. Pero por ahora te digo que hay otra maneras. La anterior es fácil. Por eso te la comparto. Pero hay otras más que exigen un poco más de tu parte.&lt;/p&gt;
+
+&lt;p&gt;Algunos ejemplos son con &lt;strong&gt;WhatsApp Marketing, Blogs, Email Marketing, Podcasts, entre otros.&lt;/strong&gt; Yo estoy aplicando un par de estas. Quizá me animo y más adelanto explico cómo las hago.&lt;/p&gt;
+
+&lt;h2 id=&quot;ojo-cuando-tu-página-web-convierta-atiende&quot;&gt;Ojo: cuando tu página web convierta ¡Atiende!&lt;/h2&gt;
+
+&lt;p&gt;El peor error de mis clientes es recibir solicitudes a su WhatsApp, y atender cuando les da la g….. … … cuando quieran. 😈&lt;/p&gt;
+
+&lt;p&gt;NOOOOO. La gente en WhatsApp normalmente terminan la compra si los atiendes en menos de 30 segundos. Así que no podía terminar sin mencionarlo.&lt;/p&gt;
+
+&lt;h2 id=&quot;si-te-funciona-tu-página-web-sencilla-vuelve-a-buscarme&quot;&gt;Si te funciona tu página web sencilla, vuelve a buscarme&lt;/h2&gt;
+
+&lt;p&gt;El siguiente paso será crecer tu página web. Como un negocio que funciona. Le inviertes más. Lo haces crecer. Así que me podrás buscar nuevamente y analizaremos de qué manera llevarte tu negocio digital a otro nivel.&lt;/p&gt;
+
+&lt;p&gt;Mientras tanto, primero aplica lo que leíste aquí, luego &lt;a href=&quot;/&quot;&gt;vuelve a mi página principal&lt;/a&gt; y sigue aprendiedo 😎&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Todas las páginas web bien utilizadas son rentables. Yo te digo qué hacer con ella.</summary>
+      
+
+      
+      
+
+      
+        <category term="Emprendimiento" />
+      
+
+      
+        <category term="Emprendimiento" />
+      
+        <category term="Páginas" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Evitar estafas en internet: Medidas de seguridad</title>
+      <link href="http://localhost:4000/evitar-estafas-en-internet" rel="alternate" type="text/html" title="Evitar estafas en internet: Medidas de seguridad" />
+      <published>2023-06-20T00:00:00-05:00</published>
+      <updated>2023-06-20T00:00:00-05:00</updated>
+      <id>http://localhost:4000/evitar-estafas-en-internet</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/evitar-estafas-en-internet">&lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt;
+
+&lt;p&gt;La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de este artículo, exploraremos consejos efectivos y prácticas de seguridad para que puedas navegar por internet con confianza y tranquilidad.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-son-las-estafas-en-internet&quot;&gt;¿Qué son las estafas en internet?&lt;/h2&gt;
+
+&lt;p&gt;Las estafas en internet son &lt;strong&gt;engaños o fraudes cometidos a través de medios electrónicos&lt;/strong&gt;, con el objetivo de obtener información personal o financiera de manera ilícita.&lt;/p&gt;
+
+&lt;p&gt;Los estafadores utilizan diversas tácticas, como correos electrónicos falsos, sitios web fraudulentos y llamadas telefónicas engañosas, para manipular a las personas y obtener sus datos confidenciales.&lt;/p&gt;
+
+&lt;p&gt;Es esencial estar informado y alerta para identificar estas estafas y tomar medidas preventivas adecuadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;por-qué-es-importante-protegerte-contra-las-estafas-en-internet&quot;&gt;¿Por qué es importante protegerte contra las estafas en internet?&lt;/h2&gt;
+
+&lt;p&gt;Evitar las estafas en internet es crucial &lt;strong&gt;para salvaguardar tu seguridad, privacidad y bienestar financiero&lt;/strong&gt; en el mundo digital.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Convertirse en víctima de una estafa puede tener consecuencias devastadoras, como pérdida de dinero, robo de identidad y daños a tu reputación en línea.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Las estafas en internet pueden generar un gran estrés emocional y socavar tu confianza al utilizar servicios y realizar transacciones en línea. Es por eso que es fundamental tomar precauciones y medidas de seguridad para evitar caer en estas trampas virtuales.&lt;/p&gt;
+
+&lt;h2 id=&quot;consejos-para-evitar-estafas-en-internet&quot;&gt;Consejos para evitar estafas en internet&lt;/h2&gt;
+
+&lt;p&gt;Aquí te presento una serie de consejos efectivos que te ayudarán a protegerte y evitar estafas en internet:&lt;/p&gt;
+
+&lt;h3 id=&quot;mantén-tus-dispositivos-seguros-y-actualizados&quot;&gt;Mantén tus dispositivos seguros y actualizados&lt;/h3&gt;
+
+&lt;p&gt;Para evitar ser víctima de estafas en línea, es crucial mantener tus dispositivos seguros y actualizados. Asegúrate de contar con un software antivirus confiable y actualizado en todos tus dispositivos, incluyendo computadoras, teléfonos móviles y tabletas. El software antivirus protegerá tus dispositivos de amenazas y programas maliciosos, manteniéndolos seguros frente a posibles estafas.&lt;/p&gt;
+
+&lt;p&gt;Además, es importante mantener tus sistemas operativos y aplicaciones actualizados. Los fabricantes lanzan regularmente actualizaciones que corrigen vulnerabilidades de seguridad conocidas. Al mantener tus dispositivos actualizados, reducirás las posibilidades de ser víctima de estafas basadas en vulnerabilidades conocidas.&lt;/p&gt;
+
+&lt;h3 id=&quot;aprende-a-identificar-sitios-web-y-correos-electrónicos-fraudulentos&quot;&gt;Aprende a identificar sitios web y correos electrónicos fraudulentos&lt;/h3&gt;
+
+&lt;p&gt;Los estafadores a menudo utilizan sitios web y correos electrónicos fraudulentos para engañar a las personas y obtener información personal. Es fundamental aprender a identificar estas trampas virtuales para protegerte.&lt;/p&gt;
+
+&lt;p&gt;Al visitar un sitio web, presta atención a la URL y asegúrate de que comience con “https://” en lugar de “http://”. La “s” adicional indica que el sitio web está utilizando una conexión segura y cifrada, lo que dificulta que los estafadores intercepten y accedan a tu información.&lt;/p&gt;
+
+&lt;p&gt;Asimismo, desconfía de los correos electrónicos no solicitados que te solicitan información personal o financiera. Los estafadores pueden hacerse pasar por instituciones legítimas y solicitar que ingreses datos confidenciales en enlaces o formularios falsos. Siempre verifica la legitimidad de los correos electrónicos y evita proporcionar información personal sensible a través de mensajes no seguros.&lt;/p&gt;
+
+&lt;h3 id=&quot;utiliza-contraseñas-fuertes-y-únicas&quot;&gt;Utiliza contraseñas fuertes y únicas&lt;/h3&gt;
+
+&lt;p&gt;El uso de contraseñas fuertes y únicas es fundamental para proteger tus cuentas en línea. Evita utilizar contraseñas obvias, como fechas de cumpleaños o nombres comunes, ya que son fáciles de adivinar. En su lugar, crea contraseñas que contengan una combinación de letras mayúsculas y minúsculas, números y símbolos.&lt;/p&gt;
+
+&lt;p&gt;Además, es esencial utilizar contraseñas diferentes para cada cuenta en línea. Esto evitará que un solo compromiso de contraseña ponga en riesgo todas tus cuentas. Si te resulta difícil recordar múltiples contraseñas, considera utilizar un administrador de contraseñas confiable para almacenar y generar contraseñas seguras.&lt;/p&gt;
+
+&lt;h3 id=&quot;verifica-la-autenticidad-de-los-sitios-web-antes-de-realizar-transacciones-en-línea&quot;&gt;Verifica la autenticidad de los sitios web antes de realizar transacciones en línea&lt;/h3&gt;
+
+&lt;p&gt;Antes de realizar cualquier transacción en línea, especialmente aquellas que implican el ingreso de información financiera, verifica la autenticidad del sitio web. Asegúrate de que el sitio web tenga un certificado de seguridad válido y que la URL comience con &lt;strong&gt;“https://”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Además, es recomendable buscar reseñas y comentarios sobre el sitio web o la tienda en línea antes de realizar una compra. Esto te ayudará a evaluar la confiabilidad y reputación del vendedor.&lt;/p&gt;
+
+&lt;h3 id=&quot;mantén-un-ojo-en-tus-cuentas-y-transacciones-en-línea&quot;&gt;Mantén un ojo en tus cuentas y transacciones en línea&lt;/h3&gt;
+
+&lt;p&gt;Una buena práctica para evitar estafas en internet es monitorear regularmente tus cuentas y transacciones en línea. Revisa tus estados de cuenta bancarios y de tarjetas de crédito con regularidad para detectar cualquier actividad sospechosa o transacciones no autorizadas. Si observas algo inusual, notifica de inmediato a tu institución financiera y toma las medidas necesarias para proteger tus fondos y datos.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-te-dejes-robar-en-internet&quot;&gt;No te dejes robar en internet&lt;/h2&gt;
+
+&lt;p&gt;En resumen, evitar estafas en internet es esencial para proteger tu seguridad, privacidad y bienestar financiero en la era digital.&lt;/p&gt;
+
+&lt;p&gt;Al seguir los consejos y medidas de seguridad mencionados en este artículo, podrás navegar por internet con mayor confianza y reducir las posibilidades de caer en trampas virtuales.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mantén tus dispositivos seguros y actualizados&lt;/li&gt;
+  &lt;li&gt;Aprende a identificar sitios web y correos electrónicos fraudulentos&lt;/li&gt;
+  &lt;li&gt;Utiliza contraseñas fuertes y únicas&lt;/li&gt;
+  &lt;li&gt;Verifica la autenticidad de los sitios web antes de realizar transacciones y monitorear tus cuentas y transacciones en línea&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¡Protege tu seguridad en línea y disfruta de una experiencia digital segura!&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Hasta mi familia la han robado por internet. Lee cómo evitarlo</summary>
+      
+
+      
+      
+
+      
+        <category term="Seguridad" />
+      
+
+      
+        <category term="Seguridad" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">¿Todavía sirven las páginas web estáticas? A mí me sirven mucho</title>
+      <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos" rel="alternate" type="text/html" title="¿Todavía sirven las páginas web estáticas? A mí me sirven mucho" />
+      <published>2021-06-21T00:00:00-05:00</published>
+      <updated>2021-06-21T00:00:00-05:00</updated>
+      <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/paginas-web-estaticas-para-empredimientos">&lt;p&gt;Pero antes, recuerda que el contenido de mi blog es dirigido a quienes están digitalizando sus negocios. Habrá grandes empresas, o grandes proyectos, que como verás al final de este artículo, una página estática puede o no servirle más que una dinámica.&lt;/p&gt;
+
+&lt;p&gt;Pero si tu negocio es pequeño, ya verás que una página estática puede ser más que suficiente. ¡Veamos!&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-es-una-página-web-estática&quot;&gt;Qué es una página web estática&lt;/h2&gt;
+
+&lt;p&gt;Mi forma de definir una página web estática es compararla a la publicidad impresa. Cuando mandas a imprimir volantes o flyers, o tarjetas de presentación, el contenido de ese impreso es estático.&lt;/p&gt;
+
+&lt;p&gt;Pensando en lo anterior, &lt;strong&gt;podemos definir una página web estática como una web que presenta la misma información siempre&lt;/strong&gt;. Ahora bien, resolvamos unas preguntas que nos ayuden a entender este punto:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;¿Se puede agregar información nueva en una página web estática?&lt;/strong&gt; Por supuesto que sí. Solo es agregar el nuevo artículo o la nueva sección en la página.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;¿Entonces no se puede actualizar la información de una página web estática?&lt;/strong&gt; Claro que sí. Te contactas con el desarrollador de la página o utilizas tu administrador de contenidos de páginas web estáticas, y se actualiza la información que necesitas actualizar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Entonces, si la información se puede actualizar, ¿por qué se dice que una página web estática siempre presenta la misma información?&lt;/p&gt;
+
+&lt;h2 id=&quot;diferencia-de-una-página-web-estática-y-una-página-web-dinámica&quot;&gt;Diferencia de una página web estática y una página web dinámica&lt;/h2&gt;
+
+&lt;p&gt;Para comprender bien este punto importante, quiero explicarte lo que hace una página web dinámica. Y supongo que el nombre ya te debe dar una pista.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Las páginas web dinámicas cambian la información de acuerdo a lo que le pides o de acuerdo a las funciones que ejecutan&lt;/strong&gt;. Si las páginas web estáticas parecen publicidad impresa, las web dinámicas son como una pantalla con información que va cambiando de acuerdo a lo que pides.&lt;/p&gt;
+
+&lt;p&gt;Por lo anterior, podemos decir que las diferencias básicas son:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;En las páginas estáticas se presenta la información tal como se diseñó, mientras en las web dinámicas la información cambia según la persona y sus necesidades.&lt;/li&gt;
+  &lt;li&gt;Las páginas web dinámicas necesitan de más conocimiento sobre herramientas de programación y bases de datos.&lt;/li&gt;
+  &lt;li&gt;Las páginas web estáticas son mucho más rápidas que las dinámicas, porque solo presentan información.&lt;/li&gt;
+  &lt;li&gt;Las páginas web dinámicas son para proyectos más grandes y complejos.&lt;/li&gt;
+  &lt;li&gt;Las páginas web estáticas ocupan mucho menos espacio en tu servidor o hosting.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;ejemplos-de-páginas-web-estáticas-y-páginas-web-dinámicas&quot;&gt;Ejemplos de páginas web estáticas y páginas web dinámicas&lt;/h3&gt;
+
+&lt;p&gt;Tomemos como ejemplo una página de &lt;a href=&quot;https://www.facebook.com&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;. Cuando tú abres esta página, estas haciendo una petición especial a Facebook. ¿Cuál? Que te muestre tú pagina o tu perfil en la red social, y no el que le está mostrando a tu familiar, vecino o a un desconocido de otra parte del mundo.&lt;/p&gt;
+
+&lt;p&gt;Según este ejemplo, si Facebook abriera la página web con la misma información para todo el mundo, entonces sería una página web estática. Pero al abrir siempre una página distinta para cada usuario, con información y “chismes” diferentes, entonces se convierte en una página web dinámica.&lt;/p&gt;
+
+&lt;p&gt;Por el contrario, si miras páginas web estáticas como &lt;a href=&quot;https://gurcoff.com/blog&quot;&gt;gurcoff.com/blog&lt;/a&gt; o &lt;a href=&quot;https://terminaldetransporte.com&quot;&gt;terminaldetransporte.com&lt;/a&gt;, notarás que sin importa quién abra la página, verás la misma información siempre. Puede que se actualice o le agreguen más información, pero no se modifica la información según el usuario.&lt;/p&gt;
+
+&lt;p&gt;Entonces, ¿cuál me puede servir en mi proyecto? Veamos.&lt;/p&gt;
+
+&lt;h2 id=&quot;características-de-las-páginas-web-estáticas&quot;&gt;Características de las páginas web estáticas&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Las páginas web estáticas son perfectas para presentar un negocio&lt;/strong&gt;. Y cuando la mayoría de mis clientes me preguntan por páginas web, me solicitan páginas con este objetivo. Veamos algunos ejemplos que te pueden guiar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Páginas web institucionales&lt;/li&gt;
+  &lt;li&gt;Páginas web empresariales&lt;/li&gt;
+  &lt;li&gt;Páginas web para dar a conocer un producto&lt;/li&gt;
+  &lt;li&gt;Páginas web para capturar datos de lectores o suscriptores&lt;/li&gt;
+  &lt;li&gt;Páginas web para un evento, etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Así que, con estas páginas web estáticas puedes dar a conocer la dirección de un negocio, los servicios que ofreces, contar historias, mostrar tu portafolio de diseños o fotografías, dar a conocer tu emprendimiento, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Las páginas web estáticas son muy buenas para posicionarnos en las búsquedas de Google&lt;/strong&gt;. Recuerda que las páginas web dinámicas toman un poco más de tiempo para cargar. En ocasiones demasiado. Y esto &lt;a href=&quot;#fuentes&quot;&gt;lo penaliza Google&lt;/a&gt;. Las páginas web estáticas cargan mucho más rápido.&lt;/p&gt;
+
+&lt;p&gt;Pensando en estas características básicas, podemos analizar las ventajas de esta clase de páginas.&lt;/p&gt;
+
+&lt;h2 id=&quot;ventajas-de-las-páginas-web-estáticas&quot;&gt;Ventajas de las páginas web estáticas&lt;/h2&gt;
+
+&lt;p&gt;Personalmente, siempre te voy a recomendar páginas web estáticas. Y para que entiendas por qué, quiero contarte las ventajas principales de estas páginas web.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Las páginas web estáticas son mucho más baratas&lt;/strong&gt;. Recuerda que las páginas dinámicas necesitan mucha más programación y bases de datos, y esto, por supuesto, implica más costos. Ahora, si la naturaleza de tu emprendimiento requiere de eso, pues tu única opción son las páginas dinámicas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hacer una página estática es mucho más rápido&lt;/strong&gt;. Entonces, podrás mostrar con más prontitud la información que necesitas difundir.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;El diseño de una página web estática es más flexible&lt;/strong&gt;. Este punto es más aplicable en la comparativa de páginas dinámicas basadas en plantillas administrables. Un ejemplo es WordPress, y puedes leer aquí &lt;a href=&quot;/por-que-no-usar-wordpress&quot;&gt;por qué no recomiendo usar WordPress&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Los tiempos de carga  de una página web estática son muy rápidos&lt;/strong&gt;. Esto es muy importante cuando lo que estás intentando es posicionar un emprendimiento nuevo o no tan conocido.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Las página web estáticas tienen url’s amigables&lt;/strong&gt;. Por eso, no vas a ver símbolos y números en las direcciones. Y esto también se premia en el posicionamiento web.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Las páginas web estáticas son muy seguras&lt;/strong&gt;. Por no tener bases de datos, o scripts de consulta por programación, no son vulnerables a los ataques de internet más conocidos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Las páginas web estáticas funcionan en cualquier servidor&lt;/strong&gt;, pues son ligeras y solo presentan información. Cualquier servicio de hosting te puede servir para comenzar, hasta los gratuitos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Las página estáticas no requieren mucho mantenimiento&lt;/strong&gt;. Solamente actualizas la información que cambias y no más.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Las páginas web estáticas pueden incluir muchas herramientas&lt;/strong&gt;. Así que ya puedes agregar animaciones, opciones de captura de información, entre otras. Si solo por esto preferías las páginas dinámicas, ya no es una razón para inclinarte por estas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ya existen generadores de páginas web estáticas&lt;/strong&gt;. Así que con poco conocimiento técnico puedes aprender a administrar el contenido de tu sitio web.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para resumir el punto: &lt;strong&gt;yo te recomiendo una página web estática porque disminuye tus costos, mejora tu posicionamiento y puedes efectuar las funciones más importantes para tu negocio.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;debería-hacer-una-página-web-estática&quot;&gt;¿Debería hacer una página web estática?&lt;/h2&gt;
+
+&lt;p&gt;Insisto. Es mi punto de vista personal. Sí, absolutamente sí. Si tu emprendimiento no necesita de una página web que parezca casi una aplicación por la cantidad de funciones, es mejor una página web estática.&lt;/p&gt;
+
+&lt;p&gt;Y por supuesto, si quieres contar conmigo, no dudes en &lt;a href=&quot;/contacto&quot;&gt;contactarme&lt;/a&gt;.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Yo hago muchas páginas web estáticas. Y mis clientes lo agradecen. Lee más</summary>
+      
+
+      
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Yo no te aconsejo utilizar WordPress</title>
+      <link href="http://localhost:4000/por-que-no-usar-wordpress" rel="alternate" type="text/html" title="Yo no te aconsejo utilizar WordPress" />
+      <published>2021-05-21T00:00:00-05:00</published>
+      <updated>2021-05-21T00:00:00-05:00</updated>
+      <id>http://localhost:4000/por-que-no-usar-wordpress</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/por-que-no-usar-wordpress">&lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt;
+
+&lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. &lt;strong&gt;WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Con ese sistema solo utilizas plantillas prediseñadas. Haces clic en algunas secciones, cambias textos, imágenes, enlaces. Luego le agregas otras aplicaciones - llamadas plugins - y listo. Eso es todo.&lt;/p&gt;
+
+&lt;p&gt;Esta aparente sencillez de este gestor de contenidos lo ha convertido en la opción favorita de los creadores de páginas web.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, WordPress tiene 2 opciones:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;WordPress.com&lt;/strong&gt; es la versión comercial de este sistema.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WordPress.org&lt;/strong&gt; es la versión gratuita de este sistema. ¡Y por ser gratis, le gusta a todo el mundo!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wordpress-es-fácil-y-gratis-pero&quot;&gt;WordPress es fácil y gratis, pero…&lt;/h2&gt;
+
+&lt;p&gt;…tiene muchos factores que le restan efectividad y calidad a tu futura página web. Te contaré algunos.&lt;/p&gt;
+
+&lt;h3 id=&quot;no-es-tan-fácil-adaptar-a-tu-marca&quot;&gt;No es tan fácil adaptar a tu marca&lt;/h3&gt;
+
+&lt;p&gt;Personalizar una plantilla de WordPress es un proceso que en la mayoría de ocasiones es más complejo de lo que parece. Así que adaptar la personalidad de una página web a la esencia de tu marca puede terminar siendo un problema.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, hace poco tuve esta experiencia. Necesitaba modificar una plantilla que tenía palabras en inglés y cambiarlas al español. Pero solo lo permitía mediante código php. ¿Código PHP? Pues entonces ya no era tan fácil como hacer clic y escribir.&lt;/p&gt;
+
+&lt;p&gt;Otro gran reto fue remodelar la web de la &lt;a href=&quot;https://since.com.co&quot;&gt;agencia de marketing de Bogotá Since&lt;/a&gt;. Su plantilla fue muy difícil de adaptar a los gusto del cliente. Sí se pudo lograr, pero fue muy difícil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Así que adaptar todos los textos, fuentes, colores y hasta logos puede llegar a ser más difícil de lo que parece.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;muchas-plantillas-que-no-siempre-son-las-mejores-de&quot;&gt;Muchas plantillas que no siempre son las mejores de&lt;/h3&gt;
+
+&lt;p&gt;Recuerda que en WordPress utilizas plantillas prediseñadas. Y por temas de calidad, notarás que la mayoría utilizan las mismas plantillas. Esto afectará totalmente tus esfuerzos por diferenciarte de tu competencia, si usan WordPress claro está.&lt;/p&gt;
+
+&lt;p&gt;Por mi trabajo, participo en muchos grupos y foros de personas que saben sobre páginas web. Y son muy poquitas las plantillas que recomiendan utilizar. La excepción es que seas un maquetador web y con conocimientos en php para crear tu propia plantilla. Pero a este nivel estoy seguro que harás las páginas de tus proyectos sin WordPress.&lt;/p&gt;
+
+&lt;p&gt;Adicionalmente, las plantillas que sí recomiendan utilizar, casi siempre tienen el problema que te mencioné en el punto anterior. Entonces, &lt;strong&gt;va a ser muy difícil encontrar plantillas optimizadas, ligeras y veloces.&lt;/strong&gt; Esto último da paso al siguiente punto.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-optimización-y-la-velocidad-en-wordpress-no-es-la-mejor&quot;&gt;La optimización y la velocidad en WordPress no es la mejor&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Casi nunca vas a tener una plantilla WordPress veloz, liviana y optimizada para posicionar en Google&lt;/strong&gt;. Esto se debe a la cantidad de código utilizado para el gestor. Te lo explico con un ejemplo.&lt;/p&gt;
+
+&lt;p&gt;Imagina que alguien vende comidas rápidas. Entonces decide &lt;em&gt;automatizar el proceso&lt;/em&gt;. Pero para hacerlo, lógicamente necesitará máquinas y dispositivos que hagan los procesos, y al menos una persona que las controle.&lt;/p&gt;
+
+&lt;p&gt;Con WordPress es lo mismo. Ya no es una persona preparando la comida rápida. Para que solo sea hacer clic y que todo quede listo, WordPress utiliza una cantidad enorme de código por detrás de lo que tú puede ver.&lt;/p&gt;
+
+&lt;p&gt;Piénsalo: si quieres poner un botón a tu página, ¿qué necesita WordPress? Un código para mostrarte dónde crear ese botón; código que le diga que eso es un botón; código para modificar el botón; código para crear el botón en la página y mostrarlo; código para darle funciones a ese botón; código para que el botón sea adaptable automáticamente; y así por cada elemento que tenga tu página.&lt;/p&gt;
+
+&lt;p&gt;Todo ese código se va acumulando. Y al ser código con bases de datos y lenguajes de programación, suelen requerir actualizaciones y seguridad. Y este ejemplo no tiene en cuenta lo que te menciono a continuación.&lt;/p&gt;
+
+&lt;h3 id=&quot;aplicaciones-o-plugins-de-wordpress&quot;&gt;Aplicaciones o plugins de WordPress&lt;/h3&gt;
+
+&lt;p&gt;Las aplicaciones de WordPress, llamadas plugins, son de uso obligado para que tu página funcione bien. Y agregar estas funciones, es también agregar más código a tu página web. Y esto, al mismo tiempo, puede ser un problema.&lt;/p&gt;
+
+&lt;p&gt;WordPress va actualizando su programación. Esto obliga a quienes hacen los plugin a actualizarlos también. Y muchas de estas aplicaciones son abandonadas por sus desarrolladores y terminan siendo incompatibles con tu versión de WordPress. ¿Te imaginas qué puede suceder con tu páginas si no estás pendiente de esto?&lt;/p&gt;
+
+&lt;p&gt;Otros plugins, aunque son gratis, no quedan bien hechos. Y algunos, cuando se actualizan, cambian su código y deja de hacer algo que nos gustaba. O modifica bases de datos que no debería. Y esto también afecta nuestra página web. Y si no tenía copia de seguridad, pues ya te imaginas.&lt;/p&gt;
+
+&lt;p&gt;Por esto, ten en cuenta que &lt;strong&gt;siempre dependerás de estos programadores de plugins y de estar al tanto de su trabajo para que te dejen hacer el tuyo con tu página&lt;/strong&gt;. Y si no lo hacen bien, tu página ya no funcionará bien.&lt;/p&gt;
+
+&lt;h3 id=&quot;tienes-que-comenzar-pagando-hosting&quot;&gt;Tienes que comenzar pagando hosting&lt;/h3&gt;
+
+&lt;p&gt;Si decides utilizar el hosting gratis que te ofrece WordPress, estarás obligado a aceptar sus condiciones de uso. Entre ellas, que el sitio todavía no te pertenece.&lt;/p&gt;
+
+&lt;p&gt;Pero llegará el momento donde &lt;strong&gt;tendrás que vivir una de las torturas más grandes que tiene WordPress: migrar de hosting.&lt;/strong&gt; Es un proceso muy técnico y de mucho cuidado. Mal ejecutado puede echar a perder todo lo que hayas logrado en el posicionamiento de tu página web.&lt;/p&gt;
+
+&lt;p&gt;Así que con WordPress la recomendación es que desde el comienzo comiences utilizando hosting de pago. ¿Un gestor gratis que es mejor comenzar pagando? Bueno, unas por otras.&lt;/p&gt;
+
+&lt;h3 id=&quot;sí-tienes-que-hacer-el-curso-de-wordpress&quot;&gt;Sí tienes que hacer el curso de WordPress&lt;/h3&gt;
+
+&lt;p&gt;Todo lo anterior debe indicarte que para usar WordPress de la manera correcta, &lt;strong&gt;debes aprender WordPress de forma profesional. Con WordPress no es solo escribir y hacer clic en guardar. Eso es mentira.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Las páginas diseñadas en WordPress que funcionan bien, tienen un profesional experto en WordPress encargado de realizarla y mantenerla, porque recuerda que requiere mantenimiento.&lt;/p&gt;
+
+&lt;p&gt;Y no es solo aprender a utilizar la herramienta. También implica aprender de algunos lineamientos básicos de diseño. Necesitas aprender de configuraciones para mejorar la seguridad. Y como te contaba, llegará un punto donde tendrás que aprender hasta a programar PHP.&lt;/p&gt;
+
+&lt;p&gt;Esta es la razón por la que la mayoría de las páginas realizadas en WordPress son páginas muy flojas en diseño, optimización y con muchos fallos de ejecución, actualizaciones y otros factores.&lt;/p&gt;
+
+&lt;p&gt;Aprender no es un problema. Será una ventaja para ti y tendrás más oportunidades laborales. Pero las personas que eligen esta herramienta, en la mayoría de los casos no quieren estudiar algo así.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-seguridad-sí-que-es-un-problema&quot;&gt;La seguridad sí que es un problema&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Hay muchos elementos en WordPress que pueden presentar un problema de seguridad&lt;/strong&gt;: desde la clave de acceso a tu cuenta, hasta la programación de los plugins o las bases de datos que utilizas. Así que este factor no se puede pasar por alto.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-razón-principal-para-no-utilizar-wordpress&quot;&gt;La razón principal para no utilizar WordPress&lt;/h2&gt;
+
+&lt;p&gt;Todo lo anterior ya contiene razones de peso para no considerar el uso de WordPress. Pero existe una razón más importante que es muy difícil de superar con esta herramienta.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No te recomiendo utilizar WordPress para alcanzar los &lt;a href=&quot;/paginas-web-cuando-si-cuando-no&quot;&gt;objetivos que quieres alcanzar con tu página web&lt;/a&gt;.&lt;/strong&gt; Esto implica una palabra clave: &lt;strong&gt;flexibilidad&lt;/strong&gt;. Y WordPress no la tiene.&lt;/p&gt;
+
+&lt;p&gt;Una página web en la que solamente procuras que sea bonita, es un desperdicio de recursos en tu emprendimiento. Y una página bien eficiente necesita cambios o ajustes constantes. Estos se determinan con los datos que te da su uso a medida que pasan los días.&lt;/p&gt;
+
+&lt;p&gt;Luego, querrás alcanzar el objetivo de mejorar el tráfico e impulsar las conversiones. Y en la mayoría de los casos, no bastará con cambiar un color o un texto pequeño.&lt;/p&gt;
+
+&lt;p&gt;Cuando ya tienes una estrategia para tu página web, normalmente necesitarás un diseño que cumpla con los detalles a la medida. &lt;strong&gt;Pero con WordPress estás limitado por las plantillas prediseñadas, ya sean gratis o de pago.&lt;/strong&gt; Esa para mí es la razón principal que da vida a este artículo.&lt;/p&gt;
+
+&lt;h2 id=&quot;entonces-cuándo-sí-deberías-utilizar-wordpress&quot;&gt;Entonces, ¿cuándo sí deberías utilizar WordPress?&lt;/h2&gt;
+
+&lt;p&gt;¡Nunca! Y te lo digo con estas 3 razones:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Si lo utilizas por ser gratis, tendrás dolores de cabeza con el funcionamiento de tu página web.&lt;/li&gt;
+  &lt;li&gt;Si decidiste aprender a utilizarlo bien, mejor paga con esos recursos a alguien que ya lo haga y enfócate en seguir fortaleciendo y administrando tu emprendimiento y tus estrategias digitales.&lt;/li&gt;
+  &lt;li&gt;Y si lo que quieres es hacer páginas web para trabajar en esto, así como hago yo, aprende lo básico de WordPress para ayudar a otros.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Siempre será mejor que hagas tu inversión para aprender a diseñar y maquetar tus páginas con código HTML, CSS y Javascript. Tendrás muchas más posibilidades que limitarte a un gestor como WordPress.&lt;/p&gt;
+
+&lt;p&gt;Te recomiendo estas fuentes para aprender a hacer páginas web como un profesional:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/html/default.asp&quot; title=&quot;Página de w3schools para aprender HTML&quot;&gt;Documentación de HTML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/css/default.asp&quot; title=&quot;Página de w3schools para aprender CSS&quot;&gt;Documentación de CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3schools.com/js/default.asp&quot; title=&quot;Página de w3schools para aprender Javascript&quot;&gt;Documentación de Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y por supuesto, Udemy, Coursera o Platzi tienen también buenas opciones. Quizá me anima a hacer un curso sencillo, pero tendrá que esperar unos días.&lt;/p&gt;
+
+&lt;p&gt;¿Y tú? ¿Has sufrido con WordPress también? Cuéntame tus impresiones en mi canal de Telegram.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">En serio. WordPres es muy mala idea para un proyecto serio y grande. Y supuestamente es gratis. Pero te mostraré lo que te puede costar. Lee por qué</summary>
+      
+
+      
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <category term="Páginas" />
+      
+        <category term="WordPress" />
+      
+
+      
+
+    </entry>
+  
+    <entry>
+      <title type="html">Páginas web, ¿cuándo es buena idea y cuándo no?</title>
+      <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no" rel="alternate" type="text/html" title="Páginas web, ¿cuándo es buena idea y cuándo no?" />
+      <published>2021-04-21T10:00:00-05:00</published>
+      <updated>2024-07-10T10:00:00-05:00</updated>
+      <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/paginas-web-cuando-si-cuando-no">&lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/h2&gt;
+
+&lt;p&gt;Soy Julián. Y me alegra saludarlos para resolver la pregunta si tu negocio necesita o no una página web.&lt;/p&gt;
+
+&lt;p&gt;Cuando mis amigos tienen la intención de digitalizar sus negocios, me dicen: &lt;strong&gt;¿debo hacer una página web o no?&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Y es que la opinión del común, es que la página y el logo es lo primero que debes hacer (esto del logo es otra historia 🤦‍♂️).&lt;/p&gt;
+
+&lt;h2 id=&quot;no-siempre-busques-una-página-web-cuando-estás-comenzando&quot;&gt;No siempre busques una página web… cuando estás comenzando&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;No siempre es necesario hacer una página web.&lt;/strong&gt; Y no me refiero a hacerlo todo en Facebook, como hace la mayoría ahora.&lt;/p&gt;
+
+&lt;p&gt;Mi argumento se basa en que cuando alguien quiere una página web, casi siempre paga para que otro la haga.&lt;/p&gt;
+
+&lt;p&gt;Así que si tienes una idea de negocio, y tú mismo puedes hacer la página web, entonces haz la página tú mismo.&lt;/p&gt;
+
+&lt;p&gt;Y si puedes hacerla gratis en cualquier aplicativo online, mucho mejor. Pero &lt;strong&gt;no le pagues a alguien una página web cuando estás comenzando con tu emprendimiento.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;por-qué-no-vale-la-pena-hacer-una-página-cuando-estamos-comenzando&quot;&gt;¿Por qué no vale la pena hacer una página cuando estamos comenzando?&lt;/h3&gt;
+
+&lt;p&gt;Vamos a poner un ejemplo para entenderlo mejor.&lt;/p&gt;
+
+&lt;p&gt;Supongamos que alguien quiere empezar un negocio. Entonces decide comprar un terreno y pagarle a alguien que edifique un local comercial. &lt;em&gt;Y solo entonces inicia con su negocio&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Entiendes el punto? ¿Harías tú eso? Yo no lo haría.&lt;/p&gt;
+
+&lt;p&gt;La razón es que &lt;strong&gt;aún no tengo la certeza de que el negocio va a funcionar&lt;/strong&gt;. Hay muchas maneras de probar. No hay que intentar sin rumbo.&lt;/p&gt;
+
+&lt;p&gt;Quizá en este punto los inversionistas de propiedades o bienes raíces dirán que no se pierde nada. Pero ese es otro tema.&lt;/p&gt;
+
+&lt;p&gt;Aquí lo que quiero resaltar con el ejemplo es que &lt;strong&gt;haces una inversión en una página web, cuando no sabes si tu idea va a funcionar&lt;/strong&gt;. (También se dice validar la idea).&lt;/p&gt;
+
+&lt;h2 id=&quot;de-todos-modos-sí-hay-que-hacer-una-página-web&quot;&gt;De todos modos, sí hay que hacer una página web&lt;/h2&gt;
+
+&lt;p&gt;Así que cuando yo te diga no hagas una página web, me estoy refiriendo a que &lt;strong&gt;si estás comenzando un negocio e ibas a pagarle a alguien para que te haga un sitio web, ¡no lo hagas!.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mandar hacer un sitio web no es económico. &lt;a href=&quot;/desarrollo-paginas-web&quot;&gt;Claro si lo hace como yo lo hago&lt;/a&gt;. Si no, son baratas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Y si te van a cobrar barato… ya sabes, sale caro.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;ahora-sí-cuándo-recomiendo-hacer-una-página-web&quot;&gt;Ahora sí… cuándo recomiendo hacer una página web?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Vamos a suponer que ya tienes tu negocio. Está funcionando. Te va muy bien. La gente te busca, tienes tus clientes y ahora ya ves la necesidad de tener un sitio web. En ese caso, principalmente en ese caso es cuando ya tu negocio te está pidiendo un activo más.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En este caso hablo de un activo digital. &lt;strong&gt;La página web será una herramienta que te ayude en el crecimiento y fortalecimiento de tu negocio&lt;/strong&gt;. Ahora sí, debes hacer tu página web.&lt;/p&gt;
+
+&lt;p&gt;¿Recuerdas cuando compraste un letrero publicitario bien bonito para tu negocio? El propósito es llamar más la atención. Los clientes llegaran al negocio y dicen: “¡Wow!, que negocio tan bonito. Me encanta”. Estoy convencido que no lo hiciste tú mismo con cartones y pintura. Pagaste por algo profesional.&lt;/p&gt;
+
+&lt;p&gt;Por lo anterior, si tu negocio está creciendo, y quieres crecer más con un activo digital, contrata un profesional que pueda hacer tu página web. ¿Cuál es la única excepción? Que tú seas un diseñador o un desarrollador web, y que tengas la manera de hacerla por tu cuenta.&lt;/p&gt;
+
+&lt;p&gt;Recuerda, esta &lt;strong&gt;es la imagen que vas a proyectar en internet.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-clase-de-página-escogerás&quot;&gt;¿Qué clase de página escogerás?&lt;/h2&gt;
+
+&lt;p&gt;Ahora el caso es que hay muchas clases de páginas web. Por esto, piensa primero en esta pregunta: &lt;strong&gt;¿para qué quiero una página web?. En ese caso, debes tener una estrategia digital para tu página web&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esa página es sólo un elemento de una estrategia completa. Y esta no tiene que ser complicada. Puede ser muy sencilla. El objetivo es que aporte a tu crecimiento o fortalecimiento comercial.&lt;/p&gt;
+
+&lt;h3 id=&quot;ejemplo-de-páginas-web-con-estrategia-digital&quot;&gt;Ejemplo de páginas web con estrategia digital&lt;/h3&gt;
+
+&lt;p&gt;Quiero mencionarte algunos ejemplos que te sirvan de inspiración.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Analicemos la página &lt;a href=&quot;https://gurcoff.com/blog&quot;&gt;gurcoff.com&lt;/a&gt;. Esta página es de una heladería en un pueblo pequeño. Su estrategia es &lt;strong&gt;posicionar su página en las búsquedas de los turistas que visitan el lugar&lt;/strong&gt;. Normalmente, cuando los turistas van a visitar un lugar, buscan en Google hoteles, lugares para comer, etc. También, notarás que utilizan los llamados a la acción para generar una base de datos de sus clientes &lt;strong&gt;directamente en su WhatsApp.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El segundo ejemplo es el de &lt;a href=&quot;https://lebeninmobiliaria.com&quot;&gt;una agencia inmobiliaria de Fusagasugá: lebeninmobiliaria.com&lt;/a&gt;. Esta empresa ya tenía un tiempo establecida, trabajando en el mercado inmobiliario. Ahora querían tener una presencia profesional para cuando los buscaran en internet. Por eso, utilizaron una página propia, y no solamente un perfil de redes sociales.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Así que cuando tu página web tiene un propósito, ese es el momento correcto de invertir en ella.&lt;/p&gt;
+
+&lt;h2 id=&quot;tipos-de-páginas-web-y-ejemplos&quot;&gt;Tipos de páginas web y ejemplos&lt;/h2&gt;
+
+&lt;p&gt;Recuerda: según el objetivo hay diferentes tipos de páginas. Veamos algunas citando ejemplos prácticos.&lt;/p&gt;
+
+&lt;h3 id=&quot;páginas-web-para-vender-en-colombia&quot;&gt;Páginas web para vender en Colombia&lt;/h3&gt;
+
+&lt;p&gt;Cuando estás pensando en vender un producto o un servicio, la mayoría de las personas te van a decir que pagues publicidad en redes sociales y que eso es suficiente. En realidad no funciona sólo así.&lt;/p&gt;
+
+&lt;h4 id=&quot;cómo-es-una-página-de-ventas&quot;&gt;¿Cómo es una página de ventas?&lt;/h4&gt;
+
+&lt;p&gt;Sería mucho mejor que acompañes la estrategia con una &lt;strong&gt;página web de ventas&lt;/strong&gt;. Esta no tiene sección de contacto, sección sobre el negocio, ni carrito de compras, etc. Nada de eso.&lt;/p&gt;
+
+&lt;p&gt;Esta página solamente habla del producto que estás vendiendo, de cuáles son sus beneficios, cuáles son sus ventajas, como se usa, el testimonio de la gente que ya lo compró, entre otros.&lt;/p&gt;
+
+&lt;p&gt;En esta página no se desvía la atención a nada más que no sea la compra de tu producto. No tiene ni redes sociales. Y siempre tiene un botón que invita a tus visitantes a hacer clic para comprar o contactarse con un vendedor.&lt;/p&gt;
+
+&lt;h4 id=&quot;la-estrategia-de-una-página-de-ventas&quot;&gt;La estrategia de una página de ventas&lt;/h4&gt;
+
+&lt;p&gt;Entonces esta clase de páginas se utilizan en la siguiente estrategia:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pautas tu publicidad con un botón que envíe a la página de ventas.&lt;/li&gt;
+  &lt;li&gt;Preparas una excelente página de ventas donde terminas de explicar todo el producto y cómo adquirirlo.&lt;/li&gt;
+  &lt;li&gt;Ya el cliente tiene la información completa y puede decidir darle click al botón donde lo va a mandar a la siguiente página de compras o pagos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Otra manera de utilizar estas páginas son conseguir personas interesadas en lo que ofreces. Ofreces un producto o servicio a cambio de sus datos, como correos electrónicos, teléfonos, etc. Normalmente, esta estrategia se utiliza en el email marketing.&lt;/p&gt;
+
+&lt;p&gt;Como notarás, es una estrategia muy diferente. Ya no vamos a vender. Simplemente vamos a captar información para mejorar el trabajo de la venta.&lt;/p&gt;
+
+&lt;h3 id=&quot;páginas-web-informativas-o-blogs&quot;&gt;Páginas web informativas o blogs&lt;/h3&gt;
+
+&lt;p&gt;Otro tipo de estrategia es cuando queremos compartir información a una comunidad. &lt;strong&gt;El propósito principal de estas páginas web es brindar información y posiblemente hacer pauta pagada.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;páginas-web-para-emprendimientos&quot;&gt;Páginas web para emprendimientos&lt;/h3&gt;
+
+&lt;p&gt;Un tercer caso es cuando tenemos un emprendimiento en funcionamiento con buenos resultados. Es posible que tus clientes te estén escribiendo, llamando o visitando para hacer las mismas consultas: “¿cómo son tus servicios?”, “¿qué paquetes ofreces?”, “¿cuánto cuesta?”. Y hasta te han dicho: “¿tienes página web?”.&lt;/p&gt;
+
+&lt;h4 id=&quot;estrategia-digital-de-los-sitios-web&quot;&gt;Estrategia digital de los sitios web&lt;/h4&gt;
+
+&lt;p&gt;Allí ya tienes una estrategia comercial. Puedes aprovechar la página web para tener tu emprendimiento en internet. Como si montaras una sucursal en otro local. Sencillamente haces una página web, la compartes con esos clientes o con las personas interesadas en tu producto, y ya tendrán toda la información a la mano.&lt;/p&gt;
+
+&lt;p&gt;Puedes también aprovecharla para dar noticias sobre tu negocio, para anunciar promociones o para mantener una comunicación constante del avance de tus servicios o nuevos proyectos.&lt;/p&gt;
+
+&lt;h2 id=&quot;haz-una-página-web-para-tu-emprendimiento-con-propósito-definido&quot;&gt;Haz una página web para tu emprendimiento con propósito definido&lt;/h2&gt;
+
+&lt;p&gt;Para finalizar te puedo decir: &lt;strong&gt;tu página web debe ayuda al crecimiento de tus proyectos&lt;/strong&gt; y no solamente para tener una cara bonita en internet.&lt;/p&gt;
+
+&lt;p&gt;Y te tengo un dato importantísimo: ni siquiera tiene que ser la más bonita mientras tengas una estrategia sólida.&lt;/p&gt;
+
+&lt;p&gt;Invertir en una página web es una decisión muy inteligente. No dudes en hacerlo cuando sea el momento.&lt;/p&gt;
+
+&lt;h2 id=&quot;ya-tienes-tu-página-web&quot;&gt;¿Ya tienes tu página web?&lt;/h2&gt;
+
+&lt;p&gt;¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Te doy algunas claves para que decidas cuándo mandar a hacer tu página web</summary>
+      
+
+      
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <category term="Páginas" />
+      
+        <category term="Emprendimiento" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
+  
 </feed>

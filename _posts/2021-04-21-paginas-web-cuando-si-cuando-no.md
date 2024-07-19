@@ -9,6 +9,12 @@ hero: img/paginas-web-para-negocios.svg
 jpg: img/paginas-web-para-negocios.jpg
 alt: Sitio web para un emprendedor
 excerpt: Te doy algunas claves para que decidas cuándo mandar a hacer tu página web
+date: 2021-04-21 10:00:00 -0500
+last_modified_at: 2024-07-10 10:00:00 -0500
+author: Julian Franco
+expertise: "Desde el 2017 tengo experiencia en desarrollo web y SEO"
+word_count: 1470
+time_to_read: 9
 ---
 Para esto, quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.
 

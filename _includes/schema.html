@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{site.url}}{{page.url}}"
+  },
+  "headline": "{{page.title | escape}}",
+  "description": "{{page.description | escape}}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{site.url}}{{page.jpg | default: site.default_image}}",
+    "height": 800,
+    "width": 1200
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{site.author.name}}",
+    "url": "{{site.url}}/sobre-mi/",
+    "jobTitle": "{{site.author.job_title}}",
+    "description": "{{site.author.bio}}",
+    "sameAs": [
+      "{{site.author.linkedin}}"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{site.name}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}{{site.logo}}",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "datePublished": "{{page.date | date_to_xmlschema}}",
+  "dateModified": "{{page.last_modified_at | default: page.date | date_to_xmlschema}}",
+  "keywords": "{{page.tags | join: ', '}}",
+  "articleSection": "{{page.category}}",
+  "inLanguage": "{{site.language}}",
+  "wordCount": "{{page.word_count}}",
+  "timeRequired": "PT{{page.time_to_read}}M",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".articulo-contenido",
+      ".resumen"
+    ]
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "{{page.category}}"
+    },
+    {% for tag in page.tags %}
+    {
+      "@type": "Thing",
+      "name": "{{tag}}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "expertise": "{{page.expertise | escape}}"
+}

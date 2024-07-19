@@ -1,28 +1,59 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
+                            http://www.google.com/schemas/sitemap-news/0.9
+                            http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd">
+
   {% for page in site.pages %}
-  {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}{% else %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
       <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  {% endif %}
+        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+        <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
+      </url>
+    {% endunless %}
   {% endfor %}
-  {% for page in site.posts %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | remove: "index.html" }}</loc>
+      <lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
+      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if post.priority %}{{ post.priority }}{% else %}0.6{% endif %}</priority>
+      {% if post.image %}
+        <image:image>
+          <image:loc>{{ site.url }}{{ post.image }}</image:loc>
+          <image:title>{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }}{% endif %}</image:title>
+        </image:image>
+      {% endif %}
+      {% if post.category == "news" %}
+        <news:news>
+          <news:publication>
+            <news:name>{{ site.name }}</news:name>
+            <news:language>es</news:language>
+          </news:publication>
+          <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+          <news:title>{{ post.title }}</news:title>
+        </news:news>
+      {% endif %}
+    </url>
   {% endfor %}
+
   {% for page in site.without-plugin %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
+      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
+      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.7{% endif %}</priority>
+    </url>
   {% endfor %}
 </urlset>

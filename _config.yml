@@ -1,10 +1,20 @@
 baseurl: ''
 url: 'https://juli.com.co'
 name: Juli.Com.Co
-author: Julian Franco
-email: contacto@juli.com.co
-linkedin: https://www.linkedin.com/in/seoconjuli/
+author:
+  name: Julian Franco
+  email: contacto@juli.com.co
+  linkedin: https://www.linkedin.com/in/seoconjuli/
+  job_title: "SEO y Desarrollador Web"
+  bio: "Después de hacer más de 15 páginas web con código, me di cuenta que los clientes estaban felices... pero sin ventas. Así que desde el 2021 hago SEO y copy persuasivo para mis clientes. Ahora están más felices. ¿También vendes poco? Escríbeme"
 title: Páginas web y SEO que Venden o Convierten
+logo: /img/logo.png 
+
+default_image: /img/juli-desarrollador-web.webp  # Imagen por defecto para posts sin imagen específica
+publisher:
+  name: Julian Franco
+  logo: /img/logo.png
+language: es
 
 permalink: /:slug
 

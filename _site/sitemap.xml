@@ -1,106 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+                            http://www.google.com/schemas/sitemap-image/1.1
+                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
+                            http://www.google.com/schemas/sitemap-news/0.9
+                            http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd">
+
   
-  
+    
       <url>
         <loc>http://localhost:4000/contacto</loc>
+        <lastmod>2024-07-18T20:03:37-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <priority>0.8</priority>
+      </url>
+    
   
-  
-  
+    
       <url>
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
+        <lastmod>2024-07-18T20:03:37-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <priority>0.8</priority>
+      </url>
+    
   
+    
   
-  
-  
-  
+    
       <url>
         <loc>http://localhost:4000/</loc>
+        <lastmod>2024-07-18T20:03:37-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <priority>0.8</priority>
+      </url>
+    
   
-  
-  
+    
       <url>
         <loc>http://localhost:4000/legal</loc>
+        <lastmod>2024-07-18T20:03:37-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <priority>0.8</priority>
+      </url>
+    
   
+    
   
+    
   
+    
   
-  
-  
-  
-  
-  
+    
       <url>
         <loc>http://localhost:4000/servicio-seo</loc>
+        <lastmod>2024-07-18T20:03:37-05:00</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+        <priority>0.8</priority>
+      </url>
+    
   
+    
   
+    
   
+
   
+    <url>
+      <loc>http://localhost:4000/accesibilidad-web</loc>
+      <lastmod>2024-04-12T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
+    <url>
+      <loc>http://localhost:4000/paginas-web-que-dan-resultados</loc>
+      <lastmod>2024-04-08T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
+    <url>
+      <loc>http://localhost:4000/negocios-sin-pagina-web</loc>
+      <lastmod>2024-03-31T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/accesibilidad-web</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>http://localhost:4000/aprovechar-una-pagina-web-sencilla</loc>
+      <lastmod>2024-03-06T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/paginas-web-que-dan-resultados</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>http://localhost:4000/evitar-estafas-en-internet</loc>
+      <lastmod>2023-06-20T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/negocios-sin-pagina-web</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>http://localhost:4000/paginas-web-estaticas-para-empredimientos</loc>
+      <lastmod>2021-06-21T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/aprovechar-una-pagina-web-sencilla</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>http://localhost:4000/por-que-no-usar-wordpress</loc>
+      <lastmod>2021-05-21T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/evitar-estafas-en-internet</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
+    <url>
+      <loc>http://localhost:4000/paginas-web-cuando-si-cuando-no</loc>
+      <lastmod>2024-07-10T10:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
-      <url>
-        <loc>http://localhost:4000/paginas-web-estaticas-para-empredimientos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/por-que-no-usar-wordpress</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/paginas-web-cuando-si-cuando-no</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
+
   
 </urlset>
