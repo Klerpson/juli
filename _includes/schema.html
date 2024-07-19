@@ -108,6 +108,69 @@
   ],
   "expertise": "{{page.expertise | escape}}"
 }
+
+{% when "landing" %}
+{
+  "@context": "http://schema.org",
+  "@type": "Service",
+  "serviceType": "{{ page.servicio | capitalize }}",
+  "provider": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.logo }}",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Colombia"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ site.url }}{{ page.url }}",
+    "priceCurrency": "COP",
+    "price": "Consultar",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2024-01-01"
+  },
+  "description": "{{ page.description | escape }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ site.url }}{{ page.hero }}",
+    "width": 1200,
+    "height": 800
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+}
+
 {% else %}
-     This is not a cake nor a cookie
+{% else %}
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "{{ page.title | escape }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.logo }}",
+      "width": 1080,
+      "height": 1080
+    }
+  },
+  "description": "{{ page.description | escape }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+}
+
 {% endcase %}

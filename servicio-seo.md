@@ -5,6 +5,7 @@ description: Puede que tengas un página web. Pero si no tienes visitas orgánic
 h1: 🤔 Quien no está en internet no existe... Y si no hacemos SEO, tampoco existes. Me explico
 hero: img/banner-juli.webp
 alt: Banner sobre el servicio de SEO de Juli
+servicio: SEO
 ---
 Te quiero hablar de un negocio con un servicio muy tradicional en nuestro país, Colombia.
 

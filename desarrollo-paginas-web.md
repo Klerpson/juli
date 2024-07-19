@@ -5,6 +5,7 @@ description: Hago páginas web. Las mejores de Colombia. Diseño y desarrollo la
 h1: Hago páginas web que sí generan resultados. Y corrijo muchas páginas también 😉
 hero: img/banner-juli.webp
 alt: Imagen del servicio de diseño y desarrollo de páginas web desde Colombia
+servicio: Desarrollo de páginas web
 ---
 Es simple. Tú tienes un negocio. Yo también. Y es **hacer páginas web rentables**.
 
