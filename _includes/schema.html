@@ -113,7 +113,9 @@
 {
   "@context": "http://schema.org",
   "@type": "Service",
+  {% if page.servicio %}
   "serviceType": "{{ page.servicio | capitalize }}",
+  {% endif %}
   "provider": {
     "@type": "Organization",
     "name": "{{ site.name }}",
