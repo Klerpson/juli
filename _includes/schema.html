@@ -1,3 +1,50 @@
+{% assign layout = page.layout %}
+{% case layout %}
+  {% when "default" %}
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Juli",
+  "url": "https://juli.com.co/",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Juli",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://juli.com.co/img/logo.png",
+      "width": 1080,
+      "height": 1080
+    }
+  },
+  "description": "Descubre lo último en moda femenina en Juli. Encuentra vestidos, blusas, pantalones y más con envío gratis a todo Colombia.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://juli.com.co/img/juli-desarrollador-web.webp",
+    "width": 552,
+    "height": 414
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://juli.com.co/"
+  },
+  "sameAs": [
+    "{{site.linkedin}}"
+  ],
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "https://juli.com.co/"
+      }
+    ]
+  }
+}
+
+{% when "post" %}
+
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -61,3 +108,6 @@
   ],
   "expertise": "{{page.expertise | escape}}"
 }
+{% else %}
+     This is not a cake nor a cookie
+{% endcase %}
