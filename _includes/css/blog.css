@@ -21,10 +21,6 @@
   gap: 1em;
   }
 
-.articulo ul li:before {
-  content: '✓ ';
-}
-
 .articulo article{
   position: relative;
   max-width: 100%;
@@ -37,10 +33,10 @@
 }
 
 .articulo article li{
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.2em;
 }
 
-.articulo article a{
+.articulo article a:not(.boton){
   color: var(--accion);
   text-decoration: underline 3px;
   transition: ease-in-out 0.5s;

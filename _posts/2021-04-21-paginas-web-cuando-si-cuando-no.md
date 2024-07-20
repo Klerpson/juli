@@ -80,7 +80,7 @@ Esa página es sólo un elemento de una estrategia completa. Y esta no tiene que
 
 Quiero mencionarte algunos ejemplos que te sirvan de inspiración.
 
-1. Analicemos la página [gurcoff.com](https://gurcoff.com/blog). Esta página es de una heladería en un pueblo pequeño. Su estrategia es **posicionar su página en las búsquedas de los turistas que visitan el lugar**. Normalmente, cuando los turistas van a visitar un lugar, buscan en Google hoteles, lugares para comer, etc. También, notarás que utilizan los llamados a la acción para generar una base de datos de sus clientes **directamente en su WhatsApp.**
+1. Analicemos la página [gurcoff.com](https://gurcoff.com). Esta página es de una heladería en un pueblo pequeño. Su estrategia es **posicionar su página en las búsquedas de los turistas que visitan el lugar**. Normalmente, cuando los turistas van a visitar un lugar, buscan en Google hoteles, lugares para comer, etc. También, notarás que utilizan los llamados a la acción para generar una base de datos de sus clientes **directamente en su WhatsApp.**
 
 2. El segundo ejemplo es el de [una agencia inmobiliaria de Fusagasugá: lebeninmobiliaria.com](https://lebeninmobiliaria.com). Esta empresa ya tenía un tiempo establecida, trabajando en el mercado inmobiliario. Ahora querían tener una presencia profesional para cuando los buscaran en internet. Por eso, utilizaron una página propia, y no solamente un perfil de redes sociales.
 
@@ -138,4 +138,4 @@ Invertir en una página web es una decisión muy inteligente. No dudes en hacerl
 
 ## ¿Ya tienes tu página web?
 
-¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? Cuéntamelo en los comentarios.
+¿Estás pensando en algún proyecto digital? ¿Ya tienes pensado hacer tu página web? [Cuéntamelo en un email]({{site.email}}){:rel="nofollow noopener noreferrer" target="_blank"}. Yo te asesoro.

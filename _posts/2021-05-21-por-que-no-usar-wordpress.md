@@ -21,7 +21,13 @@ time_to_read: 10
 
 Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. **WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.**
 
-Con ese sistema solo utilizas plantillas prediseñadas. Haces clic en algunas secciones, cambias textos, imágenes, enlaces. Luego le agregas otras aplicaciones - llamadas plugins - y listo. Eso es todo.
+Lo siento. Es verdad.
+
+Sí hay profesionales que utilizan WordPress. Y lo hacen como profesionales.
+
+¿Pero sabes cuántos de ellos he visto en YouTube, por ejemplo? ¡Tres! Solo tres que sí lo hacen profesionalmente, no adaptando plantillas sin saber qué hacen en realidad.
+
+Con ese sistema solo utilizan plantillas prediseñadas. Haces clic en algunas secciones, cambias textos, imágenes, enlaces. Luego le agregas otras aplicaciones - llamadas plugins - y listo. Eso es todo.
 
 Esta aparente sencillez de este gestor de contenidos lo ha convertido en la opción favorita de los creadores de páginas web.
 
@@ -30,7 +36,7 @@ Por otra parte, WordPress tiene 2 opciones:
 * **WordPress.com** es la versión comercial de este sistema.
 * **WordPress.org** es la versión gratuita de este sistema. ¡Y por ser gratis, le gusta a todo el mundo!
 
-## WordPress es fácil y gratis, pero...
+## WordPress es fácil y gratis, pero, ¿por qué no recomiendo utilizar WordPress?
 
 ...tiene muchos factores que le restan efectividad y calidad a tu futura página web. Te contaré algunos.
 
@@ -40,7 +46,9 @@ Personalizar una plantilla de WordPress es un proceso que en la mayoría de ocas
 
 Por ejemplo, hace poco tuve esta experiencia. Necesitaba modificar una plantilla que tenía palabras en inglés y cambiarlas al español. Pero solo lo permitía mediante código php. ¿Código PHP? Pues entonces ya no era tan fácil como hacer clic y escribir.
 
-Otro gran reto fue remodelar la web de la [agencia de marketing de Bogotá Since](https://since.com.co). Su plantilla fue muy difícil de adaptar a los gusto del cliente. Sí se pudo lograr, pero fue muy difícil.
+Otro gran reto fue remodelar la web de la [agencia de marketing de Bogotá Since](https://since.com.co). Su plantilla fue muy difícil de adaptar a los gusto del cliente.
+
+Sí se pudo lograr, pero fue muy difícil.
 
 **Así que adaptar todos los textos, fuentes, colores y hasta logos puede llegar a ser más difícil de lo que parece.**
 
@@ -48,84 +56,136 @@ Otro gran reto fue remodelar la web de la [agencia de marketing de Bogotá Since
 
 Recuerda que en WordPress utilizas plantillas prediseñadas. Y por temas de calidad, notarás que la mayoría utilizan las mismas plantillas. Esto afectará totalmente tus esfuerzos por diferenciarte de tu competencia, si usan WordPress claro está.
 
-Por mi trabajo, participo en muchos grupos y foros de personas que saben sobre páginas web. Y son muy poquitas las plantillas que recomiendan utilizar. La excepción es que seas un maquetador web y con conocimientos en php para crear tu propia plantilla. Pero a este nivel estoy seguro que harás las páginas de tus proyectos sin WordPress.
+Por mi trabajo, participo en muchos grupos y foros de personas que saben sobre páginas web.
 
-Adicionalmente, las plantillas que sí recomiendan utilizar, casi siempre tienen el problema que te mencioné en el punto anterior. Entonces, **va a ser muy difícil encontrar plantillas optimizadas, ligeras y veloces.** Esto último da paso al siguiente punto.
+Y son muy poquitas las plantillas que recomiendan utilizar. La excepción es que seas un maquetador web y con conocimientos en php para crear tu propia plantilla. Pero a este nivel estoy seguro que harás las páginas de tus proyectos sin WordPress.
+
+Adicionalmente, las plantillas que sí recomiendan utilizar, casi siempre tienen el problema que te mencioné en el punto anterior. Entonces, **va a ser muy difícil encontrar plantillas optimizadas, ligeras y veloces.**
+
+Esto último da paso al siguiente punto.
 
 ### La optimización y la velocidad en WordPress no es la mejor
 
-**Casi nunca vas a tener una plantilla WordPress veloz, liviana y optimizada para posicionar en Google**. Esto se debe a la cantidad de código utilizado para el gestor. Te lo explico con un ejemplo.
+**Casi nunca vas a tener una plantilla WordPress veloz, liviana y optimizada para posicionar en Google**. Esto se debe a la cantidad de código utilizado para el gestor.
+
+Te lo explico con un ejemplo.
 
 Imagina que alguien vende comidas rápidas. Entonces decide *automatizar el proceso*. Pero para hacerlo, lógicamente necesitará máquinas y dispositivos que hagan los procesos, y al menos una persona que las controle.
 
-Con WordPress es lo mismo. Ya no es una persona preparando la comida rápida. Para que solo sea hacer clic y que todo quede listo, WordPress utiliza una cantidad enorme de código por detrás de lo que tú puede ver.
+Con WordPress es lo mismo.
 
-Piénsalo: si quieres poner un botón a tu página, ¿qué necesita WordPress? Un código para mostrarte dónde crear ese botón; código que le diga que eso es un botón; código para modificar el botón; código para crear el botón en la página y mostrarlo; código para darle funciones a ese botón; código para que el botón sea adaptable automáticamente; y así por cada elemento que tenga tu página.
+Ya no es una persona preparando la comida rápida. Para que solo sea hacer clic y que todo quede listo, WordPress utiliza una cantidad enorme de código por detrás de lo que tú puede ver.
 
-Todo ese código se va acumulando. Y al ser código con bases de datos y lenguajes de programación, suelen requerir actualizaciones y seguridad. Y este ejemplo no tiene en cuenta lo que te menciono a continuación.
+Piénsalo: si quieres poner un botón a tu página, ¿qué necesita WordPress?
 
-### Aplicaciones o plugins de WordPress
+1. Un código para mostrarte dónde crear ese botón
+2. Código que le diga que eso es un botón
+3. Código para modificar el botón
+4. Código para crear el botón en la página y mostrarlo
+5. Código para darle funciones a ese botón
+6. Código para que el botón sea adaptable automáticamente
+{:class="seccion"}
 
-Las aplicaciones de WordPress, llamadas plugins, son de uso obligado para que tu página funcione bien. Y agregar estas funciones, es también agregar más código a tu página web. Y esto, al mismo tiempo, puede ser un problema.
+... y así por cada elemento que tenga tu página.
 
-WordPress va actualizando su programación. Esto obliga a quienes hacen los plugin a actualizarlos también. Y muchas de estas aplicaciones son abandonadas por sus desarrolladores y terminan siendo incompatibles con tu versión de WordPress. ¿Te imaginas qué puede suceder con tu páginas si no estás pendiente de esto?
+Todo ese código se va acumulando. **Y al ser código con bases de datos y lenguajes de programación, suelen requerir actualizaciones y seguridad**. Y este ejemplo no tiene en cuenta lo que te menciono a continuación.
 
-Otros plugins, aunque son gratis, no quedan bien hechos. Y algunos, cuando se actualizan, cambian su código y deja de hacer algo que nos gustaba. O modifica bases de datos que no debería. Y esto también afecta nuestra página web. Y si no tenía copia de seguridad, pues ya te imaginas.
+## Aplicaciones o plugins: mas razones para no utilizar WordPress si no eres experto
 
-Por esto, ten en cuenta que **siempre dependerás de estos programadores de plugins y de estar al tanto de su trabajo para que te dejen hacer el tuyo con tu página**. Y si no lo hacen bien, tu página ya no funcionará bien.
+Las aplicaciones de WordPress, llamadas plugins, son de uso obligado para que tu página funcione bien. Y agregar estas funciones, es también agregar más código a tu página web.
 
-### Tienes que comenzar pagando hosting
+Y esto, al mismo tiempo, puede ser un problema.
 
-Si decides utilizar el hosting gratis que te ofrece WordPress, estarás obligado a aceptar sus condiciones de uso. Entre ellas, que el sitio todavía no te pertenece.
+WordPress va actualizando su programación. Esto obliga a quienes hacen los plugin a actualizarlos también. **Y muchas de estas aplicaciones son abandonadas por sus desarrolladores y terminan siendo incompatibles con tu versión de WordPress**.
 
-Pero llegará el momento donde **tendrás que vivir una de las torturas más grandes que tiene WordPress: migrar de hosting.** Es un proceso muy técnico y de mucho cuidado. Mal ejecutado puede echar a perder todo lo que hayas logrado en el posicionamiento de tu página web.
+¿Te imaginas qué puede suceder con tus páginas si no estás pendiente de esto?
 
-Así que con WordPress la recomendación es que desde el comienzo comiences utilizando hosting de pago. ¿Un gestor gratis que es mejor comenzar pagando? Bueno, unas por otras.
+Otros plugins, aunque son gratis, no quedan bien hechos. Y algunos, cuando se actualizan, cambian su código y deja de hacer algo que nos gustaba. O modifica bases de datos que no debería. Y esto también afecta nuestra página web.
 
-### Sí tienes que hacer el curso de WordPress
+🤯 Y si no tenía copia de seguridad, pues ya te imaginas.
 
-Todo lo anterior debe indicarte que para usar WordPress de la manera correcta, **debes aprender WordPress de forma profesional. Con WordPress no es solo escribir y hacer clic en guardar. Eso es mentira.**
+Por esto, ten en cuenta que **siempre dependerás de estos programadores de plugins, y de estar al tanto de su trabajo para que te dejen hacer el tuyo con tu página**. Y si no lo hacen bien, tu página ya no funcionará bien.
 
-Las páginas diseñadas en WordPress que funcionan bien, tienen un profesional experto en WordPress encargado de realizarla y mantenerla, porque recuerda que requiere mantenimiento.
+### Tienes que comenzar pagando hosting siempre
 
-Y no es solo aprender a utilizar la herramienta. También implica aprender de algunos lineamientos básicos de diseño. Necesitas aprender de configuraciones para mejorar la seguridad. Y como te contaba, llegará un punto donde tendrás que aprender hasta a programar PHP.
+Si decides utilizar el hosting gratis que te ofrece WordPress, estarás obligado a aceptar sus condiciones de uso. Entre ellas, que el sitio todavía no te pertenece hasta que no.... instales más plugins y hagas copia de seguridad local.
 
-Esta es la razón por la que la mayoría de las páginas realizadas en WordPress son páginas muy flojas en diseño, optimización y con muchos fallos de ejecución, actualizaciones y otros factores.
+Pero llegará el momento donde **tendrás que vivir una de las torturas más grandes que tiene WordPress: migrar de hosting.**
 
-Aprender no es un problema. Será una ventaja para ti y tendrás más oportunidades laborales. Pero las personas que eligen esta herramienta, en la mayoría de los casos no quieren estudiar algo así.
+Es un proceso muy técnico y de mucho cuidado.
+
+Mal ejecutado puede echar a perder todo lo que hayas logrado en el posicionamiento de tu página web. Así que con WordPress la recomendación es que desde el comienzo comiences utilizando hosting de pago.
+
+¿Un gestor gratis y es mejor comenzar pagando?
+
+Bueno. Unas por otras.
+
+### Otra razón para no utilizar WordPress: Sí tienes que hacer el curso y completo
+
+Todo lo anterior debe dejarte claro que para usar WordPress de la manera correcta, **debes aprender WordPress de forma profesional**. Con WordPress no es solo escribir y hacer clic en guardar. Eso es mentira.
+
+Las páginas diseñadas en WordPress que funcionan bien, **tienen un profesional experto en WordPress encargado de realizarla y mantenerla**, porque recuerda que requiere mantenimiento.
+
+Y no es solo aprender a utilizar la herramienta.
+
+También implica aprender de algunos lineamientos básicos de diseño. Necesitas aprender de configuraciones para mejorar la seguridad. Y como te contaba, llegará un punto donde tendrás que aprender hasta a programar PHP.
+
+Esta es la razón por la que la mayoría de las páginas realizadas en WordPress son páginas:
+
+* Muy flojas en diseño
+* Muy malas en optimización
+* Con muchos fallos de seguridad, actualizaciones y otros factores
+
+Aprender no es un problema.
+
+Será una ventaja para ti y tendrás más oportunidades laborales. Pero, las personas que eligen esta herramienta, *en la mayoría de los casos no quieren estudiar no van a estudiar WordPress como debe ser*.
 
 ### La seguridad sí que es un problema
 
-**Hay muchos elementos en WordPress que pueden presentar un problema de seguridad**: desde la clave de acceso a tu cuenta, hasta la programación de los plugins o las bases de datos que utilizas. Así que este factor no se puede pasar por alto.
+**Hay muchos elementos en WordPress que pueden presentar un problema de seguridad**: desde la clave de acceso a tu cuenta, hasta la programación de los plugins o las bases de datos que utilizas.
 
-## La razón principal para no utilizar WordPress
+Así que este factor no se puede pasar por alto. Y sí, es un factor muy importante para no utilizar WordPress gratis y sin saber.
+
+## La razón principal para no utilizar WordPress al hacer tu página web
 
 Todo lo anterior ya contiene razones de peso para no considerar el uso de WordPress. Pero existe una razón más importante que es muy difícil de superar con esta herramienta.
 
-**No te recomiendo utilizar WordPress para alcanzar los [objetivos que quieres alcanzar con tu página web]({{site.baseurl}}/paginas-web-cuando-si-cuando-no).** Esto implica una palabra clave: **flexibilidad**. Y WordPress no la tiene.
+**No te recomiendo utilizar WordPress para alcanzar los [objetivos que quieres alcanzar con tu página web]({% post_url 2021-04-21-paginas-web-cuando-si-cuando-no %} "Cuándo utilizar páginas web").** Esto implica una palabra clave: **flexibilidad**.
 
-Una página web en la que solamente procuras que sea bonita, es un desperdicio de recursos en tu emprendimiento. Y una página bien eficiente necesita cambios o ajustes constantes. Estos se determinan con los datos que te da su uso a medida que pasan los días.
+WordPress no es muy flexible que digamos.
+
+Una página web en la que solamente procuras que sea bonita, es un desperdicio de recursos en tu emprendimiento. Y una página web eficiente necesita cambios o ajustes constantes.
+
+Estos ajustes se determinan con los datos que te da la analítica de tu página a medida que pasan los días.
 
 Luego, querrás alcanzar el objetivo de mejorar el tráfico e impulsar las conversiones. Y en la mayoría de los casos, no bastará con cambiar un color o un texto pequeño.
 
-Cuando ya tienes una estrategia para tu página web, normalmente necesitarás un diseño que cumpla con los detalles a la medida. **Pero con WordPress estás limitado por las plantillas prediseñadas, ya sean gratis o de pago.** Esa para mí es la razón principal que da vida a este artículo.
+Cuando ya tienes una estrategia para tu página web, una arquitectura, un diseño, y quieres mejorarlo, normalmente necesitarás cambios en los detalles que sean a la medida.
+
+No. No se puede con WordPress, porque **estás limitado por las plantillas prediseñadas, ya sean gratis o de pago.**
+
+Esa para mí es la razón principal que da vida a este artículo.
 
 ## Entonces, ¿cuándo sí deberías utilizar WordPress?
 
-¡Nunca! Y te lo digo con estas 3 razones:
+¡Nunca! Si no eres o cuentas con un programador experto en PHP.
 
-1. Si lo utilizas por ser gratis, tendrás dolores de cabeza con el funcionamiento de tu página web.
-2. Si decidiste aprender a utilizarlo bien, mejor paga con esos recursos a alguien que ya lo haga y enfócate en seguir fortaleciendo y administrando tu emprendimiento y tus estrategias digitales.
-3. Y si lo que quieres es hacer páginas web para trabajar en esto, así como hago yo, aprende lo básico de WordPress para ayudar a otros.
+Y te lo confirmo con estas 3 razones:
+
+1. Si lo utilizas por ser gratis, tendrás dolores de cabeza con el funcionamiento de tu página web. Y tendrás que pagar.
+2. Si decidiste aprender a utilizarlo bien, mejor paga con esos recursos a alguien que ya lo haga. Enfócate en seguir fortaleciendo y administrando tu emprendimiento y tus estrategias digitales.
+3. Y si lo que quieres es hacer páginas web para trabajar en esto, así como hago yo, aprende lo mejor que pueda sobre la herramienta de WordPress para ayudar a otros como un profesional.
 
 Siempre será mejor que hagas tu inversión para aprender a diseñar y maquetar tus páginas con código HTML, CSS y Javascript. Tendrás muchas más posibilidades que limitarte a un gestor como WordPress.
 
 Te recomiendo estas fuentes para aprender a hacer páginas web como un profesional:
 
-* [Documentación de HTML](https://www.w3schools.com/html/default.asp "Página de w3schools para aprender HTML")
-* [Documentación de CSS](https://www.w3schools.com/css/default.asp "Página de w3schools para aprender CSS")
-* [Documentación de Javascript](https://www.w3schools.com/js/default.asp "Página de w3schools para aprender Javascript")
+* [Documentación de HTML](https://www.w3schools.com/html/default.asp "Página de w3schools para aprender HTML"){:rel="nofollow noopener noreferrer" target="_blank"}
+* [Documentación de CSS](https://www.w3schools.com/css/default.asp "Página de w3schools para aprender CSS"){:rel="nofollow noopener noreferrer" target="_blank"}
+* [Documentación de Javascript](https://www.w3schools.com/js/default.asp "Página de w3schools para aprender Javascript"){:rel="nofollow noopener noreferrer" target="_blank"}
 
-Y por supuesto, Udemy, Coursera o Platzi tienen también buenas opciones. Quizá me anima a hacer un curso sencillo, pero tendrá que esperar unos días.
+Y por supuesto, Udemy, Coursera o Platzi tienen también buenas opciones.
 
-¿Y tú? ¿Has sufrido con WordPress también? Cuéntame tus impresiones en mi canal de Telegram.
+Quizá me anima a hacer un curso sencillo, pero tendrá que esperar un buen tiempo.
+
+¿Y tú? ¿Has sufrido con WordPress también? [Escríbeme y cuéntame tus impresiones]({{site.email}}){:rel="nofollow noopener noreferrer" target="_blank"}.
