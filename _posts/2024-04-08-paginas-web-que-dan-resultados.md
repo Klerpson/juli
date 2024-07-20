@@ -45,7 +45,7 @@ Y en el mundo web, los mejores haciendo **páginas web efectivas, simples, vende
 * [Blog cultural de Google](https://artsandculture.google.com/){:rel="nofollow noopener noreferrer" target="_blank"}
 * [Landing page de Google](https://www.youtube.com/premium){:rel="nofollow noopener noreferrer" target="_blank"}
 
-### Analiza lo que no hacen
+### Analiza lo que no hacen las páginas web efectivas
 
 Los expertos de Google **NO tienen páginas web llenas de movimientos, efectos, alucinaciones, visiones, 3D, etc**. Tienen una web que muestra la información importante y punto.
 
@@ -55,7 +55,7 @@ Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, [Go
 
 Por otra parte, cuando una web tiene todo eso, pierde algo que se conoce como ACCESIBILIDAD. Créeme, es muy importante hoy en día. **Tú querrás que tu web tenga altas calificaciones en accesibilidad**.
 
-### Analiza lo que sí hacen
+### Analiza lo que sí hacen las páginas web efectivas
 
 **Google se centra en lo que quieren conseguir cuando tú visita sus páginas**. Nada más. Abres la web, caes en su diseño simplificado y haces clic donde ellos quieren que hagas clic.
 
@@ -63,13 +63,15 @@ Te pregunto: ¿es eso lo que quieres en tus páginas? ¡Por supuesto!
 
 Tu necesitas que hagan clic en el botón de WhatsApp, de comprar, de dejar su email, de compartir, etc. **Según el resultado, así debe ser tu diseño**. Eso es lo que realmente importa.
 
-## Bonita pero mentirosa
+## Una página web bonita pero mentirosa
 
 Así dice un disco clásico, viejito, como el internet. Pero tan útil para el tema de hoy, como el internet.
 
 >Las páginas en las solo lo bonita es el medidor importante, es una página mentirosa.
 
 En este instante puede que te estés preguntando: *"¿si queda fea qué va a vender?"* ¡Sorpresa! Tienes que conocer más. Me explico.
+
+### El caso que más me sorprende de una página web efectiva
 
 La [página web de Isra Bravo](https://www.motivante.com/){:rel="nofollow noopener noreferrer" target="_blank"}, mi inspiración en Copy, es fea. ¡ISRA TU PÁGINA ES HORRIBLE!
 
@@ -91,6 +93,10 @@ Y cosas así.
 
 Por otra parte, mis clientes normalmente no tienen esto claro. Por eso me contratan. Pero si tu diseñador o desarrollador web no lo tiene claro tampoco, entonces tendrá una página web *"muy bonita, pero mentirosa"*.
 
-Evítate ese dolor. Haz clic abajo en la sección verde, llamado a la acción, y contáctame. Yo te explico más. Quizá te venda una web. Me lo agradecerás.
+Evita ese dolor. Envíame tus datos abajo en la sección verde. Yo te explico más. Quizá te venda una web.
 
-PD. Luego te explico porque no te recomiendo páginas oscuras. Por fa, no me pidas más páginas oscuras... luego te cuento.
+Me lo agradecerás.
+
+PD. Luego te explico porque no te recomiendo páginas oscuras. Por fa, no me pidas más páginas oscuras... luego te cuento. Es más:
+
+[Así hago páginas web]({{'desarrollo-paginas-web'|relative_url}} "Páginas web"){:class="boton"}

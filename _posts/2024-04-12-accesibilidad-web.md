@@ -128,3 +128,5 @@ En resumen, la accesibilidad web es un aspecto fundamental a tener en cuenta al 
 Además, la accesibilidad web tiene un impacto en varios aspectos, como el SEO, los dispositivos móviles, las redes sociales, el comercio electrónico y la educación. Mejorar la accesibilidad en cada uno de estos ámbitos ofrece beneficios notables, desde **un mejor posicionamiento en los motores de búsqueda hasta una mayor satisfacción y fidelización de los clientes**.
 
 Sí, es fundamental que al comprar tu página web exijas sitios web que sean accesibles para todos y a trabajar constantemente en la mejora de la accesibilidad. Y, por supuesto, conmigo tú no te preocupes, [yo me encargo de todo esto](#cta).
+
+[Así hago páginas web]({{'desarrollo-paginas-web'|relative_url}} "Páginas web"){:class="boton"}
