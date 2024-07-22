@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "Soy Juli. Y hago páginas web con SEO. Y muchas. Escríbeme"
-description: "Hago páginas web y SEO. Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera de aplicar estrategias con mis clientes. ¿Trabajamos?"
-h1: "😎☕ Soy Juli. Te enseño <span class='resaltar'>qué hacer con tu página web</span> para vender más"
+description: "Hago páginas web y SEO. Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera crear y remodelar páginas web que no vendían nada."
+h1: "Soy Juli. Mi profesión es crear o remodelar páginas web que sí generan negocios rentables."
 hero: "juli-320.webp"
-alt: "Logo de Juli - Blogs y SEO"
+alt: "Logo de Juli, desarrollador de páginas web y SEO"
 ---
 
 ## De NO vender bolsos a producir negocios... gracias al SEO y las páginas web

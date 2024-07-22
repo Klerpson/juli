@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-07-19T20:53:15-05:00</updated>
+  <updated>2024-07-22T10:41:11-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -23,6 +23,40 @@
   
 
   
+  
+    <entry>
+      <title type="html">Páginas de aterrizaje con historias ¡Que buenos resultados!</title>
+      <link href="http://localhost:4000/paginas-de-aterrizaje-con-storytelling" rel="alternate" type="text/html" title="Páginas de aterrizaje con historias ¡Que buenos resultados!" />
+      <published>2024-04-12T10:00:00-05:00</published>
+      <updated>2024-03-08T10:00:00-05:00</updated>
+      <id>http://localhost:4000/paginas-de-aterrizaje-con-storytelling</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/paginas-de-aterrizaje-con-storytelling"></content>
+      
+      
+      
+        <summary type="html">La accesibilidad web se basa en el principio de igualdad de oportunidades. Exígela</summary>
+      
+
+      
+      
+
+      
+        <category term="[&quot;Landing page&quot;, &quot;Copywriting&quot;, &quot;Storytelling&quot;]" />
+      
+
+      
+        <category term="SEO" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
   
     <entry>
       <title type="html">La accesibilidad es muy importante cuando hago páginas web profesionales</title>
