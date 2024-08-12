@@ -5,6 +5,7 @@ description: Propuesta de trabajo para el Grupo Pegasso | Comencemos a lograr gr
 h1: Hagamos que el Grupo Pegasso sea el líder digital en su industria
 hero: img/logo-sin-fondo.svg
 noindex: true
+published: no
 ---
 ### Estimados clientes de Grupo Pegasso,
 

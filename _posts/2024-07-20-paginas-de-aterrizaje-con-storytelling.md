@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: "La estructura de una página web: Así la prpo"
+title: ""
 description: Ahora hago páginas de aterrizaje, o landing pages, con historias. En inglés storytelling. ¿La razón? Conversiones con fidelización combinados ¡Boom! Léelo.
 category: [Landing page, Copywriting, Storytelling]
 tags: [SEO]

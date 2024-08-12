@@ -4,6 +4,7 @@ title: since.com.co | Primera Propuesta
 description: Propuesta de trabajo para since.com.co | Comencemos a lograr grandes metas juntos
 h1: Hagamos Que Since Llegue Más Lejos
 hero: img/logo-sin-fondo.svg
+published: no
 noindex: true
 ---
 ## Hola Sebas
