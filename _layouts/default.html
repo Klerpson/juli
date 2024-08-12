@@ -13,18 +13,17 @@ layout: compress
   {{ content }}
   {% endif %}
   {% if page.url == "/" %}
-  <main class="entradas_home wrapper">
-    {% for post in site.posts %}
-    <article class="flow">
-      <div>
-        <img src="{{post.hero|relative_url}}" alt="{{post.alt}}" title="{{post.title}}" width="52px" height="52px" loading="lazy">
-        <a href="{{post.url|relative_url}}" title="{{ post.title }}">
-          <h4>{{ post.h1 }}</h4>
-        </a>
-      </div>
-      {{post.excerpt}}
-    </article>
-    {% endfor %}
+  <main class="wrapper">
+    <div class="home_gallery">
+      {% for principal in site.posts %}
+      <article class="flow">
+        <img src="{{principal.hero}}" alt="{{principal.alt}}">
+        <h3>{{principal.h1}}</h3>
+        <p>{{principal.excerpt | truncate: 144}}</p>
+        <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
+      </article>
+      {% endfor %}
+    </div>
   </main>
   
   {% include cta.html %}

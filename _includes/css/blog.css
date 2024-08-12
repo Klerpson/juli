@@ -36,6 +36,10 @@
   margin-bottom: 1.2em;
 }
 
+.articulo img{
+  border-radius: var(--radius);
+}
+
 .articulo article a:not(.boton){
   color: var(--accion);
   text-decoration: underline 3px;

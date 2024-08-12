@@ -6,7 +6,6 @@ h1: "Soy Juli. Mi profesión es crear o remodelar páginas web que sí generan n
 hero: "juli-320.webp"
 alt: "Logo de Juli, desarrollador de páginas web y SEO"
 ---
-
 ## De NO vender bolsos a producir negocios... gracias al SEO y las páginas web
 
 Cuando llevaba 2 años de matrimonio, tuvimos una crisis económica fuerte. Intentamos superarla **vendiendo bolsos mediante una página web que hice**. 🤣 ¡No vendimos ni uno solo! Pero hoy la historia es diferente.
