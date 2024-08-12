@@ -8,13 +8,13 @@ h1: "Páginas de aterrizaje que venden: Ahora aplico storytelling"
 hero: img/pagina-aterrizaje.svg
 jpg: img/pagina-aterrizaje.jpg
 alt: Mockup de una página de aterrizaje
-excerpt: 'La accesibilidad web se basa en el principio de igualdad de oportunidades. Exígela'
-date: 2024-04-12 10:00:00 -0500
-last_modified_at: 2024-03-08 10:00:00 -0500
+excerpt: '¿Necesitas una página de aterrizaje? Te digo cómo debe ser para que funcione bien.'
+date: 2024-07-20 10:00:00 -0500
+last_modified_at: 2024-07-20 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
-word_count: 2492
-time_to_read: 16
+word_count: 515
+time_to_read: 3
 ---
 ## ¿Qué es una página de aterrizaje?
 
@@ -52,7 +52,7 @@ Que no está pensada para ofrecer muchas cosas. **Una landing page evita las dis
 - **Propósito claro**: Convencer al cliente para que dé el siguiente paso.
 - **Estructura persuasiva**: Desde el inicio hasta el final, busca convencer al visitante.
 
-![Página de aterrizaje]({{'img/pagina-aterrizaje.webp'|relative_url}} "Mockup de una página de aterrizaje"){:width="992" height="560"}
+![Página de aterrizaje]({{'img/pagina-aterrizaje.webp'|relative_url}} "Mockup de una página de aterrizaje"){:width="992" height="560" loading="lazy" title="Mockup pagina de aterrizaje"}
 
 ## Los elementos esenciales de una página de aterrizaje efectiva
 

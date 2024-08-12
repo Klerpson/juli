@@ -39,6 +39,12 @@
         <h1>{{page.h1}}</h1>
         <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
       </div>
+      {% when "/mejora-de-paginas-web" %}
+      <div class="header_landing">
+        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
+        <h1>{{page.h1}}</h1>
+        <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
+      </div>
     {% else %}
     <div class="header_post">
       <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
