@@ -22,7 +22,7 @@ Una *landing page*, o *página de ventas*, o *página de aterrizaje*, es este ti
 
 Nada más.
 
-Normalmente son páginas que se utilizan para la publicidad en marketing digital o pauta.
+Normalmente son páginas que [se utilizan para la publicidad en marketing digital]({% post_url 2024-04-08-paginas-web-que-dan-resultados %} "Páginas para marketing") o pauta.
 
 Hay muchas formas de llamarlas. El punto es el siguiente. **Las páginas de aterrizaje se hacen para una sola cosa**: vender, convencer a un cliente para que den un paso, el siguiente paso.
 
