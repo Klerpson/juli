@@ -4,7 +4,7 @@ title: Yo no te aconsejo utilizar WordPress
 description: No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.
 category: Páginas
 tags: [Páginas, WordPress]
-h1: Personalmente no soporte a WordPress. Te cuento por qué
+h1: Yo no te recomendaría usar WordPress. Te cuento por qué
 hero: img/paginas-web-con-wordpress.svg
 jpg: img/paginas-web-con-wordpress.jpg
 alt: Ícono de WordPress para páginas web

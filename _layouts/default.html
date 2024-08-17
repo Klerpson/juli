@@ -13,7 +13,7 @@ layout: compress
   {{ content }}
   {% endif %}
   {% if page.url == "/" %}
-  <main class="wrapper">
+  <main class="content">
     <div class="home_gallery">
       {% for principal in site.posts %}
       <article class="flow">
@@ -24,6 +24,7 @@ layout: compress
       </article>
       {% endfor %}
     </div>
+    <br>
   </main>
   
   {% include cta.html %}

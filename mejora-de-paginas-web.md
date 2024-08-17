@@ -9,11 +9,13 @@ servicio: Desarrollo de páginas web
 ---
 ## ¿Sabes por qué deberías invertir en mejorar tu página web?
 
-Por dinero 💰.
+Para que no pierdas más dinero con tu página web 📉.
 
 Es la respuesta corta y sincera.
 
-Pero te contaré algo más para ayudarte a tomar la mejor decisión. Y claro está, que al tomarla **cuentes conmigo para mejorar tu página web**.
+Pero te contaré algo más para ayudarte a tomar la decisión de comenzar **mejorar tu página web**. Y claro está, me gustaría mucho que al decidirte cuentes con mi experiencia.
+
+>Desde el 2018 estoy ayudando empresas colombianas a mejorar su página web.
 
 ## Mejorar tu página web a diario o ser el dinosaurio
 
@@ -25,15 +27,23 @@ Era un computador re-viejo.
 
 Tan viejo que no lo pudimos vender. Tocó cambiarlo por un pequeño mercado en una tienda. Sí, la situación no era fácil 😅.
 
-Literalmente esta era la situación:
+Pero quiero que te fijes en lo siguiente:
 
 - **¿Teníamos computador?** Sí, sí teníamos.
 - **¿Servía para algo?** NO. No servía para nada útil.
 
-Entonces, la cuestión es: **¿Tienes página web?** Seguro que sí.  
-Lo sé porque estás justo en esta sección de mi web. Y quizá hiciste una búsqueda de **cómo mejorar tu página web** y aparecí yo. O quizá te invité personalmente al ver que tu página web necesita una mejora urgente.  
-El caso es este: **¿Funciona como debe ser tu página web?**.
+Y eso es exactamente lo que le sucede a la mayoría de empresas en Colombia:
+
+**¿Tienen página web?** Sí. Pero, **¿la usan para generar ingresos o crear más contactos? ¿O la tienen solo como una costosa tarjeta de presentación?**
 {:class="seccion"}
+
+### Ahora piensa en si tu empresa necesita mejorar su página web
+
+Estás justo en esta sección de mi web.
+
+Quizá hiciste una búsqueda de **cómo mejorar tu página web** y aparecí yo. O quizá te invité personalmente al ver que tu página web necesita una mejora urgente.
+
+El caso es este: **¿Funciona como debe ser tu página web?**.
 
 ## Hay que invertir para mejorar la página web
 

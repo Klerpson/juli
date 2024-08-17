@@ -4,26 +4,14 @@
   {% case url %}
     {% when "/" %}
     <h1>{{page.h1}}</h1>
+    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
     <p>Normalmente estás aquí por una de estas dos razones: <strong>estoy haciendo el mejor SEO colombiano o te enteraste de mi forma de hacer páginas web y aprovecharlas al máximo.</strong></p>
     <a href="{{site.contacto}}" class="boton" rel="nofollow noopener" title="Escríbeme para hacer SEO colombiano">📧 Escríbeme por email</a>
     <p>Pero no siempre fue mi historia.</p>
-    <p>Te cuento cómo fue que llegué a convencerte que <b>sí puedes hacer grandes cosas con tu página web</b>.</p>
-    <h2>Antes te enseño lo que más me preguntan sobre páginas web y SEO</h2>
-    <div class="home_gallery">
-        {% for principal in site.posts %}
-        {% if principal.home %}
-        <article class="flow">
-          <img src="{{principal.hero}}" alt="{{principal.alt}}">
-          <h3>{{principal.h1}}</h3>
-          <p>{{principal.excerpt}}</p>
-          <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
-        </article>
-        {% endif %}
-        {% endfor %}
-      </div>
+    <p>Te cuento cómo fue que llegué a este punto para convencerte de que <b>sí puedes hacer grandes cosas con la página web de empresa o personal</b>.</p>
+    
       {% when "/contacto" %}
       <div class="header_landing">
-        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
         <h1>{{page.h1}}</h1>
         <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
       </div>
