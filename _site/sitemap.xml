@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -23,7 +23,7 @@
     
       <url>
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -34,7 +34,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -43,7 +43,7 @@
     
       <url>
         <loc>http://localhost:4000/legal</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -52,7 +52,7 @@
     
       <url>
         <loc>http://localhost:4000/mejora-de-paginas-web</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -65,7 +65,7 @@
     
       <url>
         <loc>http://localhost:4000/servicio-seo</loc>
-        <lastmod>2024-08-17T09:52:59-05:00</lastmod>
+        <lastmod>2024-08-17T09:58:00-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -78,8 +78,8 @@
 
   
     <url>
-      <loc>http://localhost:4000/paginas-de-aterrizaje-con-storytelling</loc>
-      <lastmod>2024-07-20T10:00:00-05:00</lastmod>
+      <loc>http://localhost:4000/mejorar-paginas-web</loc>
+      <lastmod>2024-08-20T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
       
@@ -87,8 +87,8 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/mejorar-paginas-web</loc>
-      <lastmod>2024-03-08T10:00:00-05:00</lastmod>
+      <loc>http://localhost:4000/paginas-de-aterrizaje-con-storytelling</loc>
+      <lastmod>2024-07-20T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
       

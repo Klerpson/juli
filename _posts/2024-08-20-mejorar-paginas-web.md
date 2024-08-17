@@ -1,20 +1,20 @@
 ---
 layout: articulo
-title: "El Arte de las Landing Pages con Storytelling"
-description: ¿Cansado de landing pages aburridas? Aprende a usar el storytelling para crear páginas que conecten emocionalmente y vendan más. Ejemplos reales.
+title: "¿Quieres mejorar tu página web? Te digo qué hacer"
+description: En Colombia, hay muchas empresas con páginas web, que con solo un par de mejoras, estarían recibiendo muchos clientes y contactos. ¿Y la tuya?
 category: [Páginas, SEO]
 tags: [SEO]
-h1: "Mejora tu página web: consejos prácticos y efectivos para destacar en línea"
+h1: "Mejora tu página web: consejos prácticos y efectivos para optimizar y convertir"
 hero: img/pagina-aterrizaje.svg
 jpg: img/pagina-aterrizaje.jpg
 alt: Mockup de una página de aterrizaje
-excerpt: 'La accesibilidad web se basa en el principio de igualdad de oportunidades. Exígela'
-date: 2024-04-12 10:00:00 -0500
-last_modified_at: 2024-03-08 10:00:00 -0500
+excerpt: 'O mejoras tu página web o sigues perdiendo dinero. Y te ofreceré mi servicio para mejorar la página de tu empresa.'
+date: 2024-08-12 10:00:00 -0500
+last_modified_at: 2024-08-20 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
-word_count: 2492
-time_to_read: 16
+word_count: 881
+time_to_read: 4
 ---
 En la actualidad, las páginas web juegan un papel fundamental en el éxito de un negocio o proyecto en línea.
 
