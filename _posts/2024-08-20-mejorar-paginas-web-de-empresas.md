@@ -5,8 +5,8 @@ description: En Colombia, hay muchas empresas con páginas web, que con solo un 
 category: [Páginas, SEO]
 tags: [SEO]
 h1: "Mejora tu página web: consejos prácticos y efectivos para optimizar y convertir"
-hero: img/pagina-aterrizaje.svg
-jpg: img/pagina-aterrizaje.jpg
+hero: img/mejorar-web.svg
+jpg: img/mejorar-web.jpg
 alt: Mockup de una página de aterrizaje
 excerpt: 'O mejoras tu página web o sigues perdiendo dinero. Y te ofreceré mi servicio para mejorar la página de tu empresa.'
 date: 2024-08-12 10:00:00 -0500
