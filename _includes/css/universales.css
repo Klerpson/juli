@@ -214,9 +214,8 @@ form textarea{
 
 .seccion{
   background-color: var(--acento);
-  box-shadow: 0 0 0 100vmax var(--acento);
-  clip-path: inset(0 -100vmax);
-  padding: 2em 0;
+  border-radius: var(--radius);
+  padding: 2em;
 }
 
 .boton {
