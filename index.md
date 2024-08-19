@@ -3,9 +3,17 @@ layout: default
 title: "Soy Juli. Y hago páginas web con SEO. Y muchas. Escríbeme"
 description: "Hago páginas web y SEO. Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera crear y mejorar páginas web que no vendían nada."
 h1: "Soy Juli. Mi profesión es crear o mejorar páginas web de empresas y emprendedores"
-hero: "img/banner-juli.webp"
+hero: "img/juli-desarrollador-web.webp"
 alt: "Logo de Juli, desarrollador de páginas web y SEO"
 ---
+Normalmente estás aquí por una de estas dos razones: ***estoy haciendo el mejor SEO colombiano o te enteraste de mi forma de hacer páginas web y aprovecharlas al máximo.***
+
+[contacto@juli.com.co]({{site.email}} "Páginas web"){:class="boton" rel="nofollow noopener noreferrer"}
+
+Pero no siempre fue mi historia.
+
+Te cuento cómo fue que llegué a este punto para convencerte de que <b>sí puedes hacer grandes cosas con la página web de empresa o personal</b>.
+
 ## De NO vender bolsos a producir negocios... gracias al SEO y las páginas web
 
 Cuando llevaba 2 años de matrimonio, tuvimos una crisis económica fuerte.
@@ -61,8 +69,10 @@ Escríbeme y cuéntame tu proyecto. Ahora ya tengo las habilidades necesarias pa
   <article class="flow">
     <img src="{{principal.hero}}" alt="{{principal.alt}}">
     <h3>{{principal.h1}}</h3>
-    <p>{{principal.excerpt}}</p>
-    <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
+{{principal.excerpt}}
+
+👉 <a href="{{principal.url|relative_url}}">Leer más</a>
+
   </article>
   {% endif %}
   {% endfor %}
