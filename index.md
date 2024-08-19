@@ -8,7 +8,7 @@ alt: "Logo de Juli, desarrollador de páginas web y SEO"
 ---
 Normalmente estás aquí por una de estas dos razones: ***estoy haciendo el mejor SEO colombiano o te enteraste de mi forma de hacer páginas web y aprovecharlas al máximo.***
 
-[contacto@juli.com.co]({{site.email}} "Páginas web"){:class="boton" rel="nofollow noopener noreferrer"}
+[📧 contacto@juli.com.co]({{site.email}} "Páginas web"){:class="boton" rel="nofollow noopener noreferrer"}
 
 Pero no siempre fue mi historia.
 
