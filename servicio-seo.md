@@ -105,7 +105,6 @@ Para ayudarte a conseguir más resultados con tu página web, te ofrezco los sig
 
 | 👨🏼‍🏭 **Servicios de SEO** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
 | 👨🏼‍🏭 SEO MANAGER Y WEB MASTER (**yo me encargo de todo**) | 🫡 Administración técnica y estratégica; investigación de la competencia; análisis de keywords; estrategia de estructura web; ejecución de los cambios sobre el sitio web; seguimiento de resultados; gestión del contenido; optimización y presentación de informes; pago de herramientas para optimizar tu web. Mejor dicho, **yo hago todo en tu página web y tú solo disfrutas los beneficios** | 💵 2'272.000 mensual |
-| 👨🏼‍🏭 CONSULTOR SEO (**te ayudo a revisar**) | 🫡 Análisis de oportunidades de mejora y optimización en tu página web; estudio de tu competencia; mejora de tu contenido; video con pasos claros para mejorar tus posiciones; asesoría por 1 semana 12/7 para aplicar mis sugerencias | 💵 797.000 |
 | 👨🏼‍🏭 SEO MANAGER (**Yo administro y tú ejecutas**) | 🫡 Administración técnica y estratégica de tu web; gestión de contenido; investigación de la competencia; análisis de keywords; estrategia de estructura web; gestión del contenido; seguimiento con optimización para mejorar las posiciones y presentación de informes; reunión semanal para el seguimiento de tu equipo de IT en la aplicación de la estrategia. | 💵 1'295.000 |
 | 👨🏼‍🏭 CREACIÓN SEO DE CONTENIDOS (**redacción de artículos para tu blog**) | 🫡 Investigación de contenido, análisis de la competencia y creación de estrategia de contenidos (⚠️ Artículos totalmente redactados con técnicas de copywriting y storytelling, sin IA) | 💵 77000 por artículo |
 
@@ -170,6 +169,18 @@ Aplico todos los servicios de SEO que viste en el caso anterior.
 Por otra parte, tengo total autonomía para hacer lo que desee con su información. **Te confieso, es una gran ventaja para mi trabajo**.
 
 ## Quiero ser el SEO que llegó a tu empresa y la ayudó a alcanzar el siguiente nivel
+
+| Área de Experticia | Detalles |
+|:-------------------|:---------|
+| **Especialización SEO** | • SEO Técnico avanzado<br>• Redacción persuasiva de alto impacto<br>• SEO de contenido estratégico<br>• Optimización SEO on-page |
+| **Desarrollo Web** | • Maquetación web con HTML5, CSS4<br>• JavaScript nativo con ES6<br>• Sitios web estáticos de alto rendimiento<br>• Despliegue en GitHub Pages |
+| **Ventaja Competitiva** | Reducción significativa de costos operativos eliminando:<br>• Gastos de hosting<br>• Costos de administración y mantenimiento<br>• Inversiones en seguridad de WordPress |
+| **Experiencia Profesional** | • 3 años de trayectoria en SEO<br>• Administración del blog de Zoomforth (EE.UU.) 2022-2024<br>• Proyectos actuales: lebeninmobiliaria.com, holographic.ec, since.com.co, gurcoff.com |
+| **Formación** | Master en SEO por Dean Romero (España, 2023) |
+| **Stack Tecnológico** | • Google Analytics<br>• Search Console<br>• Looker Studio<br>• Tag Manager<br>• SEMrush<br>• Ahrefs<br>• Screaming Frog<br>• Ubersuggest<br>• ChatGPT & Claude AI |
+| **Habilidades Adicionales** | • Experiencia en UX para frontend de aplicaciones web<br>• Inglés nivel intermedio para comunicación efectiva |
+
+¿Está tu empresa preparada para potenciar tu presencia digital con un experto que combina **SEO técnico, desarrollo web eficiente y estrategias de contenido** comprobadas para impulsar tu ROI?
 
 Escríbeme.
 
