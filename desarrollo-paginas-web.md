@@ -98,16 +98,12 @@ Estos son los valores por ayudarte a **conseguir una página web que sí genere 
 | 👨🏼‍🏭 **Servicio Ofrecido** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
 | 👨🏼‍🏭 PÁGINA WEB CON BLOG (**hasta 20 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 20 URLs (Inicio, todos tus servicios, sobre la empresa, blog con artículos de ejemplo, contacto y legales) | 💵 2'559.000 |
 | 👨🏼‍🏭 PÁGINA WEB CORPORATIVA (**hasta 5 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 5 URLs (Inicio, 1 página con todos los servicios, sobre la empresa, contacto y legales) | 💵 1'225.000 |
-| 👨🏼‍🏭 PÁGINA WEB CON SERVICIOS (**hasta 12 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 12 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) | 💵 1'750.000 |
+| 👨🏼‍🏭 PÁGINA WEB DE SERVICIOS (**hasta 12 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 12 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) | 💵 1'750.000 |
 | 👨🏼‍🏭 PÁGINA WEB SENCILLA (**solo 1 URL**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; barra de navegación que desplace a distintas secciones de la misma URL | 💵 685.000 |
 | 👨🏼‍🏭 LANDING PAGE (**o página de venta**) | 🫡 Estudio de la campaña y del producto; diseño y desarrollo de la página de ventas; redacción de contenido con técnicas de copywriting y persuasión sobre el producto; adaptación y optimización de contenido multimedia; despliegue de la landing  | 💵 425.000 |
 | 👨🏼‍🏭 MANTENIMIENTO (**para los que sufren con WordPress**) | 🫡 Administración de plantillas, plugins, seguridad, contenido y servidores | 💵 Desde 395000 hasta 1'550.000 mensuales, según la cantidad de servicios solicitados |
 
-Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**.
-
-El avance será menor, pero poco a poco podremos lograr aumentar ese presupuesto al ver los resultados.
-
-Ya tu equipo de desarrollo se encargará de ejecutar los cambios sugeridos.
+Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**, donde te puedo enseñar a tener una página web más sencilla y hecha por tí.
 
 >Espero que este plan te emocione tanto como a mí. Estoy ansioso por escuchar tus necesidades y empezar a trabajar juntos
 
