@@ -23,7 +23,10 @@
 .hero_home_cta{
   flex: 1 0 400px;
   max-width: 100%;
-  background-color: var(--gris2);
+  background: rgb(32, 39, 39);
+  background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);
+  box-shadow: var(--shadow);
+  color: white;
   display: grid;
   gap: 16px;
   place-items: center;
