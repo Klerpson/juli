@@ -1,9 +1,11 @@
 ---
-layout: landing
-title: Conctáctame y hagamos tu página web | Juli
+layout: articulo
+title: Hagamos que tu página web produzca resultados | Juli
 description: "Soy Juli, y hago tus páginas web y tus páginas de venta con una calidad superior: Más conversiones, Más ventas, Mejor optimizadas, Hermosas. Entra aquí"
 h1: Aquí puedes ponerte en contacto conmigo | juli.com.co
-hero: img/logo-sin-fondo.svg
+hero: img/banner-juli.webp
+alt: Banner de Juli
+servicio: Desarrollo de páginas web
 ---
 ## Contáctame hoy mismo y consigue una página web que convierta
 

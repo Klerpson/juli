@@ -4,7 +4,7 @@ title: ¿Necesitas Mejorar Tu Página Web? Escríbeme y la auditamos
 description: Tu página web no funciona bien. Pues pierdes dinero. Te ayudo a mejorar o modificar la página web de tu empresa. Verás la diferencia en resultados.
 h1: Te ayudo a mejorar la página web de tu empresa o marca personal para que consigas mejores resultados 🤑
 hero: img/mejorar-paginas-web.webp
-alt: Imagen del servicio de diseño y desarrollo de páginas web desde Colombia
+alt: Imagen del servicio de mejora de páginas web para Colombia
 servicio: Desarrollo de páginas web
 ---
 ## ¿Sabes por qué deberías invertir en mejorar tu página web?

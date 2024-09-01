@@ -13,20 +13,6 @@ layout: compress
   {{ content }}
   {% endif %}
   {% if page.url == "/" %}
-  <main class="content">
-    <div class="home_gallery">
-      {% for principal in site.posts %}
-      <article class="flow">
-        <img src="{{principal.hero}}" alt="{{principal.alt}}">
-        <h3>{{principal.h1}}</h3>
-        <p>{{principal.excerpt | truncate: 144}}</p>
-        <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
-      </article>
-      {% endfor %}
-    </div>
-    <br>
-  </main>
-  
   {% include cta.html %}
   <!-- Script pointing to search-script.js -->
   <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
