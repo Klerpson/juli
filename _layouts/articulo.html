@@ -3,14 +3,14 @@ layout: default
 ---
 <div class="content flow">
   {% include breadcrumbs.html %}
-  <h4>
+  <span>
     {% capture words %}
     {{ content | number_of_words | minus: 180 }}
     {% endcapture %}
     {% unless words contains '-' %}
     {{ words | plus: 150 | divided_by: 150 | append: ' minutos para leerlo 🤓' }}
     {% endunless %}
-  </h4>
+  </span>
 </div>
 <main class="articulo wrapper">
   <article class="flow">
