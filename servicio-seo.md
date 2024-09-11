@@ -11,18 +11,18 @@ Te quiero hablar de un negocio con un servicio muy tradicional en nuestro país,
 
 Es el negocio de vender páginas web.
 
-Y te cuento algo.
+Y te cuento algo: **hay muchas empresas perdiendo dinero allí**.
 
-Te interesa, seguro.
+Me explico
 
->Sus clientes ahora tienen una página web ¿Bonita? Sí, está bien hecha. **Pero tienen una página web que no vende nada**. Osea, no tienen nada.  
+>Son empresas que ahora tienen una página web ¿Bonita? Sí, está bien hecha. **Pero tienen una página web que no vende nada**. En otras palabras... no tienen nada.  
 [📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
 
-## Te explico porqué están perdiendo dinero estos negocios por no hacer posicionar su página web en las búsquedas
+## Te explico porqué están perdiendo dinero estas empresas que no posicionan su página web
 
-Resulta que a los empresarios y emprendedores les ofrecen páginas web sin explicarles que **necesitan seguir invirtiendo en ellas**.
+Normalmente se ofrecen páginas web sin explicar a los empresarios que **necesitan seguir invirtiendo en ellas**.
 
-Para darme a entender mejor.
+Para darme a entender mejor, te doy este ejemplo:
 
 >Imagina que mandas a hacer una cantidad grande de tarjetas de presentación. Unas 20000. *Pero luego las guardas en un cajón*.  
 Te pregunto: ¿qué conseguiste con eso? **Conseguirás lo mismo que la página web de las empresas que te mencioné antes: ¡nada!**
