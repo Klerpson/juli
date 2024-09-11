@@ -13,12 +13,9 @@ Es el negocio de vender páginas web.
 
 Y te cuento algo: **hay muchas empresas perdiendo dinero allí**.
 
-Me explico
+Me explico...
 
->Son empresas que ahora tienen una página web ¿Bonita? Sí, está bien hecha. **Pero tienen una página web que no vende nada**. En otras palabras... no tienen nada.  
-[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
-
-## Te explico porqué están perdiendo dinero estas empresas que no posicionan su página web
+## ¿Por qué están perdiendo dinero estas empresas que no posicionan su página web?
 
 Normalmente se ofrecen páginas web sin explicar a los empresarios que **necesitan seguir invirtiendo en ellas**.
 
