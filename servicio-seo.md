@@ -19,26 +19,43 @@ Me explico...
 
 Normalmente se ofrecen páginas web sin explicar a los empresarios que **necesitan seguir invirtiendo en ellas**.
 
-Para darme a entender mejor, te doy este ejemplo:
+Imagina que mandas a hacer una cantidad grande de tarjetas de presentación. Unas 2000.
 
->Imagina que mandas a hacer una cantidad grande de tarjetas de presentación. Unas 20000. *Pero luego las guardas en un cajón*.  
-Te pregunto: ¿qué conseguiste con eso? **Conseguirás lo mismo que la página web de las empresas que te mencioné antes: ¡nada!**
+*Y luego las guardas en un cajón*.
 
-Una página web guardada en algún lugar del internet, **pero que nadie visita**, sería igual que esas tarjetas.
+Te pregunto: ¿qué consigues con eso?
 
-## Lo que hace que una página web atraiga clientes se llama SEO
+**Conseguirás lo mismo que la página web de las empresas que te mencioné antes: ¡nada!**
+
+>🤔 Una página web guardada en algún lugar del internet, **pero que nadie visita**, sería igual que esas tarjetas.
+
+## Lo que hace que una página web atraiga clientes a tu empresa se llama SEO
 
 Estoy seguro que si tú tienes un negocio, a tí y a mí SÍ nos gusta que ese negocio reciba muchas visitas.
 
 Y si lo tienes en internet... ¡pues también!
 
-### Aquí es donde entra en juego el SEO que yo hago para las páginas de mis clientes
+### Aquí entra en juego el Posicionamiento Web a favor de página
 
 ¿Habías escuchado hablar sobre SEO? Seguro sí. O seguro no.
 
-El SEO es más que intentar que una página web aparezca en los primeros lugares de las búsquedas en Google.
+En el SEO hacemos que una página web aparezca en los primeros lugares de las búsquedas en Google.
 
-Quien sabe de verdad sobre SEO, **entiende que esto es un poderoso complemento del marketing de un negocio exitoso**.
+Quien sabe de verdad sobre SEO, **también entiende que esto es un poderoso complemento del marketing para un negocio exitoso**.
+
+## Cuando posicionemos tu página web en internet verás los resultados grandes
+
+Imagina captar en tu página la mayor cantidad de tráfico posible para tu nicho de mercado.
+
+Esa es la promesa de mi servicio.
+
+----
+
+1. Conseguir cada vez más tráfico de personas dispuestas a la compra.
+2. Optimizar la página para que al recibir ese tráfico, funcione rápido y funcione bien.
+3. Mejorar la estrategia del diseño y del contenido, para que no solo funcione bien, sino que también convierta esos visitantes en clientes de tu negocio.
+
+----
 
 ## La gran ventaja del SEO... sobre todo el SEO que hago yo
 
@@ -57,8 +74,6 @@ Hablo de un buen servicio que **haga que tus clientes te encuentren a ti**, y no
 
 [📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
 
-Me explico mejor haciendo una comparación con la publicidad.
-
 ### Por un lado está la inversión en visitas pagadas con publicidad
 
 Cuando hacemos publicidad pagada, que es otra rama importante del marketing, ves resultados rápidamente. Pero,  **con el tiempo la publicidad pagada se hace más costosa y trae menos resultados**.
@@ -69,7 +84,7 @@ Si dejas de hacerlo, **se acaban los resultados**. Como cerrar la llave de clien
 
 ### Por otro lado, está la inversión en visitas orgánicas con SEO
 
-Hay que invertir en publicidad pagada. Sí lo recomiendo.
+Hay que invertir en publicidad pagada. Sí, lo recomiendo.
 
 Lo que no te dicen, es que al mismo tiempo debes invertir en SEO para poder cerrar más adelante la llave de la publicidad pagada.
 
@@ -77,24 +92,12 @@ Es verdad, cuando inviertes en SEO no ves resultados inmediatos o rápidos
 
 Pero **las visitas van a ir creciendo poco a poco**.
 
-Pero con el tiempo verás como crecen cada vez más. Y cuando toma fuerza, ¡explota! Entonces, solamente necesitarás atender muy bien a esos visitantes.
+Pero con el tiempo verás como crecen cada vez más. Y cuando toma fuerza, ¡explota!
+
+Entonces, solamente necesitarás atender muy bien a esos visitantes.
 
 >Quienes tenemos negocios exitosos, sabemos lo que significa **ver un negocio crecer y establecerse en su mercado**. Así es el SEO cuando se hace como yo lo sé hacer.  
 [📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
-
-## Y después de que posicionemos tu página web en internet verás los resultados grandes
-
-Imagina captar en tu página la mayor cantidad de tráfico posible para tu nicho de mercado.
-
-Esa es la promesa de mi servicio.
-
-----
-
-1. Conseguir cada vez más tráfico de personas dispuestas a la compra.
-2. Optimizar la página para que al recibir ese tráfico, funcione rápido y funcione bien.
-3. Mejorar la estrategia del diseño y del contenido, para que no solo funcione bien, sino que también convierta esos visitantes en clientes de tu negocio.
-
-----
 
 ## Esto es lo que yo cobro para darte más resultados en tu página web con el servicio de SEO
 
