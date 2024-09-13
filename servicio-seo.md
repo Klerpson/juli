@@ -103,13 +103,16 @@ Entonces, solamente necesitarás atender muy bien a esos visitantes.
 
 Para ayudarte a conseguir más resultados con tu página web, te ofrezco los siguientes servicios relacionados con el SEO:
 
-| 👨🏼‍🏭 **Servicios de SEO** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
-| 👨🏼‍🏭 SEO MANAGER Y WEB MASTER (**yo me encargo de todo**) | 🫡 Investigación de la competencia; análisis de palabras clave para tu negocio; optimización de la página web con SEO técnico y on-page; creación u optimización del blog; gestión completa del contenido en páginas principales y del blog; presentación semanal de informes; pago de herramientas exclusivas para optimizar tu web; actualizaciones premium si aún usas WordPress. Mejor dicho, **yo hago todo en tu página web y tú solo disfrutas los beneficios** | 💵 2'372.000 mensual |
-| 👨🏼‍🏭 SEO MANAGER | 🫡 Investigación de palabras clave para tu negocio y gestión del contenido de las páginas principales; optimización de la página web con SEO técnico y on-page; si tienes blog, te enviaré sugerencias del contenido redactado y enlazado, pero tú lo gestionarás; investigación de la competencia; presentación quincenal de informes | 💵 1'255.000 |
-| 👨🏼‍🏭 ASESOR SEO (**Yo administro y tú ejecutas**) | 🫡 Reuniones semanales donde yo hago el trabajo de SEO administrativo, pero el personal de tu empresa ejecuta el plan de trabajo | 💵 895000 mensual |
-| 👨🏼‍🏭 REDACCIÓN SEO (**redacción de artículos para tu blog o de tus páginas principales**) | 🫡 Investigación de contenido, análisis de la competencia y creación de estrategia de contenidos (⚠️ Artículos totalmente redactados con técnicas de copywriting y storytelling, sin IA) | 💵 77000 por artículo |
+### Tabla de Precios: Servicios Web para Cirugía Estética
 
-*Los precios no están sujetos a descuentos de impuestos. Tus impuestos los asumes tú. Yo asumo los míos.*
+| 👨🏼‍🏭 **Paquete de Servicios** | 🫡 **Incluye** | 💵 **Valor** |
+|--------------------------------|----------------|--------------|
+| 👨🏼‍🏭 **Paquete Elite: Desarrollo Web + SEO Completo** | 🫡 - Desarrollo de sitio web personalizado y optimizado para consultas de cirugía estética y reservas<br>- Investigación de palabras clave específicas del sector<br>- Optimización SEO técnica y on-page completa<br>- Creación y gestión de blog con contenido especializado<br>- Optimización de velocidad y rendimiento<br>- Informes semanales de rendimiento<br>- Gestión de ficha de negocio en Google Maps<br>**En resumen: desarrollo web de alto rendimiento + gestión SEO completa** | 💵 Pago inicial: 2.600.000 y 3.000.000 al terminar la página web<br>Mensual para SEO completo: 2.500.000 - Mínimo 6 meses |
+| 👨🏼‍🏭 **Paquete Premium: Desarrollo Web + SEO Básico** | 🫡 - Desarrollo de sitio web personalizado para cirugía estética<br>- Investigación básica de palabras clave<br>- Optimización SEO on-page inicial<br>- Configuración de blog (gestión de contenido no incluida)<br>- Optimización de velocidad básica<br>- Informes quincenales<br>**Desarrollo web profesional y SEO básico pero eficiente. La meta será crecer tus ingresos para pasar al SEO Élite** | 💵 Pago inicial: 1.500.000 y 1.700.000 al entregar la página web<br>Mensual: 1.250.000 - Mínimo 8 meses |
+| 👨🏼‍🏭 **Paquete Básico: Solo Posicionamiento Web** | 🫡 - Desarrollo de estrategia de posicionamiento mes a mes<br>- Optimización de estructura web actual<br>- Implementación de mejores prácticas SEO técnico<br>- Configuración inicial de Google Analytics, Search Console, Tag Manager y Looker Studio para informes<br>- Reuniones quincenales para analizar resultados y proponer la siguiente estrategia<br>**Ideal para quienes quieren un servicio SEO continuo y que ya tienen una página web** | 💵 Pago mensual: 1.400.000 - Mínimo 6 meses |
+| 👨🏼‍🏭 **Servicios Adicionales** | 🫡 - Redacción de artículo especializado en cirugía estética (1500 palabras)<br>- Optimización SEO de página existente<br>- Informe de auditoría SEO completa | 💵 150.000 por artículo<br>300.000 por página de servicio<br>550.000 por auditoría |
+
+*Todos los precios están en Pesos Colombianos (COP) y libres de impuesto.*
 
 ## ¿Y sí funciona hacer SEO? Te lo demuestro
 
