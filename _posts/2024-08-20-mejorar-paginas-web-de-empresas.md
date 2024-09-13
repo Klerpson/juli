@@ -11,6 +11,7 @@ alt: Mockup de una página de aterrizaje
 excerpt: 'O mejoras tu página web o sigues perdiendo dinero. Y te ofreceré mi servicio para mejorar la página de tu empresa.'
 date: 2024-08-12 10:00:00 -0500
 last_modified_at: 2024-08-20 10:00:00 -0500
+home: true
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 881

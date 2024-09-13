@@ -7,7 +7,6 @@ tags: [Páginas]
 h1: "¿Por qué me piden páginas deslumbrantes y con movimientos? Porque no saben esto"
 hero: img/pagina-web.svg
 jpg: img/pagina-web.jpg
-home: true
 alt: Dibujo de página web
 excerpt: '"Más es menos", dicen en los restaurantes. Aquí lo norma no es diferente. Te cuento más.'
 date: 2024-04-08 10:00:00 -0500

@@ -12,6 +12,7 @@ excerpt: '¿Necesitas una página de aterrizaje? Te digo cómo debe ser para que
 date: 2024-07-20 10:00:00 -0500
 last_modified_at: 2024-07-20 10:00:00 -0500
 author: Julian Franco
+home: true
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 515
 time_to_read: 3
