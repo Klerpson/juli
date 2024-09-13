@@ -74,7 +74,15 @@
   display: flex;
   align-items: center;
   gap: 12px;
+}
+
+.header_post {
   flex-wrap: wrap;
+}
+
+.header_post h1{
+  flex: 1 0 320px;
+  max-width: 100%;
 }
 
 .header_landing{
