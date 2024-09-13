@@ -10,7 +10,7 @@ alt: "Logo de Juli, desarrollador de páginas web y SEO"
 
 Aquí te comparto investigaciones, experiencias, consejos, y más cositas que me encuentro en el camino de mi profesión como consultor SEO y desarrollador web:
 
-<main class="content">
+<main>
     <div class="home_gallery">
       {% for principal in site.posts %}
       <article class="flow">
