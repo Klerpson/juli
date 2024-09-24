@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: "La accesibilidad es muy importante cuando hago páginas web profesionales"
-description: Casi todos mis clientes piden una página web bonita, con movimientos y efectos. Aquí te muestro por qué no hacerlas así y qué lo hace más efectiva
+description: La accesibilidad web es necesaria para garantizar que todas las personas puedan acceder y navegar por los contenidos en línea. Así la aplico yo
 category: SEO
 tags: [SEO]
 h1: "La accesibilidad es muy importante cuando hago páginas web. Te cuento por qué"
