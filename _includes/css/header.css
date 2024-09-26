@@ -4,6 +4,7 @@
   gap: 1.2em;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   
     img{
       border-radius: var(--radius);
@@ -17,7 +18,7 @@
   width: min(100%, 540px);
   
     h1{
-      margin-bottom: 1em;
+      margin-bottom: .5em;
     }
 }
 
