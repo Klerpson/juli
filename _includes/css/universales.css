@@ -193,13 +193,13 @@ form textarea{
 }
 
 .wrapper {
-  width: min(calc(100% - 1.5em), 1128px);
+  width: min(calc(100% - 1.5em), 1336px);
   margin-inline: auto;
   padding: 4rem 0;
 }
 
 .content {
-  width: min(calc(100% - 1.5em), 1128px);
+  width: min(calc(100% - 1.5em), 1336px);
   margin-inline: auto;
 }
 
