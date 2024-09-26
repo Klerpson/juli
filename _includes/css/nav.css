@@ -39,7 +39,6 @@ nav {
 
 .navegacion .boton:last-child {
   margin: 0;
-  padding: 12px 24px;
 }
 
 .dropdown-content a {
@@ -62,7 +61,7 @@ nav {
 .dropdown-content {
   display: none;
   position: absolute;
-  top: 30px;
+  top: 32px;
   left: 0;
   background-color: #f9f9f9;
   min-width: 280px;
