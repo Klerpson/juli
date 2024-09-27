@@ -5,11 +5,14 @@
   justify-content: center;
   align-items: stretch;
   padding-top: 6em;
+
+  img{
+    border-radius: var(--radius);
+    display: block;
+    object-fit: cover;
+  }
   
     .home_header_hero{
-      border-radius: var(--radius);
-      display: block;
-      object-fit: cover;
       margin: 0;
       width: min(100%, 552px);
     }
