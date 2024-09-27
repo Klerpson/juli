@@ -13,34 +13,17 @@ servicio: Desarrollo de páginas web
 
 ## ¿Cómo puedes contactarme?
 
-### Por Email
+### Por WhatsApp Business
 
-La forma más rápida y directa de comunicarte conmigo es a través de mi correo electrónico. ¡Escríbeme y te responderé lo más pronto posible!
+La forma más rápida y directa de comunicarte conmigo es a través de mi WhatsApp Corporativo. ¡Escríbeme y te responderé lo más pronto posible!
 
 {% include boton.html %}
-
-### A través del Formulario de Contacto
-
-También puedes llenar el siguiente formulario y te responderé a la brevedad:
-
-<form action="https://formspree.io/f/{your-id}" method="POST">
-  <label for="name">😎 Nombre:</label>
-  <input type="text" id="name" name="name" required>
-  
-  <label for="email">📧 Email:</label>
-  <input type="email" id="email" name="_replyto" required>
-  
-  <label for="message">✏️ Mensaje:</label>
-  <textarea id="message" name="message" rows="4" required></textarea>
-  
-  <button type="submit" class="boton">Enviar tu consulta</button>
-</form>
 
 ### Redes Sociales
 
 Sígueme en mis redes sociales para estar al día con las últimas novedades sobre **landing page** y **posicionamiento web**.
 
-- [x.com]({{site.x}})
+- [linkedin.com/tintoconjuli]({{site.linkedin}})
 
 ---
 
