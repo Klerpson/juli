@@ -44,10 +44,12 @@
 }
 
 .header_post {
+  display: flex;
   flex-wrap: wrap;
+  gap: 2em;
 }
 
-.header_post h1{
+.header_post div{
   flex: 1 0 320px;
   max-width: 100%;
 }

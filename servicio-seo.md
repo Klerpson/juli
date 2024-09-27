@@ -72,7 +72,7 @@ Invertir en un buen servicio de SEO es **generar un patrimonio a largo plazo**. 
 
 Hablo de un buen servicio que **haga que tus clientes te encuentren a ti**, y no que tú pagues para traerlos hasta tu web.
 
-[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+{% include boton.html %}
 
 ### Por un lado está la inversión en visitas pagadas con publicidad
 
@@ -97,7 +97,7 @@ Pero con el tiempo verás como crecen cada vez más. Y cuando toma fuerza, ¡exp
 Entonces, solamente necesitarás atender muy bien a esos visitantes.
 
 >Quienes tenemos negocios exitosos, sabemos lo que significa **ver un negocio crecer y establecerse en su mercado**. Así es el SEO cuando se hace como yo lo sé hacer.  
-[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+{% include boton.html %}
 
 ## Esto es lo que yo cobro para darte más resultados en tu página web con el servicio de SEO
 
@@ -194,8 +194,7 @@ Pregúntame lo que sea necesario para estar seguro de invertir en este servicio.
 
 Te lo prometo, es una inversión segura. De paciencia, SÍ. Y mucha. Pero **cuando lleguen los resultados, espero estar allí para celebrarlos juntos**.
 
-[📧 Posicionemos tu página web]({{site.email}} "{{page.title}}"){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+*☕Juli*
+{:style="font-family: var(--fuenteTitulos); font-size: 3em;"}
 
-☕Juli
-{:style="font-family: var(--fuenteQ); font-size: 4em;"}
-De juli.com.co
+{% include boton.html %}

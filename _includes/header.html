@@ -17,31 +17,33 @@
       {% when "/contacto" %}
       <div class="header_landing">
         <h1>{{page.h1}}</h1>
-        <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
+        {% include boton.html %}
       </div>
       {% when "/desarrollo-paginas-web" %}
       <div class="header_landing">
         <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
         <h1>{{page.h1}}</h1>
-        <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">📧 Pide tu página web</a>
+        {% include boton.html %}
       </div>
       {% when "/servicio-seo" %}
       <div class="header_landing">
         <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
         <h1>{{page.h1}}</h1>
-        <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
+        {% include boton.html %}
       </div>
       {% when "/mejora-de-paginas-web" %}
       <div class="header_landing">
         <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
         <h1>{{page.h1}}</h1>
-        <a href="mailto:{{site.email}}" class="boton" rel="nofollow noopener noreferrer" target="_blank" title="{{page.title}}">contacto@juli.com.co</a>
+        {% include boton.html %}
       </div>
     {% else %}
     <div class="header_post">
       <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-      <h1>{{page.h1}}</h1>
+      <div class="flow">
+        <h1>{{page.h1}}</h1>
+        <p>{{page.description}} - Juli 😎</p>
+      </div>
     </div>
-    <p>{{page.description}} - Juli 😎</p>
     {% endcase %}
 </header>

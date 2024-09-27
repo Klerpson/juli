@@ -15,6 +15,8 @@ Es la respuesta corta y sincera.
 
 Pero te contaré algo más para ayudarte a tomar la decisión de comenzar **mejorar tu página web**. Y claro está, me gustaría mucho que al decidirte cuentes con mi experiencia.
 
+{% include boton.html %}
+
 >Desde el 2018 estoy ayudando empresas colombianas a mejorar su página web.
 
 ## Mejorar tu página web a diario o ser el dinosaurio
@@ -57,7 +59,8 @@ Luego, conseguí mis equipos personales.
 
 Y hoy, para obtener los resultados que tengo en mi negocio de páginas web, **tuve que invertir en mejorar** mis equipos, mis herramientas digitales... Invertí en mejorar mi empresa.
 
->**Eso es lo que significa mejorar tu página web**. Es invertir para mejorar el activo digital que te trae clientes, ventas, negocio 🚀
+>**Eso es lo que significa mejorar tu página web**. Es invertir para mejorar el activo digital que te trae clientes, ventas, negocio 🚀  
+{% include boton.html %}
 
 ## Yo te ayudo a mejorar tu página web
 
@@ -84,8 +87,6 @@ Etcétera. Y luego, preparo un informe de resultados para que tu equipo pueda ap
 
 😎 Puedes solicitar mi **servicio de auditorías web desde $485000 pesos colombianos** para una página de máximo 10 URL's.
 
-[Solicitar auditoría web]({{site.email}} "Solicita una auditoría web"){:class="boton"}
-
 🪧  *Si tu web es más grande, escríbeme y negociamos tu solicitud.*
 
 ----
@@ -98,7 +99,7 @@ Si además de la auditoría, necesitas un experto que lleve a cabo los cambios s
 
 😎 Puedes solicitar mi **servicio de optimización de páginas web desde $890000 pesos colombianos** para una página de máximo 10 URL's.
 
-[Solicitar optimización web]({{site.email}} "Solicita una optimización de páginas web"){:class="boton"}
+{% include boton.html %}
 
 🪧 *Si tu web es más grande, escríbeme y negociamos tu solicitud.*.
 
@@ -114,9 +115,7 @@ Y creo que lo has notado en esta misma web.
 
 😎 ¿Te gustaría que tu página web funcionara así como la mía? **Pues la hacemos desde cero a código**. Haz clic aquí y conoce mis propuestas. O escríbeme directamente tu solicitud.
 
-[Solicita tu página web]({{site.email}} "Solicita una página web"){:class="boton"}
-
-[Desarrollo de páginas web]({{'desarrollo-paginas-web'|relative_url}} "Diseño de páginas web"){:class="boton"}
+[Desarrollo de páginas web]({{'desarrollo-paginas-web'|relative_url}} "Diseño de páginas web"){:class="boton boton2"}
 
 ## Los clientes que ya han mejorado su página web ahora tienen un activo productivo
 
@@ -170,8 +169,8 @@ Y ahora, **está superando a su competencia con facilidad**. Porque adivina... n
 
 Desde el primer lugar de tu búsqueda de opciones,
 
-☕Juli
-{:style="font-family: var(--fuenteQ); font-size: 4em;"}
-De juli.com.co
 
-[📧 contacto@juli.com.co]({{site.email}}){:class="boton" style="color: white;"}
+*☕Juli*
+{:style="font-family: var(--fuenteTitulos); font-size: 3em;"}
+
+{% include boton.html %}

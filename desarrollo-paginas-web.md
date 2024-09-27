@@ -31,7 +31,7 @@ Así que le dije: *"Yo te hago el branding y la web"*.
 
 *Aquí la puedes ver 👇👇👇*
 
-[Página web de mi hermano menor](https://klerpson.github.io/yogu/){:rel="nofollow noopener noreferrer" target="_blank" class="boton"}
+[Página web de mi hermano menor](https://klerpson.github.io/yogu/){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton2"}
 
 > **¿Y cuál fue el resultado?**: me di cuenta que me quedó tan bien hecha, con tanto amor, que me ***la encontré en los resultados de Google en segundo lugar*** cuando busqué "Heladería Pitalito".  
 
@@ -63,7 +63,7 @@ Quien te quiere vender una página web solo por venderla y conseguir su dinero, 
 Puras características que no generan verdadero negocio.
 
 >Cada negocio es único. Tus clientes son únicos. Por eso, **hacer una web con una estrategia a la medida, te dará mejores resultados.**  
-[📧 Pide tu página web]({{site.email}}){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+{% include boton.html %}
 
 ## Necesitas hacer una página web en tu negocio que sí venda
 
@@ -87,7 +87,7 @@ Te decía que corrijo muchas páginas web. En el afán de que se vea bonita, o d
 
 Quien no entiende tu negocio, no lo aprecia. Y quien no ha tenido negocios, no entiende lo duro que es luchar por lo que es de uno. Yo sí lo entiendo. Por eso cobro como si fuera tu socio, porque me involucro completamente desde el lado digital. Tú te encargas de lado físico, yo de la web.
 
-[📧 Pide tu página web]({{site.email}}){:class="boton" rel="nofollow noopener noreferrer" target="_blank"}
+{% include boton.html %}
 
 ## Esto cobro por una página web con estrategia de retorno de inversión
 
@@ -109,8 +109,7 @@ Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un ser
 
 Desde el primer lugar de tu búsqueda de opciones,
 
-☕Juli
-{:style="font-family: var(--fuenteQ); font-size: 4em;"}
-De juli.com.co
+☕*Juli*
+{:style="font-family: var(--fuenteTitulos); font-size: 3em;"}
 
-[📧 Pide tu página web]({{site.email}}){:class="boton" style="color: white;"}
+{% include boton.html %}

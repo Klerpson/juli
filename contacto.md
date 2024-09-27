@@ -1,5 +1,5 @@
 ---
-layout: articulo
+layout: landing
 title: Hagamos que tu página web produzca resultados | Juli
 description: "Soy Juli, y hago tus páginas web y tus páginas de venta con una calidad superior: Más conversiones, Más ventas, Mejor optimizadas, Hermosas. Entra aquí"
 h1: Aquí puedes ponerte en contacto conmigo | juli.com.co
@@ -17,7 +17,7 @@ servicio: Desarrollo de páginas web
 
 La forma más rápida y directa de comunicarte conmigo es a través de mi correo electrónico. ¡Escríbeme y te responderé lo más pronto posible!
 
-[📧 contacto@juli.com.co](mailto:contacto@juli.com.co){:class="boton"}
+{% include boton.html %}
 
 ### A través del Formulario de Contacto
 
@@ -46,4 +46,4 @@ Sígueme en mis redes sociales para estar al día con las últimas novedades sob
 
 Me apasiona ayudarte a mejorar tu **posicionamiento web** y a crear la **landing page** perfecta para tu negocio. ¡Espero saber de ti pronto!
 
-[📧 contacto@juli.com.co](mailto:contacto@juli.com.co){:class="boton"}
+{% include boton.html %}

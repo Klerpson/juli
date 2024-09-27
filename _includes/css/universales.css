@@ -247,7 +247,7 @@ form textarea{
 }
 
 .boton2{
-  border: var(--accion);
+  border: 2px solid var(--accion);
   background-color: #ffffff;
   color: var(--secundario);
 }
