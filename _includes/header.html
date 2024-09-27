@@ -1,12 +1,11 @@
 {% include nav.html %}
-<header class="home_header wrapper flow">
+<header class="home_header wrapper">
   {% assign url = page.url %}
   {% case url %}
     {% when "/" %}
     <div class="hero_home_text">
-      <h1>{{page.h1}}</h1>
       <div class="hero_home_cta">
-        <h2>Páginas web y SEO para Colombia y el mundo</h2>
+        <h1>{{page.h1}}</h1>
           <a href="{{'desarrollo-paginas-web'|relative_url}}" title="Desarrollo de páginas web empresariales" class="boton">Desarrollo páginas web</a>
           <a href="{{'servicio-seo'|relative_url}}" title="Posicionamiento de páginas web de empresas" class="boton">Posicionamiento web</a>
           <a href="{{'mejora-de-paginas-web'|relative_url}}" title="Mejora de páginas web" class="boton">Optimización de páginas</a>

@@ -1,29 +1,27 @@
 .home_header{
-  margin-top: 4em;
   display: flex;
-  gap: 1.2em;
+  gap: 2em;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
+  padding-top: 6em;
   
     img{
       border-radius: var(--radius);
-      margin: 0 auto;
       display: block;
       object-fit: cover;
+      margin: 0;
+      width: min(100%, 552px);
     }
 }
 
 .hero_home_text{
-  width: min(100%, 540px);
-  
-    h1{
-      margin-bottom: .5em;
-    }
+  flex: 1 0 400px;
+  text-align: center;
 }
 
 .hero_home_cta{
-  flex: 1 0 400px;
+  min-height: 100%; 
   max-width: 100%;
   background: rgb(32, 39, 39);
   background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);

@@ -2,7 +2,7 @@
 layout: default
 title: "Soy Juli. Y hago páginas web con SEO. Y muchas. Escríbeme"
 description: "Hago páginas web y SEO. Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera crear y mejorar páginas web que no vendían nada."
-h1: "Soy Juli, experto en páginas web y posicionamiento web"
+h1: "Soy Julian Franco. Hago que la inversión en la página web de tu empresa sea rentable"
 hero: "img/juli-desarrollador-web.webp"
 alt: "Logo de Juli, desarrollador de páginas web y SEO"
 ---

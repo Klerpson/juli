@@ -243,3 +243,15 @@ form textarea{
 .boton:active {
   transform: translateY(-1px);
 }
+
+.float_derecha{
+  float: right;
+  margin-left: 2em;
+  border-radius: var(--radius);
+}
+
+.float_izquierda{
+  float: left;
+  margin-right: 2em;
+  border-radius: var(--radius);
+}
