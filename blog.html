@@ -16,9 +16,10 @@ noindex: true
       {% for principal in site.posts %}
       <article class="flow">
         <img src="{{principal.hero}}" alt="{{principal.alt}}">
-        <h3>{{principal.h1}}</h3>
+        <a href="{{principal.url|relative_url}}">
+          <h3>{{principal.h1}}</h3>
+        </a>
         <p>{{principal.excerpt | truncate: 144}}</p>
-        <p>👉 <a href="{{principal.url|relative_url}}">Leer más</a></p>
       </article>
       {% endfor %}
     </div>

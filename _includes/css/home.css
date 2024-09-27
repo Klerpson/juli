@@ -1,3 +1,45 @@
+.seccion_bloques{
+  padding-top: 2em;
+  display: grid;
+  place-items: center;
+  gap: 1em;
+  text-align: center;
+}
+
+.approach-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.approach-card,
+blockquote,
+.home_gallery article {
+  background-color: #ffffff;
+  border-radius: var(--radius);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+  .boton{
+    display: block;
+    margin: 1em auto;
+  }
+}
+
+.approach-card:hover,
+.home_gallery article {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.icon {
+  width: 48px;
+  height: 48px;
+  fill: var(--secundario);
+  margin-bottom: 1rem;
+}
+
 .cta{
   background: rgb(32, 39, 39);
   background: linear-gradient(18deg, rgba(32, 39, 39, 1) 24%, rgba(27, 154, 170, 1) 100%);

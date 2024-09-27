@@ -17,6 +17,10 @@ nav {
     gap: 8px;
     text-decoration: none;
   }
+
+  .boton{
+    padding: 8px 20px;
+  }
 }
 
 .navegacion {

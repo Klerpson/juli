@@ -43,42 +43,6 @@
   }
 }
 
-.home_gallery{
-  display: grid;
-  gap: 2em;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
-  align-items: flex-start;
-  padding: 4em 0 0;
-}
-
-.home_gallery article{
-  position: relative;
-  display: grid;
-  padding: 1em;
-  border-radius: var(--radius);
-  background-color: var(--gris1);
-
-  img{
-    position: absolute;
-    top: -24px;
-    right: 0;
-    margin: 0;
-    box-shadow: none;
-  }
-
-  p:last-child{
-    font-weight: 700;
-    justify-self: flex-end;
-  }
-}
-
-.home_gallery article div, 
-.header_post{
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
 .header_post {
   flex-wrap: wrap;
 }

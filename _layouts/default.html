@@ -11,9 +11,9 @@ layout: compress
   </section>
   {% else %}
   {{ content }}
+  {% include cta.html %}
   {% endif %}
   {% if page.url == "/" %}
-  {% include cta.html %}
   <!-- Script pointing to search-script.js -->
   <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
   <script>
