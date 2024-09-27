@@ -47,6 +47,10 @@ Gracias a toda la experiencia **trabajando desde el 2016 en páginas web de empr
 7. Y si todavía tienes WordPress, yo te ayudo a sacarle el mayor provecho posible. Pero te prometo que algún día dejarás de sufrir con esa herramienta. Es mi compromiso.
 {:class="seccion"}
 
+>Para mí será un placer enseñarte todo lo diferente que son las páginas actuales de mis clientes a lo que eran antes de contactarme. Escríbeme y te mostraré todo lo que puedes conseguir con una web profesional.  
+>{% include boton.html %}
+{:class="flow"}
+
 ## Ahora te comparto todo lo que sé sobre páginas web y SEO
 
 <div class="home_gallery">
