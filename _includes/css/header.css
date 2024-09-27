@@ -6,7 +6,7 @@
   align-items: stretch;
   padding-top: 6em;
   
-    img{
+    .home_header_hero{
       border-radius: var(--radius);
       display: block;
       object-fit: cover;
