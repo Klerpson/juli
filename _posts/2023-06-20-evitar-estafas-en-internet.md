@@ -16,7 +16,7 @@ last_modified_at: 2024-07-10 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 948
-time_to_read: 5
+time_to_read: 7
 ---
 En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.
 

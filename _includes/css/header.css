@@ -9,7 +9,11 @@
   img{
     border-radius: var(--radius);
     display: block;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
   }
   
     .home_header_hero{

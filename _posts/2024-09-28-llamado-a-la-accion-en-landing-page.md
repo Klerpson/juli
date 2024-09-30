@@ -5,18 +5,22 @@ description: El llamado a la acción en una landing page es el encargado de las 
 category: [Landing page]
 tags: [Páginas]
 h1: "Optimización de CTAs en landing pages: La clave de tus campañas exitosas"
-hero: img/consultoria-seo.svg
-jpg: img/consultoria-seo.jpg
+hero: img/cta.svg
+jpg: img/cta.jpg
 alt: Mockup de una página de aterrizaje
 excerpt: 'Necesitas probar y mejorar tu llamado a la acción. Te digo qué me ha servido en mis páginas.'
 date: 2024-09-28 10:00:00 -0500
 last_modified_at: 2024-09-28 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
-word_count: 860
-time_to_read: 13
+word_count: 760
+time_to_read: 4
 ---
 Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, **he optimizado cientos de CTAs para clientes de diversos sectores**, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.
+
+- [Cómo hacer un CTA bien hecho](#consejos-probados-para-crear-ctas-irresistibles)
+- [Haz pruebas A/B](#la-importancia-de-las-pruebas-ab)
+- [Te ayudo a mejorar tus llamados a la acción](#el-poder-de-una-cta-optimizada)
 
 ## La importancia de una CTA eficaz
 
@@ -26,7 +30,9 @@ Hace unos años, trabajé con una startup de restauración que estaba luchando p
 
 Implementamos los cambios que voy a compartir contigo a continuación, y los resultados fueron asombrosos: **un aumento del 150% en la tasa de conversión en tan solo un mes**.
 
-Este es el poder de una CTA bien optimizada.
+Este es el poder de una CTA bien optimizada. Como el siguiente:
+
+[Mejoremos tu pagina web]({{'mejora-de-paginas-web' | relative_url }} "Mejorar páginas web"){:class="boton"}
 
 ## Consejos probados para crear CTAs irresistibles
 
@@ -50,9 +56,17 @@ Por ejemplo, para una app de productividad, cambiamos la CTA de "Haz tu pedido" 
 
 ### 4. Optimiza el diseño visual
 
+![Ejemplo de llamado a la acción en una página web]({{'img/llamado-a-la-accion-mal-hecho.avif' | relative_url }} "Llamado a la acción mál diseñado"){:loading="lazy"}
+*Llamado a la acción mal diseñado*
+
 **El aspecto visual de tu CTA es crucial** para aumentar los clics.
 
 En un proyecto para una tienda de juguetes, experimentamos con diferentes colores y estilos de botones para la CTA. Descubrimos que un botón naranja brillante con bordes redondeados superó a todas las demás variantes, aumentando los clics en un 60%.
+
+Este es el llamado a la acción de la anterior imagen. Nota la **mejora en el diseño del botón y del texto**.
+
+![Ejemplo de llamado a la acción bien hecho en una página web]({{'img/cta-bien-hecho.avif' | relative_url }} "Llamado a la acción bien diseñado"){:loading="lazy"}
+*Llamado a la acción con un mejor diseño*
 
 ### 5. Ubicación estratégica
 
@@ -77,3 +91,5 @@ A lo largo de mi carrera, he visto cómo **pequeños cambios en las CTAs pueden 
 Si estás luchando con las conversiones en tu landing page, o simplemente quieres llevar tus resultados al siguiente nivel, estaré encantado de ayudarte. [Con mi experiencia en desarrollo web]({{'desarrollo-paginas-web' | relative_url }} "Desarrollo paginas web") y optimización de CTAs, puedo ayudarte a desbloquear el verdadero potencial de tu marketing digital.
 
 ¿Listo para transformar tus CTAs y aumentar drásticamente tus conversiones? [Contáctame ahora]({{'contacto' | relative_url }}) para una consulta gratuita y descubre cómo podemos impulsar juntos el éxito de tu negocio online.
+
+[Mejoremos tu pagina web]({{'mejora-de-paginas-web' | relative_url }} "Mejorar páginas web"){:class="boton"}

@@ -61,6 +61,7 @@
 
 .articulo img{
   border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
 .articulo article a:not(.boton){

@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-09-27T15:35:30-05:00</updated>
+  <updated>2024-09-30T12:51:11-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -23,6 +23,120 @@
   
 
   
+  
+    <entry>
+      <title type="html">Llamados a la acción en una Landing Page. ¿Cómo se hace?</title>
+      <link href="http://localhost:4000/llamado-a-la-accion-en-landing-page" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
+      <published>2024-09-28T10:00:00-05:00</published>
+      <updated>2024-09-28T10:00:00-05:00</updated>
+      <id>http://localhost:4000/llamado-a-la-accion-en-landing-page</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/llamado-a-la-accion-en-landing-page">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Cómo hacer un CTA bien hecho&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-importancia-de-las-pruebas-ab&quot;&gt;Haz pruebas A/B&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#el-poder-de-una-cta-optimizada&quot;&gt;Te ayudo a mejorar tus llamados a la acción&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;la-importancia-de-una-cta-eficaz&quot;&gt;La importancia de una CTA eficaz&lt;/h2&gt;
+
+&lt;p&gt;Antes de sumergirnos en los consejos específicos, permíteme contarte una breve anécdota.&lt;/p&gt;
+
+&lt;p&gt;Hace unos años, trabajé con una startup de restauración que estaba luchando por convertir el tráfico de su sitio web en ventas. Su landing page parecía atractiva, pero las conversiones eran decepcionantes. Después de un análisis exhaustivo, &lt;strong&gt;identifiqué que el problema principal era su CTA poco llamativa y mal ubicada&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Implementamos los cambios que voy a compartir contigo a continuación, y los resultados fueron asombrosos: &lt;strong&gt;un aumento del 150% en la tasa de conversión en tan solo un mes&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Este es el poder de una CTA bien optimizada. Como el siguiente:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mejora-de-paginas-web&quot; title=&quot;Mejorar páginas web&quot; class=&quot;boton&quot;&gt;Mejoremos tu pagina web&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Consejos probados para crear CTAs irresistibles&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-claridad-y-concisión-menos-es-más&quot;&gt;1. Claridad y concisión: Menos es más&lt;/h3&gt;
+
+&lt;p&gt;En mi experiencia, &lt;strong&gt;las CTAs más efectivas son aquellas que van directamente al grano&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, para un cliente de software B2B, cambiamos su CTA de “Solicita más información sobre nuestras soluciones empresariales” a simplemente “Empieza tu prueba gratis”. El resultado fue un aumento del 75% en los clics.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Un tip: no tienes que poner todo ese texto en el botón directamente. Recuerda que un llamado a la acción también es el texto que está antes de ese botón.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;2-crea-una-sensación-de-urgencia&quot;&gt;2. Crea una sensación de urgencia&lt;/h3&gt;
+
+&lt;p&gt;He comprobado que &lt;strong&gt;añadir un toque de urgencia&lt;/strong&gt; puede impulsar significativamente las conversiones. En un proyecto reciente para una agencia inmobiliaria, modificamos la CTA de sus botones de “Contáctanos” a “Asesórate gratis hoy”. Esta simple modificación incrementó los contactos en un 30%.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-destaca-los-beneficios-concretos&quot;&gt;3. Destaca los beneficios concretos&lt;/h3&gt;
+
+&lt;p&gt;Uno de mis mantras en el desarrollo de landing pages es: “No vendas el producto, vende la solución”.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, para una app de productividad, cambiamos la CTA de “Haz tu pedido” a “Consigue tus etiquetas”. Este enfoque en los beneficios concretos aumentó los pedidos en un impresionante 22%.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-optimiza-el-diseño-visual&quot;&gt;4. Optimiza el diseño visual&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/llamado-a-la-accion-mal-hecho.avif&quot; alt=&quot;Ejemplo de llamado a la acción en una página web&quot; title=&quot;Llamado a la acción mál diseñado&quot; loading=&quot;lazy&quot; /&gt;
+&lt;em&gt;Llamado a la acción mal diseñado&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;El aspecto visual de tu CTA es crucial&lt;/strong&gt; para aumentar los clics.&lt;/p&gt;
+
+&lt;p&gt;En un proyecto para una tienda de juguetes, experimentamos con diferentes colores y estilos de botones para la CTA. Descubrimos que un botón naranja brillante con bordes redondeados superó a todas las demás variantes, aumentando los clics en un 60%.&lt;/p&gt;
+
+&lt;p&gt;Este es el llamado a la acción de la anterior imagen. Nota la &lt;strong&gt;mejora en el diseño del botón y del texto&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cta-bien-hecho.avif&quot; alt=&quot;Ejemplo de llamado a la acción bien hecho en una página web&quot; title=&quot;Llamado a la acción bien diseñado&quot; loading=&quot;lazy&quot; /&gt;
+&lt;em&gt;Llamado a la acción con un mejor diseño&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-ubicación-estratégica&quot;&gt;5. Ubicación estratégica&lt;/h3&gt;
+
+&lt;p&gt;A través de numerosos tests A/B, he aprendido que &lt;strong&gt;la ubicación de la CTA puede ser tan importante como su contenido&lt;/strong&gt;. En general, he observado que colocar la CTA principal justo debajo del primer pliegue de la página (la parte visible sin hacer scroll) suele dar los mejores resultados.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-adaptación-móvil&quot;&gt;6. Adaptación móvil&lt;/h3&gt;
+
+&lt;p&gt;Con el creciente uso de dispositivos móviles, &lt;strong&gt;es crucial que tus CTAs sean igual de efectivas en pantallas pequeñas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En un proyecto reciente, creé una versión móvil específica de la CTA que ocupaba todo el ancho de la pantalla y se mantenía visible mientras el usuario hacía scroll. Esto aumentó las conversiones móviles en un 80%.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-importancia-de-las-pruebas-ab&quot;&gt;La importancia de las pruebas A/B&lt;/h2&gt;
+
+&lt;p&gt;Si hay algo que he aprendido en mi carrera es que no existen reglas absolutas en el marketing digital. Lo que funciona para una empresa puede no funcionar para otra. Por eso, &lt;strong&gt;siempre recomiendo a mis clientes realizar pruebas A/B exhaustivas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En un caso reciente, hice 3 variantes diferentes de CTA para una empresa de software. Sorprendentemente, la versión que yo pensaba que funcionaría mejor quedó en tercer lugar. Esto refuerza la importancia de basar nuestras decisiones en datos reales y no en suposiciones.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-poder-de-una-cta-optimizada&quot;&gt;El poder de una CTA optimizada&lt;/h2&gt;
+
+&lt;p&gt;A lo largo de mi carrera, he visto cómo &lt;strong&gt;pequeños cambios en las CTAs pueden llevar a grandes mejoras en las tasas de conversión&lt;/strong&gt;. La clave está en entender a tu audiencia, comunicar claramente el valor que ofreces y realizar pruebas constantes para mejorar.&lt;/p&gt;
+
+&lt;p&gt;Si estás luchando con las conversiones en tu landing page, o simplemente quieres llevar tus resultados al siguiente nivel, estaré encantado de ayudarte. &lt;a href=&quot;/desarrollo-paginas-web&quot; title=&quot;Desarrollo paginas web&quot;&gt;Con mi experiencia en desarrollo web&lt;/a&gt; y optimización de CTAs, puedo ayudarte a desbloquear el verdadero potencial de tu marketing digital.&lt;/p&gt;
+
+&lt;p&gt;¿Listo para transformar tus CTAs y aumentar drásticamente tus conversiones? &lt;a href=&quot;/contacto&quot;&gt;Contáctame ahora&lt;/a&gt; para una consulta gratuita y descubre cómo podemos impulsar juntos el éxito de tu negocio online.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mejora-de-paginas-web&quot; title=&quot;Mejorar páginas web&quot; class=&quot;boton&quot;&gt;Mejoremos tu pagina web&lt;/a&gt;&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">Necesitas probar y mejorar tu llamado a la acción. Te digo qué me ha servido en mis páginas.</summary>
+      
+
+      
+      
+
+      
+        <category term="[&quot;Landing page&quot;]" />
+      
+
+      
+        <category term="Páginas" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
   
     <entry>
       <title type="html">¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!</title>

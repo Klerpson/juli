@@ -16,7 +16,7 @@ last_modified_at: 2024-06-20 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 1221
-time_to_read: 7
+time_to_read: 9
 ---
 ### ¿Qué es una Página Web Estática? Definamos
 

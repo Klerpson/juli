@@ -14,7 +14,7 @@ last_modified_at: 2024-09-01 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 860
-time_to_read: 13
+time_to_read: 5
 ---
 Un consultor SEO es un profesional especializado en mejorar la visibilidad de una página web en los motores de búsqueda.
 
