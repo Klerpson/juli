@@ -50,15 +50,6 @@
   flex: 1 0 min(100%, 580px);
 }
 
-.articulo article h2,
-.articulo article h3{
-  margin: 2rem 0;
-}
-
-.articulo article li{
-  margin-bottom: 1.2em;
-}
-
 .articulo img{
   border-radius: var(--radius);
   box-shadow: var(--shadow);
