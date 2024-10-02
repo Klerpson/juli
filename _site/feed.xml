@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-10-02T07:59:44-05:00</updated>
+  <updated>2024-10-02T11:51:00-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -25,109 +25,162 @@
   
   
     <entry>
-      <title type="html">Llamados a la acción en una Landing Page. ¿Cómo se hace?</title>
-      <link href="http://localhost:4000/llamado-a-la-accion-en-landing-page" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
-      <published>2024-09-28T10:00:00-05:00</published>
-      <updated>2024-09-28T10:00:00-05:00</updated>
-      <id>http://localhost:4000/llamado-a-la-accion-en-landing-page</id>
+      <title type="html">Vulnerabilidades en WordPress de plantillas Themeforest</title>
+      <link href="http://localhost:4000/ll" rel="alternate" type="text/html" title="Vulnerabilidades en WordPress de plantillas Themeforest" />
+      <published>2024-10-02T10:00:00-05:00</published>
+      <updated>2024-10-02T10:00:00-05:00</updated>
+      <id>http://localhost:4000/ll</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/llamado-a-la-accion-en-landing-page">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/ll">&lt;p&gt;El BOOM del momento…&lt;/p&gt;
+
+&lt;p&gt;Se descubrió que 2 de las plantillas más vendidas para WordPress en ThemeForest tienen vulnerabilidades muy graves.&lt;/p&gt;
+
+&lt;p&gt;¡No lo puedo creer!&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Cómo hacer un CTA bien hecho&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#la-importancia-de-las-pruebas-ab&quot;&gt;Haz pruebas A/B&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#el-poder-de-una-cta-optimizada&quot;&gt;Te ayudo a mejorar tus llamados a la acción&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vulnerabilidades-en-2-de-los-temas-de-wordpress-que-ofrece-theme-forest&quot;&gt;Aquí la noticia de la vulnerabilidad de WordPress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cuál-es-la-lección&quot;&gt;Y aquí mi reflexión&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;la-importancia-de-una-cta-eficaz&quot;&gt;La importancia de una CTA eficaz&lt;/h2&gt;
+&lt;h2 id=&quot;-pero-si-eso-nunca-pasa-con-wordpress-las-plantillas-de-wordpress-son-la-mata-de-la-seguridad-y-el-rendimiento&quot;&gt;🤔 Pero, si eso nunca pasa con WordPress. Las plantillas de WordPress son la mata de la seguridad y el rendimiento&lt;/h2&gt;
 
-&lt;p&gt;Antes de sumergirnos en los consejos específicos, permíteme contarte una breve anécdota.&lt;/p&gt;
+&lt;p&gt;Que no se note mucho mi sarcasmo(😎☕).&lt;/p&gt;
 
-&lt;p&gt;Hace unos años, trabajé con una startup de restauración que estaba luchando por convertir el tráfico de su sitio web en ventas. Su landing page parecía atractiva, pero las conversiones eran decepcionantes. Después de un análisis exhaustivo, &lt;strong&gt;identifiqué que el problema principal era su CTA poco llamativa y mal ubicada&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Y hago una aclaración para evitar demandas o que me caigan a piedra: si te gusta WordPress no tengo nada en contra de ti, pero te aconsejo que no leas este artículo, porque le voy a dar duro.&lt;/p&gt;
 
-&lt;p&gt;Implementamos los cambios que voy a compartir contigo a continuación, y los resultados fueron asombrosos: &lt;strong&gt;un aumento del 150% en la tasa de conversión en tan solo un mes&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Si ya me conoces sabes que técnicamente no “odio” a WordPress (de hecho por mi trabajo me veo obligado a utilizarlo), simplemente creo que si lo que quieres es hacer una página profesional que de verdad le genere resultados a tu negocio…&lt;/p&gt;
 
-&lt;p&gt;Este es el poder de una CTA bien optimizada. Como el siguiente:&lt;/p&gt;
+&lt;p&gt;…&lt;strong&gt;&lt;a href=&quot;#quiero-ayudarte-a-aceptar-una-realidad-que-hace-años-es-noticia-con-las-vulnerabilidades-de-wordpress&quot;&gt;utilizar WordPress no es lo más recomendable&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/mejora-de-paginas-web&quot; title=&quot;Mejorar páginas web&quot; class=&quot;boton&quot;&gt;Mejoremos tu pagina web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/desarrollo-paginas-web&quot; class=&quot;boton&quot;&gt;Yo sí hago páginas profesionales&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Consejos probados para crear CTAs irresistibles&lt;/h2&gt;
+&lt;p&gt;Para probar mi punto y darte una mejor alternativa para crear páginas web corporativas, te voy a explicar un poco más de esta noticia que me encontré el otro día.&lt;/p&gt;
 
-&lt;h3 id=&quot;1-claridad-y-concisión-menos-es-más&quot;&gt;1. Claridad y concisión: Menos es más&lt;/h3&gt;
+&lt;h2 id=&quot;vulnerabilidades-en-2-de-los-temas-de-wordpress-que-ofrece-theme-forest&quot;&gt;Vulnerabilidades en 2 de los temas de WordPress que ofrece Theme Forest&lt;/h2&gt;
 
-&lt;p&gt;En mi experiencia, &lt;strong&gt;las CTAs más efectivas son aquellas que van directamente al grano&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Este era el titular de la noticia.&lt;/p&gt;
 
-&lt;p&gt;Por ejemplo, para un cliente de software B2B, cambiamos su CTA de “Solicita más información sobre nuestras soluciones empresariales” a simplemente “Empieza tu prueba gratis”. El resultado fue un aumento del 75% en los clics.&lt;/p&gt;
+&lt;p&gt;Estaba en inglés, así que hice mi mejor esfuerzo para traducirlo sin sonar cavernícola.&lt;/p&gt;
+
+&lt;p&gt;La noticia fue publicada por una web llamada Search Engine Journal (&lt;a href=&quot;https://www.searchenginejournal.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.searchenginejournal.com/&lt;/a&gt;), el cual es un portal de noticias, novedades y consejos sobre SEO.&lt;/p&gt;
+
+&lt;p&gt;Aquí ellos explican que Wordfence (&lt;a href=&quot;https://www.wordfence.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://www.wordfence.com/&lt;/a&gt;) (un plugin de seguridad para WordPress) &lt;strong&gt;detecto vulnerabilidades en estos temas para páginas web vendidos por Theme Forest&lt;/strong&gt; (&lt;a href=&quot;https://themeforest.net/?gad_source=1&amp;amp;gclid=Cj0KCQjwmOm3BhC8ARIsAOSbapVnplemgq8UZvvY29ksDby9TnK4GitMFG5sFbn6fteWy84JCfZbC1saAgz3EALw_wcB&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;WordPress Themes &amp;amp; Website Templates from ThemeForest&lt;/a&gt;) (uno de los mayores marketplaces para temas online):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Betheme theme for WordPress&lt;/li&gt;
+  &lt;li&gt;The Enfold – Responsive Multi-Purpose Theme for WordPress&lt;/li&gt;
+  &lt;li&gt;☢️☢️☢️&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;son-tan-graves-las-vulnerabilidades-que-se-encontraron&quot;&gt;¿Son tan graves las vulnerabilidades que se encontraron?&lt;/h2&gt;
+
+&lt;p&gt;Sí y mucho.&lt;/p&gt;
+
+&lt;p&gt;Son tan graves que, según advierte Wordfence, podrían permitir a un hacker &lt;strong&gt;eliminar archivos arbitrarios&lt;/strong&gt; (que sirven para controlar la página internamente) y &lt;strong&gt;agregar código malicioso&lt;/strong&gt; en el sitio web.&lt;/p&gt;
+
+&lt;p&gt;Y eso no es lo más grave.&lt;/p&gt;
+
+&lt;p&gt;Lo grave es que &lt;strong&gt;las compras de estos temas hacienden a más del medio millón&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Así que, si tuviste la desgracia de comprar uno de estos temas o estabas pensando en hacerlo, no lo utilices y huye de ahí.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-buena-noticia-con-respecto-a-estas-vulnerabilidades-de-wordpress&quot;&gt;La “buena noticia” con respecto a estas vulnerabilidades de WordPress&lt;/h3&gt;
+
+&lt;p&gt;La buena noticia es que a la fecha los desarrolladores de Betheme theme for WordPress se han puesto las pilas y subieron una nueva versión que parece solucionar el problema.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Un tip: no tienes que poner todo ese texto en el botón directamente. Recuerda que un llamado a la acción también es el texto que está antes de ese botón.&lt;/p&gt;
+  &lt;p&gt;El 30 de agosto se cargó la versión 27.5.7.1. Sin embargo, la herramienta de Wordfence no la ha analizado aún, habría que esperar a ver que pasa.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;2-crea-una-sensación-de-urgencia&quot;&gt;2. Crea una sensación de urgencia&lt;/h3&gt;
+&lt;p&gt;Por otro lado, The Enfold – Responsive Multi-Purpose Theme for WordPress, que es el otro tema afectado, &lt;strong&gt;aún no tiene ninguna versión actualizada con otro parche&lt;/strong&gt; (hasta este 30 de septiembre de 2024 que me doy gusto escribiendo esto ☕). Sigue siendo muy peligroso utilizarlo.&lt;/p&gt;
 
-&lt;p&gt;He comprobado que &lt;strong&gt;añadir un toque de urgencia&lt;/strong&gt; puede impulsar significativamente las conversiones. En un proyecto reciente para una agencia inmobiliaria, modificamos la CTA de sus botones de “Contáctanos” a “Asesórate gratis hoy”. Esta simple modificación incrementó los contactos en un 30%.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;👉 Por cierto, si eres bilingüe y te interesa leer el artículo original, te lo dejo &lt;strong&gt;aquí&lt;/strong&gt; (&lt;a href=&quot;https://www.searchenginejournal.com/vulnerabilities-in-two-themeforest-wordpress-themes-500k-sold/525797/?user_id=bd5cdd4bbe345d567f27e60df832fdb6657b30db18acd31b6df59e16f904af82&amp;amp;utm_campaign=daily_newsletter_09_02_2024&amp;amp;utm_medium=email&amp;amp;_hsenc=p2ANqtz--xjY_9XfvJ5ahPukK4uCjWvRByT7DjxFso6a2TAy_SGN9wXvkYEahinWL4Rjv0YGK0jPn_Eojm69ruPdQ5l9BrxRhVmzewxxeWRNBRV3JY_XuPhDQ&amp;amp;_hsmi=322740785&amp;amp;utm_source=sejtoday#placement_loop&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Vulnerabilities in Two ThemeForest WordPress Themes, 500k+ Sold (searchenginejournal.com)&lt;/a&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;3-destaca-los-beneficios-concretos&quot;&gt;3. Destaca los beneficios concretos&lt;/h3&gt;
+&lt;h2 id=&quot;cuál-es-la-lección-después-de-leer-esta-noticia&quot;&gt;¿Cuál es la lección después de leer esta noticia?&lt;/h2&gt;
 
-&lt;p&gt;Uno de mis mantras en el desarrollo de landing pages es: “No vendas el producto, vende la solución”.&lt;/p&gt;
+&lt;p&gt;Según mi análisis, encuentro 3 lecciones importantes en esta noticia:&lt;/p&gt;
 
-&lt;p&gt;Por ejemplo, para una app de productividad, cambiamos la CTA de “Haz tu pedido” a “Consigue tus etiquetas”. Este enfoque en los beneficios concretos aumentó los pedidos en un impresionante 22%.&lt;/p&gt;
+&lt;ol class=&quot;seccion&quot;&gt;
+  &lt;li&gt;Que hay estar al día con las novedades, sobre todo en nuestro mundillo, donde todo puede cambiar repentinamente y algo que funcionaba muy bien ya no lo hace o es hasta inseguro.&lt;/li&gt;
+  &lt;li&gt;Que si por alguna razón usas los temas que tienen vulnerabilidades, actualízate a la versión corregida o escapa inmediatamente (mientras puedas). &lt;a href=&quot;#&quot; id=&quot;lead_whatsapp&quot;&gt;Yo te ayudo a dejarlo para siempre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lo obvio, que podrías ahórrate todos esos dolores de cabeza de estar pensando&lt;br /&gt;
+  ¿Será que mi página hecha en WordPress tiene alguna vulnerabilidad?&lt;br /&gt;
+  ¿Tendré que actualizar alguna cosa?&lt;br /&gt;
+  ¿Dónde consigo ese plugin que evalúa la seguridad de mi web y cómo lo implemento?&lt;br /&gt;
+  Si tan solo… redobles por favor… &lt;strong&gt;¡NO UTILIZAS WORDPRESS! 👉&lt;a href=&quot;#&quot; id=&quot;lead_whatsapp&quot;&gt;Escríbeme&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;4-optimiza-el-diseño-visual&quot;&gt;4. Optimiza el diseño visual&lt;/h3&gt;
+&lt;p&gt;No es odio WordPres…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/llamado-a-la-accion-mal-hecho.avif&quot; alt=&quot;Ejemplo de llamado a la acción en una página web&quot; title=&quot;Llamado a la acción mál diseñado&quot; loading=&quot;lazy&quot; /&gt;
-&lt;em&gt;Llamado a la acción mal diseñado&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;quiero-ayudarte-a-aceptar-una-realidad-que-hace-años-es-noticia-con-las-vulnerabilidades-de-wordpress&quot;&gt;Quiero ayudarte a aceptar una realidad que hace años es noticia con las vulnerabilidades de WordPress&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;El aspecto visual de tu CTA es crucial&lt;/strong&gt; para aumentar los clics.&lt;/p&gt;
+&lt;p&gt;Aunque hayas tenido que pagar por una plantilla a un supuesto desarrollador web.&lt;/p&gt;
 
-&lt;p&gt;En un proyecto para una tienda de juguetes, experimentamos con diferentes colores y estilos de botones para la CTA. Descubrimos que un botón naranja brillante con bordes redondeados superó a todas las demás variantes, aumentando los clics en un 60%.&lt;/p&gt;
+&lt;p&gt;Te lo voy a poner así: El mayor problema de las páginas web para negocios no es tanto WordPress en sí, realmente, son &lt;strong&gt;quienes hacen las páginas&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Este es el llamado a la acción de la anterior imagen. Nota la &lt;strong&gt;mejora en el diseño del botón y del texto&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Lo más fácil es coger una plantilla o un tema, ponerle colores bonitos, una letra en cursiva, una bolita que sigue al cursor y muchas fóticos… No se tienen en cuenta ni la seguridad de la página, ni la optimización, ni la accesibilidad, ni la flexibilidad de esta, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/cta-bien-hecho.avif&quot; alt=&quot;Ejemplo de llamado a la acción bien hecho en una página web&quot; title=&quot;Llamado a la acción bien diseñado&quot; loading=&quot;lazy&quot; /&gt;
-&lt;em&gt;Llamado a la acción con un mejor diseño&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Además, como WordPress pide actualización para todo (plantillas, plugins, temas y hasta para el collar del perro), alguien “normal”, sin conocimientos profesionales a nivel de código en WordPress, no puede llevar un control y entender si hay algún cambio o fallo en la actualización que pudiera perjudicar la página web.&lt;/p&gt;
 
-&lt;h3 id=&quot;5-ubicación-estratégica&quot;&gt;5. Ubicación estratégica&lt;/h3&gt;
+&lt;p&gt;Lo que nos lleva a vulnerabilidades gravísimas, como las que vimos antes, y hace que tristemente &lt;strong&gt;WordPress no sea seguro ni confiable&lt;/strong&gt; para la mayoría de los mortales.&lt;/p&gt;
 
-&lt;p&gt;A través de numerosos tests A/B, he aprendido que &lt;strong&gt;la ubicación de la CTA puede ser tan importante como su contenido&lt;/strong&gt;. En general, he observado que colocar la CTA principal justo debajo del primer pliegue de la página (la parte visible sin hacer scroll) suele dar los mejores resultados.&lt;/p&gt;
+&lt;p&gt;Si quieres que te explique mejor por qué, en mi humilde opinión, WordPress no es la mejor opción para hacer una página con estrategia real y libre de dolores de cabeza, te recomiendo que vayas a este otro &lt;strong&gt;artículo&lt;/strong&gt;: &lt;a href=&quot;https://juli.com.co/por-que-no-usar-wordpress&quot;&gt;Por qué no utilizar WordPress si tu empresa es importante para ti&lt;/a&gt;… no apto para fans de WordPress sensibles.&lt;/p&gt;
 
-&lt;h3 id=&quot;6-adaptación-móvil&quot;&gt;6. Adaptación móvil&lt;/h3&gt;
+&lt;h2 id=&quot;y-entonces-cómo-sí-te-recomiendo-que-hagas-tu-página-web&quot;&gt;Y entonces, ¿Cómo sí te recomiendo que hagas tu página web?&lt;/h2&gt;
 
-&lt;p&gt;Con el creciente uso de dispositivos móviles, &lt;strong&gt;es crucial que tus CTAs sean igual de efectivas en pantallas pequeñas&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sinceramente, ¡esta parte me emociona!&lt;/p&gt;
 
-&lt;p&gt;En un proyecto reciente, creé una versión móvil específica de la CTA que ocupaba todo el ancho de la pantalla y se mantenía visible mientras el usuario hacía scroll. Esto aumentó las conversiones móviles en un 80%.&lt;/p&gt;
+&lt;p&gt;Estoy a punto de revelarte &lt;strong&gt;el secreto existencial de las páginas web que realmente venden y funcionan&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;la-importancia-de-las-pruebas-ab&quot;&gt;La importancia de las pruebas A/B&lt;/h2&gt;
+&lt;p&gt;Son hechas con… redobles de nuevo…&lt;/p&gt;
 
-&lt;p&gt;Si hay algo que he aprendido en mi carrera es que no existen reglas absolutas en el marketing digital. Lo que funciona para una empresa puede no funcionar para otra. Por eso, &lt;strong&gt;siempre recomiendo a mis clientes realizar pruebas A/B exhaustivas&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;… &lt;strong&gt;¡CÓDIGO!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;En un caso reciente, hice 3 variantes diferentes de CTA para una empresa de software. Sorprendentemente, la versión que yo pensaba que funcionaría mejor quedó en tercer lugar. Esto refuerza la importancia de basar nuestras decisiones en datos reales y no en suposiciones.&lt;/p&gt;
+&lt;p&gt;¿Código? Sí, código.&lt;/p&gt;
 
-&lt;h2 id=&quot;el-poder-de-una-cta-optimizada&quot;&gt;El poder de una CTA optimizada&lt;/h2&gt;
+&lt;p&gt;HTML, CSS y JavaScript.&lt;/p&gt;
 
-&lt;p&gt;A lo largo de mi carrera, he visto cómo &lt;strong&gt;pequeños cambios en las CTAs pueden llevar a grandes mejoras en las tasas de conversión&lt;/strong&gt;. La clave está en entender a tu audiencia, comunicar claramente el valor que ofreces y realizar pruebas constantes para mejorar.&lt;/p&gt;
+&lt;p&gt;Así de fácil, bueno, no es “fácil” hacer una página con estos lenguajes de desarrollo web, requiere tiempo y unos buenos conocimientos.&lt;/p&gt;
 
-&lt;p&gt;Si estás luchando con las conversiones en tu landing page, o simplemente quieres llevar tus resultados al siguiente nivel, estaré encantado de ayudarte. &lt;a href=&quot;/desarrollo-paginas-web&quot; title=&quot;Desarrollo paginas web&quot;&gt;Con mi experiencia en desarrollo web&lt;/a&gt; y optimización de CTAs, puedo ayudarte a desbloquear el verdadero potencial de tu marketing digital.&lt;/p&gt;
+&lt;p&gt;Pero si es &lt;strong&gt;muchísimo más sencillo&lt;/strong&gt; que matarse la cabeza con gestores de contenido como WordPress.&lt;/p&gt;
 
-&lt;p&gt;¿Listo para transformar tus CTAs y aumentar drásticamente tus conversiones? &lt;a href=&quot;/contacto&quot;&gt;Contáctame ahora&lt;/a&gt; para una consulta gratuita y descubre cómo podemos impulsar juntos el éxito de tu negocio online.&lt;/p&gt;
+&lt;p&gt;Las verdaderas páginas web rápidas, bonitas y efectivas a nivel de estrategia son hechas con código y lenguajes de desarrollo web.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/mejora-de-paginas-web&quot; title=&quot;Mejorar páginas web&quot; class=&quot;boton&quot;&gt;Mejoremos tu pagina web&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;Así las hago yo.&lt;/p&gt;
+
+&lt;p&gt;¿Quieres ver cómo? ¿Te interesa que te ayude con la tuya?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/desarrollo-paginas-web&quot; class=&quot;boton&quot;&gt;Yo sí hago páginas profesionales&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Me gustaría escucharte:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;¿Hay algo de lo que dije en lo que no estés de acuerdo?&lt;/li&gt;
+  &lt;li&gt;¿Has sido víctima del sufrimiento con WordPress y te gustaría compartirme tu historia?&lt;/li&gt;
+  &lt;li&gt;¿Quieres que hable de un tema específico en un artículo futuro?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Deja un comentario, estaré encantado de que charlemos un ratico…&lt;/p&gt;</content>
       
       
       
-        <summary type="html">Necesitas probar y mejorar tu llamado a la acción. Te digo qué me ha servido en mis páginas.</summary>
+        <summary type="html">Ya te lo he dicho: WordPress no es seguro. Aquí otra noticia.</summary>
       
 
       
       
 
       
-        <category term="[&quot;Landing page&quot;]" />
+        <category term="[&quot;Noticias&quot;]" />
       
 
       
-        <category term="Páginas" />
+        <category term="Noticias" />
       
 
       
@@ -140,13 +193,13 @@
   
     <entry>
       <title type="html">Llamados a la acción en una Landing Page. ¿Cómo se hace?</title>
-      <link href="http://localhost:4000/ll" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
+      <link href="http://localhost:4000/llamado-a-la-accion-en-landing-page" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
       <published>2024-09-28T10:00:00-05:00</published>
       <updated>2024-09-28T10:00:00-05:00</updated>
-      <id>http://localhost:4000/ll</id>
+      <id>http://localhost:4000/llamado-a-la-accion-en-landing-page</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/ll">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/llamado-a-la-accion-en-landing-page">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Cómo hacer un CTA bien hecho&lt;/a&gt;&lt;/li&gt;
