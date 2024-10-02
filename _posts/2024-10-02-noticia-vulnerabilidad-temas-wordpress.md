@@ -61,7 +61,7 @@ Son tan graves que, según advierte Wordfence, podrían permitir a un hacker **e
 
 Y eso no es lo más grave.
 
-Lo grave es que **las compras de estos temas hacienden a más del medio millón**.
+Lo grave es que **las compras de estos temas ascienden a más del medio millón**.
 
 Así que, si tuviste la desgracia de comprar uno de estos temas o estabas pensando en hacerlo, no lo utilices y huye de ahí.
 
