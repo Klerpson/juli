@@ -3,7 +3,7 @@ layout: articulo
 title: "Tienes una web muy sencilla. ¿La estás aprovechando?"
 description: Me pediste una página web sencilla. Se llaman One Page. Es la más sencilla. Pero si no la sabes usar, pierdes tu inversión. ¡Aquí te doy ideas!
 category: Emprendimiento
-tags: [Emprendimiento, Páginas]
+tags: [Páginas]
 h1: "Te doy idea de <span class='resaltar'>cómo aprovechar una página web sencilla</span>"
 hero: img/aprovechar-pagina-web-sencilla.svg
 jpg: img/aprovechar-pagina-web-sencilla.jpg

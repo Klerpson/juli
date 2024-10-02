@@ -37,7 +37,6 @@ layout: default
   <aside>
     <h4>¿Tienes un página web rentable? Si no, escríbeme</h4>
     <a href="mailto:{{site.email}}" rel="nofollow noopener" title="Solicitar una página web" class="boton" target="_blank">📧 Escribe tu consulta</a>
-    <hr>
     <h4>Aprende más aquí</h4>
     {% assign maxRelated = 3 %}
     {% assign minCommonTags =  1 %}
@@ -63,10 +62,10 @@ layout: default
     {% if sameTagCount >= minCommonTags %}
 
     <div class="relacionados">
+      {% if post.hero %}
+      <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}" loading="lazy" width="40" height="40">
+      {% endif %}
       <a href="{{ post.url |relative_url }}" title="{{post.title}}">
-        {% if post.hero %}
-        <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}" loading="lazy" width="40" height="40">
-        {% endif %}
         <h5>{{ post.title }}</h5>
       </a>
     </div>
@@ -81,5 +80,4 @@ layout: default
   
 </main>
 {% include talkyard-comments.html %}
-{% include cta.html %}
 <a href="#">{% include up.html %}</a>
