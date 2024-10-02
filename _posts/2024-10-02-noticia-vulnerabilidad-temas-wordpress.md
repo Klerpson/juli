@@ -13,8 +13,8 @@ date: 2024-10-02 10:00:00 -0500
 last_modified_at: 2024-10-02 10:00:00 -0500
 author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
-word_count: 760
-time_to_read: 4
+word_count: 1139
+time_to_read: 7
 ---
 El BOOM del momento…
 
