@@ -11,10 +11,12 @@ h1: Mi portafolio de páginas web profesionales
     <div class="scroll-arrow"></div>
   </div>
   <div class="portafolio_categorias">
-    <button data-name="all" class="active boton-secundario">→ Todos</button>
+    <button data-name="all" class="active boton-secundario">→ Marca personal</button>
+    <button data-name="all" class="active boton-secundario">→ Blogs para marketing</button>
     {% for categoria in site.data.portafolio %}
     <button data-name="{{ categoria[0] }}" class="boton-secundario">→ {{ categoria[0] }}</button>
     {% endfor %}
+    <button data-name="all" class="active boton-secundario">→ Mira más...</button>
   </div>
 </section>
 <main class="wrapper">
