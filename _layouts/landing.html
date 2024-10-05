@@ -3,14 +3,6 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-
-  {% include header.html %}
-<main class="wrapper contenido">
-  <article class="flow landing">
-    {{content}}
-  </article>
-</main>
-</body>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LXH4RTJ9N1"></script>
   <script>
@@ -23,6 +15,14 @@ layout: compress
 
     gtag('config', 'G-LXH4RTJ9N1');
   </script>
-  <script defer src="{{ '/js/whatsapp.js' | relative_url }}"></script>
+
+  {% include header.html %}
+<main class="wrapper contenido">
+  <article class="flow landing">
+    {{content}}
+  </article>
+</main>
+</body>
+  <script defer src="{{ '/js/app.js' | relative_url }}"></script>
 
 </html>

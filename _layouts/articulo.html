@@ -11,6 +11,7 @@ layout: default
     {{ words | plus: 150 | divided_by: 150 | append: ' minutos para leerlo 🤓' }}
     {% endunless %}
   </span>
+  | {{page.date | date: "%-d %B %Y" }}
 </div>
 <main class="articulo wrapper">
   <article class="flow">
@@ -80,4 +81,3 @@ layout: default
   
 </main>
 {% include talkyard-comments.html %}
-<a href="#">{% include up.html %}</a>

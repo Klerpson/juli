@@ -1,0 +1,77 @@
+---
+layout: default
+title: Conoce las páginas web que te ofrezco en mi Portafolio
+description: "Te presento mi portafolio. Verás ejemplos de páginas web profesionales hechas solo con código. Y te darás cuenta porqué son tan superiores."
+h1: Mi portafolio de páginas web profesionales 
+---
+<section class="wrapper flow beneficios">
+  <div class="header_dos_columnas">
+    <h2>La página web profesional que buscas yo la diseño</h2>
+    <p>juli.com.co</p>
+    <div class="scroll-arrow"></div>
+  </div>
+  <div class="portafolio_categorias">
+    <button data-name="all" class="active boton-secundario">→ Todos</button>
+    {% for categoria in site.data.portafolio %}
+    <button data-name="{{ categoria[0] }}" class="boton-secundario">→ {{ categoria[0] }}</button>
+    {% endfor %}
+  </div>
+</section>
+<main class="wrapper">
+  {% for categoria in site.data.portafolio %}
+  <div data-name="{{ categoria[0] }}" class="portafolio">
+    <h2>Páginas web de {{ categoria[0] }}</h2>
+    <div>
+      {% for pagina in categoria[1] %}
+      <article class="portafolio_item">
+        <hr>
+        <div>
+          <h3>{{pagina.titulo}}</h3>
+          {% if pagina.intro %}
+          <p>{{pagina.intro}}</p>
+          {% endif %}
+          <img src="{{ pagina.img | relative_url }}" alt="{{ pagina.alt }}" loading="lazy" width="992" height="494" title="{{ pagina.title_img }}">
+          <div class="scroll-arrow"></div>
+
+        </div>
+        <div class="portafolio_item_copy flow">
+          <div style="height: 400px;">
+            <span class="animated-line"></span>
+          </div>
+          <div class="flow">
+            <ol>
+              {% for beneficio in pagina.beneficios %}
+              <li>→ {{ beneficio }}</li>
+              {% endfor %}
+            </ol>
+            {% include boton_secundario.html url=pagina.url title=pagina.title_url cta=pagina.cta_url %}
+            {% include boton.html %}
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</main>
+<section class="datos fondo">
+  {% for dato in site.data.datos.home %}
+    <article>
+      <h4>{{dato.title}}</h4>
+      <p>{{dato.texto}}</p>
+    </article>
+  {% endfor %}
+</section>
+<section class="wrapper dos_lados">
+  <img src="{{'img/julian-franco-desarrollador-web-y-seo.avif' | relative_url }}" alt="Foto de Julian, desarrollador de páginas web y SEO" title="Julian Franco" loading="lazy" height="400" width="200">
+  <div style="height: 496px;">
+    <span class="animated-line"></span>
+  </div>
+  <div class="dos_lados_copy">
+    <small>Soy desarrollador web y SEO</small>
+    <h2>¿Te gustó lo que viste en este portafolio de páginas web? Te gustará más lo que haré con tu página web</h2>
+    <p>Si necesitas más referencias, sólo dímelo. Si te gustaría contactar con alguno de mis clientes, ellos están felices de recomendarme. Y si necesitas <strong class="resaltar">una página web profesional, bien hecha y que genere buenos resultados,</strong> ya sabes que debes hacer clic aquí abajo. Empecemos a trabajar y consigamos pronto lo que estás buscando:</p>
+    <div class="scroll-arrow"></div>
+    {% include boton.html %}
+  </div>
+</section>

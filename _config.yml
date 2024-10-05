@@ -1,5 +1,5 @@
 baseurl: ''
-url: 'https://juli.com.co'
+url: 'https://revisemos.com'
 name: Juli.Com.Co
 linkedin: https://www.linkedin.com/in/tintoconjuli/
 author:
@@ -18,6 +18,11 @@ publisher:
 language: es
 
 permalink: /:slug
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:slug
 
 markdown: kramdown
 

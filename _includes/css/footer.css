@@ -1,24 +1,11 @@
 footer {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
+  display: grid;
+  gap: 2em;
+  place-items: center;
+  padding: 8em 0 4em;
   text-align: center;
-  background-color: var(--complemento1);
-  box-shadow: var(--shadow);
-}
 
-footer a,
-footer p {
-  display: inline-block;
-  font-family: var(--fuenteTexto);
-  font-size: var(--sizeTextos);
-  margin: 0;
-  padding: 0;
-}
-
-footer a {
-  color: var(--principal);
-  margin: 3rem 0.5rem;
-  font-weight: 700;
+  div{
+    border-bottom: 2px solid var(--titulos);
+  }
 }

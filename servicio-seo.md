@@ -1,11 +1,12 @@
 ---
-layout: landing
+layout: default
 title: ¿Tienes Página Web Sin Visitas? No tienes nada. Yo hago SEO
 description: Puede que tengas un página web. Pero si no tienes visitas orgánicas, da igual si la tienes. Pues yo hago SEO. Y me encargo que te visiten. Y mucho!
-h1: 🤔 Quien no está en internet no existe... Y si no hacemos SEO, tampoco existes. Me explico
+h1: Soy asesor SEO y te ayudaré a posicionar la página web de tu empresa
 hero: img/banner-juli.webp
 alt: Banner sobre el servicio de SEO para empresas de Juli
 servicio: SEO
+excerpt: El SEO en Colombia está creciendo. Y tú, ¿te estás quedando atrás? Entonces ya sabes la razón por la que tu página web no recibe tantas visitas como puedes tener. Entonces, tampoco estás vendiendo más. Yo te ayudo a resolverlo hoy mismo.
 ---
 Te quiero hablar de un negocio con un servicio muy tradicional en nuestro país, Colombia.
 
@@ -15,7 +16,7 @@ Y te cuento algo: **hay muchas empresas perdiendo dinero allí**.
 
 Me explico...
 
-## ¿Por qué están perdiendo dinero estas empresas que no posicionan su página web?
+## ¿Por qué está perdiendo dinero tu empresa si no posicionan tu página web?
 
 Normalmente se ofrecen páginas web sin explicar a los empresarios que **necesitan seguir invirtiendo en ellas**.
 
@@ -27,7 +28,7 @@ Te pregunto: ¿qué consigues con eso?
 
 **Conseguirás lo mismo que la página web de las empresas que te mencioné antes: ¡nada!**
 
->🤔 Una página web guardada en algún lugar del internet, **pero que nadie visita**, sería igual que esas tarjetas.
+>Una página web guardada en algún lugar del internet, **pero que nadie visita**, sería igual que esas tarjetas.
 
 ## Lo que hace que una página web atraiga clientes a tu empresa se llama SEO
 

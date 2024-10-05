@@ -1,49 +1,39 @@
-{% include nav.html %}
-<header class="home_header wrapper">
-  {% assign url = page.url %}
-  {% case url %}
-    {% when "/" %}
-    <div class="hero_home_text">
-      <div class="hero_home_cta">
-        <h1>{{page.h1}}</h1>
-          <a href="{{'desarrollo-paginas-web'|relative_url}}" title="Desarrollo de páginas web empresariales" class="boton boton2">Desarrollo páginas web</a>
-          <a href="{{'servicio-seo'|relative_url}}" title="Posicionamiento de páginas web de empresas" class="boton boton2">Posicionamiento web</a>
-          <a href="{{'mejora-de-paginas-web'|relative_url}}" title="Mejora de páginas web" class="boton boton2">Optimización de páginas</a>
+{% assign url = page.url %}
+{% case url %}
+{% when "/" %}
+<header class="home_header wrapper flow">
+  <h1>Páginas web y SEO desde Colombia</h1>
+  <h2>Soy Juli, y hago páginas web profesionales</h2>
+  <div style="height: 120px;">
+    <span class="animated-line"></span>
+  </div>
+  {% include boton.html %}
+  <p>Los profesionales que están consiguiendo <strong class="resaltar">vender más con mis páginas web</strong> son:</p>
+  <ul class="fondo">
+    <li>→ Clientes que necesitaban una página web que no generara gastos innecesarios</li>
+    <li>→ Empresas que hace que sus visitantes no esperen una eternidad mientras carga su página (que pena)</li>
+    <li>→ Profesionales con páginas que no visitaba nadie en absoluto</li>
+    <li>→ Marcas con muy pocas visitas y CERO ventas</li>
+  </ul>
+  <p>Si ya solucionaste esto no necesitas mis servicio profesional.<br>Pero si aún no lo solucionas, <strong class="resaltar">soy el desarrollador web y SEO que te dará una página web profesional que sí genera resultados.</strong></p>
+  <div class="scroll-arrow"></div>
+  {% when "/portafolio" %}
+    <header class="hero wrapper flow">
+      <h1>{{page.h1}}</h1>
+      <p>{{page.description}}</p>
+      {% include boton.html %}
+      <div style="height: 120px;">
+        <span class="animated-line"></span>
       </div>
+
+  {% else %}
+  <header class="hero wrapper flow">
+    <p>{{page.excerpt}}</p>
+    <h1>{{page.h1}}</h1>
+    {% include boton.html %}
+    <div style="height: 120px;">
+      <span class="animated-line"></span>
     </div>
-    <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" width="552" height="414" title="Desarrollador de páginas web Colombia" class="home_header_hero">
-    
-    
-      {% when "/contacto" %}
-      <div class="header_landing">
-        <h1>{{page.h1}}</h1>
-        {% include boton.html %}
-      </div>
-      {% when "/desarrollo-paginas-web" %}
-      <div class="header_landing">
-        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-        <h1>{{page.h1}}</h1>
-        {% include boton.html %}
-      </div>
-      {% when "/servicio-seo" %}
-      <div class="header_landing">
-        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-        <h1>{{page.h1}}</h1>
-        {% include boton.html %}
-      </div>
-      {% when "/mejora-de-paginas-web" %}
-      <div class="header_landing">
-        <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-        <h1>{{page.h1}}</h1>
-        {% include boton.html %}
-      </div>
-    {% else %}
-    <div class="header_post">
-      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}">
-      <div class="flow">
-        <h1>{{page.h1}}</h1>
-        <p>{{page.description}} - Juli 😎</p>
-      </div>
-    </div>
-    {% endcase %}
+    <img src="{{page.hero | relative_url }}" alt="{{page.alt}}" title="{{page.title}}">
+  {% endcase %}
 </header>

@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-10-02T11:53:34-05:00</updated>
+  <updated>2024-10-05T11:45:14-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -26,13 +26,13 @@
   
     <entry>
       <title type="html">Vulnerabilidades en WordPress de plantillas Themeforest</title>
-      <link href="http://localhost:4000/noticia-vulnerabilidad-temas-wordpress" rel="alternate" type="text/html" title="Vulnerabilidades en WordPress de plantillas Themeforest" />
+      <link href="http://localhost:4000/blog/noticia-vulnerabilidad-temas-wordpress" rel="alternate" type="text/html" title="Vulnerabilidades en WordPress de plantillas Themeforest" />
       <published>2024-10-02T10:00:00-05:00</published>
       <updated>2024-10-02T10:00:00-05:00</updated>
-      <id>http://localhost:4000/noticia-vulnerabilidad-temas-wordpress</id>
+      <id>http://localhost:4000/blog/noticia-vulnerabilidad-temas-wordpress</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/noticia-vulnerabilidad-temas-wordpress">&lt;p&gt;El BOOM del momento…&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/noticia-vulnerabilidad-temas-wordpress">&lt;p&gt;El BOOM del momento…&lt;/p&gt;
 
 &lt;p&gt;Se descubrió que 2 de las plantillas más vendidas para WordPress en ThemeForest tienen vulnerabilidades muy graves.&lt;/p&gt;
 
@@ -193,13 +193,13 @@
   
     <entry>
       <title type="html">Llamados a la acción en una Landing Page. ¿Cómo se hace?</title>
-      <link href="http://localhost:4000/llamado-a-la-accion-en-landing-page" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
+      <link href="http://localhost:4000/blog/llamado-a-la-accion-en-landing-page" rel="alternate" type="text/html" title="Llamados a la acción en una Landing Page. ¿Cómo se hace?" />
       <published>2024-09-28T10:00:00-05:00</published>
       <updated>2024-09-28T10:00:00-05:00</updated>
-      <id>http://localhost:4000/llamado-a-la-accion-en-landing-page</id>
+      <id>http://localhost:4000/blog/llamado-a-la-accion-en-landing-page</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/llamado-a-la-accion-en-landing-page">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/llamado-a-la-accion-en-landing-page">&lt;p&gt;Como desarrollador web especializado en marketing digital, he visto de primera mano cómo una llamada a la acción (CTA) bien diseñada puede transformar completamente el rendimiento de una landing page. A lo largo de mi carrera, &lt;strong&gt;he optimizado cientos de CTAs para clientes de diversos sectores&lt;/strong&gt;, y hoy quiero compartir contigo algunos de los conocimientos más valiosos que he adquirido en el camino.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#consejos-probados-para-crear-ctas-irresistibles&quot;&gt;Cómo hacer un CTA bien hecho&lt;/a&gt;&lt;/li&gt;
@@ -307,13 +307,13 @@
   
     <entry>
       <title type="html">¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!</title>
-      <link href="http://localhost:4000/consultor-seo-colombia" rel="alternate" type="text/html" title="¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!" />
+      <link href="http://localhost:4000/blog/consultor-seo-colombia" rel="alternate" type="text/html" title="¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!" />
       <published>2024-09-01T10:00:00-05:00</published>
       <updated>2024-09-01T10:00:00-05:00</updated>
-      <id>http://localhost:4000/consultor-seo-colombia</id>
+      <id>http://localhost:4000/blog/consultor-seo-colombia</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/consultor-seo-colombia">&lt;p&gt;Un consultor SEO es un profesional especializado en mejorar la visibilidad de una página web en los motores de búsqueda.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/consultor-seo-colombia">&lt;p&gt;Un consultor SEO es un profesional especializado en mejorar la visibilidad de una página web en los motores de búsqueda.&lt;/p&gt;
 
 &lt;p&gt;En mi oficio, como &lt;strong&gt;consultor SEO colombiano&lt;/strong&gt;, procuro lograr que tu página aparezca en los primeros resultados de búsqueda cuando los usuarios realicen una consulta relevante.&lt;/p&gt;
 
@@ -508,13 +508,13 @@
   
     <entry>
       <title type="html">¿Quieres mejorar tu página web? Te digo qué hacer</title>
-      <link href="http://localhost:4000/mejorar-paginas-web-de-empresas" rel="alternate" type="text/html" title="¿Quieres mejorar tu página web? Te digo qué hacer" />
+      <link href="http://localhost:4000/blog/mejorar-paginas-web-de-empresas" rel="alternate" type="text/html" title="¿Quieres mejorar tu página web? Te digo qué hacer" />
       <published>2024-08-12T10:00:00-05:00</published>
       <updated>2024-08-20T10:00:00-05:00</updated>
-      <id>http://localhost:4000/mejorar-paginas-web-de-empresas</id>
+      <id>http://localhost:4000/blog/mejorar-paginas-web-de-empresas</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/mejorar-paginas-web-de-empresas">&lt;p&gt;En la actualidad, las páginas web juegan un papel fundamental en el éxito de un negocio o proyecto en línea.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/mejorar-paginas-web-de-empresas">&lt;p&gt;En la actualidad, las páginas web juegan un papel fundamental en el éxito de un negocio o proyecto en línea.&lt;/p&gt;
 
 &lt;p&gt;Con el creciente número de usuarios de internet y la competencia cada vez más feroz, es vital que los sitios web se destaquen tanto en diseño como en rendimiento.&lt;/p&gt;
 
@@ -524,7 +524,7 @@
 
 &lt;p&gt;Como dicen los mayores, lo barato sale caro.&lt;/p&gt;
 
-&lt;p&gt;Estos errores pueden afectar la usabilidad, &lt;a href=&quot;/accesibilidad-web&quot; title=&quot;Accesibilidad de páginas web&quot;&gt;accesibilidad&lt;/a&gt;, &lt;a href=&quot;/servicio-seo&quot; title=&quot;Servicio de SEO&quot;&gt;SEO&lt;/a&gt;, rendimiento y &lt;a href=&quot;/por-que-no-usar-wordpress&quot; title=&quot;Problemas de seguridad en WordPress&quot;&gt;seguridad de las páginas web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estos errores pueden afectar la usabilidad, &lt;a href=&quot;/blog/accesibilidad-web&quot; title=&quot;Accesibilidad de páginas web&quot;&gt;accesibilidad&lt;/a&gt;, &lt;a href=&quot;/servicio-seo&quot; title=&quot;Servicio de SEO&quot;&gt;SEO&lt;/a&gt;, rendimiento y &lt;a href=&quot;/blog/por-que-no-usar-wordpress&quot; title=&quot;Problemas de seguridad en WordPress&quot;&gt;seguridad de las páginas web&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aquí te comparto algunos datos relevantes:&lt;/p&gt;
 
@@ -685,19 +685,19 @@
   
     <entry>
       <title type="html">El Arte de las Landing Pages con Storytelling</title>
-      <link href="http://localhost:4000/paginas-de-aterrizaje-con-storytelling" rel="alternate" type="text/html" title="El Arte de las Landing Pages con Storytelling" />
+      <link href="http://localhost:4000/blog/paginas-de-aterrizaje-con-storytelling" rel="alternate" type="text/html" title="El Arte de las Landing Pages con Storytelling" />
       <published>2024-07-20T10:00:00-05:00</published>
       <updated>2024-07-20T10:00:00-05:00</updated>
-      <id>http://localhost:4000/paginas-de-aterrizaje-con-storytelling</id>
+      <id>http://localhost:4000/blog/paginas-de-aterrizaje-con-storytelling</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/paginas-de-aterrizaje-con-storytelling">&lt;h2 id=&quot;qué-es-una-página-de-aterrizaje&quot;&gt;¿Qué es una página de aterrizaje?&lt;/h2&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/paginas-de-aterrizaje-con-storytelling">&lt;h2 id=&quot;qué-es-una-página-de-aterrizaje&quot;&gt;¿Qué es una página de aterrizaje?&lt;/h2&gt;
 
 &lt;p&gt;Una &lt;em&gt;landing page&lt;/em&gt;, o &lt;em&gt;página de ventas&lt;/em&gt;, o &lt;em&gt;página de aterrizaje&lt;/em&gt;, es este tipo de páginas web que se preparan para ofrecer un producto o un servicio.&lt;/p&gt;
 
 &lt;p&gt;Nada más.&lt;/p&gt;
 
-&lt;p&gt;Normalmente son páginas que &lt;a href=&quot;/paginas-web-que-dan-resultados&quot; title=&quot;Páginas para marketing&quot;&gt;se utilizan para la publicidad en marketing digital&lt;/a&gt; o pauta.&lt;/p&gt;
+&lt;p&gt;Normalmente son páginas que &lt;a href=&quot;/blog/paginas-web-que-dan-resultados&quot; title=&quot;Páginas para marketing&quot;&gt;se utilizan para la publicidad en marketing digital&lt;/a&gt; o pauta.&lt;/p&gt;
 
 &lt;p&gt;Hay muchas formas de llamarlas. El punto es el siguiente. &lt;strong&gt;Las páginas de aterrizaje se hacen para una sola cosa&lt;/strong&gt;: vender, convencer a un cliente para que den un paso, el siguiente paso.&lt;/p&gt;
 
@@ -882,13 +882,13 @@
   
     <entry>
       <title type="html">La accesibilidad es muy importante cuando hago páginas web profesionales</title>
-      <link href="http://localhost:4000/accesibilidad-web" rel="alternate" type="text/html" title="La accesibilidad es muy importante cuando hago páginas web profesionales" />
+      <link href="http://localhost:4000/blog/accesibilidad-web" rel="alternate" type="text/html" title="La accesibilidad es muy importante cuando hago páginas web profesionales" />
       <published>2024-04-12T10:00:00-05:00</published>
       <updated>2024-03-08T10:00:00-05:00</updated>
-      <id>http://localhost:4000/accesibilidad-web</id>
+      <id>http://localhost:4000/blog/accesibilidad-web</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/accesibilidad-web">&lt;p&gt;La accesibilidad web es un concepto fundamental para &lt;em&gt;garantizar que todas las personas, independientemente de sus capacidades o discapacidades, puedan acceder y navegar por los contenidos en línea&lt;/em&gt;. Es decir, se trata de &lt;strong&gt;hacer que una página web sea accesible para todas las personas&lt;/strong&gt;, sin importar su visión, audición, movilidad o cualquier otra discapacidad.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/accesibilidad-web">&lt;p&gt;La accesibilidad web es un concepto fundamental para &lt;em&gt;garantizar que todas las personas, independientemente de sus capacidades o discapacidades, puedan acceder y navegar por los contenidos en línea&lt;/em&gt;. Es decir, se trata de &lt;strong&gt;hacer que una página web sea accesible para todas las personas&lt;/strong&gt;, sin importar su visión, audición, movilidad o cualquier otra discapacidad.&lt;/p&gt;
 
 &lt;p&gt;Esto significa que todos los usuarios deben poder usar y beneficiarse de los sitios web, aplicaciones y otras herramientas digitales de la misma manera.&lt;/p&gt;
 
@@ -1035,13 +1035,13 @@
   
     <entry>
       <title type="html">Una página web tiene que ser más que solo bonita. ¡Y menos oscura!</title>
-      <link href="http://localhost:4000/paginas-web-que-dan-resultados" rel="alternate" type="text/html" title="Una página web tiene que ser más que solo bonita. ¡Y menos oscura!" />
+      <link href="http://localhost:4000/blog/paginas-web-que-dan-resultados" rel="alternate" type="text/html" title="Una página web tiene que ser más que solo bonita. ¡Y menos oscura!" />
       <published>2024-04-08T10:00:00-05:00</published>
       <updated>2024-05-18T10:00:00-05:00</updated>
-      <id>http://localhost:4000/paginas-web-que-dan-resultados</id>
+      <id>http://localhost:4000/blog/paginas-web-que-dan-resultados</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/paginas-web-que-dan-resultados">&lt;p&gt;En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a “llenarla” de mucho sabor. Le agregué:&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/paginas-web-que-dan-resultados">&lt;p&gt;En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a “llenarla” de mucho sabor. Le agregué:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Orégano&lt;/li&gt;
@@ -1077,7 +1077,7 @@
 
 &lt;p&gt;Los expertos de Google &lt;strong&gt;NO tienen páginas web llenas de movimientos, efectos, alucinaciones, visiones, 3D, etc&lt;/strong&gt;. Tienen una web que muestra la información importante y punto.&lt;/p&gt;
 
-&lt;p&gt;Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, &lt;a href=&quot;/por-que-no-usar-wordpress&quot;&gt;Google no usa WordPress para hacer sus páginas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Son blancas, sencillas, con buen gusto. Muy rápidas. No usan WordPress. No, &lt;a href=&quot;/blog/por-que-no-usar-wordpress&quot;&gt;Google no usa WordPress para hacer sus páginas&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;¿Osea que tener páginas con todo eso es malo? Sí, si esos diseños tan llamativos no son parte de tu branding o de la personalidad de tu marca.&lt;/p&gt;
 
@@ -1159,13 +1159,13 @@
   
     <entry>
       <title type="html">Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?</title>
-      <link href="http://localhost:4000/negocios-sin-pagina-web" rel="alternate" type="text/html" title="Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?" />
+      <link href="http://localhost:4000/blog/negocios-sin-pagina-web" rel="alternate" type="text/html" title="Tu negocio va bien. Tus redes sociales más o menos. Tu WEB NO?" />
       <published>2024-03-31T10:00:00-05:00</published>
       <updated>2024-07-18T10:00:00-05:00</updated>
-      <id>http://localhost:4000/negocios-sin-pagina-web</id>
+      <id>http://localhost:4000/blog/negocios-sin-pagina-web</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/negocios-sin-pagina-web">&lt;p&gt;En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/negocios-sin-pagina-web">&lt;p&gt;En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.&lt;/p&gt;
 
 &lt;p&gt;Hay que decirlo. Es un lugar muy bien organizado.&lt;/p&gt;
 
@@ -1219,7 +1219,7 @@
   &lt;li&gt;Si tuvieras dudas, preguntas, pero te das cuenta que Instagram les bloqueó el perfil, &lt;strong&gt;¿dónde los podrías buscar desde tu celular?&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Estos simples ejemplos te dejan claro que este negocio se está perdiendo de muchas oportunidades de crecimiento y estabilidad comercial. &lt;em&gt;Todo por no tener una página web&lt;/em&gt;. Pero &lt;a href=&quot;/paginas-web-cuando-si-cuando-no&quot;&gt;están en el momento justo para tener una página web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estos simples ejemplos te dejan claro que este negocio se está perdiendo de muchas oportunidades de crecimiento y estabilidad comercial. &lt;em&gt;Todo por no tener una página web&lt;/em&gt;. Pero &lt;a href=&quot;/blog/paginas-web-cuando-si-cuando-no&quot;&gt;están en el momento justo para tener una página web&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;un-negocio-que-sí-está-aprovechando-las-ventajas-de-tener-una-página-web&quot;&gt;Un negocio que sí está aprovechando las ventajas de tener una página web&lt;/h2&gt;
 
@@ -1283,13 +1283,13 @@
   
     <entry>
       <title type="html">Tienes una web muy sencilla. ¿La estás aprovechando?</title>
-      <link href="http://localhost:4000/aprovechar-una-pagina-web-sencilla" rel="alternate" type="text/html" title="Tienes una web muy sencilla. ¿La estás aprovechando?" />
+      <link href="http://localhost:4000/blog/aprovechar-una-pagina-web-sencilla" rel="alternate" type="text/html" title="Tienes una web muy sencilla. ¿La estás aprovechando?" />
       <published>2024-03-06T10:00:00-05:00</published>
       <updated>2024-07-15T10:00:00-05:00</updated>
-      <id>http://localhost:4000/aprovechar-una-pagina-web-sencilla</id>
+      <id>http://localhost:4000/blog/aprovechar-una-pagina-web-sencilla</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/aprovechar-una-pagina-web-sencilla">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/aprovechar-una-pagina-web-sencilla">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;la-clave-de-una-página-web-sencilla-y-rentable&quot;&gt;La clave de una página web sencilla y rentable&lt;/h2&gt;
 
@@ -1298,7 +1298,7 @@
 &lt;p&gt;Personalmente, investigo muy bien cómo maquetar esas páginas para que generen resultados. En mi gremio a estos resultados le llamamos &lt;em&gt;“Conversiones”&lt;/em&gt;. Y es una triste realidad, la mayoría de páginas están tan mal hechas que el único que convierte es el que te cobró la página. Lo siento, pero es así.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/paginas-web-que-dan-resultados&quot;&gt;Haz clic aquí para que sepas cómo debe ser una página web bien hecha&lt;/a&gt;. Así, cuando me encargues tu página, verás porqué es superior&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;/blog/paginas-web-que-dan-resultados&quot;&gt;Haz clic aquí para que sepas cómo debe ser una página web bien hecha&lt;/a&gt;. Así, cuando me encargues tu página, verás porqué es superior&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;y-qué-vas-a-hacer-con-una-web-sencilla-para-generar-dinero&quot;&gt;Y qué vas a hacer con una web sencilla para generar dinero&lt;/h2&gt;
@@ -1380,13 +1380,13 @@
   
     <entry>
       <title type="html">Evitar estafas en internet: Medidas de seguridad</title>
-      <link href="http://localhost:4000/evitar-estafas-en-internet" rel="alternate" type="text/html" title="Evitar estafas en internet: Medidas de seguridad" />
+      <link href="http://localhost:4000/blog/evitar-estafas-en-internet" rel="alternate" type="text/html" title="Evitar estafas en internet: Medidas de seguridad" />
       <published>2023-06-20T10:00:00-05:00</published>
       <updated>2024-07-10T10:00:00-05:00</updated>
-      <id>http://localhost:4000/evitar-estafas-en-internet</id>
+      <id>http://localhost:4000/blog/evitar-estafas-en-internet</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/evitar-estafas-en-internet">&lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/evitar-estafas-en-internet">&lt;p&gt;En este artículo, te brindaré información valiosa y consejos prácticos sobre cómo evitar estafas en internet.&lt;/p&gt;
 
 &lt;p&gt;La seguridad en línea es una preocupación importante en nuestra sociedad digitalizada, y es fundamental conocer las medidas adecuadas para protegernos de posibles fraudes en el mundo virtual.&lt;/p&gt;
 
@@ -1485,13 +1485,13 @@
   
     <entry>
       <title type="html">¿Sirven las páginas web estáticas? Pues a mis clientes sí</title>
-      <link href="http://localhost:4000/paginas-web-estaticas-para-empredimientos" rel="alternate" type="text/html" title="¿Sirven las páginas web estáticas? Pues a mis clientes sí" />
+      <link href="http://localhost:4000/blog/paginas-web-estaticas-para-empredimientos" rel="alternate" type="text/html" title="¿Sirven las páginas web estáticas? Pues a mis clientes sí" />
       <published>2021-06-21T10:00:00-05:00</published>
       <updated>2024-06-20T10:00:00-05:00</updated>
-      <id>http://localhost:4000/paginas-web-estaticas-para-empredimientos</id>
+      <id>http://localhost:4000/blog/paginas-web-estaticas-para-empredimientos</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/paginas-web-estaticas-para-empredimientos">&lt;h3 id=&quot;qué-es-una-página-web-estática-definamos&quot;&gt;¿Qué es una Página Web Estática? Definamos&lt;/h3&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/paginas-web-estaticas-para-empredimientos">&lt;h3 id=&quot;qué-es-una-página-web-estática-definamos&quot;&gt;¿Qué es una Página Web Estática? Definamos&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Una página web estática es una página cuyo contenido no cambia automáticamente&lt;/strong&gt; con cada visita. Es decir, lo que ves es lo que hay, sin importar cuántas veces accedas al sitio.&lt;/p&gt;
 
@@ -1508,7 +1508,7 @@
   &lt;li&gt;Muy seguras.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Al no depender de bases de datos o scripts del lado del servidor, &lt;a href=&quot;/por-que-no-usar-wordpress&quot;&gt;como pasa con los dolores de cabeza de WordPress&lt;/a&gt;, se cargan más rápido y son menos vulnerables a los ataques.&lt;/p&gt;
+&lt;p&gt;Al no depender de bases de datos o scripts del lado del servidor, &lt;a href=&quot;/blog/por-que-no-usar-wordpress&quot;&gt;como pasa con los dolores de cabeza de WordPress&lt;/a&gt;, se cargan más rápido y son menos vulnerables a los ataques.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Las páginas web estáticas son más fáciles de desarrollar y mantener&lt;/strong&gt;, lo que se traduce en costos más bajos para tu negocio.&lt;/p&gt;
 
@@ -1728,13 +1728,13 @@
   
     <entry>
       <title type="html">Yo no te aconsejo utilizar WordPress</title>
-      <link href="http://localhost:4000/por-que-no-usar-wordpress" rel="alternate" type="text/html" title="Yo no te aconsejo utilizar WordPress" />
+      <link href="http://localhost:4000/blog/por-que-no-usar-wordpress" rel="alternate" type="text/html" title="Yo no te aconsejo utilizar WordPress" />
       <published>2021-05-21T10:00:00-05:00</published>
       <updated>2024-06-10T10:00:00-05:00</updated>
-      <id>http://localhost:4000/por-que-no-usar-wordpress</id>
+      <id>http://localhost:4000/blog/por-que-no-usar-wordpress</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/por-que-no-usar-wordpress">&lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/por-que-no-usar-wordpress">&lt;h2 id=&quot;primero-qué-es-wordpress-y-cómo-funciona&quot;&gt;Primero, qué es WordPress y cómo funciona&lt;/h2&gt;
 
 &lt;p&gt;Como me gusta a mí, te lo voy a explicar en palabras más fáciles de entender. &lt;strong&gt;WordPress es un sistema para hacer páginas web sin saber mucho o casi nada de diseñar páginas web o lenguajes de diseño.&lt;/strong&gt;&lt;/p&gt;
 
@@ -1872,7 +1872,7 @@
 
 &lt;p&gt;Todo lo anterior ya contiene razones de peso para no considerar el uso de WordPress. Pero existe una razón más importante que es muy difícil de superar con esta herramienta.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;No te recomiendo utilizar WordPress para alcanzar los &lt;a href=&quot;/paginas-web-cuando-si-cuando-no&quot; title=&quot;Cuándo utilizar páginas web&quot;&gt;objetivos que quieres alcanzar con tu página web&lt;/a&gt;.&lt;/strong&gt; Esto implica una palabra clave: &lt;strong&gt;flexibilidad&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No te recomiendo utilizar WordPress para alcanzar los &lt;a href=&quot;/blog/paginas-web-cuando-si-cuando-no&quot; title=&quot;Cuándo utilizar páginas web&quot;&gt;objetivos que quieres alcanzar con tu página web&lt;/a&gt;.&lt;/strong&gt; Esto implica una palabra clave: &lt;strong&gt;flexibilidad&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;WordPress no es muy flexible que digamos.&lt;/p&gt;
 
@@ -1944,13 +1944,13 @@
   
     <entry>
       <title type="html">Páginas web, ¿cuándo es buena idea y cuándo no?</title>
-      <link href="http://localhost:4000/paginas-web-cuando-si-cuando-no" rel="alternate" type="text/html" title="Páginas web, ¿cuándo es buena idea y cuándo no?" />
+      <link href="http://localhost:4000/blog/paginas-web-cuando-si-cuando-no" rel="alternate" type="text/html" title="Páginas web, ¿cuándo es buena idea y cuándo no?" />
       <published>2021-04-21T10:00:00-05:00</published>
       <updated>2024-07-10T10:00:00-05:00</updated>
-      <id>http://localhost:4000/paginas-web-cuando-si-cuando-no</id>
+      <id>http://localhost:4000/blog/paginas-web-cuando-si-cuando-no</id>
       
       
-        <content type="html" xml:base="http://localhost:4000/paginas-web-cuando-si-cuando-no">&lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt;
+        <content type="html" xml:base="http://localhost:4000/blog/paginas-web-cuando-si-cuando-no">&lt;p&gt;Para esto, quiero que analicemos primero cuál es &lt;strong&gt;la pregunta que te debes hacer antes de hacer una página web&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;la-pregunta-al-digitalizar-un-negocio-tradicional&quot;&gt;La pregunta al digitalizar un negocio tradicional&lt;/h2&gt;
 

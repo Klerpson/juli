@@ -1,28 +1,128 @@
 ---
 layout: default
-title: "Este es blog de páginas web de Juli. ¡Léelo!"
+title: "Este es blog de páginas web y SEO de Juli. ¡Léelo!"
 description: "Este es mi blog personal. Te muestro cómo me gusta trabajar y la manera crear y mejorar páginas web que no vendían nada. Y cómo hacerlo para ti."
-h1: "Bienvenido a mi blog personal donde te hablo de páginas web y SEO"
-hero: "img/juli-desarrollador-web.webp"
-alt: "Logo de Juli, desarrollador de páginas web y SEO"
-noindex: true
+h1: "Bienvenido a mi blog de páginas web y SEO"
 ---
 <section class="content flow">
-  <h2>Lee la manera de aprovechar tus páginas web</h2>
+  <h2>En este blog de páginas web te ayudo a aprovechar mejor tus recursos</h2>
+  <div class="scroll-arrow"></div>
+
 </section>
 
-<main class="content">
-    <div class="home_gallery">
-      {% for principal in site.posts %}
-      <article class="flow">
-        <img src="{{principal.hero}}" alt="{{principal.alt}}">
-        <a href="{{principal.url|relative_url}}">
-          <h3>{{principal.h1}}</h3>
-        </a>
-        <p>{{principal.excerpt | truncate: 144}}</p>
-      </article>
-      {% endfor %}
-    </div>
-    <br>
-  </main>
+<main class="wrapper">
+  <div class="blog_home">
+    {% for post in site.posts %}
+    <article class="post_home">
+      <h3>{{post.h1}}</h3>
+      <p>{{post.excerpt}}</p>
+      <a href="{{post.url}}" class="arrow-button" title="{{post.title}}">Leer más <span class="arrow"></span></a>
+    </article>
+    <hr>
+    {% endfor %}
+  </div>
+  <br>
+</main>
+<section class="wrapper flow">
+  <h2>¡Oye, tú! Sí, tú que andas perdido con tu web aprovecha mi blog</h2>
   
+  <p>Mira, si crees que tener un blog es solo escribir cositas bonitas y esperar que la gente caiga del cielo, ¡estás
+    más perdido que Cristóbal Colón buscando las Indias! En este safari digital, o te comes a los leones del SEO o ellos
+    te comen a ti. ¿Captas o te quedas por fuera?</p>
+  <blockquote>
+    <p>En este momento hay más de 1.800 millones de sitios web dándose codazos por atención. ¿Crees que el tuyo es
+      especial? ¡Ja! Piénsalo de nuevo, mi rey... o mi reina.</p>
+    </blockquote>
+    <p class="rant">Así que agarra bien tus pantalones porque vamos a sumergirnos en las aguas turbulentas del SEO, y te
+      prometo que al final, o nadas como tiburón o te hundes como piedra.</p>
+      <div class="scroll-arrow"></div>
+</section>
+
+<section class="wrapper flow">
+  <h2>Mi blog te habla de SEO y Diseño Web: Un Matrimonio Más Complicado que las Telenovelas</h2>
+  <p>Escúchame bien: tu sitio web puede ser más bello que Shakira en sus mejores tiempos, pero si no tiene SEO, es como
+    cantar reguetón en una ópera. ¡Nadie te va a encontrar, nadie!</p>
+  <p><span class="resaltar">Dato que te va a dejar frío:</span> El 75% de la gente ni se molesta en mirar más allá de la
+    primera página de Google. ¿Sabes qué significa eso? Si no estás en el top, bien podrías estar vendiendo hielo a los
+    esquimales.</p>
+  <h3>Lo que necesitas para no ser un don nadie en Internet: y lo aprendes en este blog de páginas web</h3>
+  <ul>
+    <li>→ URLs que hasta tu abuelita pueda entender</li>
+    <li>→ Velocidad de carga más rápida que Usain Bolt</li>
+    <li>→ Diseño más responsivo que un político en campaña</li>
+    <li>→ Contenido tan bueno que hasta tu ex lo compartiría</li>
+  </ul>
+  {% include boton.html %}
+</section>
+
+<section class="wrapper flow">
+  <h2>El ABC del SEO en este blog: Para que no andes como pollo sin cabeza</h2>
+  <p>Mira, <a href="{{'servicio-seo' | relative_url }}" title="Servicio de SEO con Juli">el SEO que yo hago</a> no es
+    física cuántica, pero tampoco es un juego de niños. Aquí te va la papa, así que abre bien las orejas:</p>
+  <ol>
+    <li><strong>Palabras clave:</strong> Son como el sabor de tu comida. Sin ellas, nadie se la quiere comer.</li>
+    <li><strong>Contenido de calidad:</strong> Si escribes pura basura, Google te mandará a volar más rápido que a un
+      mosco en un picnic.</li>
+    <li><strong>Backlinks:</strong> Son como amigos que le dicen a todo el mundo lo genial que eres. ¿No tienes? Pues
+      empieza a hacer amigos, ¡ya!</li>
+    <li><strong>Velocidad:</strong> Si tu página carga más lento que Internet Explorer, estás muerto, hermano.</li>
+    <li><strong>UX (Experiencia de Usuario):</strong> Haz que navegar por tu sitio sea más fácil que robarle un dulce a
+      un niño. Pero no le robes dulces a los niños, ¿eh? Eso está mal.</li>
+  </ol>
+  <p><strong class="resaltar">¿Sabías que los artículos de más de 2.000 palabras consiguen un 77% más de
+      enlaces?</strong> ¡Así que deja de ser flojo y ponte a escribir como si no hubiera un mañana! O escríbeme y yo lo
+    hago.</p>
+  <p>Zapatero a su zapato</p>
+  {% include boton.html %}
+</section>
+
+<section class="wrapper flow">
+  <h2>Mi blog te ayuda a hacer que Google te ame más que a su madre</h2>
+  <p>Para que tu "blog de páginas web" no sea más invisible que el Chupacabras, haz esto:</p>
+  <ul>
+    <li>→ Optimiza esa página como si tu vida dependiera de ello (porque depende). Y sí, <a href="{{'mejora-de-paginas-web' | relative_url }}" title="Optimización de páginas web">yo lo hago muy bien</a></li>
+    <li>→ Crea un Sitemap XML. Si no sabes qué es eso, googléalo. ¡Ah, no! Espera...</li>
+    <li>→ Enlaza tus páginas internamente como si fueran una familia unida</li>
+    <li>→ Mantén tu contenido más fresco que el príncipe del Bel-Air</li>
+  </ul>
+  <p>Aquí tienes un ejemplo de Sitemap XML. Si esto te parece chino mandarín, estás en problemas, mi amigo:</p>
+  <pre><code>
+&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;
+&lt;url&gt;
+&lt;loc&gt;https://www.tublogchevere.com/&lt;/loc&gt;
+&lt;lastmod&gt;2024-10-04&lt;/lastmod&gt;
+&lt;changefreq&gt;daily&lt;/changefreq&gt;
+&lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+&lt;!-- Más URLs aquí, no te duermas --&gt;
+&lt;/urlset&gt;
+  </code></pre>
+</section>
+
+<section class="wrapper flow">
+  <h2>Aprende también de Copywriting: Porque escribir como burro no te va a llevar a ningún lado</h2>
+  <p>Escribe como si estuvieras tratando de conquistar al amor de tu vida, no como si estuvieras llenando un formulario
+    del gobierno. ¿Capisce?</p>
+  <h3>Trucos para no aburrir hasta las piedras:</h3>
+  <ul>
+    <li>✓ Cuenta historias más emocionantes que las de tu tía en Navidad</li>
+    <li>✓ Usa palabras que hagan sentir algo a la gente (y no náuseas)</li>
+    <li>✓ Pon llamadas a la acción que ni el más vago pueda ignorar</li>
+  </ul>
+  <blockquote>
+    <p>"La gente solo lee el 20% de lo que escribes en una página web." - Unos tipos que saben de estas cosas</p>
+  </blockquote>
+  <p class="rant">¿Entiendes ahora por qué cada palabra cuenta? ¡No me hagas repetírtelo!</p>
+</section>
+<section class="wrapper flow">
+  <h2>La Cruda Verdad: O te pones las pilas o tu página web queda en la edad de piedra digital</h2>
+  <p>Mira, mi querido amigo del alma, mi "blog de páginas web" puede ser la próxima sensación de Internet o el próximo
+    fósil digital. Depende de mi.</p>
+  <p class="rant"><strong>Grábatelo en la frente:</strong> El SEO no es una meta, es un viaje. Y en este viaje, o
+    aprendes a conducir o te atropella la competencia.</p>
+  <p>¿Estás listo para dejar de ser un don nadie en Internet? El futuro es hoy. ¡Mueve esas teclas como
+    si no hubiera un mañana!</p>
+  <h3>Pues yo te ahorro todo esto. Escríbeme y te ahorro tiempo y te aumento los resultados... fácil</h3>
+  {% include boton.html %}
+</section>

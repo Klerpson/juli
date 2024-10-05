@@ -1,11 +1,12 @@
 ---
-layout: landing
+layout: default
 title: ¿Necesitas una página web? Hago las mejores de Colombia
 description: Hago páginas web. Las mejores de Colombia. Diseño y desarrollo las páginas yo mismo. Pero hago algo más. Entra, y si te gusta lo que ves, me escribes.
-h1: Hago páginas web que sí generan resultados. Y corrijo muchas páginas también 😉
+h1: Hago páginas web que sí generan resultados. Y corrijo muchas páginas también
 hero: img/banner-juli.webp
 alt: Imagen del servicio de diseño y desarrollo de páginas web desde Colombia
 servicio: Desarrollo de páginas web
+excerpt: Hago páginas web con código profesionales. En esta página de mi servicio de desarrollo de páginas web te explico porqué soy tu mejor opción. 
 ---
 Es simple. Tú tienes un negocio. Yo también. Y es **hacer páginas web rentables**.
 
@@ -31,7 +32,7 @@ Así que le dije: *"Yo te hago el branding y la web"*.
 
 *Aquí la puedes ver 👇👇👇*
 
-[Página web de mi hermano menor](https://klerpson.github.io/yogu/){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton2"}
+[Página web de mi hermano menor →](https://klerpson.github.io/yogu/){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton2"}
 
 > **¿Y cuál fue el resultado?**: me di cuenta que me quedó tan bien hecha, con tanto amor, que me ***la encontré en los resultados de Google en segundo lugar*** cuando busqué "Heladería Pitalito".  
 

@@ -1,0 +1,70 @@
+medicina:
+  - img: img/pagina-web-holographic.avif
+    alt: Página web de Holographic Ecuador
+    title_img: Página web hecha a código
+    titulo: Creación y posicionamiento de página web corporativa
+    intro: Holographic es uno de mis clientes principales. Actualmente seguimos en la estrategia de crecimiento
+    beneficios:
+      - Estructuré la página web con base en datos de Google y el acompañamiento de los directivos de la empresa
+      - Superamos la competencia local desde el segundo mes
+      - El 25% de las visitas de su mercado objetivo terminan haciendo clic al botón de WhatsApp gracias al diseño persuasivo
+      - El texto ataca puntos de dolor importantes para sus clientes B2B
+      - La optimización del sitio es total por el código personalizado. Y no requiere gastos de hosting ni mantenimiento
+    url: https://holographic.ec
+    title_url:  Web desarrollada con código y optimizada con SEO
+    cta_url: Conoce su página
+  - img: img/pagina-web-leben-inmobiliaria.avif
+    alt: Página web de Leben Inmobiliaria
+    title_img: Página web profesional para inmobiliaria
+    titulo: Creación y posicionamiento de página web para inmobiliaria
+    intro: Leben Inmobiliaria tiene un mercado muy competido por las grandes marcas que dominan. Aún así, logré darles un espacio entre las posiciones que podía conseguir y con SEO local, hasta conseguir más de 1000 visitas mensuales. Trabajamos hasta agosto de 2024.
+    beneficios:
+      - El cliente tiene una página con un diseño muy hermoso y sin perder optimización ni velocidad
+      - Su página no genera gastos mensuales, pues no requiere hosting ni mantenimiento, más allá del contenido
+      - En el 4 mes superó a la competencia local
+      - Le empresa descubrió un nuevo servicio al que no le apuntaba hasta antes de utilizar el SEO en su página web
+      - La estructura web está lista para agregar más servicios y crecer en visitas
+    url: https://lebeninmobiliaria.com
+    title_url:  Web profesional a código y optimizada con SEO lcoal
+    cta_url: Conoce su página
+  - img: img/pagina-web-gurcoff.avif
+    alt: Página web de la heladería GurCoff
+    title_img: Página web profesional para heladería
+    titulo: Desarrollo de página web con código y plan de contenidos
+    beneficios:
+      - Al principio se posicionó en los primeros lugares para búsquedas de turismo local
+      - Ahora estoy aplicando una estrategia de contenido que transmita autoridad y se perciba como un local premium
+      - La página es muy rápida y posiciona fácilmente palabras clave objetivo en la región con SEO local
+      - La web solo paga el servicio de contenido SEO y el dominio (que se paga anualmente), pues no necesita hosting, ni plugins, ni mantenimiento
+      - La estrategia sigue generando nuevas ideas de negocio
+    url: https://gurcoff.com
+    title_url:  Página web con SEO de contenidos
+    cta_url: Mira la página
+  - img: img/pagina-web-dra-tatiana-leal.avif
+    alt: Página web de la doctora Tatiana Leal, cliente de juli.com.co
+    title_img: Página de la doctora Tatiana Leal
+    titulo: SEO con WordPress para la doctora Tatiana Leal
+    beneficios:
+      - Mejoré su la velocidad de carga de su página
+      - Posicioné con SEO sus textos para que tuviera más visitas
+      - Pasó de 6000 visitas a 0 con la anterior agencia. Estamos recuperando sus visitas
+      - Configuré su botón de WhatsApp y mejoré sus botones de contacto
+      - Optimicé la estructura del sitio para posicionar mejor
+    url: https://dratatianaleal.com
+    title_url:  Web optimizada con SEO
+    cta_url: Mira su página
+  - img: img/seo-pagina-web-trabajoescrito.avif
+    alt: Resultados de SEO hecho en trabajoescrito.com
+    title_img: SEO en trabajoescrito.com
+    titulo: SEO y página hecha a código para el blog trabajoescrito.com
+    intro: Trabajamos hasta marzo de 2024 y generamos excelentes resultados por casi dos años.
+    beneficios:
+      - Resultados de velocidad de carga muy rápida
+      - Conseguí un diseño de solo texto minimalista
+      - Más de 8000 visitas orgánicas en el mes con personas interesadas en la temática
+      - Leads mensuales constantes al formulario de contacto
+      - Estructura web lista para expansión
+    url: https://trabajoescrito.com
+    title_url:  Creación de página web y SEO
+    cta_url: Conoce el diseño
+    

@@ -12,11 +12,18 @@
 
   
     
+      <url>
+        <loc>http://localhost:4000/blog</loc>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+      </url>
+    
   
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -25,7 +32,7 @@
     
       <url>
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -36,7 +43,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -45,7 +52,7 @@
     
       <url>
         <loc>http://localhost:4000/legal</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -54,7 +61,16 @@
     
       <url>
         <loc>http://localhost:4000/mejora-de-paginas-web</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/portafolio</loc>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -67,7 +83,7 @@
     
       <url>
         <loc>http://localhost:4000/servicio-seo</loc>
-        <lastmod>2024-10-02T11:53:34-05:00</lastmod>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -76,11 +92,18 @@
     
   
     
+      <url>
+        <loc>http://localhost:4000/css/style.css</loc>
+        <lastmod>2024-10-05T11:45:14-05:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+      </url>
+    
   
 
   
     <url>
-      <loc>http://localhost:4000/noticia-vulnerabilidad-temas-wordpress</loc>
+      <loc>http://localhost:4000/blog/noticia-vulnerabilidad-temas-wordpress</loc>
       <lastmod>2024-10-02T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -89,7 +112,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/llamado-a-la-accion-en-landing-page</loc>
+      <loc>http://localhost:4000/blog/llamado-a-la-accion-en-landing-page</loc>
       <lastmod>2024-09-28T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -98,7 +121,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/consultor-seo-colombia</loc>
+      <loc>http://localhost:4000/blog/consultor-seo-colombia</loc>
       <lastmod>2024-09-01T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -107,7 +130,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/mejorar-paginas-web-de-empresas</loc>
+      <loc>http://localhost:4000/blog/mejorar-paginas-web-de-empresas</loc>
       <lastmod>2024-08-20T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -116,7 +139,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/paginas-de-aterrizaje-con-storytelling</loc>
+      <loc>http://localhost:4000/blog/paginas-de-aterrizaje-con-storytelling</loc>
       <lastmod>2024-07-20T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -125,7 +148,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/accesibilidad-web</loc>
+      <loc>http://localhost:4000/blog/accesibilidad-web</loc>
       <lastmod>2024-03-08T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -134,7 +157,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/paginas-web-que-dan-resultados</loc>
+      <loc>http://localhost:4000/blog/paginas-web-que-dan-resultados</loc>
       <lastmod>2024-05-18T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -143,7 +166,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/negocios-sin-pagina-web</loc>
+      <loc>http://localhost:4000/blog/negocios-sin-pagina-web</loc>
       <lastmod>2024-07-18T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -152,7 +175,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/aprovechar-una-pagina-web-sencilla</loc>
+      <loc>http://localhost:4000/blog/aprovechar-una-pagina-web-sencilla</loc>
       <lastmod>2024-07-15T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -161,7 +184,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/evitar-estafas-en-internet</loc>
+      <loc>http://localhost:4000/blog/evitar-estafas-en-internet</loc>
       <lastmod>2024-07-10T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -170,7 +193,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/paginas-web-estaticas-para-empredimientos</loc>
+      <loc>http://localhost:4000/blog/paginas-web-estaticas-para-empredimientos</loc>
       <lastmod>2024-06-20T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -179,7 +202,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/por-que-no-usar-wordpress</loc>
+      <loc>http://localhost:4000/blog/por-que-no-usar-wordpress</loc>
       <lastmod>2024-06-10T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
@@ -188,7 +211,7 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/paginas-web-cuando-si-cuando-no</loc>
+      <loc>http://localhost:4000/blog/paginas-web-cuando-si-cuando-no</loc>
       <lastmod>2024-07-10T10:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>

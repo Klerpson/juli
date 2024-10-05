@@ -1,0 +1,73 @@
+---
+layout: default
+title: "Soy Juli, y hago páginas web profesionales desde Colombia"
+description: "Hago páginas web profesionales y SEO. Solo utilizo HTML y CSS, y si acaso JS. Las optimizo al máximo. Y las posiciono para que vendas más. Escríbeme."
+---
+<section class="wrapper flow beneficios">
+  <div class="header_dos_columnas">
+    <h2>La página web profesional que buscas yo la diseño</h2>
+    <p>juli.com.co</p>
+  </div>
+  <div class="puntos_beneficios">
+    <ol>
+      <li><strong>No son plantillas de WordPres</strong> mal optimizadas y lentas.</li>
+      <li>Hago <strong>páginas web con HTML y CSS</strong>, muy rápidas y vendedoras.</li>
+      <li>Aplico <strong>redacción persuasiva</strong> en tu contenido para convencer tus clientes.</li>
+      <li>Utilizo <strong>técnicas de diseño web</strong> que aumentan tus contactos o clientes.</li>
+    </ol>
+    <a href="{{'portafolio' | relative_url }}" title="Portafolio de páginas web Juli" class="arrow-button">Conoce mi portafolio <span class="arrow"></span></a>
+  </div>
+</section>
+<section class="wrapper dos_lados">
+  <img src="{{'img/julian-franco-desarrollador-web-y-seo.avif' | relative_url }}" alt="Foto de Julian, desarrollador de páginas web y SEO" title="Julian Franco" loading="lazy" height="400" width="200">
+  <div style="height: 496px;">
+    <span class="animated-line"></span>
+  </div>
+  <div class="dos_lados_copy">
+    <small>Me llamo Julian Franco. Conóceme</small>
+    <h2>Soy desarrollador web y SEO desde el año 2016</h2>
+    <p>A mis clientes siempre los asesoro muy bien para que su página web no sea solo un gasto. No te haré sufrir con WordPress porque no necesitas aumentar tus gastos. Lo que necesitas es aumentar tus ingresos. Por eso, además de una página web bien optimizada, conmigo tendrás una página que comenzará a posicionarse y mantener sus visitas a lo largo del tiempo. Eso es una web profesional.</p>
+    <div class="scroll-arrow"></div>
+    {% include boton.html %}
+  </div>
+</section>
+<main class="wrapper dos_lados servicios seccion">
+ <h2>Te explico cuáles son mis servicios para mejorar tu página web. O crear una nueva</h2>
+ <div class="dos_lados_copy flow">
+    <small>Servicios de desarrollo web</small>
+    <h3>Mi especialización son las páginas web de marketing</h3>
+    <ul>
+      <li><span class="servicios_icon">✓</span> Creación de páginas web corporativas.</li>
+      <li><span class="servicios_icon">✓</span> Creación y administración de blogs.</li>
+      <li><span class="servicios_icon">✓</span> Creación y optimización de landing pages.</li>
+      <li><span class="servicios_icon">✓</span> Migración de páginas WordPress a <strong class="resaltar">páginas profesionales con código</strong>.</li>
+      <li><span class="servicios_icon">✓</span> Optimización técnica SEO de páginas web.</li>
+      <li><span class="servicios_icon">✓</span> Posicionamiento SEO de páginas web.</li>
+      <li><span class="servicios_icon">✓</span> Generación de contenido optimizado para SEO.</li>
+      <li><span class="servicios_icon">✓</span> Redacción de textos persuasivos para aumentar conversiones.</li>
+    </ul>
+    {% include boton.html %}
+  </div>
+</main>
+<section class="datos fondo">
+  {% for dato in site.data.datos.home %}
+    <article>
+      <h4>{{dato.title}}</h4>
+      <p>{{dato.texto}}</p>
+    </article>
+  {% endfor %}
+</section>
+<section class="wrapper flow">
+  <h2>Te explico las cosas que debe tener una página web profesional</h2>
+  <div class="scroll-arrow"></div>
+
+  <div class="blog_home">
+    {% for post in site.posts limit: 4 %}
+    <article class="post_home">
+      <h3>{{post.h1}}</h3>
+      <p>{{post.excerpt}}</p>
+      <a href="{{post.url}}" class="arrow-button" title="{{post.title}}">Leer más <span class="arrow"></span></a>
+    </article>
+    {% endfor %}
+  </div>
+</section>

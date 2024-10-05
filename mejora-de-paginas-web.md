@@ -1,11 +1,12 @@
 ---
-layout: landing
+layout: default
 title: ¿Necesitas Mejorar Tu Página Web? Escríbeme y la auditamos
 description: Tu página web no funciona bien. Pues pierdes dinero. Te ayudo a mejorar o modificar la página web de tu empresa. Verás la diferencia en resultados.
-h1: Te ayudo a mejorar la página web de tu empresa o marca personal para que consigas mejores resultados 🤑
+h1: Te ayudo a mejorar tu página web para que consigas mejores resultados
 hero: img/mejorar-paginas-web.webp
 alt: Imagen del servicio de mejora de páginas web para Colombia
 servicio: Desarrollo de páginas web
+excerpt: Mejorar páginas web es el servicio que más me contratan. Lo confiezo. Y la razón es que hay demasiadas páginas web muy mal hechas (porqué creías que te hacían descuento). Esa es la razón por la que no sirven. Yo te ayudo a optimizar tu web para vender más. 
 ---
 ## ¿Sabes por qué deberías invertir en mejorar tu página web?
 
@@ -115,7 +116,7 @@ Y creo que lo has notado en esta misma web.
 
 😎 ¿Te gustaría que tu página web funcionara así como la mía? **Pues la hacemos desde cero a código**. Haz clic aquí y conoce mis propuestas. O escríbeme directamente tu solicitud.
 
-[Desarrollo de páginas web]({{'desarrollo-paginas-web'|relative_url}} "Diseño de páginas web"){:class="boton boton2"}
+[Desarrollo de páginas web →]({{'desarrollo-paginas-web'|relative_url}} "Diseño de páginas web"){:class="boton"}
 
 ## Los clientes que ya han mejorado su página web ahora tienen un activo productivo
 
@@ -168,7 +169,6 @@ Y ahora, **está superando a su competencia con facilidad**. Porque adivina... n
 >Como puedes darte cuenta, mejorar tu página web es una gran inversión en cualquier empresa o emprendimiento que quiere mejorar sus resultados. **Escríbeme y mejoremos tu página web**.
 
 Desde el primer lugar de tu búsqueda de opciones,
-
 
 *☕Juli*
 {:style="font-family: var(--fuenteTitulos); font-size: 3em;"}

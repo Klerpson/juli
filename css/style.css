@@ -1,6 +1,5 @@
 ---
 layout: compress
-noindex: true
 ---
 {% include css/universales.css %}
 {% include css/nav.css %}
@@ -9,7 +8,8 @@ noindex: true
 {% include css/footer.css %}
 {% include css/buscador.css %}
 {% include css/landing.css %}
-{% include css/up.css %}
 {% include css/blog.css %}
 {% include css/share.css %}
-{% include css/publicidad.css %}
+{% include css/paginas.css %}
+{% include css/boton_up.css %}
+{% include css/queries.css %}
