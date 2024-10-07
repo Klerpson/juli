@@ -17,9 +17,7 @@ layout: compress
   {% include nav.html %}
   {% include header.html %}
     {{ content }}
-  {% if page.layout == "articulo" %}
-  {% include cta.html %}
-  {% endif %}
+  
   {% include footer.html %}
   <script defer src="{{ 'js/app.js' | relative_url }}"></script>
 
