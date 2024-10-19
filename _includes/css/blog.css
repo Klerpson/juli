@@ -12,7 +12,44 @@
   font-size: 16px;
 }
 
+.articulo {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
 .articulo li::before{
   content: '→';
   margin-right: 8px;
+}
+
+.articulo img{
+  height: auto;
+  box-shadow: var(--shadow);
+}
+
+.articulo article{
+  flex: 1 1 70ch;
+  min-width: 300px;
+}
+
+.articulo aside{
+  flex: 1 1 25ch;
+  min-width: 250px;
+  position: sticky;
+  top: 20px;
+  align-self: flex-start;
+  height: fit-content;
+  display: grid;
+  gap: 1em;
+  justify-items: flex-start;
+  border-left: 2px solid var(--secundario);
+  padding-top: 16px;
+  padding-left: 16px;
+
+  .relacionados h5{
+    color: var(--accion);
+  }
+
 }

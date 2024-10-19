@@ -14,7 +14,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -23,7 +23,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -32,7 +32,7 @@
     
       <url>
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -43,7 +43,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -52,7 +52,7 @@
     
       <url>
         <loc>http://localhost:4000/legal</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -61,7 +61,7 @@
     
       <url>
         <loc>http://localhost:4000/mejora-de-paginas-web</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -70,7 +70,7 @@
     
       <url>
         <loc>http://localhost:4000/portafolio</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -83,7 +83,7 @@
     
       <url>
         <loc>http://localhost:4000/servicio-seo</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
@@ -94,13 +94,22 @@
     
       <url>
         <loc>http://localhost:4000/css/style.css</loc>
-        <lastmod>2024-10-06T11:37:58-05:00</lastmod>
+        <lastmod>2024-10-18T21:22:25-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
       </url>
     
   
 
+  
+    <url>
+      <loc>http://localhost:4000/blog/h1-etiqueta-html-poco-valorada</loc>
+      <lastmod>2024-10-02T10:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      
+      
+    </url>
   
     <url>
       <loc>http://localhost:4000/blog/noticia-vulnerabilidad-temas-wordpress</loc>

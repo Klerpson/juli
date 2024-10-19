@@ -25,6 +25,8 @@ collections:
     permalink: /blog/:slug
 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 keep_files: [/img]
 
