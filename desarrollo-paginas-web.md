@@ -6,7 +6,7 @@ h1: Hago páginas web que sí generan resultados. Y corrijo muchas páginas tamb
 hero: img/banner-juli.webp
 alt: Imagen del servicio de diseño y desarrollo de páginas web desde Colombia
 servicio: Desarrollo de páginas web
-excerpt: Hago páginas web con código profesionales. En esta página de mi servicio de desarrollo de páginas web te explico porqué soy tu mejor opción. 
+excerpt: Hago páginas web con código profesionales. En esta página de mi servicio de desarrollo de páginas web te explico porqué soy tu mejor opción.
 ---
 Es simple. Tú tienes un negocio. Yo también. Y es **hacer páginas web rentables**.
 
@@ -14,11 +14,11 @@ Cuando uno tiene un negocio, se sienta a mirar facturas y *sabe que no tiene con
 
 Te diré cuál es una de las principales fallas. Yo fallé 12 negocios antes de llegar donde estoy. Pero antes...
 
-## Mucho gusto, soy Juli. Hago páginas web y SEO
+## Mucho gusto, soy Juli. Diseño y desarrollo páginas web y SEO desde Colombia
 
 Desde el año 2016 me dedico a ser el mejor, OJO, ***dando resultados a mis clientes con sus páginas web*** 😎. Y es verdad. Te cuento.
 
-### El caso real que me impulsó al mercado de hacer páginas web que venden
+### El primer cliente que me impulsó al diseñar y desarrollas páginas web que sí venden
 
 Mi primer cliente: mi hermano menor.
 
@@ -38,7 +38,7 @@ Así que le dije: *"Yo te hago el branding y la web"*.
 
 Ahora ya no tiene dominio, y está quieta desde el 2018. Pero si haces la búsqueda, ¡aún aparece como en décima posición!
 
-## Ahora sí, el error que no te ayuda a tener mejores resultados en tu emprendimiento
+## Ahora sí, el error que no te ayuda a tener mejores resultados cuando mandas a hacer una página web
 
 No soy el mejor de los negocios. Pero hoy me va muy bien.
 
@@ -46,13 +46,13 @@ Como te dije, fallé en 12 ocasiones con negocios diferentes.
 
 Y aprendí algo bien claro:
 
-### Un negocio sin una estrategia clara de ventas no vende bien
+### Diseñar una página sin una estrategia clara de ventas no funciona
 
 Punto. Queremos vender bien. Entonces, la estrategia no se deja al azar.
 
 Con las páginas web, o tu negocio en internet, pasa lo mismo.
 
-### Las páginas web son parte de una estrategia
+### Las páginas web son parte de una estrategia digital más grande
 
 Quien te quiere vender una página web solo por venderla y conseguir su dinero, te va a hablar de:
 
@@ -66,7 +66,7 @@ Puras características que no generan verdadero negocio.
 >Cada negocio es único. Tus clientes son únicos. Por eso, **hacer una web con una estrategia a la medida, te dará mejores resultados.**  
 {% include boton.html %}
 
-## Necesitas hacer una página web en tu negocio que sí venda
+## Necesitas diseñar una página web en tu negocio que sí venda, como hago yo
 
 ### 1. Yo hago páginas web que tienen visitas
 
@@ -76,7 +76,7 @@ No haces un local comercial en una zona donde no pasa nadie. Y aunque te parezca
 
 Hay mucha variedad o tipo de páginas web. Conmigo vas a tener justo la página que tu emprendimiento necesita para lograr objetivos. Y si seguimos trabajando juntos, lo adaptaré según su crecimiento.
 
-### 3. Hago páginas web seguras
+### 3. Desarrollo páginas web seguras con código
 
 Es nuestro dinero. Con mis páginas web **no tendrás todos los dolores de cabeza** que sufren quienes son víctimas de las páginas con WordPress.
 
@@ -90,21 +90,23 @@ Quien no entiende tu negocio, no lo aprecia. Y quien no ha tenido negocios, no e
 
 {% include boton.html %}
 
-## Esto cobro por una página web con estrategia de retorno de inversión
+## Esto cobro por diseñar y construir una página web con estrategia de retorno de inversión
 
 Seguramente buscaste esta sección. Pues ya está aquí.
 
 Estos son los valores por ayudarte a **conseguir una página web que sí genere resultados y se convierta en un verdadero patrimonio**, no solo en un gasto:
 
 | 👨🏼‍🏭 **Servicio Ofrecido** | 🫡 **Mis Deberes** | 💵 **Valor Total** |
-| 👨🏼‍🏭 PÁGINA WEB CON BLOG (**hasta 20 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 20 URLs (Inicio, todos tus servicios, sobre la empresa, blog con artículos de ejemplo, contacto y legales) | 💵 2'559.000 |
-| 👨🏼‍🏭 PÁGINA WEB CORPORATIVA (**hasta 5 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 5 URLs (Inicio, 1 página con todos los servicios, sobre la empresa, contacto y legales) | 💵 1'225.000 |
-| 👨🏼‍🏭 PÁGINA WEB DE SERVICIOS (**hasta 12 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 12 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) | 💵 1'750.000 |
-| 👨🏼‍🏭 PÁGINA WEB SENCILLA (**solo 1 URL**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; barra de navegación que desplace a distintas secciones de la misma URL | 💵 685.000 |
+| 👨🏼‍🏭 PÁGINA WEB CON BLOG (**hasta 20 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 20 URLs (Inicio, todos tus servicios, sobre la empresa, blog con artículos de ejemplo, contacto y legales) - 🎁 Estudio y optimización SEO de regalo | 💵 2'559.000 |
+| 👨🏼‍🏭 PÁGINA WEB CORPORATIVA (**hasta 5 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 5 URLs (Inicio, 1 página con todos los servicios, sobre la empresa, contacto y legales) - 🎁 Estudio y optimización SEO de regalo  | 💵 1'225.000 |
+| 👨🏼‍🏭 PÁGINA WEB DE SERVICIOS (**hasta 12 URLs**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; desarrollo de la página con hasta 12 URLs (Inicio, *1 página por cada servicio*, sobre la empresa, contacto y legales) - 🎁 Estudio y optimización SEO de regalo  | 💵 1'750.000 |
+| 👨🏼‍🏭 PÁGINA WEB SENCILLA (**solo 1 URL**) | 🫡 Construcción del código y diseño de la página web; administración y seguridad del servidor de la página web; barra de navegación que desplace a distintas secciones de la misma URL - 🎁 Estudio y optimización SEO de regalo  | 💵 685.000 |
 | 👨🏼‍🏭 LANDING PAGE (**o página de venta**) | 🫡 Estudio de la campaña y del producto; diseño y desarrollo de la página de ventas; redacción de contenido con técnicas de copywriting y persuasión sobre el producto; adaptación y optimización de contenido multimedia; despliegue de la landing  | 💵 425.000 |
 | 👨🏼‍🏭 MANTENIMIENTO (**para los que sufren con WordPress**) | 🫡 Administración de plantillas, plugins, seguridad, contenido y servidores | 💵 Desde 395000 hasta 1'550.000 mensuales, según la cantidad de servicios solicitados |
 
-Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**, donde te puedo enseñar a tener una página web más sencilla y hecha por tí.
+Si tu presupuesto es menor que este valor, **puedo sugerirte comenzar con un servicio de consultoría semanal**, donde te puedo enseñar a tener una página web más sencilla y hecha por tí. El valor de la hora es de 125000.
+
+[Reserva una asesoría](https://calendar.app.google/pzsgaVbZyLV8dqyv7){:rel="nofollow noopener noreferrer" target="_blank" class="boton"}
 
 >Espero que este plan te emocione tanto como a mí. Estoy ansioso por escuchar tus necesidades y empezar a trabajar juntos
 

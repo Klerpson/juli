@@ -30,7 +30,6 @@ layout: compress
     document.addEventListener('DOMContentLoaded', function() {
       var scrollToTopBtn = document.getElementById("scroll-to-top");
       var rootElement = document.documentElement;
-    
       function handleScroll() {
         var scrollTotal = rootElement.scrollHeight - rootElement.clientHeight;
         if ((rootElement.scrollTop / scrollTotal) > 0.20) {
@@ -68,7 +67,17 @@ layout: compress
     filterButtons.forEach(button => button.addEventListener("click", filter));
   </script>
   {% endif %}
+  {% if page.layout == "buscador"%}
+    <!-- Script pointing to search-script.js -->
+    <script src="{{site.baseurl}}/js/search-script.js"></script>
+    <!-- Buscador -->
+    <script>
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{site.baseurl}}/search.json'
+      })
+    </script>
+  {% endif %}
 </body>
-
-
 </html>
