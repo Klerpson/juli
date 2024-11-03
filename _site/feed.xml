@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-10-18T21:22:25-05:00</updated>
+  <updated>2024-11-03T07:23:01-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -23,6 +23,120 @@
   
 
   
+  
+    <entry>
+      <title type="html">Plugin WordPress con virus: No utilices WordPress</title>
+      <link href="http://localhost:4000/blog/nuevo-post" rel="alternate" type="text/html" title="Plugin WordPress con virus: No utilices WordPress" />
+      <published>2024-11-02T10:00:00-05:00</published>
+      <updated>2024-11-02T10:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/nuevo-post</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/blog/nuevo-post">&lt;p&gt;Aquí voy de nuevo…&lt;/p&gt;
+
+&lt;p&gt;Por el título podrías deducir que me voy a lanzar otra vez contra WordPress.&lt;/p&gt;
+
+&lt;p&gt;Me gustaría poder decir que no, pero, sí, estás en lo cierto.&lt;/p&gt;
+
+&lt;p&gt;Es que la verdad hay cosas que simplemente no puedo dejar pasar (y no quiero tampoco).&lt;/p&gt;
+
+&lt;p&gt;Tal vez me digas: “¿Otra vez Julián?, ¿hablando mal de WordPress?, que los plugins, que los fallos, que el código es mejor… Que pereza”&lt;/p&gt;
+
+&lt;p&gt;Oye si piensas así, bueno, lo respeto, pero respeta tu también. Escribo para empresarios con páginas web, con empleados, con patrimonios, con datos de clientes.&lt;/p&gt;
+
+&lt;p&gt;Y todo está bajo riesgo por que nadie les dijo que &lt;a href=&quot;/desarrollo-paginas-web&quot;&gt;era mejor una web hecha con código&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Si no te gusta… bye, bye ,byeeee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/deadpool.gif&quot; alt=&quot;GIF de Deadpool&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero si lo que vienes es a que charlemos un rato y nos pongamos al día con &lt;strong&gt;las novedades del SEO y las páginas web, alista tu cafecito y disfruta&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ahora-tienen-virus-tamos-jodidos-bueno-al-menos-los-que-usan-wordpress&quot;&gt;¡Ahora tienen virus! Tamos jodidos, bueno, al menos los que usan WordPress&lt;/h2&gt;
+
+&lt;p&gt;¿Recuerdas que hace unas semanas te hablé de 2 plugins de WordPress a los que se les habían diagnosticado vulnerabilidades gravísimas?&lt;/p&gt;
+
+&lt;p&gt;Si no leíste ese artículo puedes encontrarlo &lt;a href=&quot;/blog/noticia-vulnerabilidad-temas-wordpress&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Era una noticia que encontré en un &lt;a href=&quot;https://www.searchenginejournal.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;portal de novedades de SEO llamado Search Engine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pues resulta, pasa y acontece, que esta misma plataforma publicó otra cosita bastante interesante.&lt;/p&gt;
+
+&lt;p&gt;Este era el titular:&lt;/p&gt;
+
+&lt;p&gt;“&lt;strong&gt;La vulnerabilidad del plugin para traducción de WordPress&lt;/strong&gt; afecta a más de un millón de sitios”&lt;/p&gt;
+
+&lt;p&gt;¿De qué iba esto?&lt;/p&gt;
+
+&lt;p&gt;Bueno, el plugin se llama &lt;strong&gt;WPML&lt;/strong&gt;, es un plugin de WordPress utilizado para traducir sitios web a otros idiomas.&lt;/p&gt;
+
+&lt;p&gt;¿Suena útil, no?&lt;/p&gt;
+
+&lt;p&gt;Lo es, el problema es que (como raro) se consiguió una vulnerabilidad. &lt;strong&gt;La vulnerabilidad permite a cualquier atacante tomar control de la página web&lt;/strong&gt; que utiliza el plugin y rodar código malicioso (con virus) en el sitio.&lt;/p&gt;
+
+&lt;p&gt;Este tipo de problema se cataloga como Remote Code Execution (RCE) o en otras palabras: Ejecución de código remota.&lt;/p&gt;
+
+&lt;p&gt;¿Qué quiere decir esto?&lt;/p&gt;
+
+&lt;p&gt;Que básicamente &lt;strong&gt;&lt;em&gt;le da control total del sitio al hacker&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Qué tal esa, ah?&lt;/p&gt;
+
+&lt;p&gt;Lo peor es que el plugin tiene más de !1 millón de descargas!&lt;/p&gt;
+
+&lt;p&gt;Así que por lo menos hay un millón de sitios en internet que lo utilizan y muchas más personas entrando y saliendo de esas páginas.&lt;/p&gt;
+
+&lt;p&gt;Lo bueno es que los desarrolladores “solucionaron el problema” en su actualización más reciente, que es la versión 4.6.13 de WPML.&lt;/p&gt;
+
+&lt;p&gt;Lo grave es que ¿sabes cuanto tiempo tardaron en resolver la vulnerabilidad desde que la identificaron?&lt;/p&gt;
+
+&lt;p&gt;¡1 mes y medio!&lt;/p&gt;
+
+&lt;p&gt;Más que suficiente tiempo para que un hacker experimentado plante su código con virus e infecte a la página y a los usuarios.&lt;/p&gt;
+
+&lt;p&gt;Tenaz…&lt;/p&gt;
+
+&lt;p&gt;¿La lección?&lt;/p&gt;
+
+&lt;h2 id=&quot;si-quieres-hacer-una-página-web-para-tu-negocio-libre-de-esos-dolores-de-cabeza-no-uses-wordpress&quot;&gt;Si quieres hacer una página web para tu negocio libre de esos dolores de cabeza, ¡NO USES WORDPRESS!&lt;/h2&gt;
+
+&lt;p&gt;Al menos ese es mi consejo.&lt;/p&gt;
+
+&lt;p&gt;Si quieres ver cómo sí te recomiendo que hagas tu página web, &lt;a href=&quot;/blog/por-que-no-usar-wordpress&quot;&gt;te lo explico en este post anti-WordPress&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Y si quieres que yo haga tu página web, te explico cómo las hago&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/desarrollo-paginas-web&quot; class=&quot;boton boton_1&quot;&gt;→ Hago tu página web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuéntame…&lt;/p&gt;
+
+&lt;p&gt;¿Estas de acuerdo en qué &lt;strong&gt;utilizar WordPress no es la manera más eficiente de hacer páginas web&lt;/strong&gt; que funcionen, y, por qué?&lt;/p&gt;
+
+&lt;p&gt;Te leo en comentarios.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">¿Y cuál es la noticia otra vez? Un plugin con virus... otra vez.</summary>
+      
+
+      
+      
+
+      
+        <category term="[&quot;Noticias&quot;]" />
+      
+
+      
+        <category term="Noticias" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
   
     <entry>
       <title type="html">El h1 o título de tu web: ¿Sabes utilizarlo? Deberías</title>

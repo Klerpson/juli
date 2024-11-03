@@ -1,91 +1,99 @@
 ---
 layout: articulo
-title: "Vulnerabilidades en WordPress de plantillas Themeforest"
-description: Noticia vulnerabilidades de plantillas WordPress, una de tantas razones por la que no recomiendo esta herramienta a mis clientes. Léelo.
+title: "Plugin WordPress con virus: No utilices WordPress"
+description: Noticia con otro plugin de WordPress con virus. Vaya que lo he advertido muchas veces. Y todo por no pagar un buen desarrollador web, como yo. Léelo.
 category: [Noticias]
 tags: [Noticias]
-h1: "Las vulnerabilidades en WordPress: Una razón más para que no utilices este gestor"
+h1: "¿Enserio, no se cansan? Pues no… plugin de WordPress con virus"
 hero: img/malware-wordpress.svg
 jpg: img/malware-wordpress.jpg
-alt: Símbolo de malware wordpress
-excerpt: 'Ya te lo he dicho: WordPress no es seguro. Aquí otra noticia.'
-date: 2024-10-02 10:00:00 -0500
-last_modified_at: 2024-10-02 10:00:00 -0500
+alt: Símbolo de malware WordPress
+excerpt: '¿Y cuál es la noticia otra vez? Un plugin con virus... otra vez.'
+date: 2024-11-02 10:00:00 -0500
+last_modified_at: 2024-11-02 10:00:00 -0500
 author: Julian Franco
-expertise: "Desde el 2017 hago páginas web y SEO"
-word_count: 1139
-time_to_read: 7
-published: no
+expertise: "Desde el 2017 hago páginas web y SEO."
+word_count: 587
+time_to_read: 3
 ---
-Normalmente estás aquí por una de estas dos razones: ***estoy haciendo el mejor SEO colombiano o te enteraste de la manera que ayudo a mis clientes y amigo a aprovechar sus páginas web al máximo.***
+Aquí voy de nuevo…
 
-{% include bloque_3.html
-title="¿Cómo puedo mejorar la página web de tu empresa? Esto es lo que consiguen mis clientes"
-subtitulo1="→ Te diré gratis cómo mejorar tu página web"
-parrafo1="Escucharé tus deseos. Pero con mucha sinceridad y respeto te diré qué cambiar, qué no hacer y que sí. Te diré <strong>qué hace que mis clientes sigan mejorando sus ventas con su página web</strong>."
-subtitulo2="→ ¿Páginas web 'naturales o artificiales'?"
-parrafo2="¿Compras helados con saborizantes como si fuera helado natural de fruta? Seguro no. Pues yo no cobro páginas web con plantillas mal optimizadas. <strong>Hago tu web con código profesional y optimizado</strong>."
-subtitulo3="→ También sé cómo posicionar tu página web"
-parrafo3="Siempre te ofrecen páginas web bonitas. Pero no te explican que están mal optimizadas y que no conseguirás visitas ni del personal de la empresa. <strong>Yo llevaré muchas visitas a tu página web</strong>."
-%}
+Por el título podrías deducir que me voy a lanzar otra vez contra WordPress.
 
-## Las páginas web sin visitas no sirven para nada y solo son un gasto
+Me gustaría poder decir que no, pero, sí, estás en lo cierto.
 
-Lastimosamente, estoy seguro que nadie te ha explicado puntos tan importantes como estos:
+Es que la verdad hay cosas que simplemente no puedo dejar pasar (y no quiero tampoco).
 
-1. Poner una página web en internet no es suficiente. Necesitas que la gente la encuentre.
-2. Si la página es bonita pero lenta, no sirve ni para pagarle publicidad. Pierdes dinero.
-3. No es verdad que tienes que pagar hosting mensual cuando tienes una página web bien hecha.
-4. La página web se controla con contraseñas y usuarios. Tú eres el dueño de esos datos, no la agencia.
-5. Si tu página web habla de ti o de tu empresa, estás perdiendo clientes potenciales muy buenos.
-6. Aparecer en las búsquedas de Google en los primeros lugares es más rentable que pagar publicidad.
-{:class="seccion"}
+Tal vez me digas: “¿Otra vez Julián?, ¿hablando mal de WordPress?, que los plugins, que los fallos, que el código es mejor… Que pereza”
 
->Mis propias páginas y las de mis clientes son páginas web profesionales. Son un activo digital para sus empresas o marca personal. Yo no me dedico a poner lucecitas y animaciones por montones. **Me enfoco en vender, convertir, EN RESULTADOS** 😎☕  
->{% include boton.html %}
-{:class="flow"}
+Oye si piensas así, bueno, lo respeto, pero respeta tu también. Escribo para empresarios con páginas web, con empleados, con patrimonios, con datos de clientes.
 
-### Esto es lo que haré para convertir tu página web en un verdadero activo rentable
+Y todo está bajo riesgo por que nadie les dijo que [era mejor una web hecha con código]({{'desarrollo-paginas-web'|relative_url}}).
 
-Gracias a toda la experiencia **trabajando desde el 2016 en páginas web de empresas nacionales e internacionales**, sé qué debo hacer para ayudarte:
+Si no te gusta… bye, bye ,byeeee.
 
-1. Investigo y analizo tu situación actual, aún si todavía no tienes una web funcionando.
-2. Conozco tu empresa y tus productos a fondo para entender bien tu mercado.
-3. Analizo tu competencia en internet para saber qué les funciona y qué están haciendo mal.
-4. Te propongo la nueva estructura de tu página web para que consigas mejores resultados.
-5. Desarrollo de páginas web con código que no necesitan plugins, ni mantenimientos, ni cuidar las brechas de seguridad, ni más dolores de cabeza.
-6. Utilizo redacción persuasiva y con estrategia en tu contenido, para aprovechar todas las visitas que tendrá tu página.
-7. Y si todavía tienes WordPress, yo te ayudo a sacarle el mayor provecho posible. Pero te prometo que algún día dejarás de sufrir con esa herramienta. Es mi compromiso.
-{:class="seccion"}
+![GIF de Deadpool]({{'img/deadpool.gif'|relative_url}})
 
->Para mí será un placer enseñarte todo lo diferente que son las páginas actuales de mis clientes a lo que eran antes de contactarme. Escríbeme y te mostraré todo lo que puedes conseguir con una web profesional.  
->{% include boton.html %}
-{:class="flow"}
+Pero si lo que vienes es a que charlemos un rato y nos pongamos al día con **las novedades del SEO y las páginas web, alista tu cafecito y disfruta**.
 
-## Ahora te comparto todo lo que sé sobre páginas web y SEO
+## ¡Ahora tienen virus! Tamos jodidos, bueno, al menos los que usan WordPress
 
-<div class="home_gallery">
-  {% for principal in site.posts %}
-  {% if principal.home %}
-  <article class="flow">
-    <img src="{{principal.hero}}" alt="{{principal.alt}}">
-    <a href="{{principal.url|relative_url}}">
-      <h3>{{principal.h1}}</h3>
-    </a>
-    <p>
-    {{principal.excerpt}}
-    </p>
-  </article>
-  {% endif %}
-  {% endfor %}
-</div>
+¿Recuerdas que hace unas semanas te hablé de 2 plugins de WordPress a los que se les habían diagnosticado vulnerabilidades gravísimas?
 
-## Escríbeme y cuéntame qué te gustaría conseguir con tu página web
+Si no leíste ese artículo puedes encontrarlo [aquí]({% post_url 2024-10-02-noticia-vulnerabilidad-temas-wordpress %}).
 
-Será un placer explicarte qué pasos seguir y cómo hacer que tu empresa también crezca en internet.
+Era una noticia que encontré en un [portal de novedades de SEO llamado Search Engine](https://www.searchenginejournal.com/){:rel="nofollow noopener noreferrer" target="_blank"}.
 
-Toma tiempo.
+Pues resulta, pasa y acontece, que esta misma plataforma publicó otra cosita bastante interesante.
 
-Pero vale mucho la pena. Te lo prometo.
+Este era el titular:
 
-{% include boton.html %}
+“**La vulnerabilidad del plugin para traducción de WordPress** afecta a más de un millón de sitios”
+
+¿De qué iba esto?
+
+Bueno, el plugin se llama **WPML**, es un plugin de WordPress utilizado para traducir sitios web a otros idiomas.
+
+¿Suena útil, no?
+
+Lo es, el problema es que (como raro) se consiguió una vulnerabilidad. **La vulnerabilidad permite a cualquier atacante tomar control de la página web** que utiliza el plugin y rodar código malicioso (con virus) en el sitio.
+
+Este tipo de problema se cataloga como Remote Code Execution (RCE) o en otras palabras: Ejecución de código remota.
+
+¿Qué quiere decir esto?
+
+Que básicamente ***le da control total del sitio al hacker***.
+
+¿Qué tal esa, ah?
+
+Lo peor es que el plugin tiene más de !1 millón de descargas!
+
+Así que por lo menos hay un millón de sitios en internet que lo utilizan y muchas más personas entrando y saliendo de esas páginas.
+
+Lo bueno es que los desarrolladores “solucionaron el problema” en su actualización más reciente, que es la versión 4.6.13 de WPML.
+
+Lo grave es que ¿sabes cuanto tiempo tardaron en resolver la vulnerabilidad desde que la identificaron?
+
+¡1 mes y medio!
+
+Más que suficiente tiempo para que un hacker experimentado plante su código con virus e infecte a la página y a los usuarios.
+
+Tenaz…
+
+¿La lección?
+
+## Si quieres hacer una página web para tu negocio libre de esos dolores de cabeza, ¡NO USES WORDPRESS!
+
+Al menos ese es mi consejo.
+
+Si quieres ver cómo sí te recomiendo que hagas tu página web, [te lo explico en este post anti-WordPress]({% post_url 2021-05-21-por-que-no-usar-wordpress %}).
+
+Y si quieres que yo haga tu página web, te explico cómo las hago
+
+[→ Hago tu página web]({{'desarrollo-paginas-web'|relative_url}}){:class="boton boton_1"}
+
+Cuéntame…
+
+¿Estas de acuerdo en qué **utilizar WordPress no es la manera más eficiente de hacer páginas web** que funcionen, y, por qué?
+
+Te leo en comentarios.
