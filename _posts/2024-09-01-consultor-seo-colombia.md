@@ -28,7 +28,7 @@ Así que en un mercado tan competitivo como el colombiano, contar con tu consult
 
 [Así hago SEO para empresas]({{'servicio-seo'|relative_url}} "Servicio de optimización de páginas web"){:class="boton"}
 
-## ¿Por qué deberías utilizar mis servicios como consultor SEO en Colombia?
+## ¿Por qué deberías utilizar mis servicios como consultor experto en SEO?
 
 ![Beneficios de un consultor seo en la empresa]({{'img/blog/embudo-consultor-seo.avif' | relative_url }} "Consultor SEO beneficios"){:loading="lazy"}
 
