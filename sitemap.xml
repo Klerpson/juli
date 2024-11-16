@@ -1,59 +1,60 @@
 ---
+layout: null
+sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
-                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-                            http://www.google.com/schemas/sitemap-image/1.1
-                            http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
-                            http://www.google.com/schemas/sitemap-news/0.9
-                            http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd">
+                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  {% for page in site.pages %}
-    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}
+  {% assign pages = site.pages | where_exp: "page", "page.sitemap != false" %}
+  {% for page in pages %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.css' or page.url contains '.json' or page.noindex %}
       <url>
-        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+        <loc>{{ page.url | absolute_url | remove: "index.html" | xml_escape }}</loc>
         <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
-        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-        <priority>{% if page.priority %}{{ page.priority }}{% else %}0.8{% endif %}</priority>
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}{% if page.layout == 'landing' %}weekly{% else %}monthly{% endif %}{% endif %}</changefreq>
+        <priority>{% if page.priority %}{{ page.priority }}{% else %}{% if page.layout == 'landing' %}1.0{% else %}0.8{% endif %}{% endif %}</priority>
+        {% if page.hero %}
+        <image:image>
+          <image:loc>{{ page.hero | absolute_url | xml_escape }}</image:loc>
+          <image:title>{{ page.alt | default: page.title | xml_escape }}</image:title>
+          <image:caption>{{ page.description | xml_escape }}</image:caption>
+        </image:image>
+        {% endif %}
       </url>
     {% endunless %}
   {% endfor %}
 
-  {% for post in site.posts %}
+  {% assign posts = site.posts | where_exp: "post", "post.sitemap != false" %}
+  {% for post in posts %}
     <url>
-      <loc>{{ site.url }}{{ post.url | remove: "index.html" }}</loc>
+      <loc>{{ post.url | absolute_url | remove: "index.html" | xml_escape }}</loc>
       <lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
-      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if post.priority %}{{ post.priority }}{% else %}0.6{% endif %}</priority>
-      {% if post.image %}
+      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}{% if post.category == "news" %}daily{% else %}weekly{% endif %}{% endif %}</changefreq>
+      <priority>{% if post.priority %}{{ post.priority }}{% else %}{% if post.category == "news" %}0.9{% else %}0.7{% endif %}{% endif %}</priority>
+      {% if post.hero or post.jpg %}
         <image:image>
-          <image:loc>{{ site.url }}{{ post.image }}</image:loc>
-          <image:title>{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }}{% endif %}</image:title>
+          <image:loc>{{ post.hero | default: post.jpg | absolute_url | xml_escape }}</image:loc>
+          <image:title>{{ post.alt | default: post.title | xml_escape }}</image:title>
+          <image:caption>{{ post.description | xml_escape }}</image:caption>
         </image:image>
       {% endif %}
       {% if post.category == "news" %}
         <news:news>
           <news:publication>
-            <news:name>{{ site.name }}</news:name>
+            <news:name>{{ site.name | xml_escape }}</news:name>
             <news:language>es</news:language>
           </news:publication>
           <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
-          <news:title>{{ post.title }}</news:title>
+          <news:title>{{ post.title | xml_escape }}</news:title>
+          <news:keywords>{{ post.tags | join: ',' | xml_escape }}</news:keywords>
         </news:news>
       {% endif %}
-    </url>
-  {% endfor %}
-
-  {% for page in site.without-plugin %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-      <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
-      <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}monthly{% endif %}</changefreq>
-      <priority>{% if page.priority %}{{ page.priority }}{% else %}0.7{% endif %}</priority>
     </url>
   {% endfor %}
 </urlset>
