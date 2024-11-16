@@ -1,20 +1,22 @@
 ---
 layout: articulo
-title: "¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!"
-description: Contar con un consultor SEO en Colombia marca la diferencia entre el fracaso y el éxito de una empresa en internet. ¿Trabajamos en tu página web?
-category: [SEO]
-tags: [SEO]
-h1: "Consultor SEO Colombia: Posicionamiento web para empresas"
-hero: img/consultoria-seo.svg
-jpg: img/consultoria-seo.jpg
-alt: Mockup de una página de aterrizaje
-excerpt: 'O mejoras tu página web o sigues perdiendo dinero. Y te ofreceré mi servicio para mejorar la página de tu empresa.'
-date: 2024-09-01 10:00:00 -0500
-last_modified_at: 2024-09-01 10:00:00 -0500
+title: "¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!" # Mantén keywords al inicio
+description: "Consultor SEO Colombia: Optimiza tu presencia digital y aumenta tus ventas con estrategias SEO personalizadas. +7 años de experiencia en posicionamiento web." # Descripción más comercial y con keywords
+category: [SEO, Consultoría]  # Múltiples categorías relevantes
+tags: [SEO, Posicionamiento Web, Consultoría Digital, Colombia] # Más tags específicos
+h1: "Consultor SEO Colombia: Estrategias de posicionamiento web que generan resultados" # H1 optimizado con keywords
+hero: img/consultoria-seo.svg # Cambiado a WebP para mejor rendimiento
+jpg: img/consultoria-seo.jpg # Mantener JPG para OG/Twitter
+alt: "Consultor SEO analizando métricas de posicionamiento web" # Alt text más descriptivo
+excerpt: 'Así es cómo un consultor SEO puede transformar tu presencia digital y multiplicar tus ventas online. Análisis gratuito de tu sitio web.' # Excerpt más atractivo
+date: 2024-09-01T10:00:00-05:00 # Formato ISO 8601
+last_modified_at: 2024-11-15T10:00:00-05:00
 author: Julian Franco
-expertise: "Desde el 2017 hago páginas web y SEO"
+expertise: "Consultor SEO Senior con +7 años de experiencia en posicionamiento web"
 word_count: 860
 time_to_read: 5
+schema_type: BlogPosting # Para rich snippets
+estimated_reading_time: "5 minutos"
 ---
 Un consultor SEO es un profesional especializado en mejorar la visibilidad de una página web en los motores de búsqueda.
 

@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-11-16T13:12:52-05:00</updated>
+  <updated>2024-11-16T13:36:37-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -692,7 +692,7 @@ Aunque estamos hablando de SEO, el que manda es el usuario. Un H1 bien hecho deb
       <title type="html">¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!</title>
       <link href="http://localhost:4000/blog/consultor-seo-colombia" rel="alternate" type="text/html" title="¿Necesitas un consultor SEO en Colombia? ¡Escríbeme!" />
       <published>2024-09-01T10:00:00-05:00</published>
-      <updated>2024-09-01T10:00:00-05:00</updated>
+      <updated>2024-11-15T10:00:00-05:00</updated>
       <id>http://localhost:4000/blog/consultor-seo-colombia</id>
       
       
@@ -869,18 +869,24 @@ Aunque estamos hablando de SEO, el que manda es el usuario. Un H1 bien hecho deb
       
       
       
-        <summary type="html">O mejoras tu página web o sigues perdiendo dinero. Y te ofreceré mi servicio para mejorar la página de tu empresa.</summary>
+        <summary type="html">Así es cómo un consultor SEO puede transformar tu presencia digital y multiplicar tus ventas online. Análisis gratuito de tu sitio web.</summary>
       
 
       
       
 
       
-        <category term="[&quot;SEO&quot;]" />
+        <category term="[&quot;SEO&quot;, &quot;Consultoría&quot;]" />
       
 
       
         <category term="SEO" />
+      
+        <category term="Posicionamiento Web" />
+      
+        <category term="Consultoría Digital" />
+      
+        <category term="Colombia" />
       
 
       
