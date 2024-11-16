@@ -1,60 +1,62 @@
 ---
-layout: null
-sitemap: false
+layout: compress
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
-                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  {% assign pages = site.pages | where_exp: "page", "page.sitemap != false" %}
-  {% for page in pages %}
-    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.css' or page.url contains '.json' or page.noindex %}
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  {% assign all_pages = site.html_pages | concat: site.posts %}
+  {% for page in all_pages %}
+    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.css' or page.url contains 'privada' or page.noindex %}
       <url>
-        <loc>{{ page.url | absolute_url | remove: "index.html" | xml_escape }}</loc>
-        <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
-        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}{% if page.layout == 'landing' %}weekly{% else %}monthly{% endif %}{% endif %}</changefreq>
-        <priority>{% if page.priority %}{{ page.priority }}{% else %}{% if page.layout == 'landing' %}1.0{% else %}0.8{% endif %}{% endif %}</priority>
-        {% if page.hero %}
+        <loc>{{ page.url | absolute_url | remove: "index.html" }}</loc>
+        
+        {% assign modified_time = page.last_modified_at | default: page.date | default: site.time %}
+        <lastmod>{{ modified_time | date_to_xmlschema }}</lastmod>
+        
+        <changefreq>
+          {% case page.layout %}
+            {% when 'post' %}weekly
+            {% when 'landing' %}weekly
+            {% else %}monthly
+          {% endcase %}
+        </changefreq>
+        
+        <priority>
+          {% case page.url %}
+            {% when '/' %}1.0
+            {% when '/blog/' %}0.9
+            {% when '/servicios/' %}0.9
+            {% else %}
+              {% case page.layout %}
+                {% when 'post' %}0.8
+                {% when 'landing' %}0.9
+                {% else %}0.7
+              {% endcase %}
+          {% endcase %}
+        </priority>
+        
+        {% assign page_image = page.jpg | default: page.hero %}
+        {% if page_image %}
         <image:image>
-          <image:loc>{{ page.hero | absolute_url | xml_escape }}</image:loc>
+          <image:loc>{{ page_image | absolute_url }}</image:loc>
           <image:title>{{ page.alt | default: page.title | xml_escape }}</image:title>
           <image:caption>{{ page.description | xml_escape }}</image:caption>
         </image:image>
         {% endif %}
-      </url>
-    {% endunless %}
-  {% endfor %}
-
-  {% assign posts = site.posts | where_exp: "post", "post.sitemap != false" %}
-  {% for post in posts %}
-    <url>
-      <loc>{{ post.url | absolute_url | remove: "index.html" | xml_escape }}</loc>
-      <lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
-      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}{% if post.category == "news" %}daily{% else %}weekly{% endif %}{% endif %}</changefreq>
-      <priority>{% if post.priority %}{{ post.priority }}{% else %}{% if post.category == "news" %}0.9{% else %}0.7{% endif %}{% endif %}</priority>
-      {% if post.hero or post.jpg %}
-        <image:image>
-          <image:loc>{{ post.hero | default: post.jpg | absolute_url | xml_escape }}</image:loc>
-          <image:title>{{ post.alt | default: post.title | xml_escape }}</image:title>
-          <image:caption>{{ post.description | xml_escape }}</image:caption>
-        </image:image>
-      {% endif %}
-      {% if post.category == "news" %}
+        
+        {% if page.layout == 'post' and page.category == 'news' %}
         <news:news>
           <news:publication>
-            <news:name>{{ site.name | xml_escape }}</news:name>
+            <news:name>{{ site.title | default: 'Juli' }}</news:name>
             <news:language>es</news:language>
           </news:publication>
-          <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
-          <news:title>{{ post.title | xml_escape }}</news:title>
-          <news:keywords>{{ post.tags | join: ',' | xml_escape }}</news:keywords>
+          <news:publication_date>{{ page.date | date_to_xmlschema }}</news:publication_date>
+          <news:title>{{ page.title | xml_escape }}</news:title>
         </news:news>
-      {% endif %}
-    </url>
+        {% endif %}
+      </url>
+    {% endunless %}
   {% endfor %}
 </urlset>
