@@ -24,6 +24,12 @@
   margin-right: 8px;
 }
 
+.articulo a:not(aside a){
+  text-decoration: underline;
+  text-decoration-thickness: 2.4px;
+  text-underline-offset: 4px;
+}
+
 .articulo img{
   height: auto;
   box-shadow: var(--shadow);

@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2024-11-16T16:13:20-05:00</updated>
+  <updated>2024-11-18T19:14:01-05:00</updated>
   <id>http://localhost:4000/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -23,6 +23,217 @@
   
 
   
+  
+    <entry>
+      <title type="html">🚨 WordPress en Peligro: Empresas que ‘Reviven’ WordPress</title>
+      <link href="http://localhost:4000/blog/empresas-reviven-paginas-con-wordpress" rel="alternate" type="text/html" title="🚨 WordPress en Peligro: Empresas que &apos;Reviven&apos; WordPress" />
+      <published>2024-11-15T10:00:00-05:00</published>
+      <updated>2024-11-15T10:00:00-05:00</updated>
+      <id>http://localhost:4000/blog/empresas-reviven-paginas-con-wordpress</id>
+      
+      
+        <content type="html" xml:base="http://localhost:4000/blog/empresas-reviven-paginas-con-wordpress">&lt;p&gt;¡Hello hello!&lt;/p&gt;
+
+&lt;p&gt;Bienvenido o bienvenida de nuevo por aquí.&lt;/p&gt;
+
+&lt;p&gt;Mira.&lt;/p&gt;
+
+&lt;p&gt;Soy de esas personas que les encanta leer y documentarse y que fácilmente pueden pasarse un domingo completo frente a la pantalla aprendiendo cosas nuevas.&lt;/p&gt;
+
+&lt;p&gt;Así soy, y, la verdad, ya estoy como viejito para cambiar 🫠.&lt;/p&gt;
+
+&lt;p&gt;Tal vez tú te parezcas un poco a mí, o tal vez no.&lt;/p&gt;
+
+&lt;p&gt;Lo bueno es que no necesitas ser un friki antisocial para poder enterarte de &lt;strong&gt;las novedades del mundo del SEO y las páginas web&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para eso me tienes a mí 🤓 y de eso va el artículo de hoy.&lt;/p&gt;
+
+&lt;p&gt;Disfrútalo…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;PD: ¡Ah! Se me olvidaba, vamos a hablar de &lt;strong&gt;las embarradas de mi mejor amigo WordPress&lt;/strong&gt; (de nuevo), de &lt;strong&gt;los servicios que no deberían existir para “reparar” páginas web con WordPress&lt;/strong&gt; (de nuevo) y de &lt;strong&gt;mi solución definitiva para todo ese enredo&lt;/strong&gt; (de nuevo).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ahora sí, disfruta…&lt;/p&gt;
+
+&lt;h2 id=&quot;el-target-blank-una-vulnerabilidad-de-wordpress-que-aunque-viejita-prueba-el-punto-que-siempre-te-he-enseñado&quot;&gt;El “target blank”: Una vulnerabilidad de WordPress, que, aunque viejita, prueba el punto que siempre te he enseñado&lt;/h2&gt;
+
+&lt;p&gt;Te cuento.&lt;/p&gt;
+
+&lt;p&gt;El otro día me encontré con &lt;strong&gt;este portal web&lt;/strong&gt;: &lt;a href=&quot;https://ayudawp.com/&quot; title=&quot;Página de ayudawp&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://ayudawp.com/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Resulta que tienen otra noticia sobre una vulnerabilidad de WordPress, publicada en 2017.&lt;/p&gt;
+
+&lt;p&gt;Me dirás: ¿En serio Julián? ¿2017? Eso fue hace como un siglo…&lt;/p&gt;
+
+&lt;p&gt;Y sí, tienes razón.&lt;/p&gt;
+
+&lt;p&gt;Pero, si has leído mis artículos anteriores, sabes que &lt;em&gt;estos problemas aún se siguen presentando&lt;/em&gt; y más de lo que quisiéramos.&lt;/p&gt;
+
+&lt;p&gt;Si no los has leído, te los dejo aquí:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://juli.com.co/blog/plugin-wordpress-con-virus&quot; title=&quot;Plugin WordPress con virus&quot;&gt;&lt;strong&gt;Plugin de WordPress con virus&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://juli.com.co/blog/noticia-vulnerabilidad-temas-wordpress&quot; title=&quot;Vulnerabilidades de WordPress&quot;&gt;&lt;strong&gt;Vulnerabilidades de 2 themes de WordPress&lt;/strong&gt;:&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Te explico.&lt;/p&gt;
+
+&lt;h3 id=&quot;con-wordpress-sin-configurar-bien-te-pueden-llevar-a-enlaces-falsos-fácilmente&quot;&gt;Con WordPress sin configurar bien te pueden llevar a enlaces falsos fácilmente&lt;/h3&gt;
+
+&lt;p&gt;¿Alguna vez has entrado todo feliz a una página web que te interesa, has hecho clic en un enlace y te ha abierto otra pestaña en el navegador?&lt;/p&gt;
+
+&lt;p&gt;Esa acción es conocida por el código de la página como “target = blank”.&lt;/p&gt;
+
+&lt;p&gt;Y es justo ahí donde se encontró una vulnerabilidad por parte de las páginas web hechas con WordPress.&lt;/p&gt;
+
+&lt;p&gt;Resulta que &lt;strong&gt;existe el riesgo de que los hackers puedan tomar control de la página original de donde venías&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ese truco se llama “reverse tabnabbing” y sucede cuando el hacker &lt;strong&gt;reemplaza la pestaña original con una página falsa (que se ve igual)&lt;/strong&gt;, engañando a los usuarios para que den su información personal o de inicio de sesión.&lt;/p&gt;
+
+&lt;p&gt;En algunos casos la página falsa puede ser una copia idéntica de la web original (hay gente muy hábil para lo malo).&lt;/p&gt;
+
+&lt;p&gt;Lo único que es diferente, y por lo que se podría identificar ese peligro, es la URL.&lt;/p&gt;
+
+&lt;h3 id=&quot;ojo-a-la-url-original-para-evitar-la-trampa&quot;&gt;Ojo a la URL original para evitar la trampa&lt;/h3&gt;
+
+&lt;p&gt;La página original tendrá una URL propia y única, así que una web falsa no puede copiar exactamente a la URL original.&lt;/p&gt;
+
+&lt;p&gt;El problema es que, siendo honestos, ninguno de nosotros se fija mucho en la URL de una página web, y he ahí el peligro.&lt;/p&gt;
+
+&lt;p&gt;Desde la versión de 4.7.4 de WordPress, el error está aparentemente solucionado.&lt;/p&gt;
+
+&lt;p&gt;La verdad desconozco si la solución dada por el soporte de WordPress es realmente efectiva o si pueda tener otros problemas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Vale la pena arriesgarse?&lt;/strong&gt; Allá cada quien…&lt;/p&gt;
+
+&lt;h2 id=&quot;hay-quienes-se-dedican-a-revivir-páginas-web-con-wordpress-por-algo-será-no&quot;&gt;Hay quienes se dedican a revivir páginas web con WordPress. ¿Por algo será no?&lt;/h2&gt;
+
+&lt;p&gt;A mí no me gustan mucho las redes sociales.&lt;/p&gt;
+
+&lt;p&gt;Simplemente, no son para mí.&lt;/p&gt;
+
+&lt;p&gt;Pero de vez en cuando me toca entrar a chismosear que hay de nuevo con mis clientes.&lt;/p&gt;
+
+&lt;p&gt;Mira lo que me encontré en una de esas tardes de vagancia:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blog/pagina-web-dra-tatiana-leal.avif&quot; alt=&quot;Imagen de una empresa ofreciendo mantenimiento de WordPress que falla o tiene problemas&quot; title=&quot;Empresa de mantenimiento de WordPress&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Es una publicidad&lt;/em&gt; (un anuncio).&lt;/p&gt;
+
+&lt;h3 id=&quot;esta-empresa-se-dedica-a-revivir-páginas-web-con-wordpress&quot;&gt;Esta empresa se dedica a “revivir” páginas web con WordPress&lt;/h3&gt;
+
+&lt;p&gt;¡Tan bellos!&lt;/p&gt;
+
+&lt;p&gt;Preguntan: “¿Se ha detectado un problema en tu sitio de WordPress?”&lt;/p&gt;
+
+&lt;p&gt;¿Uno?&lt;/p&gt;
+
+&lt;p&gt;Yo diría que cientos.&lt;/p&gt;
+
+&lt;p&gt;Miles.&lt;/p&gt;
+
+&lt;p&gt;Cientos de miles&lt;/p&gt;
+
+&lt;p&gt;Jejeje.&lt;/p&gt;
+
+&lt;p&gt;Honestamente, es un servicio muy bueno.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué?&lt;/p&gt;
+
+&lt;p&gt;Porque &lt;strong&gt;no existe una sola página web hecha con WordPress que no tenga errores y problemas&lt;/strong&gt; con las actualizaciones, los plugins, las plantillas, etc., etc., etc………&lt;/p&gt;
+
+&lt;p&gt;Este es uno de esos servicios que (en mi humilde opinión) no deberían existir.&lt;/p&gt;
+
+&lt;p&gt;Pero existen.&lt;/p&gt;
+
+&lt;p&gt;¿Por algo será no?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;PD 2: ¡Oye! Si no me conoces y quieres saber por qué me encarnizo tanto con WordPress y porque no lo recomiendo para hacer páginas web corporativas… Te lo explico &lt;strong&gt;aquí&lt;/strong&gt;: &lt;a href=&quot;https://juli.com.co/blog/por-que-no-usar-wordpress&quot;&gt;Porqué no te recomiendo WordPress&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;mejorar-páginas-web-el-servicio-que-sí-creo-que-debe-existir&quot;&gt;Mejorar páginas web: El servicio que sí creo que debe existir&lt;/h2&gt;
+
+&lt;p&gt;Y no lo digo solo por qué me dedique a eso.&lt;/p&gt;
+
+&lt;p&gt;Porque sí, &lt;strong&gt;me dedico a optimizar páginas web para negocios&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Páginas web que existen, pero que no funcionan como deberían y que no le generan los resultados que podrían a su propietario.&lt;/p&gt;
+
+&lt;h3 id=&quot;cómo-lo-hago&quot;&gt;¿Cómo lo hago?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;NO UTILIZO WORDPRESS&lt;/strong&gt; 😎☕.&lt;/p&gt;
+
+&lt;p&gt;He descubierto que la mejor manera de hacer y optimizar páginas web es mediante código: HTML, CSS y JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Nada más.&lt;/p&gt;
+
+&lt;p&gt;Y si tengo que mejorar una página web que ya fue hecha en WordPress, utilizo mis estrategias secretas para hacer que funcione bien 🤫.&lt;/p&gt;
+
+&lt;h3 id=&quot;es-mi-forma-de-hacerlo-la-mejor&quot;&gt;¿Es mi forma de hacerlo la mejor?&lt;/h3&gt;
+
+&lt;p&gt;No, seguramente habrá otras mucho mejores.&lt;/p&gt;
+
+&lt;p&gt;Pero &lt;strong&gt;es la que me ha dado resultados durante más de 8 años&lt;/strong&gt; y con la que he logrado &lt;strong&gt;ayudar a más de 20 empresarios a triunfar con su web&lt;/strong&gt; y vender más.&lt;/p&gt;
+
+&lt;p&gt;Puedo hacer lo mismo por ti (si me lo permites, claro).&lt;/p&gt;
+
+&lt;p&gt;Aquí puedes ver cómo quiero y puedo ayudarte a mejorar tu página web para que consigas mejores resultados (sin compromiso)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/mejora-de-paginas-web&quot; class=&quot;boton boton_1&quot;&gt;→ Mejoro tu página web&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;la-question-est&quot;&gt;La question est…&lt;/h2&gt;
+
+&lt;p&gt;Es francés.&lt;/p&gt;
+
+&lt;p&gt;No, no hablo francés.&lt;/p&gt;
+
+&lt;p&gt;Es solo para sonar más intelectuales 😏.&lt;/p&gt;
+
+&lt;p&gt;Significa: “La pregunta es…” (según el traductor).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ya viste otra noticia que prueba que WordPress no es la mejor forma de hacer páginas web para negocios (cómo siempre he dicho).&lt;/li&gt;
+  &lt;li&gt;Te mostré que hay empresas que tienen todo un negocio dedicado a “salvar” a esos emprendedores desafortunados que hicieron sus páginas web con WordPress. (Aunque la solución no es real, porque siempre seguirán teniendo problemas).&lt;/li&gt;
+  &lt;li&gt;Y te enseñé la que considero que sí es la mejor forma de optimizar a una página web sin importar que esté hecha con WordPress o no.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Así que “la question est”:&lt;/p&gt;
+
+&lt;p&gt;¿Cuál crees que es mayor desafío al se enfrenta una persona que quiere crecer su negocio abriendo una página web y por qué?&lt;/p&gt;
+
+&lt;p&gt;Te leo en los comentarios.&lt;/p&gt;
+
+&lt;p&gt;Cuéntame…&lt;/p&gt;
+
+&lt;p&gt;¿Estas de acuerdo en qué &lt;strong&gt;utilizar WordPress no es la manera más eficiente de hacer páginas web&lt;/strong&gt; que funcionen, y, por qué?&lt;/p&gt;
+
+&lt;p&gt;Te leo en comentarios.&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">WordPress y sus problemas de seguridad: empresas que se dedican a &apos;revivir&apos; sitios web y la solución definitiva para este dolor de cabeza.</summary>
+      
+
+      
+      
+
+      
+        <category term="[&quot;WordPress&quot;]" />
+      
+
+      
+        <category term="WordPress" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
   
     <entry>
       <title type="html">Plugin WordPress con virus: No utilices WordPress</title>
@@ -706,7 +917,7 @@ Aunque estamos hablando de SEO, el que manda es el usuario. Un H1 bien hecho deb
 
 &lt;p&gt;&lt;a href=&quot;/servicio-seo&quot; title=&quot;Servicio de optimización de páginas web&quot; class=&quot;boton&quot;&gt;Así hago SEO para empresas&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;por-qué-deberías-utilizar-mis-servicios-como-consultor-seo-en-colombia&quot;&gt;¿Por qué deberías utilizar mis servicios como consultor SEO en Colombia?&lt;/h2&gt;
+&lt;h2 id=&quot;por-qué-deberías-utilizar-mis-servicios-como-consultor-experto-en-seo&quot;&gt;¿Por qué deberías utilizar mis servicios como consultor experto en SEO?&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/blog/embudo-consultor-seo.avif&quot; alt=&quot;Beneficios de un consultor seo en la empresa&quot; title=&quot;Consultor SEO beneficios&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
 
