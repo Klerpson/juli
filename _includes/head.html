@@ -91,28 +91,13 @@
   <link rel="icon" href="{{ 'img/favicon/favicon.ico' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ 'img/favicon/apple-touch-icon.png' | relative_url }}">
   
-  <!-- Scripts Condicionales -->
-  {% if jekyll.environment == "production" %}
-    {% if site.gtm_id %}
-    <!-- Google Tag Manager -->
-    <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-    j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','{{ site.gtm_id }}');
-    </script>
-    {% endif %}
-    
-    <!-- Microsoft Clarity (si existe) -->
-    {% if site.clarity_id %}
-    <script>
-    !function(c,l,a){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    var t=l.createElement('script');t.async=1;t.src='https://www.clarity.ms/tag/'+a;
-    l.head.appendChild(t);}(window,document,'clarity');
-    </script>
-    {% endif %}
-  {% endif %}
-
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PHNFJ7QH');</script>
+  <!-- End Google Tag Manager -->
   <!-- Schema.org -->
   <script type="application/ld+json">
     {% include schema.html %}
