@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: "El h1 o título de tu web: ¿Sabes utilizarlo? Deberías"
-description: Noticia vulnerabilidades de plantillas WordPress, una de tantas razones por la que no recomiendo esta herramienta a mis clientes. Léelo.
+description: El h1 de una página web es vital para que Google la suba en posiciones. Y si ya lo sabes, ¿revisaste que esté en todas tus páginas? Te enseño más.
 category: [SEO]
 tags: [SEO]
 h1: "El h1 de una página web: más ignorado que créditos de película"
