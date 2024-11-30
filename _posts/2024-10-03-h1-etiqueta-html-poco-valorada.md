@@ -8,7 +8,7 @@ h1: "El h1 de una página web: más ignorado que créditos de película"
 hero: img/malware-wordpress.svg
 jpg: img/malware-wordpress.jpg
 alt: Símbolo de malware wordpress
-excerpt: 'Ya te lo he dicho: WordPress no es seguro. Aquí otra noticia.'
+excerpt: 'Casi todas las páginas web que reviso no utilizan h1. ¿Por qué? Porque no les explicaron esto. Léelo'
 date: 2024-10-02 10:00:00 -0500
 last_modified_at: 2024-10-02 10:00:00 -0500
 author: Julian Franco
