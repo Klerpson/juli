@@ -10,7 +10,7 @@
         <loc>http://localhost:4000/alquiler-paginas-web/</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -36,7 +36,7 @@
         <loc>http://localhost:4000/blog</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -62,7 +62,7 @@
         <loc>http://localhost:4000/contacto</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -94,7 +94,7 @@
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -126,7 +126,7 @@
         <loc>http://localhost:4000/</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -150,7 +150,7 @@
         <loc>http://localhost:4000/legal</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -182,7 +182,7 @@
         <loc>http://localhost:4000/mejora-de-paginas-web</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -214,7 +214,7 @@
         <loc>http://localhost:4000/paginas-web-economicas</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -246,7 +246,7 @@
         <loc>http://localhost:4000/portafolio</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -274,7 +274,7 @@
         <loc>http://localhost:4000/servicio-seo</loc>
         
         
-        <lastmod>2024-12-07T00:38:02-05:00</lastmod>
+        <lastmod>2024-12-07T08:10:02-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -294,6 +294,38 @@
           <image:loc>http://localhost:4000/img/banner-juli.webp</image:loc>
           <image:title>Banner del servicio de SEO profesional de Juli.Com.Co</image:title>
           <image:caption>Posicionamiento SEO avanzado para empresas que buscan dominar los resultados de Google. Estrategia personalizada, resultados medibles y crecimiento sostenible.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/blog/paginas-web-para-empresas</loc>
+        
+        
+        <lastmod>2024-12-06T06:00:00-05:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/paginas-web-para-empresas.jpg</image:loc>
+          <image:title>Página web empresarial profesional</image:title>
+          <image:caption>¿Buscas una página web para tu empresa? Descubre por qué las páginas web estáticas son más seguras y eficientes que WordPress. Tu negocio merece algo mejor.</image:caption>
         </image:image>
         
         

@@ -9,7 +9,14 @@ servicio: Desarrollo de páginas web
 ---
 ## Contáctame hoy mismo y consigue una página web que convierta
 
-¡Me encantaría saber de ti! Si tienes alguna pregunta, comentario o simplemente quieres saludar, no dudes en ponerte en contacto conmigo. Estoy aquí para ayudarte con todo lo relacionado a **landing page** y **posicionamiento web**.
+¡Me encantaría saber de ti! Si tienes alguna pregunta, comentario o simplemente quieres saludar, no dudes en ponerte en contacto conmigo. Estoy aquí para ayudarte con todo lo relacionado a:
+
+
+* [**Landing pages** <span class="arrow"></span>]({{'desarrollo-paginas-web' | relative_url }} "Hacer Landings"){:class="boton-secundario"}
+* [**Páginas web profesionales** <span class="arrow"></span>]({{'desarrollo-paginas-web' | relative_url }} "Hacer páginas web profesionales"){:class="boton-secundario"}
+* [**Posicionamiento web** <span class="arrow"></span>]({{'servicio-seo' | relative_url }} "Hacer SEO"){:class="boton-secundario"}
+* [**Páginas económicas** <span class="arrow"></span>]({{'paginas-web-economicas' | relative_url }} "Hace páginas baratas"){:class="boton-secundario"}
+* [**Mejorar páginas web** <span class="arrow"></span>]({{'mejora-de-paginas-web' | relative_url }} "Optimizar páginas web"){:class="boton-secundario"}
 
 ## ¿Cómo puedes contactarme?
 
