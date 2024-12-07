@@ -1,176 +1,155 @@
 ---
 layout: default
-title: ¿Necesitas Mejorar Tu Página Web? Escríbeme y la auditamos
-description: Tu página web no funciona bien. Pues pierdes dinero. Te ayudo a mejorar o modificar la página web de tu empresa. Verás la diferencia en resultados.
-h1: Te ayudo a mejorar tu página web para que consigas mejores resultados
+title: Servicio de Optimización y Mejora de Páginas Web | Juli.Com.Co
+description: Optimizo y mejoro páginas web existentes para multiplicar sus resultados. Auditoría profesional, optimización técnica y mejoras medibles para tu negocio.
+h1: Optimización profesional para multiplicar los resultados de tu página web
 hero: img/mejorar-paginas-web.webp
-alt: Imagen del servicio de mejora de páginas web para Colombia
-servicio: Desarrollo de páginas web
-excerpt: Mejorar páginas web es el servicio que más me contratan. Lo confiezo. Y la razón es que hay demasiadas páginas web muy mal hechas (porqué creías que te hacían descuento). Esa es la razón por la que no sirven. Yo te ayudo a optimizar tu web para vender más. 
+alt: Banner del servicio de optimización y mejora de páginas web
+servicio: Optimización Web
+excerpt: ¿Tu página web no está generando los resultados esperados? Descubre cómo podemos optimizarla para convertirla en un verdadero activo digital que genere resultados medibles para tu negocio.
 ---
-## ¿Sabes por qué deberías invertir en mejorar tu página web?
-
-Para que no pierdas más dinero con tu página web 📉.
-
-Es la respuesta corta y sincera.
-
-Pero te contaré algo más para ayudarte a tomar la decisión de comenzar **mejorar tu página web**. Y claro está, me gustaría mucho que al decidirte cuentes con mi experiencia.
-
-{% include boton.html %}
-
->Desde el 2018 estoy ayudando empresas colombianas a mejorar su página web.
-
-## Mejorar tu página web a diario o ser el dinosaurio
-
-El dinosaurio 🦕.
-
-Así le decíamos *al mouse o ratón que tuvo el primer computador de nuestra casa*.
-
-Era un computador re-viejo.
-
-Tan viejo que no lo pudimos vender. Tocó cambiarlo por un pequeño mercado en una tienda. Sí, la situación no era fácil 😅.
-
-Pero quiero que te fijes en lo siguiente:
-
-- **¿Teníamos computador?** Sí, sí teníamos.
-- **¿Servía para algo?** NO. No servía para nada útil.
-
-Y eso es exactamente lo que le sucede a la mayoría de empresas en Colombia:
-
-**¿Tienen página web?** Sí. Pero, **¿la usan para generar ingresos o crear más contactos? ¿O la tienen solo como una costosa tarjeta de presentación?**
-{:class="seccion"}
-
-### Ahora piensa en si tu empresa necesita mejorar su página web
-
-Estás justo en esta sección de mi web.
-
-Quizá hiciste una búsqueda de **cómo mejorar tu página web** y aparecí yo. O quizá te invité personalmente al ver que tu página web necesita una mejora urgente.
-
-El caso es este: **¿Funciona como debe ser tu página web?**.
-
-## Hay que invertir para mejorar la página web
-
-Así hizo mi padre en casa.
-
-Compró el primer computador decente 🖥️. Ese sí tenía mouse...jejeje.
-
-Fue el computador de escritorio donde comencé mis primeros pasos de programación en visual basic.
-
-Luego, conseguí mis equipos personales.
-
-Y hoy, para obtener los resultados que tengo en mi negocio de páginas web, **tuve que invertir en mejorar** mis equipos, mis herramientas digitales... Invertí en mejorar mi empresa.
-
->**Eso es lo que significa mejorar tu página web**. Es invertir para mejorar el activo digital que te trae clientes, ventas, negocio 🚀  
-{% include boton.html %}
-
-## Yo te ayudo a mejorar tu página web
-
-Ahora que ya entiendes que mejorar la página web va más allá del gusto personal, te cuento cómo te puedo ayudar a lograrlo.
-
-----
-
-### 1. Servicio de auditoría
-
-Antes de mejorar la página web, primero hay que hacer un examen. Como cuando te enfermas y vas al hospital. Así debe estar tu web.
-
-A este examen se le conoce como **auditoría web**.
-
-Pues yo puedo hacer tu auditoría web. Y lo hago desde todos los ángulos:
-
-- Diseño
-- SEO
-- Arquitectura
-- Código técnico
-- Servidores
-- Seguridad
-
-Etcétera. Y luego, preparo un informe de resultados para que tu equipo pueda aplicar las sugerencias de la auditoría.
-
-😎 Puedes solicitar mi **servicio de auditorías web desde $485000 pesos colombianos** para una página de máximo 10 URL's.
-
-🪧  *Si tu web es más grande, escríbeme y negociamos tu solicitud.*
-
-----
-
-### 2. Optimización o modificación de tu página web
-
-Ahora sí el momento de conseguir lo que buscas.
-
-Si además de la auditoría, necesitas un experto que lleve a cabo los cambios sugeridos, también lo haré por ti.
-
-😎 Puedes solicitar mi **servicio de optimización de páginas web desde $890000 pesos colombianos** para una página de máximo 10 URL's.
-
-{% include boton.html %}
-
-🪧 *Si tu web es más grande, escríbeme y negociamos tu solicitud.*.
-
-🪧 *Nota: este servicio incluye la auditoría y la ejecución de los cambios*.
-
-----
-
-### 3. ¿Nada que hacer? Pues yo te hago tu web
-
-Seamos claros: **no existe una página web más optima que la que haces con código a la medida**.
-
-Y creo que lo has notado en esta misma web.
-
-😎 ¿Te gustaría que tu página web funcionara así como la mía? **Pues la hacemos desde cero a código**. Haz clic aquí y conoce mis propuestas. O escríbeme directamente tu solicitud.
-
-[Desarrollo de páginas web →]({{'desarrollo-paginas-web'|relative_url}} "Diseño de páginas web"){:class="boton"}
-
-## Los clientes que ya han mejorado su página web ahora tienen un activo productivo
-
-Te sorprenderías de la cantidad de empresas cuyas páginas web solo representan un gasto.
-
-Como si tuvieran un computador viejo que solo consume energía, pero no es útil.
-
-Que no te pase.
-
-Por eso, **grandes empresarios ya han invertido en mi servicio para mejorar páginas web**. Te enseño 2 casos.
-
-## El caso de Holographic Colombia y su nueva página web
-
-Holographic es una gran empresa Colombiana que lleva años mejorando la seguridad de los productos de las empresas con stickers holográficos.
-
-Su página web en Colombia es esta: [Holographic Colombia](https://holographic.com.co){:rel="nofollow noopener noreferrer" target="_blank"}
-
-Sin embargo, como puedes ver, **su funcionamiento no es el esperado**. Y eso representaba 3 problemas importantes:
-
-1. La lentitud causa rebotes o **clientes que llegan y se van porque no carga**.
-2. **Mal posicionamiento web** por la falta de SEO técnico y código óptimo, y de una estructura que mejorara el posicionamiento.
-3. Constante **gasto en optimización y mantenimiento**, además del gasto de hosting, ya que utilizan WordPress.
-
-Ahora bien, esta empresa encontró un gran socio en Ecuador, que decidió abrir una empresa similar con el apoyo de Holographic Colombia. Y sí, hicieron una copia de la web con un dominio diferente.
-
-### Yo mejoré la página web de Holographic
-
-Pues aquí está: [Holographic Ecuador](https://holographic.ec){:rel="nofollow noopener noreferrer" target="_blank"}
-
-Optimicé y mejoré los problemas mencionados. Además, la hice totalmente a código. Y hoy ni siquiera tienen que pagar un hosting mensual.
-
-😎 Basta con que abras las 2 y veas sus diferencias.
-
-Y obviamente, **los resultados en visitas y conversiones siguen aumentando** cada día.
-
-## Optimización y posicionamiento de la página web de Leben Inmobiliaria
-
-Este es uno de mis mejores clientes.
-
-Hasta hoy sigo en la optimización y posicionamiento de su página web. Al comienzo era solo una plantilla hecha a código.
-
-Y quizá a ti te pasó.
-
-La mayoría de los propietarios de una web se enamoraron de una plantilla y la compraron. Sin embargo, **casi ninguna plantilla está optimizada**. La única preocupación de sus vendedores es que se vea bien.
-
-Hoy la página de Leben funciona así: [Agencia inmobiliaria Leben](https://lebeninmobiliaria.com){:rel="nofollow noopener noreferrer" target="_blank"}
-
-Y ahora, **está superando a su competencia con facilidad**. Porque adivina... no tienen una página web optimizada 😉.
-
->Como puedes darte cuenta, mejorar tu página web es una gran inversión en cualquier empresa o emprendimiento que quiere mejorar sus resultados. **Escríbeme y mejoremos tu página web**.
-
-Desde el primer lugar de tu búsqueda de opciones,
-
-*☕Juli*
-{:style="font-family: var(--fuenteTitulos); font-size: 3em;"}
-
-{% include boton.html %}
+<section class="section wrapper flow beneficios">
+  <div class="home_header">
+    <h2>Convierte tu página web actual en una máquina de generación de resultados</h2>
+    <p>Te presento la solución para empresas que ya tienen una página web pero no están obteniendo los resultados esperados: optimización profesional que transforma gastos en inversiones rentables.</p>
+  </div>
+
+  <div class="header_dos_columnas">
+    <h2>La diferencia entre tener una página web que genera gastos y una que produce ingresos</h2>
+    <p>Optimización que impulsa resultados medibles</p>
+  </div>
+
+  <div class="puntos_beneficios">
+    <ol>
+      <li><strong>Auditoría técnica completa</strong> que identifica todas las áreas de mejora</li>
+      <li>Optimización que <strong>reduce costos operativos</strong> y mejora el rendimiento</li>
+      <li>Mejoras que <strong>aumentan las conversiones</strong> y el retorno de inversión</li>
+      <li><strong>Código limpio y optimizado</strong> que Google premia con mejor posicionamiento</li>
+      <li>Transformación de tu web en un <strong>activo digital productivo</strong></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section wrapper servicios">
+  <h2>La realidad sobre tu página web actual que necesitas conocer</h2>
+  
+  <div class="dos_lados_copy">
+    <div class="flow">
+      <table>
+        <tr>
+          <th>Situación Actual</th>
+          <th>Problemas Comunes</th>
+          <th>Mi Solución</th>
+        </tr>
+        <tr>
+          <td>Página lenta</td>
+          <td>▪️ Visitantes abandonan ▪️ Google penaliza ▪️ Pérdida de ventas</td>
+          <td>▪️ Optimización de código ▪️ Mejor experiencia ▪️ Más conversiones</td>
+        </tr>
+        <tr>
+          <td>Costos elevados</td>
+          <td>▪️ Hosting costoso ▪️ Mantenimiento mensual ▪️ Plugins premium</td>
+          <td>▪️ Hosting optimizado ▪️ Sin dependencias ▪️ Costos reducidos</td>
+        </tr>
+        <tr>
+          <td>Sin resultados</td>
+          <td>▪️ Pocas visitas ▪️ No aparece en Google ▪️ Sin conversiones</td>
+          <td>▪️ SEO técnico ▪️ Mejor posicionamiento ▪️ Más ventas</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section wrapper dos_lados">
+  <img src="{{'img/holographic-case.webp' | relative_url}}" alt="Caso de éxito Holographic" />
+  
+  <div style="height: 496px;">
+    <span class="animated-line"></span>
+  </div>
+  
+  <div class="dos_lados_copy" style="place-items: left;">
+    <small>Caso de éxito: Holographic</small>
+    <h2>De página lenta y costosa a activo digital optimizado</h2>
+    <p>Holographic Ecuador confió en nuestra optimización y estos son sus resultados:</p>
+    <ul>
+      <li>✅ Velocidad de carga mejorada drásticamente</li>
+      <li>✅ Eliminación de costos de hosting y mantenimiento</li>
+      <li>✅ Mejor posicionamiento en búsquedas</li>
+      <li>✅ Aumento significativo en conversiones</li>
+    </ul>
+    <div class="scroll-arrow"></div>
+  </div>
+</section>
+
+<section class="section datos fondo">
+  <article>
+    <h4>Auditoría Professional</h4>
+    <div class="flow">
+      <p class="precio">$485,000 COP</p>
+      <p>Pago único - Hasta 10 URLs</p>
+      <ul>
+        <li>✓ Análisis técnico completo</li>
+        <li>✓ Revisión SEO detallada</li>
+        <li>✓ Evaluación de seguridad</li>
+        <li>✓ Análisis de rendimiento</li>
+        <li>✓ Informe de recomendaciones</li>
+        <li>✓ Plan de mejoras priorizado</li>
+        <li>* <small>Diagnóstico profesional completo</small></li>
+      </ul>
+    </div>
+  </article>
+
+  <article style="transform: scale(1.05); background-color: white; padding: 2em; border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;">
+    <h4>Optimización Completa</h4>
+    <div class="flow">
+      <p class="precio">$890,000 COP</p>
+      <p>Pago único - Hasta 10 URLs</p>
+      <ul>
+        <li>✓ Auditoría profesional incluida</li>
+        <li>✓ Implementación de mejoras</li>
+        <li>✓ Optimización de código</li>
+        <li>✓ Mejora de rendimiento</li>
+        <li>✓ SEO técnico aplicado</li>
+        <li>✓ Informe de resultados</li>
+        <li>* <small>Transformación completa de tu web</small></li>
+      </ul>
+    </div>
+  </article>
+
+  <article>
+    <h4>Mantenimiento Mensual</h4>
+    <div class="flow">
+      <p class="precio">$450,000 COP/mes</p>
+      <p>Sin compromiso de permanencia</p>
+      <ul>
+        <li>✓ Monitoreo continuo</li>
+        <li>✓ Optimización mensual</li>
+        <li>✓ Actualizaciones de seguridad</li>
+        <li>✓ Respaldos automáticos</li>
+        <li>✓ Soporte técnico</li>
+        <li>✓ Informes mensuales</li>
+        <li>* <small>Mantén tu web optimizada</small></li>
+      </ul>
+    </div>
+  </article>
+</section>
+
+<section class="section wrapper dos_lados">
+  <div class="dos_lados_copy">
+    <small>¿Listo para optimizar tu inversión digital?</small>
+    <h2>Tu página web optimizada está a un paso</h2>
+    <p>La optimización web no es un gasto, es una inversión que se paga sola con mejores resultados y menores costos operativos.</p>
+    <p>Únete a las empresas que han transformado sus páginas web en verdaderos activos digitales que generan resultados medibles.</p>
+    <div class="scroll-arrow"></div>
+    <a href="#" class="boton" id="lead_whatsapp" target="_blank" rel="nofollow noopener noreferrer">Solicita tu optimización web →</a>
+    <small>¿Preguntas? WhatsApp directo: +57 320 249 2786</small>
+  </div>
+</section>
+
+<section>
+  <blockquote>
+    <p>"La diferencia en rendimiento después de la optimización es increíble. Nuestra página no solo es más rápida, sino que ahora genera más leads y nos cuesta menos mantenerla. La inversión se recuperó en menos de 3 meses."</p>
+    <cite>Director Digital - Holographic Ecuador</cite>
+  </blockquote>
+</section>
