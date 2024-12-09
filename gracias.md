@@ -30,7 +30,7 @@ Te acabas de unir a una comunidad exclusiva de empresarios que entienden que el 
 
 ## Sígueme en redes sociales
 
-* LinkedIn: @{{site.linkedin}}
-* Instagram: @{{site.instagram}}
+* LinkedIn: @[tintoconjuli]({{site.linkedin}}{:target="_blank" rel="nofollow noopener noreferrer"})
+* Instagram: @[tintoconjuli]({{site.instagram}}{:target="_blank" rel="nofollow noopener noreferrer"})
 
 *PD: Si no ves mi correo en tu bandeja de entrada, revisa la carpeta de spam* 😉
