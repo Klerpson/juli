@@ -53,13 +53,9 @@ layout: compress
 {% include css/universales.css %}
 {% include css/nav.css %}
 {% include css/buscador.css %}
-{% if page.layout == "landing" %}
 {% include css/landing.css %}
-{% endif %}
-{% if page.layout == "articulo" %}
 {% include css/blog.css %}
 {% include css/share.css %}
-{% endif %}
 {% include css/paginas.css %}
 {% include css/boton_up.css %}
 {% include css/queries.css %}
