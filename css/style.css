@@ -52,9 +52,6 @@ layout: compress
 }
 {% include css/universales.css %}
 {% include css/nav.css %}
-{% include css/header.css %}
-{% include css/home.css %}
-{% include css/footer.css %}
 {% include css/buscador.css %}
 {% include css/landing.css %}
 {% include css/blog.css %}
