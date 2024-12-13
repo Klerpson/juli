@@ -2,7 +2,7 @@
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
     <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-      <a href="{{ '/' | relative_url }}" itemprop="item">
+      <a href="{{ '/' | relative_url | remove: '/' }}" itemprop="item">
         <span itemprop="name">Inicio</span>
       </a>
       <meta itemprop="position" content="1" />
@@ -14,10 +14,16 @@
           <meta itemprop="position" content="{{ forloop.index | plus: 1 }}" />
         </li>
       {% else %}
-        {% assign crumb_limit = forloop.index | plus: 1 %}
+        {% assign full_path = '' %}
+        {% for i in (1..forloop.index) %}
+          {% assign full_path = full_path | append: '/' | append: crumbs[i] %}
+        {% endfor %}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}" itemprop="item">
-            <span itemprop="name">{{ crumb | replace:'-',' ' | capitalize }}</span>
+          <a href="{{ full_path | relative_url | remove: '/' }}" itemprop="item">
+            <span itemprop="name">
+              {% if crumb == 'blog' %}Blog
+              {% else %}{{ crumb | replace:'-',' ' | capitalize }}{% endif %}
+            </span>
           </a>
           <meta itemprop="position" content="{{ forloop.index | plus: 1 }}" />
         </li>
