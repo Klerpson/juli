@@ -46,7 +46,7 @@ Te cuento lo que yo he hecho. ¿Me ha funcionado? Sí. ¿Necesitas un ejemplo? E
 
 #### Utilizar una páginas web sencilla con Facebook
 
-Utilizaré esta página que me encantó hacer: [fullentretenimiento.co](https://fullentretenimiento.co "Página web Full Entrenimiento"){:rel="nofollow noopener noreferrer" target="_blank"} (Saludos Orlando).
+Utilizaré esta página que me encantó hacer: [fullentretenimiento.co](https://fullentretenimiento.co "Página web Full Entretenimiento"){:rel="nofollow noopener noreferrer" target="_blank"} (Saludos Orlando).
 
 1. **Aprende a crear un grupo de Facebook**: A mí no me gusta depender de las redes sociales para tener un negocio. Pero es verdad que son una buena palanca. Ve a YouTube y busca así: *"Cómo crear un grupo de Facebook"*.
 2. **Comienza a crear contenido**: En este caso, de películas. No tiene que ser videos, aunque es mejor. Pueden ser fotos y texto. O al menos audios. Pero haz contenido. Si puedes hacerlo a diario verás resultados más rápido.

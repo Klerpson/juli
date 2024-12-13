@@ -102,7 +102,7 @@ Además, como WordPress pide actualización para todo (plantillas, plugins, tema
 
 Lo que nos lleva a vulnerabilidades gravísimas, como las que vimos antes, y hace que tristemente **WordPress no sea seguro ni confiable** para la mayoría de los mortales.
 
-Si quieres que te explique mejor por qué, en mi humilde opinión, WordPress no es la mejor opción para hacer una página con estrategia real y libre de dolores de cabeza, te recomiendo que vayas a este otro **artículo**: [Por qué no utilizar WordPress si tu empresa es importante para ti](https://juli.com.co/por-que-no-usar-wordpress)... no apto para fans de WordPress sensibles.
+Si quieres que te explique mejor por qué, en mi humilde opinión, WordPress no es la mejor opción para hacer una página con estrategia real y libre de dolores de cabeza, te recomiendo que vayas a este otro **artículo**: [Por qué no utilizar WordPress si tu empresa es importante para ti](https://juli.com.co/blog/por-que-no-usar-wordpress)... no apto para fans de WordPress sensibles.
 
 ## Y entonces, ¿Cómo sí te recomiendo que hagas tu página web?
 
