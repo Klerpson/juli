@@ -276,14 +276,9 @@ Para cualquier comunicación relacionada con estos Términos:
 - Deberán realizarse por los medios de contacto oficiales
 - Se confirmarán las notificaciones recibidas
 
-
-[Inicio]({{site.baseurl}}/) / [Legal]({{site.baseurl}}/legal/) / Términos y Condiciones
-
-[Todo el contenido actual de Términos y Condiciones que mostraste anteriormente, está correcto]
-
 ## Documentos Relacionados
 
-- [Política de Privacidad]({{site.baseurl}}/privacidad/)
-- [Política de Cookies]({{site.baseurl}}/cookies/)
+- [Política de Privacidad]({{site.baseurl}}/privacidad)
+- [Política de Cookies]({{site.baseurl}}/cookies)
 
 Fecha de última actualización: 14 de marzo de 2024
