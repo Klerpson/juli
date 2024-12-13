@@ -1,25 +1,25 @@
 ---
 layout: articulo
-title: "Tipos de páginas web: La guía que necesitas leer antes de invertir"
+title: "Tipos de páginas web: Lee esto antes de invertir en tu web"
 description: "¿Confundido entre tantos tipos de páginas web? Descubre cuál necesita realmente tu negocio. Una guía honesta sin jerga técnica ni ventas agresivas."
 category: [Web]
 tags: [Páginas Web, Desarrollo Web, Estrategia Digital]
 h1: "Tipos de páginas web: Cómo elegir la correcta (y no desperdiciar tu dinero)"
-hero: img/tipos-paginas-web.svg
-jpg: img/tipos-paginas-web.jpg
+hero: img/blog/tipos-paginas-web.avif
+jpg: img/blog/tipos-paginas-web.jpg
 alt: "Diferentes tipos de páginas web y sus características principales"
 excerpt: 'Descubre qué tipo de página web necesita realmente tu negocio. Una guía práctica sin tecnicismos ni promesas imposibles.'
 date: 2024-12-20 11:00:00 -0500
 last_modified_at: 2024-12-20 11:00:00 -0500
 author: Julian Franco
 expertise: "10+ años diseñando estrategias web efectivas"
-word_count: 3200
-time_to_read: 23
+word_count: 863
+time_to_read: 6
 referencias:
-  - "Baymard Institute - E-Commerce UX Research: https://baymard.com/research"
-  - "Google Analytics Benchmarking: https://marketingplatform.google.com/about/analytics/"
-  - "HubSpot's Website Strategy Data: https://www.hubspot.com/marketing-statistics"
-  - "Forrester Research - Digital Experience: https://www.forrester.com/research/"
+  - Baymard Institute - E-Commerce UX Research: https://baymard.com/research
+  - Google Analytics Benchmarking: https://marketingplatform.google.com/about/analytics/
+  - HubSpot's Website Strategy Data: https://www.hubspot.com/marketing-statistics
+  - Forrester Research - Digital Experience: https://www.forrester.com/research/
 ---
 
 "*¡Quiero una página como Amazon!*"
@@ -209,6 +209,8 @@ Te ayudaré a:
 2. Identificar la mejor opción
 3. Crear un plan de implementación realista
 
+-----
+
 ## Preguntas frecuentes
 
 ### ¿Puedo cambiar de tipo de página web más adelante?
@@ -222,6 +224,8 @@ Depende de tus necesidades reales. Una landing page bien hecha puede ser más ef
 - Web corporativa: 3-4 semanas
 - E-commerce: 4-8 semanas
 - Blog profesional: 2-3 semanas inicial
+
+-----
 
 ## Tu turno
 
