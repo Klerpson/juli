@@ -10,7 +10,7 @@
         <loc>http://localhost:4000/alquiler-paginas-web/</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -36,7 +36,7 @@
         <loc>http://localhost:4000/blog</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -62,7 +62,7 @@
         <loc>http://localhost:4000/contacto</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -96,7 +96,7 @@
         <loc>http://localhost:4000/desarrollo-paginas-web</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -130,7 +130,7 @@
         <loc>http://localhost:4000/</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -154,7 +154,7 @@
         <loc>http://localhost:4000/mejora-de-paginas-web</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -186,7 +186,7 @@
         <loc>http://localhost:4000/paginas-web-economicas</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -218,7 +218,7 @@
         <loc>http://localhost:4000/portafolio</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -248,7 +248,7 @@
         <loc>http://localhost:4000/servicio-seo</loc>
         
         
-        <lastmod>2024-12-13T16:04:46-05:00</lastmod>
+        <lastmod>2024-12-24T08:53:57-05:00</lastmod>
         
         <changefreq>
           monthly
@@ -275,6 +275,102 @@
       </url>
     
   
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/blog/paginas-web-de-servicios</loc>
+        
+        
+        <lastmod>2024-12-31T13:00:00-05:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/paginas-servicios.jpg</image:loc>
+          <image:title>Estructura efectiva de una página web de servicios profesionales</image:title>
+          <image:caption>Aprende a crear una página web de servicios profesionales que genere clientes. Guía paso a paso con ejemplos reales y estrategias probadas.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/blog/cuanto-cuesta-una-pagina-web</loc>
+        
+        
+        <lastmod>2024-12-27T12:00:00-05:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/costos-pagina-web.jpg</image:loc>
+          <image:title>Análisis detallado de costos de desarrollo web</image:title>
+          <image:caption>¿Confundido por los precios de páginas web? Descubre los costos reales, qué estás pagando y cómo conseguir el mejor valor por tu inversión.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/blog/tipos-de-paginas-web</loc>
+        
+        
+        <lastmod>2024-12-20T11:00:00-05:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/img/blog/tipos-paginas-web.jpg</image:loc>
+          <image:title>Diferentes tipos de páginas web y sus características principales</image:title>
+          <image:caption>¿Confundido entre tantos tipos de páginas web? Descubre cuál necesita realmente tu negocio. Una guía honesta sin jerga técnica ni ventas agresivas.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
     
   
     

@@ -9,8 +9,8 @@ hero: img/paginas-servicios.svg
 jpg: img/paginas-servicios.jpg
 alt: "Estructura efectiva de una página web de servicios profesionales"
 excerpt: 'Descubre cómo crear una página web de servicios que genere resultados reales. Sin listados inútiles, solo estrategias probadas.'
-date: 2024-12-13 13:00:00 -0500
-last_modified_at: 2024-12-13 13:00:00 -0500
+date: 2024-12-31 13:00:00 -0500
+last_modified_at: 2024-12-31 13:00:00 -0500
 author: Julian Franco
 expertise: "10+ años desarrollando páginas web que generan resultados"
 word_count: 3200
@@ -43,7 +43,7 @@ Su error? El mismo que cometen el 82% de las páginas web de servicios profesion
 
 Hablar de *características* en lugar de *beneficios*.
 
-[Como expliqué en mi guía sobre tipos de web]({% post_url 2024-12-13-tipos-paginas-web %}), cada tipo de página necesita un enfoque específico.
+[Como expliqué en mi guía sobre tipos de web]({% post_url 2024-12-20-tipos-de-paginas-web %}), cada tipo de página necesita un enfoque específico.
 
 ### La página web de Ricardo: antes y después
 
@@ -112,7 +112,7 @@ No basta con [tener una página web sencilla]({% post_url 2021-06-21-paginas-web
 **Problema**: Muchas visitas, pocas conversiones
 
 **Solución implementada**:
-1. [Estructura de página optimizada]({% post_url 2024-12-13-que-es-pagina-web %})
+1. [Estructura de página optimizada]({% post_url 2024-12-13-que-es-una-pagina-web %})
 2. Sistema de prueba gratuita
 3. Garantía de satisfacción
 
@@ -186,7 +186,7 @@ No basta con [tener una página web sencilla]({% post_url 2021-06-21-paginas-web
 
 1. **Enfocarse en el diseño antes que en la estrategia**
    - El diseño debe seguir a la estrategia
-   - [La simplicidad vende]({% post_url 2024-12-13-que-es-pagina-web %})
+   - [La simplicidad vende]({% post_url 2024-12-13-que-es-una-pagina-web %})
 
 2. **Copiar a la competencia**
    - Lo que funciona para otros puede no funcionar para ti
