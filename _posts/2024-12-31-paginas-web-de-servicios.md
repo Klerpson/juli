@@ -5,8 +5,8 @@ description: "Aprende a crear una página web de servicios profesionales que gen
 category: [Web]
 tags: [Páginas Web, Servicios Profesionales, Desarrollo Web]
 h1: "Páginas web para empresas de servicios: Cómo convertir visitantes en clientes"
-hero: img/paginas-servicios.svg
-jpg: img/paginas-servicios.jpg
+hero: img/blog/paginas-servicios.avif
+jpg: img/blog/paginas-servicios.jpg
 alt: "Estructura efectiva de una página web de servicios profesionales"
 excerpt: 'Descubre cómo crear una página web de servicios que genere resultados reales. Sin listados inútiles, solo estrategias probadas.'
 date: 2024-12-31 13:00:00 -0500
