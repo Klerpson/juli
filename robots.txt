@@ -1,0 +1,28 @@
+# www.robotstxt.org/
+# Configuración principal para juli.com.co
+
+# Reglas globales por defecto
+User-agent: *
+Allow: /
+Disallow: /legal/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /*?*
+
+# Reglas específicas para Google Ads
+User-agent: AdsBot-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+# Bloqueo de bots maliciosos
+User-agent: BadBot
+Disallow: /
+
+# Control de rastreo
+Crawl-delay: 10
+
+# Sitemap
+Sitemap: https://juli.com.co/sitemap.xml

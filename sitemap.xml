@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  
+  
+    
+      <url>
+        <loc>https://juli.com.co/alquiler-paginas-web/</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/contacto</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/banner-juli.webp</image:loc>
+          <image:title>Banner de Juli</image:title>
+          <image:caption>Soy Juli, y hago tus páginas web y tus páginas de venta con una calidad superior: Más conversiones, Más ventas, Mejor optimizadas, Hermosas. Entra aquí</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/desarrollo-paginas-web</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/banner-juli.webp</image:loc>
+          <image:title>Banner del servicio de desarrollo web profesional de Juli.Com.Co</image:title>
+          <image:caption>Desarrollo páginas web 100% personalizadas con código limpio y optimizado. Sin plantillas, sin WordPress, solo código profesional que impulsa tu negocio.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          1.0
+            
+        </priority>
+        
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/mejora-de-paginas-web</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/mejorar-paginas-web.webp</image:loc>
+          <image:title>Banner del servicio de optimización y mejora de páginas web</image:title>
+          <image:caption>Optimizo y mejoro páginas web existentes para multiplicar sus resultados. Auditoría profesional, optimización técnica y mejoras medibles para tu negocio.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/paginas-web-economicas</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/banner-juli.webp</image:loc>
+          <image:title>Banner de las páginas web económicas de Juli.Com.Co</image:title>
+          <image:caption>Una página web económica profesional. Es lo que te ofrezco. Solo código. Plantillas, sí. Pero sin todos los problemas de WordPress. Aprovecha!</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/portafolio</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/servicio-seo</loc>
+        
+        
+        <lastmod>2024-12-25T17:20:22+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/banner-juli.webp</image:loc>
+          <image:title>Banner del servicio de SEO profesional de Juli.Com.Co</image:title>
+          <image:caption>Posicionamiento SEO avanzado para empresas que buscan dominar los resultados de Google. Estrategia personalizada, resultados medibles y crecimiento sostenible.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/tipos-de-paginas-web</loc>
+        
+        
+        <lastmod>2024-12-20T16:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/blog/tipos-paginas-web.jpg</image:loc>
+          <image:title>Diferentes tipos de páginas web y sus características principales</image:title>
+          <image:caption>¿Confundido entre tantos tipos de páginas web? Descubre cuál necesita realmente tu negocio. Una guía honesta sin jerga técnica ni ventas agresivas.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/que-es-una-pagina-web</loc>
+        
+        
+        <lastmod>2024-12-13T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/blog/que-es-pagina-web.jpg</image:loc>
+          <image:title>Anatomía de una página web moderna y sus elementos clave</image:title>
+          <image:caption>Descubre qué hace que una página web sea realmente efectiva en 2024. Una guía honesta y directa, sin palabrería técnica ni promesas vacías.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/paginas-web-para-empresas</loc>
+        
+        
+        <lastmod>2024-12-06T11:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/blog/paginas-web-para-empresas.jpg</image:loc>
+          <image:title>Página web empresarial profesional</image:title>
+          <image:caption>¿Buscas una página web para tu empresa? Descubre por qué las páginas web estáticas son más seguras y eficientes que WordPress. Tu negocio merece algo mejor.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/empresas-reviven-paginas-con-wordpress</loc>
+        
+        
+        <lastmod>2024-11-15T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/malware-wordpress.jpg</image:loc>
+          <image:title>Símbolo de malware WordPress</image:title>
+          <image:caption>¿Tu web WordPress tiene problemas? Pues tan malo es que existen empresas dedicadas a &quot;revivir&quot; sitios web. Te doy la solución definitiva aquí ⬆️</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/plugin-wordpress-con-virus</loc>
+        
+        
+        <lastmod>2024-11-02T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/malware-wordpress.jpg</image:loc>
+          <image:title>Símbolo de malware WordPress</image:title>
+          <image:caption>Noticia con otro plugin de WordPress con virus. Vaya que lo he advertido muchas veces. Y todo por no pagar un buen desarrollador web, como yo. Léelo.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/h1-etiqueta-html-poco-valorada</loc>
+        
+        
+        <lastmod>2024-10-02T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/malware-wordpress.jpg</image:loc>
+          <image:title>Símbolo de malware wordpress</image:title>
+          <image:caption>El h1 de una página web es vital para que Google la suba en posiciones. Y si ya lo sabes, ¿revisaste que esté en todas tus páginas? Te enseño más.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/noticia-vulnerabilidad-temas-wordpress</loc>
+        
+        
+        <lastmod>2024-10-02T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/malware-wordpress.jpg</image:loc>
+          <image:title>Símbolo de malware wordpress</image:title>
+          <image:caption>Noticia vulnerabilidades de plantillas WordPress, una de tantas razones por la que no recomiendo esta herramienta a mis clientes. Léelo.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/llamado-a-la-accion-en-landing-page</loc>
+        
+        
+        <lastmod>2024-09-28T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/cta.jpg</image:loc>
+          <image:title>Mockup de una página de aterrizaje</image:title>
+          <image:caption>El llamado a la acción en una landing page es el encargado de las conversiones. Bien hecho aumenta los mucho los resultados. Te digo qué tener en cuenta.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/consultor-seo-colombia</loc>
+        
+        
+        <lastmod>2024-11-15T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/consultoria-seo.jpg</image:loc>
+          <image:title>Consultor SEO analizando métricas de posicionamiento web</image:title>
+          <image:caption>Consultor SEO Colombia: Optimiza tu presencia digital y aumenta tus ventas con estrategias SEO personalizadas. +7 años de experiencia en posicionamiento web.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/mejorar-paginas-web-de-empresas</loc>
+        
+        
+        <lastmod>2024-08-20T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/mejorar-web.jpg</image:loc>
+          <image:title>Mockup de una página de aterrizaje</image:title>
+          <image:caption>En Colombia, hay muchas empresas con páginas web, que con solo un par de mejoras, estarían recibiendo muchos clientes y contactos. ¿Y la tuya?</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/paginas-de-aterrizaje-con-storytelling</loc>
+        
+        
+        <lastmod>2024-07-20T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/pagina-aterrizaje.jpg</image:loc>
+          <image:title>Mockup de una página de aterrizaje</image:title>
+          <image:caption>¿Cansado de landing pages aburridas? Aprende a usar el storytelling para crear páginas que conecten emocionalmente y vendan más. Ejemplos reales.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/accesibilidad-web</loc>
+        
+        
+        <lastmod>2024-03-08T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/accesibilidad-web.jpg</image:loc>
+          <image:title>Accesibilidad en una página web</image:title>
+          <image:caption>La accesibilidad web es necesaria para garantizar que todas las personas puedan acceder y navegar por los contenidos en línea. Así la aplico yo</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/paginas-web-que-dan-resultados</loc>
+        
+        
+        <lastmod>2024-05-18T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/pagina-web.jpg</image:loc>
+          <image:title>Dibujo de página web</image:title>
+          <image:caption>Casi todos mis clientes piden una página web bonita, con movimientos y efectos. Aquí te muestro por qué no hacerlas así y qué lo hace más efectiva</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/negocios-sin-pagina-web</loc>
+        
+        
+        <lastmod>2024-07-18T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/atencion.jpg</image:loc>
+          <image:title>Negocios sin página web</image:title>
+          <image:caption>Yo sé que ya has escuchado que todo negocio debe tener su página web. Te voy a contar por qué. Y te voy a decir por qué no cualquier página web.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/aprovechar-una-pagina-web-sencilla</loc>
+        
+        
+        <lastmod>2024-07-15T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/aprovechar-pagina-web-sencilla.jpg</image:loc>
+          <image:title>Pagina web rentable</image:title>
+          <image:caption>Me pediste una página web sencilla. Se llaman One Page. Es la más sencilla. Pero si no la sabes usar, pierdes tu inversión. ¡Aquí te doy ideas!</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/evitar-estafas-en-internet</loc>
+        
+        
+        <lastmod>2024-07-10T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/seguridad-para-evitar-estafas-en-internet.jpg</image:loc>
+          <image:title>Seguridad en internet para evitar estafas</image:title>
+          <image:caption>Mantén tus datos seguros en línea. Aprende cómo evitar estafas y fraudes en internet con estas medidas de seguridad. ¡Protege tu privacidad ahora!</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/paginas-web-estaticas-para-empredimientos</loc>
+        
+        
+        <lastmod>2024-06-20T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/pagina-web-estatica.jpg</image:loc>
+          <image:title>Página web estática</image:title>
+          <image:caption>Las páginas web estáticas tienen muchas ventajas en comparación a las páginas dinámicas en el marketing. Y en las ventas. Te explico más aquí.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/por-que-no-usar-wordpress</loc>
+        
+        
+        <lastmod>2024-06-10T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/paginas-web-con-wordpress.jpg</image:loc>
+          <image:title>Ícono de WordPress para páginas web</image:title>
+          <image:caption>No uses WordPress si deseas una página con estrategia y con menos dolores de cabeza. Lee el artículo y aprende por qué no es la mejor opción.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://juli.com.co/blog/paginas-web-cuando-si-cuando-no</loc>
+        
+        
+        <lastmod>2024-07-10T15:00:00+00:00</lastmod>
+        
+        <changefreq>
+          monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+              0.7
+              
+          
+        </priority>
+        
+        
+        
+        <image:image>
+          <image:loc>https://juli.com.co/img/paginas-web-para-negocios.jpg</image:loc>
+          <image:title>Sitio web para un emprendedor</image:title>
+          <image:caption>Quieres una página web. Te dijeron que era buena idea para tu negocio. Sin embargo, es mejor analizar otros factores primero. Yo te digo cuáles.</image:caption>
+        </image:image>
+        
+        
+        
+      </url>
+    
+  
+</urlset>
