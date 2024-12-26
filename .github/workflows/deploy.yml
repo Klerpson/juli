@@ -1,34 +1,47 @@
-name: Rebuild Jekyll Site Daily
+name: Reconstrucción Diaria Jekyll
 
+# Programa la ejecución para correr una vez al día
 on:
   schedule:
-    - cron: '0 0 * * *' # Se ejecuta diariamente a la medianoche UTC
-  push:
-    branches:
-      - main
+    # Esto se ejecutará todos los días a las 00:00 UTC
+    - cron: '0 0 * * *'
+  # También permite la ejecución manual desde la interfaz de GitHub
+  workflow_dispatch:
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v3
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1' # Usa la versión compatible con Jekyll
-
-      - name: Install dependencies
-        run: |
-          bundle install
-
-      - name: Build the site
-        run: |
-          bundle exec jekyll build
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./_site
+    # Paso 1: Clonar el repositorio
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    # Paso 2: Configurar Ruby
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2' # Ajusta esto a tu versión de Ruby
+        bundler-cache: true # Esto almacenará en caché las dependencias de gemas
+    
+    # Paso 3: Instalar dependencias de Jekyll
+    - name: Install dependencies
+      run: |
+        bundle install
+    
+    # Paso 4: Construir el sitio
+    - name: Build site
+      run: |
+        JEKYLL_ENV=production bundle exec jekyll build
+    
+    # Paso 5: Desplegar a GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        publish_dir: ./_site # El directorio donde Jekyll construye el sitio
+        publish_branch: gh-pages # La rama donde se publicará el sitio
+        # Mantener el historial de commits para rastrear cambios
+        keep_files: true
+        # Mensaje de commit personalizado
+        commit_message: "Reconstrucción automática del sitio - ${{ github.event.head_commit.timestamp }}"
