@@ -33,23 +33,31 @@ La respuesta es NO. Así que te comparto hoy este análisis:
 
 ## No es cuento. Todos necesitan una página web
 
-Imagina el lavadero que te acabo de mencionar. Es una gran bodega convertida en lavadero, con sus secciones bien distribuidas. Tienen máquinas para lavar y para "polichar". No está tan bien ubicado, centralmente hablando, pero están en un buen barrio.
+Imagina el lavadero que te acabo de mencionar.
+
+Es una gran bodega convertida en lavadero, con sus secciones bien distribuidas. Tienen máquinas para lavar y para "polichar". No está tan bien ubicado, centralmente hablando, pero están en un buen barrio.
 
 Tal como ese local es el punto físico del negocio, la página web es el punto digital del mismo. Y aquí tienes que tener claro esto: **una mal llamada página de Facebook NO ES una página web**.
 
 ### Tener redes sociales no es lo mismo que tener página web
 
-Mira.
+Me explico.
 
-*Las redes sociales no te pertenecen*. Tus perfiles no son tuyos. Esos perfiles le pertenecen a la empresa que te los brinda, como se llame... Instagram, Tiktok, X, Pinterest. Todas les pertenecen a la misma empresa.
+*Las redes sociales no te pertenecen*. Tus perfiles no son tuyos. Esos perfiles le pertenecen a la empresa que te los brinda, como se llame... Instagram, Tiktok, X, Pinterest.
 
-**Ellos son los que realmente hacen dinero con esos perfiles**. Bien dice un refrán: "*En internet nada es gratis. Y si algo te ofrecen gratis, es porque tú eres el producto*".
+Todas les pertenecen a la misma empresa.
+
+**Ellos son los que realmente hacen dinero con esos perfiles**.
+
+>Bien dice un refrán: "*En internet nada es gratis. Y si algo te ofrecen gratis, es porque tú eres el producto*".
 
 Otro día te explicaré más este punto. Pero es verdad. Tú eres el producto. Tus fotos. Tus videos. ***Todo lo que has subido a las redes sociales ya no te pertenece***.
 
 Si te preguntas: ¿Pero en las redes sociales está todo el mundo?
 
-Te respondo que **tú no necesitas a todo el mundo**. Por ejemplo, tú estás aquí en esta página leyendo esta información. Y espero que te convenza a algún día decir: ***Voy a hacer una página profesional con Juli***. Y no estamos en ninguna red social.
+Te respondo que **tú no necesitas a todo el mundo**.
+
+Por ejemplo, tú estás aquí en esta página leyendo esta información. Y espero que te convenza a algún día decir: [Voy a hacer una página profesional con Juli]({{'desarrollo-paginas-web' | relative_url}} "Desarrollador web Colombia - Juli").
 
 >Una página web que se base en una estrategia enfocada en resolver las necesidades de tus usuarios, vende mucho más que un perfil de redes sociales lleno de fotos de tus productos o servicios.
 
@@ -66,11 +74,15 @@ Estos simples ejemplos te dejan claro que este negocio se está perdiendo de muc
 
 ## Un negocio que sí está aprovechando las ventajas de tener una página web
 
-Ahora te presento la página web de uno de mis mejores clientes. Es [www.gurcoff.com](https://gurcoff.com).
+Ahora te presento la página web de uno de mis mejores clientes.
+
+Es [www.gurcoff.com](https://gurcoff.com).
 
 Esta página puede haber cambiado unas 5 veces. Cada cambio trae una estrategia nueva. **Y cada estrategia digital en su página web acompañaba una etapa diferente de crecimiento del negocio**.
 
-Pero cada cambio cumplió su objetivo. Hoy este negocio está muy bien establecido y en crecimiento. Y el lado digital del negocio está siendo aprovechado por el negocio.
+Pero cada cambio cumplió su objetivo.
+
+Hoy este negocio está muy bien establecido y en crecimiento. Y el lado digital del negocio está siendo aprovechado por el negocio.
 
 >Siempre me aseguro que su página web acompañe bien la estrategia con sus redes sociales y perfiles de Google. Pero no dependen de ellos.
 
@@ -78,13 +90,13 @@ Si un día las redes sociales les da por quitarles sus perfiles, **esta página 
 
 ### Las páginas web de empresas grandes
 
-¿Por qué crees que los grandes negocios tienen redes sociales y página web? ¿Y por qué crees que la mayoría de los grandes negocios hacen su página web a código?
+¿Por qué crees que los grandes negocios tienen redes sociales y página web? ¿Y por qué crees que la mayoría de los grandes negocios hacen su [página web a código]?
 
-Por ejemplo, la gran empresa Colombiana Holographic lleva años en el mercado. Ahora que sigue expandiendo y creciendo con nuevos socios, ha creado [la página web de Holographic en Ecuador](https://holographic.ec).
+Por ejemplo, la doctora Tatiana Leal lleva años en el mercado. Ahora que sigue expandiendo y creciendo, ha mejorado [la página web de su centro estético](https://dratatianaleal.com)({{'mejora-de-paginas-web' | relative_url}} "Mejoro páginas web Colombia - Juli").
 
-Para mí ha sido un reto muy interesante. Sobre todo por el tipo de estructura web.
+Para mí ha sido un reto muy interesante. Sobre todo por el tipo de estructura web y el manejo de 2 idiomas.
 
-Lo más interesante es **cómo utilizan una web corporativo casi como si fuera un vendedor más en la empresa**. Y lo aprendí de ellos.
+Lo más interesante es **cómo utiliza una web corporativa casi como si fuera un vendedor más en la empresa**.
 
 Página web + Estrategia. Luego te cuento más de este caso....
 
