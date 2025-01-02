@@ -5,8 +5,8 @@ description: "Descubre por qué el 67% de las empresas pierden dinero por no ten
 category: [Servicios Web]
 tags: [Mantenimiento Web, Servicios Empresariales, Páginas Web]
 h1: "Servicio de administración web mensual: Lo que tu empresa necesita (y nadie te había dicho)"
-hero: img/servicio-administracion-web.avif
-jpg: img/servicio-administracion-web.jpg
+hero: img/blog/servicio-administracion-web.avif
+jpg: img/blog/servicio-administracion-web.jpg
 alt: Imagen conceptual de administración y mantenimiento web
 excerpt: '¿Tu página web está realmente generando ventas o solo está ahí ocupando espacio digital? Descubre cómo un servicio profesional de administración web puede transformar tu presencia online'
 date: 2025-01-02 10:00:00 -0500
