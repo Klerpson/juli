@@ -38,7 +38,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site # El directorio donde Jekyll construye el sitio
         publish_branch: gh-pages # La rama donde se publicará el sitio
         # Mantener el historial de commits para rastrear cambios
