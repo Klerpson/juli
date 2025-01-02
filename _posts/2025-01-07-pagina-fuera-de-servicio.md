@@ -9,8 +9,8 @@ hero: img/pagina-fuera-servicio.avif
 jpg: img/pagina-fuera-servicio.jpg
 alt: Imagen de página web fuera de servicio con error 404
 excerpt: '¿Tu página web está caída? Cada minuto cuenta. Descubre por qué sucede y cómo evitarlo definitivamente'
-date: 2024-12-30 09:00:00 -0500
-last_modified_at: 2024-12-30 09:00:00 -0500
+date: 2025-01-07 09:00:00 -0500
+last_modified_at: 2025-01-07 09:00:00 -0500
 author: Julian Franco
 expertise: "Desarrollador web y consultor SEO desde 2017"
 word_count: 1532
