@@ -64,7 +64,7 @@ layout: default
     {% if sameTagCount >= minCommonTags %}
 
       {% if post.hero %}
-      <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}" loading="lazy" width="40" height="40">
+      <img src="{{ post.hero | relative_url }}" alt="{{post.altheader}}" title="{{post.imgtitle-header}}" loading="lazy" width="160" height="160">
       {% endif %}
       <a href="{{ post.url |relative_url }}" title="{{post.title}}">
         <h5>{{ post.title }}</h5>

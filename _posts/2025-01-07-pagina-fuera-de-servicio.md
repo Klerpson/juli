@@ -5,8 +5,8 @@ description: ¿Tu página web no carga o está fuera de servicio? Descubre las c
 category: [Mantenimiento]
 tags: [Desarrollo Web, WordPress]
 h1: "Página web fuera de servicio: El error que le cuesta miles a tu empresa"
-hero: img/pagina-fuera-servicio.avif
-jpg: img/pagina-fuera-servicio.jpg
+hero: img/blog/pagina-fuera-servicio.avif
+jpg: img/blog/pagina-fuera-servicio.jpg
 alt: Imagen de página web fuera de servicio con error 404
 excerpt: '¿Tu página web está caída? Cada minuto cuenta. Descubre por qué sucede y cómo evitarlo definitivamente'
 date: 2025-01-07 09:00:00 -0500
