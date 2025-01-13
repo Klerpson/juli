@@ -1,47 +1,42 @@
 name: Reconstrucción Diaria Jekyll
 
-# Programa la ejecución para correr una vez al día
 on:
   schedule:
-    # Esto se ejecutará todos los días a las 00:00 UTC
     - cron: '0 0 * * *'
-  # También permite la ejecución manual desde la interfaz de GitHub
   workflow_dispatch:
+  push:
+    branches: [ main ] # 👈 Agregamos esto para que se ejecute también con cada push
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
-    steps:
-    # Paso 1: Clonar el repositorio
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    env:
+      JEKYLL_ENV: production
+      PAGES_REPO_NWO: ${{ github.repository }} # 👈 Agregamos esta variable de entorno
     
-    # Paso 2: Configurar Ruby
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Para tener todo el historial
+    
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2' # Ajusta esto a tu versión de Ruby
-        bundler-cache: true # Esto almacenará en caché las dependencias de gemas
+        ruby-version: '3.2'
+        bundler-cache: true
     
-    # Paso 3: Instalar dependencias de Jekyll
     - name: Install dependencies
-      run: |
-        bundle install
+      run: bundle install
     
-    # Paso 4: Construir el sitio
     - name: Build site
-      run: |
-        JEKYLL_ENV=production bundle exec jekyll build
+      run: bundle exec jekyll build
     
-    # Paso 5: Desplegar a GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site # El directorio donde Jekyll construye el sitio
-        publish_branch: gh-pages # La rama donde se publicará el sitio
-        # Mantener el historial de commits para rastrear cambios
+        publish_dir: ./_site
+        publish_branch: gh-pages
         keep_files: true
-        # Mensaje de commit personalizado
-        commit_message: "Reconstrucción automática del sitio - ${{ github.event.head_commit.timestamp }}"
+        commit_message: "🚀 Reconstrucción automática - ${{ github.event.head_commit.timestamp }}"

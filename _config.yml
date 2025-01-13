@@ -58,3 +58,6 @@ redirect_from:
   # Ignora las redirecciones especificadas (útil si tienes conflictos)
   # ignore:
   #   - /ignorar-esta-redireccion
+
+repository: klerpson/juli
+github: [metadata]
