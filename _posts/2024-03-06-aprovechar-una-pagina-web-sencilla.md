@@ -15,6 +15,8 @@ author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 886
 time_to_read: 5
+redirect_from:
+  - /aprovechar-una-pagina-web-sencilla
 ---
 ¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, **cómo aprovechar esa página web que parece muy sencilla**.
 

@@ -15,6 +15,8 @@ author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 764
 time_to_read: 4
+redirect_from:
+  - /paginas-web-que-dan-resultados
 ---
 En una mañana de mucha hambre hice lo que para mí era una gran carne asada. Comencé a "llenarla" de mucho sabor. Le agregué:
 

@@ -15,6 +15,8 @@ author: Julian Franco
 expertise: "Desde el 2017 tengo experiencia en desarrollo web y SEO"
 word_count: 1470
 time_to_read: 9
+redirect_from:
+  - /paginas-web-cuando-si-cuando-no
 ---
 Para esto, quiero que analicemos primero cuál es **la pregunta que te debes hacer antes de hacer una página web**.
 
