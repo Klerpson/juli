@@ -10,7 +10,7 @@ jpg: img/consultoria-seo.jpg # Mantener JPG para OG/Twitter
 alt: "Consultor SEO analizando métricas de posicionamiento web" # Alt text más descriptivo
 excerpt: 'Así es cómo un consultor SEO puede transformar tu presencia digital y multiplicar tus ventas online. Análisis gratuito de tu sitio web.' # Excerpt más atractivo
 date: 2024-09-01T10:00:00-05:00 # Formato ISO 8601
-last_modified_at: 2024-11-15T10:00:00-05:00
+last_modified_at: 2025-01-14T10:00:00-05:00
 author: Julian Franco
 expertise: "Consultor SEO Senior con +7 años de experiencia en posicionamiento web"
 word_count: 860
