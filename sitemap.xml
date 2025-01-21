@@ -7,47 +7,47 @@ sitemap: false
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   
-  {% assign all_pages = site.html_pages | concat: site.posts %}
-  {% for page in all_pages %}
-    {% unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.css' or page.url contains 'privada' or page.noindex %}
+  {%- assign all_pages = site.html_pages | concat: site.posts -%}
+  {%- for page in all_pages -%}
+    {%- unless page.url contains '.xml' or page.url contains 'assets' or page.url contains '.css' or page.url contains 'privada' or page.noindex -%}
       <url>
         <loc>{{ page.url | absolute_url | remove: "index.html" }}</loc>
         
-        {% assign modified_time = page.last_modified_at | default: page.date | default: site.time %}
+        {%- assign modified_time = page.last_modified_at | default: page.date | default: site.time -%}
         <lastmod>{{ modified_time | date_to_xmlschema }}</lastmod>
         
         <changefreq>
-          {% case page.layout %}
-            {% when 'post' %}weekly
-            {% when 'landing' %}weekly
-            {% else %}monthly
-          {% endcase %}
+          {%- case page.layout -%}
+            {%- when 'post' -%}weekly
+            {%- when 'landing' -%}weekly
+            {%- else -%}monthly
+          {%- endcase -%}
         </changefreq>
         
         <priority>
-          {% case page.url %}
-            {% when '/' %}1.0
-            {% when '/blog/' %}0.9
-            {% when '/servicios/' %}0.9
-            {% else %}
-              {% case page.layout %}
-                {% when 'post' %}0.8
-                {% when 'landing' %}0.9
-                {% else %}0.7
-              {% endcase %}
-          {% endcase %}
+          {%- case page.url -%}
+            {%- when '/' -%}1.0
+            {%- when '/blog/' -%}0.9
+            {%- when '/servicios/' -%}0.9
+            {%- else -%}
+              {%- case page.layout -%}
+                {%- when 'post' -%}0.8
+                {%- when 'landing' -%}0.9
+                {%- else -%}0.7
+              {%- endcase -%}
+          {%- endcase -%}
         </priority>
         
-        {% assign page_image = page.jpg | default: page.hero %}
-        {% if page_image %}
+        {%- assign page_image = page.jpg | default: page.hero -%}
+        {%- if page_image -%}
         <image:image>
           <image:loc>{{ page_image | absolute_url }}</image:loc>
           <image:title>{{ page.alt | default: page.title | xml_escape }}</image:title>
           <image:caption>{{ page.description | xml_escape }}</image:caption>
         </image:image>
-        {% endif %}
+        {%- endif -%}
         
-        {% if page.layout == 'post' and page.category == 'news' %}
+        {%- if page.layout == 'post' and page.category == 'news' -%}
         <news:news>
           <news:publication>
             <news:name>{{ site.title | default: 'Juli' }}</news:name>
@@ -56,8 +56,8 @@ sitemap: false
           <news:publication_date>{{ page.date | date_to_xmlschema }}</news:publication_date>
           <news:title>{{ page.title | xml_escape }}</news:title>
         </news:news>
-        {% endif %}
+        {%- endif -%}
       </url>
-    {% endunless %}
-  {% endfor %}
+    {%- endunless -%}
+  {%- endfor -%}
 </urlset>
