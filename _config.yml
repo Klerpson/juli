@@ -26,6 +26,8 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  redirects:
+      output: true
 
 markdown: kramdown
 
