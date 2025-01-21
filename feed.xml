@@ -3,7 +3,7 @@
   <generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator>
   <link href="https://juli.com.co/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://juli.com.co/" rel="alternate" type="text/html" hreflang="es"/>
-  <updated>2025-01-21T00:20:00+00:00</updated>
+  <updated>2025-01-21T13:17:31+00:00</updated>
   <id>https://juli.com.co/feed.xml</id>
   <title type="html">Páginas web y SEO que Venden o Convierten</title>
   <subtitle></subtitle>
@@ -23,6 +23,172 @@
   
 
   
+  
+    <entry>
+      <title type="html">WordPress vs WPEngine: La guerra que sacude el mundo del desarrollo web</title>
+      <link href="https://juli.com.co/blog/wordpress-vs-wpengine" rel="alternate" type="text/html" title="WordPress vs WPEngine: La guerra que sacude el mundo del desarrollo web" />
+      <published>2025-01-20T17:00:00+00:00</published>
+      <updated>2025-01-20T17:00:00+00:00</updated>
+      <id>https://juli.com.co/blog/wordpress-vs-wpengine</id>
+      
+      
+        <content type="html" xml:base="https://juli.com.co/blog/wordpress-vs-wpengine">&lt;p&gt;Siempre he dicho que WordPress no es la solución para una &lt;a href=&quot;/desarrollo-paginas-web&quot; title=&quot;Paginas web profesionales&quot;&gt;página web profesional&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Y ahora, la realidad me da la razón una vez más.&lt;/p&gt;
+
+&lt;p&gt;Según reporta Search Engine Journal, &lt;strong&gt;WordPress enfrenta demandas legales que podrían acabar con el CMS más popular del mundo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Sorprendido? Yo no 😎☕.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-guerra-entre-wordpress-y-wpengine-quién-pierde-realmente&quot;&gt;La guerra entre WordPress y WPEngine: ¿Quién pierde realmente?&lt;/h2&gt;
+
+&lt;p&gt;Imagina esto:&lt;/p&gt;
+
+&lt;p&gt;Construyes tu negocio sobre WordPress.
+Inviertes en plugins premium.
+Pagas hosting “especializado”.
+Confías en que todo funcionará bien.&lt;/p&gt;
+
+&lt;p&gt;Y de repente…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¡BAM!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La plataforma en la que basaste todo tu negocio digital está en medio de una guerra legal.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-drama-que-nadie-vio-venir-excepto-nosotros&quot;&gt;El drama que nadie vio venir (excepto nosotros)&lt;/h2&gt;
+
+&lt;p&gt;La historia es fascinante:&lt;/p&gt;
+
+&lt;p&gt;WordPress.org está acusando a WPEngine de enriquecerse usando la marca “WP” sin aportar lo suficiente a cambio.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;¿Te suena familiar?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Es la misma historia de siempre en el ecosistema WordPress:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dependencia de terceros&lt;/li&gt;
+  &lt;li&gt;Conflictos de intereses&lt;/li&gt;
+  &lt;li&gt;Guerras por el control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y mientras tanto, &lt;strong&gt;¿quién sufre las consecuencias?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Exacto. Tu negocio.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-gota-que-colmó-el-vaso&quot;&gt;La gota que colmó el vaso&lt;/h2&gt;
+
+&lt;p&gt;Como si la situación no fuera suficientemente mala, Matt Mullenweg (co-fundador de WordPress) decidió echar más leña al fuego.&lt;/p&gt;
+
+&lt;p&gt;¿Qué hizo?&lt;/p&gt;
+
+&lt;p&gt;Tomó ACF (Advanced Custom Fields), un plugin premium respetado por la comunidad, y básicamente lo “redistribuyó” gratuitamente.&lt;/p&gt;
+
+&lt;p&gt;Es como si alguien tomara tu producto estrella y lo regalara solo porque puede.&lt;/p&gt;
+
+&lt;h2 id=&quot;por-qué-esto-confirma-todo-lo-que-vengo-diciendo&quot;&gt;Por qué esto confirma todo lo que vengo diciendo&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/por-que-no-usar-wordpress&quot; title=&quot;Por qué no usar WordPress&quot;&gt;Desde hace años vengo advirtiendo sobre los peligros de WordPress&lt;/a&gt;. Y no era por capricho.&lt;/p&gt;
+
+&lt;p&gt;Mira lo que está pasando:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Inestabilidad empresarial&lt;/strong&gt;
+WordPress depende de un ecosistema frágil que puede colapsar en cualquier momento.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Conflictos de intereses&lt;/strong&gt;
+Tu página web está en medio de guerras corporativas que no te benefician.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Falta de control&lt;/strong&gt;
+No eres dueño real de tu tecnología.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;la-alternativa-que-siempre-ha-estado-ahí&quot;&gt;La alternativa que siempre ha estado ahí&lt;/h2&gt;
+
+&lt;p&gt;¿Sabes qué nunca tendrá estos problemas?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/que-es-una-pagina-web&quot; title=&quot;Páginas web profesionales&quot;&gt;Una página web hecha a código&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;💡 &lt;strong&gt;Dato revelador&lt;/strong&gt;&lt;br /&gt;
+Las páginas web estáticas no dependen de CMS, plugins ni guerras corporativas. Son tuyas y punto.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;la-verdadera-libertad-digital&quot;&gt;La verdadera libertad digital&lt;/h2&gt;
+
+&lt;p&gt;Cuando tienes una &lt;a href=&quot;/blog/paginas-web-estaticas-para-empredimientos&quot; title=&quot;Páginas web estáticas&quot;&gt;página web estática&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No dependes de WordPress&lt;/strong&gt; ni sus dramas internos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No te afectan las guerras&lt;/strong&gt; entre corporaciones&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No pierdes funcionalidad&lt;/strong&gt; cuando un plugin desaparece&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No arriesgas tu negocio&lt;/strong&gt; por decisiones de terceros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;el-momento-de-actuar-es-ahora&quot;&gt;El momento de actuar es ahora&lt;/h2&gt;
+
+&lt;p&gt;Piénsalo:&lt;/p&gt;
+
+&lt;p&gt;Si WordPress está en problemas hoy, ¿qué pasará mañana?&lt;/p&gt;
+
+&lt;p&gt;¿Realmente quieres esperar a que tu página web deje de funcionar para tomar acción?&lt;/p&gt;
+
+&lt;h2 id=&quot;la-decisión-más-importante-para-tu-negocio-digital&quot;&gt;La decisión más importante para tu negocio digital&lt;/h2&gt;
+
+&lt;p&gt;Tienes dos opciones:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Seguir con WordPress&lt;/strong&gt;
+Y rezar para que las demandas no afecten tu negocio.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Migrar a una solución profesional&lt;/strong&gt;
+Y tomar control real de tu presencia digital.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;el-siguiente-paso-es-claro&quot;&gt;El siguiente paso es claro&lt;/h2&gt;
+
+&lt;p&gt;Si estás cansado de depender de WordPress y sus dramas…&lt;/p&gt;
+
+&lt;p&gt;Si quieres una página web que realmente sea tuya…&lt;/p&gt;
+
+&lt;p&gt;Si buscas estabilidad y profesionalismo…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; id=&quot;lead_whatsapp&quot;&gt;Agenda una consultoría gratuita&lt;/a&gt; y descubre cómo podemos migrar tu sitio a una solución verdaderamente profesional.&lt;/p&gt;
+
+&lt;p&gt;¿Qué opinas sobre esta guerra entre WordPress y WPEngine? ¿Te ha afectado personalmente? Cuéntame en los comentarios 👇&lt;/p&gt;</content>
+      
+      
+      
+        <summary type="html">WordPress enfrenta demandas que podrían acabar con el CMS. ¿Es momento de migrar a una solución más profesional? Te cuento todo.</summary>
+      
+
+      
+      
+
+      
+        <category term="[&quot;Desarrollo Web&quot;]" />
+      
+
+      
+        <category term="WordPress" />
+      
+        <category term="Páginas Web" />
+      
+        <category term="Desarrollo" />
+      
+
+      
+        <author>
+          <name>Julian Franco</name>
+        </author>
+      
+
+    </entry>
   
     <entry>
       <title type="html">Storytelling en páginas web: La verdad que nadie te cuenta</title>
@@ -4013,103 +4179,6 @@ Aunque estamos hablando de SEO, el que manda es el usuario. Un H1 bien hecho deb
 
       
         <category term="Emprendimiento" />
-      
-        <category term="Páginas" />
-      
-
-      
-        <author>
-          <name>Julian Franco</name>
-        </author>
-      
-
-    </entry>
-  
-    <entry>
-      <title type="html">Tienes una web muy sencilla. ¿La estás aprovechando?</title>
-      <link href="https://juli.com.co/blog/aprovechar-una-pagina-web-sencilla" rel="alternate" type="text/html" title="Tienes una web muy sencilla. ¿La estás aprovechando?" />
-      <published>2024-03-06T15:00:00+00:00</published>
-      <updated>2024-07-15T15:00:00+00:00</updated>
-      <id>https://juli.com.co/blog/aprovechar-una-pagina-web-sencilla</id>
-      
-      
-        <content type="html" xml:base="https://juli.com.co/blog/aprovechar-una-pagina-web-sencilla">&lt;p&gt;¿Estás disfrutando la página que te entregué hace poco? O quizá no tienes la fortuna de haberla trabajado conmigo 🤔. Pero no importa, también te contaré, como a mi cliente, &lt;strong&gt;cómo aprovechar esa página web que parece muy sencilla&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-clave-de-una-página-web-sencilla-y-rentable&quot;&gt;La clave de una página web sencilla y rentable&lt;/h2&gt;
-
-&lt;p&gt;Antes de cualquier idea, primero tengo que decirte: &lt;em&gt;si tu página no la hicieron con una buena estrategia, de verdad, de verdad y en serio, &lt;strong&gt;no te va a servir para nada&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Personalmente, investigo muy bien cómo maquetar esas páginas para que generen resultados. En mi gremio a estos resultados le llamamos &lt;em&gt;“Conversiones”&lt;/em&gt;. Y es una triste realidad, la mayoría de páginas están tan mal hechas que el único que convierte es el que te cobró la página. Lo siento, pero es así.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;/blog/paginas-web-que-dan-resultados&quot;&gt;Haz clic aquí para que sepas cómo debe ser una página web bien hecha&lt;/a&gt;. Así, cuando me encargues tu página, verás porqué es superior&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;y-qué-vas-a-hacer-con-una-web-sencilla-para-generar-dinero&quot;&gt;Y qué vas a hacer con una web sencilla para generar dinero&lt;/h2&gt;
-
-&lt;p&gt;Primero aclaremos esto: llamo &lt;em&gt;“página web sencilla”&lt;/em&gt; a la página web más económica del mercado. Es esa página web que &lt;strong&gt;en una sola página tiene todo&lt;/strong&gt;. No tiene más de 1 URL. No tiene un menú para navegar entre páginas. Por esto es One Page.&lt;/p&gt;
-
-&lt;p&gt;Ahora sí.&lt;/p&gt;
-
-&lt;h3 id=&quot;no-utilices-estas-páginas-como-tarjeta-de-presentación&quot;&gt;No utilices estas páginas como tarjeta de presentación&lt;/h3&gt;
-
-&lt;p&gt;Un día comencé una empresa de publicidad. Y recuerdo que mandé a hacer muchas tarjetas de presentación. &lt;strong&gt;No sirvieron para nada&lt;/strong&gt;. Que triste. Así es. Ni siquiera yo guardé las que me sobraron.&lt;/p&gt;
-
-&lt;p&gt;Supongo que te ha sucedido. Es más, también imagino que has pedido tarjetas de presentación. Yo solamente utilizo la del gas, y eso porque aún no guardo ese contacto.&lt;/p&gt;
-
-&lt;p&gt;Entonces, una página web &lt;em&gt;bien hecha&lt;/em&gt; pero utilizada de esa manera no sirve para nada.&lt;/p&gt;
-
-&lt;h3 id=&quot;al-grano-cómo-sacarle-jugo-a-una-web-sencilla&quot;&gt;Al grano: cómo sacarle jugo a una web sencilla&lt;/h3&gt;
-
-&lt;p&gt;Te cuento lo que yo he hecho. ¿Me ha funcionado? Sí. ¿Necesitas un ejemplo? Esta web. ¿Necesitas más? Haz esto con la tuya. Luego me dices y te pongo aquí de ejemplo.&lt;/p&gt;
-
-&lt;h4 id=&quot;utilizar-una-páginas-web-sencilla-con-facebook&quot;&gt;Utilizar una páginas web sencilla con Facebook&lt;/h4&gt;
-
-&lt;p&gt;Utilizaré esta página que me encantó hacer: &lt;a href=&quot;https://fullentretenimiento.co&quot; title=&quot;Página web Full Entretenimiento&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;fullentretenimiento.co&lt;/a&gt; (Saludos Orlando).&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Aprende a crear un grupo de Facebook&lt;/strong&gt;: A mí no me gusta depender de las redes sociales para tener un negocio. Pero es verdad que son una buena palanca. Ve a YouTube y busca así: &lt;em&gt;“Cómo crear un grupo de Facebook”&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Comienza a crear contenido&lt;/strong&gt;: En este caso, de películas. No tiene que ser videos, aunque es mejor. Pueden ser fotos y texto. O al menos audios. Pero haz contenido. Si puedes hacerlo a diario verás resultados más rápido.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inspírate en otros para hacerlo más fácil&lt;/strong&gt;: Entra a YouTube o TikTok. No importa. Busca el nombre de una película que estén promocionando en los canales que vendes. Luego copia lo mismo. Pero ojo: &lt;em&gt;es usar la misma información pero dando tu toque especial&lt;/em&gt;. Tu forma de presentar. Tu forma de decir las cosas.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;La clave&lt;/strong&gt;: Al terminar el análisis, cortíto o largo, tienes que dicer “Y te la puedes ver completa con las pantallas en oferta de &lt;strong&gt;&lt;em&gt;mi página web fullentretenimiento.co&lt;/em&gt;&lt;/strong&gt;. ¡BUUUUUMMM! Aquí está. Tu página web.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Y finalmente &lt;strong&gt;les pones el enlace de tu página web en el comienzo del texto&lt;/strong&gt; que acompaña a ese video, imagen, audio, etc.&lt;/p&gt;
-
-&lt;p&gt;¿Por qué funciona normalmente este método? Porque les estás regalando. En este caso regalando &lt;strong&gt;información de lo que van conseguir al comprar tu producto&lt;/strong&gt;, y no solamente ofreciendo productos y más productos. Eso aumenta el público que visita tu página. Y lo mejor, ya van con la intención de comprar la pantalla para verse la película.&lt;/p&gt;
-
-&lt;p&gt;Obviamente, si vendes ropa, zapatos, mazamorra, chontaduro, etc, y tienes una pequeña web para hacerlo, adapta la idea a tu producto.&lt;/p&gt;
-
-&lt;h3 id=&quot;otros-métodos-para-aprovechar-una-página-web-sencilla&quot;&gt;Otros métodos para aprovechar una página web sencilla&lt;/h3&gt;
-
-&lt;p&gt;Como te dije, no soy fan de las redes sociales. Luego te explico por qué. Pero por ahora te digo que hay otra maneras. La anterior es fácil. Por eso te la comparto. Pero hay otras más que exigen un poco más de tu parte.&lt;/p&gt;
-
-&lt;p&gt;Algunos ejemplos son con &lt;strong&gt;WhatsApp Marketing, Blogs, Email Marketing, Podcasts, entre otros.&lt;/strong&gt; Yo estoy aplicando un par de estas. Quizá me animo y más adelanto explico cómo las hago.&lt;/p&gt;
-
-&lt;h2 id=&quot;ojo-cuando-tu-página-web-convierta-atiende&quot;&gt;Ojo: cuando tu página web convierta ¡Atiende!&lt;/h2&gt;
-
-&lt;p&gt;El peor error de mis clientes es recibir solicitudes a su WhatsApp, y atender cuando les da la g….. … … cuando quieran. 😈&lt;/p&gt;
-
-&lt;p&gt;NOOOOO. La gente en WhatsApp normalmente terminan la compra si los atiendes en menos de 30 segundos. Así que no podía terminar sin mencionarlo.&lt;/p&gt;
-
-&lt;h2 id=&quot;si-te-funciona-tu-página-web-sencilla-vuelve-a-buscarme&quot;&gt;Si te funciona tu página web sencilla, vuelve a buscarme&lt;/h2&gt;
-
-&lt;p&gt;El siguiente paso será crecer tu página web. Como un negocio que funciona. Le inviertes más. Lo haces crecer. Así que me podrás buscar nuevamente y analizaremos de qué manera llevarte tu negocio digital a otro nivel.&lt;/p&gt;
-
-&lt;p&gt;Mientras tanto, primero aplica lo que leíste aquí, luego &lt;a href=&quot;/&quot;&gt;vuelve a mi página principal&lt;/a&gt; y sigue aprendiedo 😎&lt;/p&gt;</content>
-      
-      
-      
-        <summary type="html">Todas las páginas web bien utilizadas son rentables. Yo te digo qué hacer con ella.</summary>
-      
-
-      
-      
-
-      
-        <category term="Emprendimiento" />
-      
-
       
         <category term="Páginas" />
       
