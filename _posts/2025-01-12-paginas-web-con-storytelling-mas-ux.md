@@ -16,9 +16,9 @@ expertise: "10+ años convirtiendo historias en ventas"
 word_count: 2800
 time_to_read: 4
 referencias:
-  - "Nielsen Norman Group - The Psychology of Web Design: https://www.nngroup.com/articles/"
-  - "Harvard Business Review - The Science of Storytelling: https://hbr.org/2020/"
-  - "Stanford Research on Digital Persuasion: https://captology.stanford.edu/"
+  - Nielsen Norman Group - The Psychology of Web Design: https://www.nngroup.com/articles/
+  - Harvard Business Review - The Science of Storytelling: https://hbr.org/2020/
+  - Stanford Research on Digital Persuasion: https://captology.stanford.edu/
 ---
 
 "¿Storytelling? Yo vendo servicios profesionales, no cuentos de hadas..."

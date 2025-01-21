@@ -16,8 +16,6 @@ author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 1011
 time_to_read: 6
-redirect_from:
-  - /negocios-sin-pagina-web
 ---
 En el pueblo en el que vivo acostumbro llevar mi moto siempre al mismo lavadero. Me gusta mucho su trabajo. Son ordenados. Tienen incluso quién cobre y reciba a los clientes.
 

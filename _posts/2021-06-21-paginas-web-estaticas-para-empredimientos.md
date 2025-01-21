@@ -17,8 +17,6 @@ author: Julian Franco
 expertise: "Desde el 2017 hago páginas web y SEO"
 word_count: 1221
 time_to_read: 9
-redirect_from:
-  - /paginas-web-estaticas-para-empredimientos
 ---
 ### ¿Qué es una Página Web Estática? Definamos
 

@@ -16,9 +16,9 @@ expertise: "10+ años desarrollando páginas web que generan resultados"
 word_count: 3200
 time_to_read: 22
 referencias:
-  - "ConversionXL Research: https://cxl.com/research/"
-  - "Nielsen Norman Group - B2B Web Usability: https://www.nngroup.com/articles/b2b-usability/"
-  - "Baymard Institute - Service Pages Research: https://baymard.com/research/service-page-usability"
+  - ConversionXL Research: https://cxl.com/research/
+  - Nielsen Norman Group - B2B Web Usability: https://www.nngroup.com/articles/b2b-usability/
+  - Baymard Institute - Service Pages Research: https://baymard.com/research/service-page-usability
 ---
 
 "*Las páginas web de servicios profesionales son las más difíciles de hacer*"

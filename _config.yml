@@ -44,20 +44,5 @@ compress_html:
 talkyard_server_url: https://site-ibxuu6bz0b.talkyard.net
 talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
-
-# Configuración opcional para personalizar el comportamiento del plugin
-redirect_from:
-  # Habilita la generación de redirecciones alternativas (no es necesario en la mayoría de los casos)
-  enabled: true
-
-  # Ignora las redirecciones especificadas (útil si tienes conflictos)
-  # ignore:
-  #   - /ignorar-esta-redireccion
-
 repository: klerpson/juli
 github: [metadata]
