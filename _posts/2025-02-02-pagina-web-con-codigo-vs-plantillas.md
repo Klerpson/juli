@@ -5,8 +5,8 @@ description: "¿Por qué una página web profesional hecha con código optimizad
 category: [Desarrollo Web]
 tags: [Páginas Web, Código Optimizado, SEO]
 h1: "Código optimizado vs plantillas web: La verdad que nadie te cuenta"
-hero: img/codigo-vs-plantillas.avif
-jpg: img/codigo-vs-plantillas.jpg
+hero: img/blog/codigo-vs-plantillas.avif
+jpg: img/blog/codigo-vs-plantillas.jpg
 alt: Comparación entre código optimizado y plantillas web
 excerpt: 'Descubre por qué una página web con código optimizado es como un vino artesanal: más valor, mejores resultados y una inversión que se disfruta a largo plazo'
 date: 2025-02-01 05:00:00 -0500
