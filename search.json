@@ -1,6 +1,12 @@
 [
   
    {
+  "title": "Página web con código vs plantillas: La diferencia entre vino de caja y vino artesanal",
+  "url": "/blog/pagina-web-con-codigo-vs-plantillas",
+  "category": "Desarrollo Web",
+  "tags": "Páginas Web, Código Optimizado, SEO"
+  } ,  
+   {
   "title": "WordPress vs WPEngine: La guerra que sacude el mundo del desarrollo web",
   "url": "/blog/wordpress-vs-wpengine",
   "category": "Desarrollo Web",
@@ -17,12 +23,6 @@
   "url": "/blog/pagina-fuera-de-servicio",
   "category": "Mantenimiento",
   "tags": "Desarrollo Web, WordPress"
-  } ,  
-   {
-  "title": "Página web con código vs plantillas: La diferencia entre vino de caja y vino artesanal",
-  "url": "/blog/pagina-web-con-codigo-vs-plantillas",
-  "category": "Desarrollo Web",
-  "tags": "Páginas Web, Código Optimizado, SEO"
   } ,  
    {
   "title": "Servicio de administración de páginas web mensual: guía para empresas",
