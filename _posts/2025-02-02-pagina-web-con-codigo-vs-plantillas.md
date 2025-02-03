@@ -9,8 +9,8 @@ hero: img/codigo-vs-plantillas.svg
 jpg: img/codigo-vs-plantillas.jpg
 alt: Comparación entre código optimizado y plantillas web
 excerpt: 'Descubre por qué una página web con código optimizado es como un vino artesanal: más valor, mejores resultados y una inversión que se disfruta a largo plazo'
-date: 2025-01-05 10:00:00 -0500
-last_modified_at: 2025-01-05 10:00:00 -0500
+date: 2025-02-01 05:00:00 -0500
+last_modified_at: 2025-02-01 05:00:00 -0500
 author: Julian Franco
 expertise: "Experto en desarrollo web estático y SEO desde 2017"
 word_count: 1845
