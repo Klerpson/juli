@@ -163,6 +163,6 @@ Tienes dos opciones:
 
 ¿O prefieres ofrecerles una experiencia premium que refleje la calidad de tu negocio?
 
-[Agenda una consultoría gratuita](#) y descubre cómo podemos transformar tu presencia digital en algo verdaderamente extraordinario.
+[Agenda una consultoría gratuita]({{'contacto' | relative_url}}) y descubre cómo podemos transformar tu presencia digital en algo verdaderamente extraordinario.
 
 ¿Has tenido experiencias con páginas web hechas con plantillas? Cuéntame tu historia en los comentarios 👇
