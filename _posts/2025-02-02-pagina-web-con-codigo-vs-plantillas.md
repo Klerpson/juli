@@ -1,4 +1,3 @@
-
 ---
 layout: articulo
 title: "Página web con código vs plantillas: La diferencia entre vino de caja y vino artesanal"
