@@ -58,7 +58,7 @@ La Dra. Tatiana Leal tenía una página web "premium" hecha con plantillas.
 
 ## El día que todo cambió
 
-Decidió dar el salto a una página web profesional hecha con código optimizado.
+Decidió dar el salto a una [página web profesional hecha con código optimizado]({{'desarrollo-paginas-web'|relative_url}} "Hago tu página web").
 
 ¿El resultado?
 
@@ -127,7 +127,7 @@ No esa "optimización" que prometen los plugins de WordPress.
 Hablo de:
 - Código limpio que Google ama
 - Velocidad de carga brutal
-- SEO técnico impecable
+- [SEO técnico impecable]({{'servicio-seo'|relative_url}} "Hago el SEO de tu web")
 
 **Personalización total**
 ¿Quieres un botón que baile la macarena? Lo hacemos.
