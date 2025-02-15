@@ -5,7 +5,7 @@ description: "Descubre cómo la administración profesional de tu página web pu
 category: [Servicios Web]
 tags: [Administración Web, Marketing Digital, ROI]
 h1: "Tu página web puede ser una mina de oro (si sabes administrarla)"
-hero: img/administracion-web-pro.svg
+hero: img/administracion-web-pro.avif
 jpg: img/administracion-web-pro.jpg
 alt: Gestión profesional de páginas web
 excerpt: 'La diferencia entre tener una página web y tener una máquina de generar leads está en su administración. Descubre el poder de la gestión web profesional.'
