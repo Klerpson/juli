@@ -9,12 +9,12 @@ hero: img/administracion-web-pro.avif
 jpg: img/administracion-web-pro.jpg
 alt: Gestión profesional de páginas web
 excerpt: 'La diferencia entre tener una página web y tener una máquina de generar leads está en su administración. Descubre el poder de la gestión web profesional.'
-date: 2025-01-07 10:00:00 -0500
-last_modified_at: 2025-01-07 10:00:00 -0500
+date: 2025-02-11 10:00:00 -0500
+last_modified_at: 2025-02-11 10:00:00 -0500
 author: Julian Franco
 expertise: "Experto en desarrollo web estático y SEO desde 2017"
 word_count: 1950
-time_to_read: 13
+time_to_read: 5
 ---
 "*Es que una página web es muy cara*".
 
