@@ -1,6 +1,12 @@
 [
   
    {
+  "title": "Página web con código vs plantillas: La diferencia entre vino de caja y vino artesanal",
+  "url": "/blog/pagina-web-con-codigo-vs-plantillas",
+  "category": "Desarrollo Web",
+  "tags": "Páginas Web, Código Optimizado, SEO"
+  } ,  
+   {
   "title": "WordPress vs WPEngine: La guerra que sacude el mundo del desarrollo web",
   "url": "/blog/wordpress-vs-wpengine",
   "category": "Desarrollo Web",
@@ -11,6 +17,12 @@
   "url": "/blog/paginas-web-con-storytelling-mas-ux",
   "category": "Web",
   "tags": "UX, Storytelling, Conversión"
+  } ,  
+   {
+  "title": "Administración profesional de páginas web: La inversión que multiplica tu empresa",
+  "url": "/blog/administracion-profesional-paginas-web",
+  "category": "Servicios Web",
+  "tags": "Administración Web, Marketing Digital, ROI"
   } ,  
    {
   "title": "Página web fuera de servicio: Lo que nadie te dice sobre el tiempo perdido",

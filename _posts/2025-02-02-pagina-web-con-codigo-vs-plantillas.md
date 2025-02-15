@@ -116,13 +116,13 @@ Hagamos la cuenta a 2 años:
 
 ## El verdadero valor del código optimizado
 
-Cuando haces una página web con código optimizado, estás obteniendo:
+Cuando haces una **página web con código optimizado**, estás obteniendo:
 
 >🚀 **Caso real**  
 >Una de mis clientes, después de migrar a código optimizado, mejoró tanto su SEO que ahora aparece en la primera página de Google para sus términos clave. ¿Su inversión? Se pagó sola en 3 meses con nuevos pacientes.
 
 **Optimización real**
-No esa "optimización" que prometen los plugins de WordPress.
+No esa "optimización" que [prometen los plugins de WordPress]({% post_url 2024-11-02-plugin-wordpress-con-virus %}).
 
 Hablo de:
 - Código limpio que Google ama
