@@ -104,13 +104,13 @@ Cada cliente me ha autorizado el uso de su experiencia y algunos datos.
 
 ### También soy el consultor SEO que rescató un consultorio de medicina estética
 
-> "Encargué mi página web a una supuesta agencia, que a la final me la arrebató. Entonces, pedí a otra agencia que me hiciera mi web. Con ellos pasé de 6000 visitas a 0. Literal. Hoy, con Julian ya vamos en casi 1000 visitas nuevamente en 3 meses. Y mi página web es hermosa y rápida." - Dra. Tatiana Leal, [dratatianaleal.com](https://dratatianaleal.com){:target="_blank"}
+> "Encargué mi página web a una supuesta agencia, que a la final me la arrebató. Entonces, pedí a otra agencia que me hiciera mi web. Con ellos pasé de 6000 visitas a 0. Literal. Hoy, con Julian ya vamos en casi 1000 visitas nuevamente en 3 meses. Y mi página web es hermosa y rápida." - Dra. Tatiana Leal, [dratatianaleal.com](https://dratatianaleal.com/es/){:target="_blank"}
 
 Esta página ha sido una gran desafío. Su estrategia está enfocada para posicionar la marca en otro país, Ecuador. Y está funcionando muy bien.
 
 ### Posicioné la nueva página web en Colombia para una inmobiliaria en Fusagasugá
 
-> "Julián nos asesoró con el diseño estratégico de la página web, el desarrollo de la página con código, y ahora trabajamos con el SEO." - Alejandro Hurtado, [Leben Inmobiliaria](https://lebeninmobiliaria.com){:rel="nofollow noopener noreferrer" target="_blank"}
+> "Julián nos asesoró con el diseño estratégico de la página web, el desarrollo de la página con código, y ahora trabajamos con el SEO." - Angelo Torres, [Quality Standard Ohio](https://qualitystandardohio.com){:target="_blank"}
 
 Comenzamos esta página desde cero. Y su competencia son grandes marcas como Finca Raíz. Aún así, ya reciben casi 1500 visitas al mes con un 40% de conversiones de esas visitas a leads.
 
